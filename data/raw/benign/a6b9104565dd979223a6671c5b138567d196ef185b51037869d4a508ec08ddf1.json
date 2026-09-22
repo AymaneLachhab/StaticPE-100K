@@ -1,0 +1,5097 @@
+{
+  "sha256": "a6b9104565dd979223a6671c5b138567d196ef185b51037869d4a508ec08ddf1",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 1321079,
+    "md5": "578da63deb4ed3d72638d8a43fe4b529",
+    "sha1": "a03cfd0c201c2701fd5d935a1abac9baaf0fd24a",
+    "imphash": "159460e6d1538369152f697533c3c37b",
+    "tlsh": "T1E055E88319DF0E66DCD637B8A1C7131AA338ED71CF6BDB77A60840365E532C8691AB41",
+    "ssdeep": "24576:RztO3owIZm/b0TzPgnp0B3YGbUluQ5L3h37hFiP:Reowtb0TzPg2B3YbhFiP",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.399049,
+    "byte_histogram_256": [
+      0.17585776,
+      0.01726922,
+      0.01141188,
+      0.01276532,
+      0.00477337,
+      0.00316257,
+      0.00469843,
+      0.0042541,
+      0.00428059,
+      0.00256381,
+      0.00264708,
+      0.00282042,
+      0.00323069,
+      0.00231553,
+      0.00179475,
+      0.0021104,
+      0.00306113,
+      0.00204984,
+      0.0015722,
+      0.00166758,
+      0.00236473,
+      0.00158658,
+      0.00141475,
+      0.00178036,
+      0.00222697,
+      0.00157144,
+      0.00137236,
+      0.00141248,
+      0.00205892,
+      0.00130575,
+      0.00142459,
+      0.00201578,
+      0.00621083,
+      0.00163276,
+      0.00132619,
+      0.00130575,
+      0.00567339,
+      0.00140794,
+      0.00132846,
+      0.00131938,
+      0.00161762,
+      0.00136252,
+      0.00117253,
+      0.00125503,
+      0.00147909,
+      0.00116269,
+      0.00641143,
+      0.00142005,
+      0.00542587,
+      0.02288281,
+      0.0055326,
+      0.00383247,
+      0.00324962,
+      0.0029158,
+      0.00290293,
+      0.0044774,
+      0.00374694,
+      0.00382263,
+      0.00102492,
+      0.00134511,
+      0.00156463,
+      0.00113392,
+      0.001034,
+      0.00173267,
+      0.00259788,
+      0.00236549,
+      0.00212251,
+      0.00298165,
+      0.00316711,
+      0.02220458,
+      0.00164638,
+      0.00198247,
+      0.00153738,
+      0.01413693,
+      0.00115814,
+      0.00498608,
+      0.00363264,
+      0.00195144,
+      0.00885413,
+      0.00195976,
+      0.00497321,
+      0.00127926,
+      0.00425258,
+      0.01948634,
+      0.00349941,
+      0.00154798,
+      0.00165698,
+      0.00129137,
+      0.00160778,
+      0.0010552,
+      0.00832426,
+      0.00108623,
+      0.001333,
+      0.00120886,
+      0.00104233,
+      0.04484667,
+      0.00221259,
+      0.02621191,
+      0.00820314,
+      0.0207323,
+      0.0062941,
+      0.02228406,
+      0.00547583,
+      0.00616012,
+      0.00677552,
+      0.01809657,
+      0.00261907,
+      0.00218306,
+      0.00711085,
+      0.0080192,
+      0.0109842,
+      0.01088807,
+      0.00819633,
+      0.00112408,
+      0.0187521,
+      0.01753112,
+      0.04402235,
+      0.00763315,
+      0.00432071,
+      0.00805327,
+      0.00934691,
+      0.00344491,
+      0.0008599,
+      0.00104839,
+      0.0012028,
+      0.00104157,
+      0.00096285,
+      0.00173873,
+      0.00259409,
+      0.00181064,
+      0.00140794,
+      0.00183638,
+      0.00172511,
+      0.00163805,
+      0.00123838,
+      0.00120735,
+      0.00144125,
+      0.00221259,
+      0.00093106,
+      0.00179626,
+      0.00125201,
+      0.00160021,
+      0.00092424,
+      0.0008758,
+      0.00227011,
+      0.00100751,
+      0.00091213,
+      0.00086217,
+      0.00097875,
+      0.00094544,
+      0.00075242,
+      0.00090456,
+      0.00115285,
+      0.00085915,
+      0.00087353,
+      0.0008054,
+      0.00110743,
+      0.00087277,
+      0.00087277,
+      0.00159567,
+      0.00202259,
+      0.00116723,
+      0.00092349,
+      0.00098253,
+      0.00099161,
+      0.00094544,
+      0.00077664,
+      0.00090002,
+      0.0012028,
+      0.00093106,
+      0.00077134,
+      0.00086369,
+      0.0012134,
+      0.00099691,
+      0.00078951,
+      0.00089548,
+      0.00192646,
+      0.00093408,
+      0.00064417,
+      0.0007615,
+      0.00105444,
+      0.00092273,
+      0.0009689,
+      0.00106201,
+      0.00135495,
+      0.00087126,
+      0.0009689,
+      0.00107866,
+      0.00116269,
+      0.00102113,
+      0.00099843,
+      0.00164714,
+      0.00255246,
+      0.00154949,
+      0.00142308,
+      0.00139961,
+      0.00120659,
+      0.00097647,
+      0.00107261,
+      0.00117026,
+      0.00135874,
+      0.00103627,
+      0.00069186,
+      0.00075998,
+      0.00084855,
+      0.0007403,
+      0.00068505,
+      0.00077058,
+      0.00184773,
+      0.00095982,
+      0.00092954,
+      0.00083947,
+      0.00095225,
+      0.00080162,
+      0.00090986,
+      0.00091592,
+      0.00134587,
+      0.00084703,
+      0.00088715,
+      0.00109986,
+      0.00093636,
+      0.00098177,
+      0.00092424,
+      0.00162821,
+      0.00224286,
+      0.00117026,
+      0.0008864,
+      0.00082962,
+      0.00131029,
+      0.00067293,
+      0.0005382,
+      0.00072441,
+      0.00108699,
+      0.00083492,
+      0.00071987,
+      0.0014632,
+      0.00113468,
+      0.00091592,
+      0.00080237,
+      0.00094468,
+      0.00212326,
+      0.00089018,
+      0.00080162,
+      0.00065325,
+      0.00088034,
+      0.00071608,
+      0.0009409,
+      0.00099994,
+      0.00123233,
+      0.00070019,
+      0.00076074,
+      0.00090608,
+      0.0009409,
+      0.00092349,
+      0.00094468,
+      0.00238744
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00751779,
+      0.00015645,
+      0.00013561,
+      5.265e-05,
+      5.152e-05,
+      6.667e-05,
+      8.296e-05,
+      5.152e-05,
+      6.667e-05,
+      4.962e-05,
+      5.114e-05,
+      7.046e-05,
+      5.152e-05,
+      4.546e-05,
+      4.697e-05,
+      3.674e-05,
+      0.08376239,
+      0.00121673,
+      0.00247701,
+      0.0009152,
+      0.00077617,
+      0.00100535,
+      0.00156826,
+      0.00131484,
+      0.00073943,
+      0.00083981,
+      0.00097088,
+      0.00075496,
+      0.00076405,
+      0.00071216,
+      0.00065533,
+      0.00082921,
+      0.08264226,
+      0.00143151,
+      0.00298196,
+      0.00105384,
+      0.00104134,
+      0.00121407,
+      0.00162356,
+      0.00121445,
+      0.0008883,
+      0.00098641,
+      0.00090118,
+      0.00099815,
+      0.0009777,
+      0.00096709,
+      0.00087315,
+      0.00105838,
+      0.02452657,
+      0.00049851,
+      0.00107429,
+      0.00051518,
+      0.0004307,
+      0.00065003,
+      0.00127733,
+      0.00077125,
+      0.00037956,
+      0.00033297,
+      0.00040002,
+      0.00035153,
+      0.00033449,
+      0.00032956,
+      0.00031555,
+      0.00039585,
+      0.00423771,
+      2.879e-05,
+      0.00058412,
+      0.00023562,
+      5.531e-05,
+      0.0006023,
+      0.00307022,
+      0.00178872,
+      2.349e-05,
+      4.015e-05,
+      1.894e-05,
+      5.606e-05,
+      2.349e-05,
+      3.371e-05,
+      4.356e-05,
+      1.894e-05,
+      0.00497145,
+      4.432e-05,
+      0.00090535,
+      0.00354222,
+      0.00420323,
+      0.00503926,
+      0.01534165,
+      0.00755832,
+      6.402e-05,
+      2.197e-05,
+      6.629e-05,
+      2.5e-05,
+      2.121e-05,
+      1.932e-05,
+      2.69e-05,
+      4.243e-05,
+      0.01046717,
+      0.00012804,
+      0.00705868,
+      0.04035953,
+      0.04921261,
+      0.06993824,
+      0.12254231,
+      0.09643612,
+      1.818e-05,
+      2.121e-05,
+      2.273e-05,
+      2.273e-05,
+      2.235e-05,
+      1.932e-05,
+      1.78e-05,
+      0.00014433,
+      0.00048336,
+      5.68e-06,
+      0.00024736,
+      0.00054662,
+      0.00096255,
+      0.00122354,
+      0.00156447,
+      0.00114399,
+      5.3e-06,
+      3.41e-06,
+      6.82e-06,
+      1.52e-06,
+      1.52e-06,
+      3.79e-06,
+      2.65e-06,
+      3.79e-06,
+      0.00040608,
+      4.243e-05,
+      5.076e-05,
+      1.78e-05,
+      2.046e-05,
+      2.841e-05,
+      2.917e-05,
+      3.068e-05,
+      1.629e-05,
+      1.439e-05,
+      1.174e-05,
+      1.591e-05,
+      2.955e-05,
+      2.311e-05,
+      1.288e-05,
+      2.614e-05,
+      0.00100914,
+      0.00036555,
+      9.546e-05,
+      0.00011516,
+      0.0001394,
+      0.00014811,
+      0.00031214,
+      0.00023372,
+      0.00013107,
+      9.281e-05,
+      6.515e-05,
+      0.00010304,
+      9.584e-05,
+      6.137e-05,
+      5.644e-05,
+      7.879e-05,
+      0.00026819,
+      9.47e-05,
+      1.78e-05,
+      2.652e-05,
+      2.538e-05,
+      3.296e-05,
+      7.766e-05,
+      4.318e-05,
+      1.667e-05,
+      1.743e-05,
+      2.273e-05,
+      6.705e-05,
+      3.371e-05,
+      9.85e-06,
+      9.85e-06,
+      1.212e-05,
+      0.0007292,
+      0.00033032,
+      0.00021516,
+      0.00018107,
+      0.00016099,
+      0.00016554,
+      0.0001519,
+      0.00015228,
+      0.0001716,
+      8.409e-05,
+      9.016e-05,
+      0.00011932,
+      0.00012046,
+      0.00012425,
+      0.00011932,
+      0.00018751,
+      0.03497632,
+      0.02454475,
+      0.02025439,
+      0.01906229,
+      0.02020439,
+      0.01835695,
+      0.01656444,
+      0.01853007,
+      0.02196925,
+      0.01427721,
+      0.01375408,
+      0.01479352,
+      0.01576895,
+      0.01446131,
+      0.01409614,
+      0.01396393
+    ]
+  },
+  "sections": [
+    {
+      "name": "UPX0",
+      "virtual_size": 929792,
+      "raw_size": 0,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 512,
+      "entropy": 0.0,
+      "characteristics": 3758096512,
+      "readable": 1,
+      "writable": 1,
+      "executable": 1
+    },
+    {
+      "name": "UPX1",
+      "virtual_size": 397312,
+      "raw_size": 394752,
+      "virtual_address": 933888,
+      "pointerto_raw_data": 512,
+      "entropy": 7.900346,
+      "characteristics": 3758096448,
+      "readable": 1,
+      "writable": 1,
+      "executable": 1
+    },
+    {
+      "name": "UPX2",
+      "virtual_size": 32768,
+      "raw_size": 30208,
+      "virtual_address": 1331200,
+      "pointerto_raw_data": 395264,
+      "entropy": 5.708076,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 128,
+    "e_lfanew_raw": 128,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000080000000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 3,
+    "time_date_stamp": 1661529131,
+    "pointerto_symbol_table": 1262080,
+    "numberof_symbols": 19197,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8454,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LINE_NUMS_STRIPPED",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "KERNEL32.DLL",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 1331280,
+      "import_lookup_table_rva": 0,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryA",
+          "hint": 0,
+          "iat_address": 1331280,
+          "iat_value": 1331366,
+          "data": 1331366
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 0,
+          "iat_address": 1331284,
+          "iat_value": 1331350,
+          "data": 1331350
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualProtect",
+          "hint": 0,
+          "iat_address": 1331288,
+          "iat_value": 1331380,
+          "data": 1331380
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "libspark.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 1331296,
+      "import_lookup_table_rva": 0,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_ZN3LogD1Ev",
+          "hint": 0,
+          "iat_address": 1331296,
+          "iat_value": 1331396,
+          "data": 1331396
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "msvcrt.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 1331304,
+      "import_lookup_table_rva": 0,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_iob",
+          "hint": 0,
+          "iat_address": 1331304,
+          "iat_value": 1331410,
+          "data": 1331410
+        }
+      ],
+      "function_count": 1
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "libpepflashplayer.dll",
+    "export_flags": 0,
+    "timestamp": 1661529131,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 453,
+    "entries": [
+      {
+        "name": "PPP_GetInterface",
+        "ordinal": 1,
+        "address": 51088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "PPP_InitializeModule",
+        "ordinal": 2,
+        "address": 47248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "PPP_ShutdownModule",
+        "ordinal": 3,
+        "address": 50656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_Z14audio_callbackPvjdS_",
+        "ordinal": 4,
+        "address": 28768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_Z15getppSDLKeyCodei",
+        "ordinal": 5,
+        "address": 44912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_Z22executescript_callbackPvi",
+        "ordinal": 6,
+        "address": 47200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_Z32exec_ppPluginEngineData_callbackPvi",
+        "ordinal": 7,
+        "address": 12112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark11StreamCache7reserveEj",
+        "ordinal": 8,
+        "address": 183216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12RefCountable6decRefEv",
+        "ordinal": 9,
+        "address": 183232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12RefCountable8destructEv",
+        "ordinal": 10,
+        "address": 183376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12RefCountableD0Ev",
+        "ordinal": 11,
+        "address": 183392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12RefCountableD1Ev",
+        "ordinal": 12,
+        "address": 183408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloader13startDownloadEv",
+        "ordinal": 13,
+        "address": 36432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloader15dlStartCallbackEPvi",
+        "ordinal": 14,
+        "address": 21248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloader22dlReadResponseCallbackEPvi",
+        "ordinal": 15,
+        "address": 40560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloader23dlStartDownloadCallbackEPvi",
+        "ordinal": 16,
+        "address": 22672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloaderC1ERKNS_11tiny_stringENS_3RefINS_11StreamCacheEEEPNS_16ppPluginInstanceEPNS_9ILoadableE",
+        "ordinal": 17,
+        "address": 39024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloaderC1ERKNS_11tiny_stringENS_3RefINS_11StreamCacheEEERKSt6vectorIhSaIhEERKNSt7__cxx114listIS1_SaIS1_EEEPNS_16ppPluginInstanceEPNS_9ILoadableE",
+        "ordinal": 18,
+        "address": 39376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloaderC1ERKNS_11tiny_stringEPNS_9ILoadableEPNS_16ppPluginInstanceE",
+        "ordinal": 19,
+        "address": 39744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloaderC2ERKNS_11tiny_stringENS_3RefINS_11StreamCacheEEEPNS_16ppPluginInstanceEPNS_9ILoadableE",
+        "ordinal": 20,
+        "address": 39024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloaderC2ERKNS_11tiny_stringENS_3RefINS_11StreamCacheEEERKSt6vectorIhSaIhEERKNSt7__cxx114listIS1_SaIS1_EEEPNS_16ppPluginInstanceEPNS_9ILoadableE",
+        "ordinal": 21,
+        "address": 39376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloaderC2ERKNS_11tiny_stringEPNS_9ILoadableEPNS_16ppPluginInstanceE",
+        "ordinal": 22,
+        "address": 39744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloaderD0Ev",
+        "ordinal": 23,
+        "address": 183424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark12ppDownloaderD1Ev",
+        "ordinal": 24,
+        "address": 183456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark13ExtIdentifierD0Ev",
+        "ordinal": 25,
+        "address": 183472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark14ppObjectObject11getppObjectERSt3mapIPKNS_9ExtObjectE6PP_VarSt4lessIS4_ESaISt4pairIKS4_S5_EEEiS4_",
+        "ordinal": 26,
+        "address": 62176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark14ppObjectObjectC1ERSt3mapIxSt10unique_ptrINS_9ExtObjectESt14default_deleteIS3_EESt4lessIxESaISt4pairIKxS6_EEER6PP_Var",
+        "ordinal": 27,
+        "address": 57376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark14ppObjectObjectC2ERSt3mapIxSt10unique_ptrINS_9ExtObjectESt14default_deleteIS3_EESt4lessIxESaISt4pairIKxS6_EEER6PP_Var",
+        "ordinal": 28,
+        "address": 57376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark14ppObjectObjectD0Ev",
+        "ordinal": 29,
+        "address": 183520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark14ppObjectObjectD1Ev",
+        "ordinal": 30,
+        "address": 183568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark15ppVariantObject21ExtVariantToppVariantERSt3mapIPKNS_9ExtObjectE6PP_VarSt4lessIS4_ESaISt4pairIKS4_S5_EEEiRKNS_10ExtVariantERS5_",
+        "ordinal": 31,
+        "address": 64656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark15ppVariantObject8getTypeSERK6PP_Var",
+        "ordinal": 32,
+        "address": 34256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark15ppVariantObjectC1ERSt3mapIxSt10unique_ptrINS_9ExtObjectESt14default_deleteIS3_EESt4lessIxESaISt4pairIKxS6_EEER6PP_Var",
+        "ordinal": 33,
+        "address": 59632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark15ppVariantObjectC2ERSt3mapIxSt10unique_ptrINS_9ExtObjectESt14default_deleteIS3_EESt4lessIxESaISt4pairIKxS6_EEER6PP_Var",
+        "ordinal": 34,
+        "address": 59632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16RunTimeExceptionD0Ev",
+        "ordinal": 35,
+        "address": 183600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16RunTimeExceptionD1Ev",
+        "ordinal": 36,
+        "address": 183664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance10waitiodoneEPNS_17ppFileStreamCacheE",
+        "ordinal": 37,
+        "address": 36240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance12handleResizeEi",
+        "ordinal": 38,
+        "address": 42960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance12signaliodoneEv",
+        "ordinal": 39,
+        "address": 36336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance13executeScriptENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEPPKNS_10ExtVariantEjPPNS_8ASObjectE",
+        "ordinal": 40,
+        "address": 65344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance14waitioreaddoneEPNS_17ppFileStreamCache23ppFileStreamCacheReaderE",
+        "ordinal": 41,
+        "address": 36288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance15startMainParserEv",
+        "ordinal": 42,
+        "address": 40208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance16handleInputEventEi",
+        "ordinal": 43,
+        "address": 45504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance18createCacheFileRefEv",
+        "ordinal": 44,
+        "address": 41648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance18executeScriptAsyncEPNS_15ExtScriptObject14HOST_CALL_DATAE",
+        "ordinal": 45,
+        "address": 47216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance18handleExternalCallERNS_13ExtIdentifierEjP6PP_VarS4_",
+        "ordinal": 46,
+        "address": 34336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance23openfilesystem_callbackEPvi",
+        "ordinal": 47,
+        "address": 18000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance6workerEPv",
+        "ordinal": 48,
+        "address": 25328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstance8postworkE21PP_CompletionCallback",
+        "ordinal": 49,
+        "address": 36352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstanceC1EisPPKcS3_",
+        "ordinal": 50,
+        "address": 54256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstanceC2EisPPKcS3_",
+        "ordinal": 51,
+        "address": 54256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstanceD0Ev",
+        "ordinal": 52,
+        "address": 25808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstanceD1Ev",
+        "ordinal": 53,
+        "address": 25424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark16ppPluginInstanceD2Ev",
+        "ordinal": 54,
+        "address": 25424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppDownloadManager16downloadWithDataERKNS_7URLInfoENS_3RefINS_11StreamCacheEEERKSt6vectorIhSaIhEERKNSt7__cxx114listINS_11tiny_stringESaISE_EEEPNS_9ILoadableE",
+        "ordinal": 55,
+        "address": 71584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppDownloadManager7destroyEPNS_10DownloaderE",
+        "ordinal": 56,
+        "address": 72416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppDownloadManager8downloadERKNS_7URLInfoENS_3RefINS_11StreamCacheEEEPNS_9ILoadableE",
+        "ordinal": 57,
+        "address": 70448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppDownloadManagerC1EPNS_16ppPluginInstanceE",
+        "ordinal": 58,
+        "address": 34288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppDownloadManagerC2EPNS_16ppPluginInstanceE",
+        "ordinal": 59,
+        "address": 34288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppDownloadManagerD0Ev",
+        "ordinal": 60,
+        "address": 183712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppDownloadManagerD1Ev",
+        "ordinal": 61,
+        "address": 183744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppExtScriptObject18handleExternalCallERNS_13ExtIdentifierEjP6PP_VarS4_",
+        "ordinal": 62,
+        "address": 73856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppExtScriptObject19callExternalHandlerEPKcPPKNS_10ExtVariantEjPPNS_8ASObjectE",
+        "ordinal": 63,
+        "address": 72944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppExtScriptObject22sendExternalCallSignalEv",
+        "ordinal": 64,
+        "address": 72752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppExtScriptObject6invokeERKNS_13ExtIdentifierEjPPKNS_10ExtVariantEP6PP_Var",
+        "ordinal": 65,
+        "address": 73728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppExtScriptObject9callAsyncEPNS_15ExtScriptObject14HOST_CALL_DATAE",
+        "ordinal": 66,
+        "address": 72736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppExtScriptObjectC1EPNS_16ppPluginInstanceEPNS_11SystemStateE",
+        "ordinal": 67,
+        "address": 73632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppExtScriptObjectC2EPNS_16ppPluginInstanceEPNS_11SystemStateE",
+        "ordinal": 68,
+        "address": 73632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppExtScriptObjectD0Ev",
+        "ordinal": 69,
+        "address": 183760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppExtScriptObjectD1Ev",
+        "ordinal": 70,
+        "address": 183792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache12createReaderEv",
+        "ordinal": 71,
+        "address": 33792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache12handleAppendEPKhj",
+        "ordinal": 72,
+        "address": 53312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache12waitForCacheEv",
+        "ordinal": 73,
+        "address": 33584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache14checkCacheFileEv",
+        "ordinal": 74,
+        "address": 36480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache14openForWritingEv",
+        "ordinal": 75,
+        "address": 37376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache14openioCallbackEPvi",
+        "ordinal": 76,
+        "address": 42240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache14waitioCallbackEPvi",
+        "ordinal": 77,
+        "address": 24240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache15writeioCallbackEPvi",
+        "ordinal": 78,
+        "address": 5216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache19writeioCallbackDoneEPvi",
+        "ordinal": 79,
+        "address": 24992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache23ppFileStreamCacheReader14readioCallbackEPvi",
+        "ordinal": 80,
+        "address": 20384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache23ppFileStreamCacheReader18readioCallbackDoneEPvi",
+        "ordinal": 81,
+        "address": 24272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache23ppFileStreamCacheReader6xsgetnEPci",
+        "ordinal": 82,
+        "address": 37712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache23ppFileStreamCacheReader7seekoffExSt12_Ios_SeekdirSt13_Ios_Openmode",
+        "ordinal": 83,
+        "address": 5296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache23ppFileStreamCacheReader7seekposESt4fposIiESt13_Ios_Openmode",
+        "ordinal": 84,
+        "address": 5408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache23ppFileStreamCacheReader9underflowEv",
+        "ordinal": 85,
+        "address": 29152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache23ppFileStreamCacheReaderC1ENS_3RefIS0_EE",
+        "ordinal": 86,
+        "address": 33648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache23ppFileStreamCacheReaderC2ENS_3RefIS0_EE",
+        "ordinal": 87,
+        "address": 33648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache23ppFileStreamCacheReaderD0Ev",
+        "ordinal": 88,
+        "address": 183808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache23ppFileStreamCacheReaderD1Ev",
+        "ordinal": 89,
+        "address": 183984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache5writeEPKhj",
+        "ordinal": 90,
+        "address": 53120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCache9openCacheEv",
+        "ordinal": 91,
+        "address": 37024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCacheC1EPNS_16ppPluginInstanceEPNS_11SystemStateE",
+        "ordinal": 92,
+        "address": 33472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCacheC2EPNS_16ppPluginInstanceEPNS_11SystemStateE",
+        "ordinal": 93,
+        "address": 33472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCacheD0Ev",
+        "ordinal": 94,
+        "address": 12320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCacheD1Ev",
+        "ordinal": 95,
+        "address": 12144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark17ppFileStreamCacheD2Ev",
+        "ordinal": 96,
+        "address": 12144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData10InitOpenGLEv",
+        "ordinal": 97,
+        "address": 12080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData12DeinitOpenGLEv",
+        "ordinal": 98,
+        "address": 12080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData12createWidgetEjj",
+        "ordinal": 99,
+        "address": 6192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData12exec_glClearENS_9CLEARMASKE",
+        "ordinal": 100,
+        "address": 10928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData12exec_glFlushEv",
+        "ordinal": 101,
+        "address": 7728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData12getScreenDPIEv",
+        "ordinal": 102,
+        "address": 13552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData13DoSwapBuffersEv",
+        "ordinal": 103,
+        "address": 24096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData13getScreenDataEP15SDL_DisplayMode",
+        "ordinal": 104,
+        "address": 13328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData14exec_glScissorEiiii",
+        "ordinal": 105,
+        "address": 11696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData15exec_glCullFaceENS_13TRIANGLE_FACEE",
+        "ordinal": 106,
+        "address": 9264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData15exec_glViewportEiiii",
+        "ordinal": 107,
+        "address": 9904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData15getGLDriverInfoEv",
+        "ordinal": 108,
+        "address": 27072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData15openContextMenuEv",
+        "ordinal": 109,
+        "address": 26656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData15runInMainThreadEPNS_11SystemStateEPFvS2_E",
+        "ordinal": 110,
+        "address": 19168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData15setDisplayStateERKNS_11tiny_stringEPNS_11SystemStateE",
+        "ordinal": 111,
+        "address": 27008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16audio_StreamInitEPNS_11AudioStreamE",
+        "ordinal": 112,
+        "address": 17216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16exec_glBlendFuncENS_12BLEND_FACTORES1_",
+        "ordinal": 113,
+        "address": 19536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16exec_glColorMaskEbbbb",
+        "ordinal": 114,
+        "address": 11856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16exec_glDepthFuncENS_14DEPTH_FUNCTIONE",
+        "ordinal": 115,
+        "address": 7360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16exec_glDepthMaskEb",
+        "ordinal": 116,
+        "address": 11008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16exec_glFrontFaceEb",
+        "ordinal": 117,
+        "address": 8560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16exec_glUniform1fEif",
+        "ordinal": 118,
+        "address": 6432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16exec_glUniform1iEii",
+        "ordinal": 119,
+        "address": 9744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16exec_glUniform2fEiff",
+        "ordinal": 120,
+        "address": 6480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16exec_glUniform4fEiffff",
+        "ordinal": 121,
+        "address": 6544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16fillSharedObjectERKNS_11tiny_stringEPNS_9ByteArrayE",
+        "ordinal": 122,
+        "address": 31840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16inFullScreenModeEv",
+        "ordinal": 123,
+        "address": 6208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16setClipboardTextENSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE",
+        "ordinal": 124,
+        "address": 6240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData16stopMainDownloadEv",
+        "ordinal": 125,
+        "address": 12880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17audio_ManagerInitEv",
+        "ordinal": 126,
+        "address": 11968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17audio_StreamPauseEib",
+        "ordinal": 127,
+        "address": 28720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17exec_glClearColorEffff",
+        "ordinal": 128,
+        "address": 10720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17exec_glGenBuffersEjPj",
+        "ordinal": 129,
+        "address": 9552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17exec_glReadPixelsEiiPv",
+        "ordinal": 130,
+        "address": 11264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17exec_glUniform4fvEijPf",
+        "ordinal": 131,
+        "address": 9792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17exec_glUseProgramEj",
+        "ordinal": 132,
+        "address": 9600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17flushSharedObjectERKNS_11tiny_stringEPNS_9ByteArrayE",
+        "ordinal": 133,
+        "address": 30400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17getWindowForGnashEv",
+        "ordinal": 134,
+        "address": 5552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17openPageInBrowserERKNS_11tiny_stringES3_",
+        "ordinal": 135,
+        "address": 5952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17renderContextMenuEv",
+        "ordinal": 136,
+        "address": 184160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17setupFontRendererERKNS_8TextDataEfNS_11SMOOTH_MODEE",
+        "ordinal": 137,
+        "address": 27568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData17updateContextMenuEi",
+        "ordinal": 138,
+        "address": 184176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData18audio_StreamDeinitEi",
+        "ordinal": 139,
+        "address": 11936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData18exec_glClearDepthfEf",
+        "ordinal": 140,
+        "address": 10832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData18exec_glGenTexturesEiPj",
+        "ordinal": 141,
+        "address": 9856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData18exec_glLinkProgramEj",
+        "ordinal": 142,
+        "address": 8400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData18getFontPixelBufferEiii",
+        "ordinal": 143,
+        "address": 27472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData18removeSharedObjectERKNS_11tiny_stringE",
+        "ordinal": 144,
+        "address": 13104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData19audio_ManagerDeinitEv",
+        "ordinal": 145,
+        "address": 12080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData19audio_getSampleRateEv",
+        "ordinal": 146,
+        "address": 12096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData19exec_glAttachShaderEjj",
+        "ordinal": 147,
+        "address": 8304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData19exec_glClearStencilEj",
+        "ordinal": 148,
+        "address": 10784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData19exec_glDeleteShaderEj",
+        "ordinal": 149,
+        "address": 8352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData19exec_glShaderSourceEjiPPKcPi",
+        "ordinal": 150,
+        "address": 7856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData20exec_glCompileShaderEj",
+        "ordinal": 151,
+        "address": 7920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData20exec_glCreateProgramEv",
+        "ordinal": 152,
+        "address": 8160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData20exec_glDeleteBuffersEjPj",
+        "ordinal": 153,
+        "address": 9216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData20exec_glDeleteProgramEj",
+        "ordinal": 154,
+        "address": 9648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData21audio_StreamSetVolumeEid",
+        "ordinal": 155,
+        "address": 17552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData21createFileStreamCacheEPNS_11SystemStateE",
+        "ordinal": 156,
+        "address": 19296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData21exec_glDeleteTexturesEiPj",
+        "ordinal": 157,
+        "address": 9168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData21exec_glGenFramebufferEv",
+        "ordinal": 158,
+        "address": 8624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData22audio_ManagerOpenMixerEv",
+        "ordinal": 159,
+        "address": 12064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData22audio_StreamSetPanningEitt",
+        "ordinal": 160,
+        "address": 17776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData22exec_glEnable_GL_BLENDEv",
+        "ordinal": 161,
+        "address": 7264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData22exec_glGenRenderbufferEv",
+        "ordinal": 162,
+        "address": 8688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData23audio_ManagerCloseMixerEv",
+        "ordinal": 163,
+        "address": 12080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData23contextmenucallbackfuncEPvi",
+        "ordinal": 164,
+        "address": 26528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData23exec_glBindRenderbufferEj",
+        "ordinal": 165,
+        "address": 8832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData23exec_glGetShaderInfoLogEjiPiPc",
+        "ordinal": 166,
+        "address": 7968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData23exec_glSetTexParametersEijjjj",
+        "ordinal": 167,
+        "address": 14368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData23exec_glUniformMatrix4fvEiibPKf",
+        "ordinal": 168,
+        "address": 7088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData24exec_glGetAttribLocationEjPKc",
+        "ordinal": 169,
+        "address": 8256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData24exec_glGetProgramInfoLogEjiPiPc",
+        "ordinal": 170,
+        "address": 8032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData24swapbuffer_done_callbackEPvi",
+        "ordinal": 171,
+        "address": 23680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData25exec_glBindAttribLocationEjjPKc",
+        "ordinal": 172,
+        "address": 8192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData25exec_glDrawBuffer_GL_BACKEv",
+        "ordinal": 173,
+        "address": 12080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData25exec_glGetUniformLocationEjPKc",
+        "ordinal": 174,
+        "address": 9696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData25swapbuffer_start_callbackEPvi",
+        "ordinal": 175,
+        "address": 23712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData26exec_glDrawArrays_GL_LINESEii",
+        "ordinal": 176,
+        "address": 6976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData26exec_glVertexAttribPointerEjiPKvNS_19VERTEXBUFFER_FORMATE",
+        "ordinal": 177,
+        "address": 13776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData26updateContextMenuFromMouseEji",
+        "ordinal": 178,
+        "address": 184192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData27exec_glEnable_GL_DEPTH_TESTEv",
+        "ordinal": 179,
+        "address": 7312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData27exec_glEnable_GL_TEXTURE_2DEv",
+        "ordinal": 180,
+        "address": 12080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData28exec_glDisable_GL_DEPTH_TESTEv",
+        "ordinal": 181,
+        "address": 7536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData28exec_glDisable_GL_TEXTURE_2DEv",
+        "ordinal": 182,
+        "address": 7680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData28getLocalStorageAllowedMarkerEv",
+        "ordinal": 183,
+        "address": 5792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData28setLocalStorageAllowedMarkerEb",
+        "ordinal": 184,
+        "address": 5568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData29exec_glEnable_GL_STENCIL_TESTEv",
+        "ordinal": 185,
+        "address": 7584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData29getGlCompressedTextureFormatsEv",
+        "ordinal": 186,
+        "address": 53408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData30exec_glDisable_GL_SCISSOR_TESTEv",
+        "ordinal": 187,
+        "address": 11808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData30exec_glDisable_GL_STENCIL_TESTEv",
+        "ordinal": 188,
+        "address": 7632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData30exec_glDrawArrays_GL_TRIANGLESEii",
+        "ordinal": 189,
+        "address": 6720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData30exec_glEnableVertexAttribArrayEj",
+        "ordinal": 190,
+        "address": 6672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData31exec_glDisableVertexAttribArrayEj",
+        "ordinal": 191,
+        "address": 7040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData31exec_glDrawArrays_GL_LINE_STRIPEii",
+        "ordinal": 192,
+        "address": 6848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData31exec_glTexImage2D_GL_TEXTURE_2DEiiiiPvNS_13TEXTUREFORMATENS_24TEXTUREFORMAT_COMPRESSEDEj",
+        "ordinal": 193,
+        "address": 16064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData32exec_glActiveTexture_GL_TEXTURE0Ej",
+        "ordinal": 194,
+        "address": 9504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData32exec_glBindTexture_GL_TEXTURE_2DEj",
+        "ordinal": 195,
+        "address": 6624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData32exec_glClear_GL_COLOR_BUFFER_BITEv",
+        "ordinal": 196,
+        "address": 10880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData33exec_glBindBuffer_GL_ARRAY_BUFFEREj",
+        "ordinal": 197,
+        "address": 7216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData34exec_glGetProgramiv_GL_LINK_STATUSEjPi",
+        "ordinal": 198,
+        "address": 8448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData34exec_glTexSubImage2D_GL_TEXTURE_2DEiiiiiPKv",
+        "ordinal": 199,
+        "address": 11056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData35exec_glDrawArrays_GL_TRIANGLE_STRIPEii",
+        "ordinal": 200,
+        "address": 6912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData35exec_glGenerateMipmap_GL_TEXTURE_2DEv",
+        "ordinal": 201,
+        "address": 11216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData36exec_glCreateShader_GL_VERTEX_SHADEREv",
+        "ordinal": 202,
+        "address": 7808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData36exec_glGetShaderiv_GL_COMPILE_STATUSEjPi",
+        "ordinal": 203,
+        "address": 8096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData37exec_glBindFramebuffer_GL_FRAMEBUFFEREj",
+        "ordinal": 204,
+        "address": 8512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData38exec_glBindTexture_GL_TEXTURE_CUBE_MAPEj",
+        "ordinal": 205,
+        "address": 11408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData38exec_glCreateShader_GL_FRAGMENT_SHADEREv",
+        "ordinal": 206,
+        "address": 7760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData38exec_glGetIntegerv_GL_MAX_TEXTURE_SIZEEPi",
+        "ordinal": 207,
+        "address": 11168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData39exec_glBindRenderbuffer_GL_RENDERBUFFEREj",
+        "ordinal": 208,
+        "address": 8832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData41exec_glBindBuffer_GL_ELEMENT_ARRAY_BUFFEREj",
+        "ordinal": 209,
+        "address": 7168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData42exec_glFramebufferTexture2D_GL_FRAMEBUFFEREj",
+        "ordinal": 210,
+        "address": 8752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData48exec_glBufferData_GL_ARRAY_BUFFER_GL_STATIC_DRAWEiPKv",
+        "ordinal": 211,
+        "address": 10096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData48exec_glTexImage2D_GL_TEXTURE_2D_GL_UNSIGNED_BYTEEiiiiPKvb",
+        "ordinal": 212,
+        "address": 10480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData49exec_glBufferData_GL_ARRAY_BUFFER_GL_DYNAMIC_DRAWEiPKv",
+        "ordinal": 213,
+        "address": 10160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData50exec_glDrawElements_GL_TRIANGLES_GL_UNSIGNED_SHORTEiPKv",
+        "ordinal": 214,
+        "address": 6784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData56exec_glBufferData_GL_ELEMENT_ARRAY_BUFFER_GL_STATIC_DRAWEiPKv",
+        "ordinal": 215,
+        "address": 9968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData57exec_glBufferData_GL_ELEMENT_ARRAY_BUFFER_GL_DYNAMIC_DRAWEiPKv",
+        "ordinal": 216,
+        "address": 10032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData59exec_glRenderbufferStorage_GL_RENDERBUFFER_GL_DEPTH_STENCILEjj",
+        "ordinal": 217,
+        "address": 9136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData60exec_glRenderbufferStorage_GL_RENDERBUFFER_GL_STENCIL_INDEX8Ejj",
+        "ordinal": 218,
+        "address": 8944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData60exec_glTexImage2D_GL_TEXTURE_2D_GL_UNSIGNED_INT_8_8_8_8_HOSTEiiiiPKv",
+        "ordinal": 219,
+        "address": 10608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData63exec_glRenderbufferStorage_GL_RENDERBUFFER_GL_DEPTH_COMPONENT16Ejj",
+        "ordinal": 220,
+        "address": 8880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData65exec_glFramebufferRenderbuffer_GL_FRAMEBUFFER_GL_DEPTH_ATTACHMENTEj",
+        "ordinal": 221,
+        "address": 9008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData65exec_glTexImage2D_GL_TEXTURE_CUBE_MAP_POSITIVE_X_GL_UNSIGNED_BYTEEjiiiiPKv",
+        "ordinal": 222,
+        "address": 11584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData66exec_glTexParameteri_GL_TEXTURE_2D_GL_TEXTURE_MAG_FILTER_GL_LINEAREv",
+        "ordinal": 223,
+        "address": 10288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData66exec_glTexParameteri_GL_TEXTURE_2D_GL_TEXTURE_MIN_FILTER_GL_LINEAREv",
+        "ordinal": 224,
+        "address": 10224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData67exec_glFramebufferRenderbuffer_GL_FRAMEBUFFER_GL_STENCIL_ATTACHMENTEj",
+        "ordinal": 225,
+        "address": 9072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData67exec_glTexParameteri_GL_TEXTURE_2D_GL_TEXTURE_MAG_FILTER_GL_NEARESTEv",
+        "ordinal": 226,
+        "address": 10416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData67exec_glTexParameteri_GL_TEXTURE_2D_GL_TEXTURE_MIN_FILTER_GL_NEARESTEv",
+        "ordinal": 227,
+        "address": 10352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData72exec_glTexParameteri_GL_TEXTURE_CUBE_MAP_GL_TEXTURE_MAG_FILTER_GL_LINEAREv",
+        "ordinal": 228,
+        "address": 11520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData72exec_glTexParameteri_GL_TEXTURE_CUBE_MAP_GL_TEXTURE_MIN_FILTER_GL_LINEAREv",
+        "ordinal": 229,
+        "address": 11456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData73exec_glFramebufferRenderbuffer_GL_FRAMEBUFFER_GL_DEPTH_STENCIL_ATTACHMENTEj",
+        "ordinal": 230,
+        "address": 9152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineData9grabFocusEv",
+        "ordinal": 231,
+        "address": 12080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineDataD0Ev",
+        "ordinal": 232,
+        "address": 184208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark18ppPluginEngineDataD1Ev",
+        "ordinal": 233,
+        "address": 184240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark19LightsparkExceptionD0Ev",
+        "ordinal": 234,
+        "address": 184256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark19LightsparkExceptionD1Ev",
+        "ordinal": 235,
+        "address": 184320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark9ExtObjectD0Ev",
+        "ordinal": 236,
+        "address": 184368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZN10lightspark9ExtObjectD1Ev",
+        "ordinal": 237,
+        "address": 184416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNK10lightspark13ExtIdentifier6getIntEv",
+        "ordinal": 238,
+        "address": 197104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNK10lightspark13ExtIdentifier7getTypeEv",
+        "ordinal": 239,
+        "address": 197120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNK10lightspark13ExtIdentifier9getStringB5cxx11Ev",
+        "ordinal": 240,
+        "address": 197136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNK10lightspark16RunTimeException4whatEv",
+        "ordinal": 241,
+        "address": 197200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNK10lightspark17ppExtScriptObject12setExceptionERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE",
+        "ordinal": 242,
+        "address": 73200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNK10lightspark17ppExtScriptObject27createEnumerationIdentifierERKNS_13ExtIdentifierE",
+        "ordinal": 243,
+        "address": 72576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNK10lightspark18ppPluginEngineData10getGLErrorERj",
+        "ordinal": 244,
+        "address": 6384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNK10lightspark18ppPluginEngineData9isSizableEv",
+        "ordinal": 245,
+        "address": 197232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNKSt5ctypeIcE8do_widenEc",
+        "ordinal": 246,
+        "address": 228704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNKSt8_Rb_treeIN10lightspark13ExtIdentifierESt4pairIKS1_NS0_10ExtVariantEESt10_Select1stIS5_ESt4lessIS1_ESaIS5_EE4findERS3_",
+        "ordinal": 247,
+        "address": 413456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNKSt8_Rb_treeIN10lightspark13ExtIdentifierESt4pairIKS1_PNS0_11ExtCallbackEESt10_Select1stIS6_ESt4lessIS1_ESaIS6_EE4findERS3_",
+        "ordinal": 248,
+        "address": 413584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt6vectorIN10lightspark24TEXTUREFORMAT_COMPRESSEDESaIS1_EE19_M_emplace_back_auxIJS1_EEEvDpOT_",
+        "ordinal": 249,
+        "address": 695024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt6vectorIhSaIhEE15_M_range_insertIPKhEEvN9__gnu_cxx17__normal_iteratorIPhS1_EET_S9_St20forward_iterator_tag",
+        "ordinal": 250,
+        "address": 695248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIN10lightspark13ExtIdentifierESt4pairIKS1_NS0_10ExtVariantEESt10_Select1stIS5_ESt4lessIS1_ESaIS5_EE22_M_emplace_hint_uniqueIJRKSt21piecewise_construct_tSt5tupleIJRS3_EESG_IJEEEEESt17_Rb_tree_iteratorIS5_ESt23_Rb_tree_const_iteratorIS5_EDpOT_",
+        "ordinal": 251,
+        "address": 750016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIN10lightspark13ExtIdentifierESt4pairIKS1_NS0_10ExtVariantEESt10_Select1stIS5_ESt4lessIS1_ESaIS5_EE24_M_get_insert_unique_posERS3_",
+        "ordinal": 252,
+        "address": 750640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIN10lightspark13ExtIdentifierESt4pairIKS1_NS0_10ExtVariantEESt10_Select1stIS5_ESt4lessIS1_ESaIS5_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS5_ERS3_",
+        "ordinal": 253,
+        "address": 750784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIN10lightspark13ExtIdentifierESt4pairIKS1_NS0_10ExtVariantEESt10_Select1stIS5_ESt4lessIS1_ESaIS5_EE8_M_eraseEPSt13_Rb_tree_nodeIS5_E",
+        "ordinal": 254,
+        "address": 751072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIPKN10lightspark9ExtObjectESt4pairIKS3_6PP_VarESt10_Select1stIS7_ESt4lessIS3_ESaIS7_EE24_M_get_insert_unique_posERS5_",
+        "ordinal": 255,
+        "address": 751184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIPKN10lightspark9ExtObjectESt4pairIKS3_6PP_VarESt10_Select1stIS7_ESt4lessIS3_ESaIS7_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS7_ERS5_",
+        "ordinal": 256,
+        "address": 751296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIPKN10lightspark9ExtObjectESt4pairIKS3_6PP_VarESt10_Select1stIS7_ESt4lessIS3_ESaIS7_EE8_M_eraseEPSt13_Rb_tree_nodeIS7_E",
+        "ordinal": 257,
+        "address": 751504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIPKN10lightspark9ExtObjectESt4pairIKS3_PNS0_8ASObjectEESt10_Select1stIS8_ESt4lessIS3_ESaIS8_EE8_M_eraseEPSt13_Rb_tree_nodeIS8_E",
+        "ordinal": 258,
+        "address": 751568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIiSt4pairIKiPN10lightspark16ppPluginInstanceEESt10_Select1stIS5_ESt4lessIiESaIS5_EE22_M_emplace_hint_uniqueIJRKSt21piecewise_construct_tSt5tupleIJRS1_EESG_IJEEEEESt17_Rb_tree_iteratorIS5_ESt23_Rb_tree_const_iteratorIS5_EDpOT_",
+        "ordinal": 259,
+        "address": 751632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIiSt4pairIKiPN10lightspark16ppPluginInstanceEESt10_Select1stIS5_ESt4lessIiESaIS5_EE24_M_get_insert_unique_posERS1_",
+        "ordinal": 260,
+        "address": 751808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIiSt4pairIKiPN10lightspark16ppPluginInstanceEESt10_Select1stIS5_ESt4lessIiESaIS5_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS5_ERS1_",
+        "ordinal": 261,
+        "address": 751920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIiSt4pairIKiPN10lightspark16ppPluginInstanceEESt10_Select1stIS5_ESt4lessIiESaIS5_EE5eraseERS1_",
+        "ordinal": 262,
+        "address": 752128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIiSt4pairIKiPN10lightspark16ppPluginInstanceEESt10_Select1stIS5_ESt4lessIiESaIS5_EE8_M_eraseEPSt13_Rb_tree_nodeIS5_E",
+        "ordinal": 263,
+        "address": 752480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIxSt4pairIKxSt10unique_ptrIN10lightspark9ExtObjectESt14default_deleteIS4_EEESt10_Select1stIS8_ESt4lessIxESaIS8_EE22_M_emplace_hint_uniqueIJRKSt21piecewise_construct_tSt5tupleIJRS1_EESJ_IJEEEEESt17_Rb_tree_iteratorIS8_ESt23_Rb_tree_const_iteratorIS8_EDpOT_",
+        "ordinal": 264,
+        "address": 752544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIxSt4pairIKxSt10unique_ptrIN10lightspark9ExtObjectESt14default_deleteIS4_EEESt10_Select1stIS8_ESt4lessIxESaIS8_EE24_M_get_insert_unique_posERS1_",
+        "ordinal": 265,
+        "address": 752752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIxSt4pairIKxSt10unique_ptrIN10lightspark9ExtObjectESt14default_deleteIS4_EEESt10_Select1stIS8_ESt4lessIxESaIS8_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS8_ERS1_",
+        "ordinal": 266,
+        "address": 752928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZNSt8_Rb_treeIxSt4pairIKxSt10unique_ptrIN10lightspark9ExtObjectESt14default_deleteIS4_EEESt10_Select1stIS8_ESt4lessIxESaIS8_EE8_M_eraseEPSt13_Rb_tree_nodeIS8_E",
+        "ordinal": 267,
+        "address": 753264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark10DownloaderE",
+        "ordinal": 268,
+        "address": 859144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark10EngineDataE",
+        "ordinal": 269,
+        "address": 859152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark11StreamCacheE",
+        "ordinal": 270,
+        "address": 859160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark12RefCountableE",
+        "ordinal": 271,
+        "address": 859172,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark12ppDownloaderE",
+        "ordinal": 272,
+        "address": 859180,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark14ppObjectObjectE",
+        "ordinal": 273,
+        "address": 859192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark15DownloadManagerE",
+        "ordinal": 274,
+        "address": 859204,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark15ExtScriptObjectE",
+        "ordinal": 275,
+        "address": 859212,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark16RunTimeExceptionE",
+        "ordinal": 276,
+        "address": 859220,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark16ppPluginInstanceE",
+        "ordinal": 277,
+        "address": 859232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark17ppDownloadManagerE",
+        "ordinal": 278,
+        "address": 859240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark17ppExtScriptObjectE",
+        "ordinal": 279,
+        "address": 859252,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark17ppFileStreamCache23ppFileStreamCacheReaderE",
+        "ordinal": 280,
+        "address": 859264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark17ppFileStreamCacheE",
+        "ordinal": 281,
+        "address": 859276,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark18ppPluginEngineDataE",
+        "ordinal": 282,
+        "address": 859288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark19LightsparkExceptionE",
+        "ordinal": 283,
+        "address": 859300,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark25StandaloneDownloadManagerE",
+        "ordinal": 284,
+        "address": 859312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTIN10lightspark9ExtObjectE",
+        "ordinal": 285,
+        "address": 859324,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTISt9exception",
+        "ordinal": 286,
+        "address": 862684,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark10DownloaderE",
+        "ordinal": 287,
+        "address": 863072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark10EngineDataE",
+        "ordinal": 288,
+        "address": 863100,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark11StreamCacheE",
+        "ordinal": 289,
+        "address": 863128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark12RefCountableE",
+        "ordinal": 290,
+        "address": 863156,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark12ppDownloaderE",
+        "ordinal": 291,
+        "address": 863188,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark14ppObjectObjectE",
+        "ordinal": 292,
+        "address": 863220,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark15DownloadManagerE",
+        "ordinal": 293,
+        "address": 863264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark15ExtScriptObjectE",
+        "ordinal": 294,
+        "address": 863296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark16RunTimeExceptionE",
+        "ordinal": 295,
+        "address": 863328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark16ppPluginInstanceE",
+        "ordinal": 296,
+        "address": 863392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark17ppDownloadManagerE",
+        "ordinal": 297,
+        "address": 863456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark17ppExtScriptObjectE",
+        "ordinal": 298,
+        "address": 863520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark17ppFileStreamCache23ppFileStreamCacheReaderE",
+        "ordinal": 299,
+        "address": 863584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark17ppFileStreamCacheE",
+        "ordinal": 300,
+        "address": 863648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark18ppPluginEngineDataE",
+        "ordinal": 301,
+        "address": 863712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark19LightsparkExceptionE",
+        "ordinal": 302,
+        "address": 863776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark25StandaloneDownloadManagerE",
+        "ordinal": 303,
+        "address": 863840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSN10lightspark9ExtObjectE",
+        "ordinal": 304,
+        "address": 863904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTSSt9exception",
+        "ordinal": 305,
+        "address": 872480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark11StreamCacheE",
+        "ordinal": 306,
+        "address": 873204,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark12ppDownloaderE",
+        "ordinal": 307,
+        "address": 873240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark14ppObjectObjectE",
+        "ordinal": 308,
+        "address": 873256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark16RunTimeExceptionE",
+        "ordinal": 309,
+        "address": 873272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark16ppPluginInstanceE",
+        "ordinal": 310,
+        "address": 873292,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark17ppDownloadManagerE",
+        "ordinal": 311,
+        "address": 873308,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark17ppExtScriptObjectE",
+        "ordinal": 312,
+        "address": 873336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark17ppFileStreamCache23ppFileStreamCacheReaderE",
+        "ordinal": 313,
+        "address": 873372,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark17ppFileStreamCacheE",
+        "ordinal": 314,
+        "address": 873436,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark18ppPluginEngineDataE",
+        "ordinal": 315,
+        "address": 873472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark19LightsparkExceptionE",
+        "ordinal": 316,
+        "address": 874068,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_ZTVN10lightspark9ExtObjectE",
+        "ordinal": 317,
+        "address": 874088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "__pth_gpointer_locked",
+        "ordinal": 318,
+        "address": 124240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "__pthread_clock_nanosleep",
+        "ordinal": 319,
+        "address": 115936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "__pthread_shallcancel",
+        "ordinal": 320,
+        "address": 127696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "__xl_f",
+        "ordinal": 321,
+        "address": 938016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_nm___ZN10lightspark10EngineData12sdl_needinitE",
+        "ordinal": 322,
+        "address": 928376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_nm___ZN10lightspark10EngineData18mainthread_runningE",
+        "ordinal": 323,
+        "address": 928712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_nm___ZN3Log9log_levelE",
+        "ordinal": 324,
+        "address": 932732,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_nm___ZTVN10lightspark13ExtIdentifierE",
+        "ordinal": 325,
+        "address": 933436,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_cleanup_dest",
+        "ordinal": 326,
+        "address": 127216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_get_state",
+        "ordinal": 327,
+        "address": 129104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_invoke_cancel",
+        "ordinal": 328,
+        "address": 127824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_key_dest",
+        "ordinal": 329,
+        "address": 889204,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_rel_time_in_ms",
+        "ordinal": 330,
+        "address": 119696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_set_state",
+        "ordinal": 331,
+        "address": 129120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_setnobreak",
+        "ordinal": 332,
+        "address": 127776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_time_in_ms",
+        "ordinal": 333,
+        "address": 119504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_time_in_ms_from_timespec",
+        "ordinal": 334,
+        "address": 119616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_tryjoin",
+        "ordinal": 335,
+        "address": 130768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_wait_for_multiple_objects",
+        "ordinal": 336,
+        "address": 120064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_pthread_wait_for_single_object",
+        "ordinal": 337,
+        "address": 119888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "all_instances",
+        "ordinal": 338,
+        "address": 888864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "cond_print",
+        "ordinal": 339,
+        "address": 115584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "cond_print_set",
+        "ordinal": 340,
+        "address": 115520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "do_sema_b_wait_intern",
+        "ordinal": 341,
+        "address": 116256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbrlen",
+        "ordinal": 342,
+        "address": 180352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbrtowc",
+        "ordinal": 343,
+        "address": 179936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbsrtowcs",
+        "ordinal": 344,
+        "address": 180032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ppkeymap",
+        "ordinal": 345,
+        "address": 827520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_destroy",
+        "ordinal": 346,
+        "address": 129216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_getdetachstate",
+        "ordinal": 347,
+        "address": 129328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_getinheritsched",
+        "ordinal": 348,
+        "address": 129408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_getschedparam",
+        "ordinal": 349,
+        "address": 132128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_getschedpolicy",
+        "ordinal": 350,
+        "address": 132224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_getscope",
+        "ordinal": 351,
+        "address": 129504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_getstackaddr",
+        "ordinal": 352,
+        "address": 129536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_getstacksize",
+        "ordinal": 353,
+        "address": 129568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_init",
+        "ordinal": 354,
+        "address": 129168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_setdetachstate",
+        "ordinal": 355,
+        "address": 129264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_setinheritsched",
+        "ordinal": 356,
+        "address": 129360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_setschedparam",
+        "ordinal": 357,
+        "address": 132080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_setschedpolicy",
+        "ordinal": 358,
+        "address": 132176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_setscope",
+        "ordinal": 359,
+        "address": 129440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_setstackaddr",
+        "ordinal": 360,
+        "address": 129552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_attr_setstacksize",
+        "ordinal": 361,
+        "address": 129584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_cancel",
+        "ordinal": 362,
+        "address": 128432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_cond_broadcast",
+        "ordinal": 363,
+        "address": 117808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_cond_destroy",
+        "ordinal": 364,
+        "address": 117120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_cond_init",
+        "ordinal": 365,
+        "address": 116192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_cond_signal",
+        "ordinal": 366,
+        "address": 117520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_cond_timedwait",
+        "ordinal": 367,
+        "address": 119232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_cond_timedwait_relative_np",
+        "ordinal": 368,
+        "address": 119264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_cond_wait",
+        "ordinal": 369,
+        "address": 118080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_condattr_destroy",
+        "ordinal": 370,
+        "address": 115728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_condattr_getclock",
+        "ordinal": 371,
+        "address": 115840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_condattr_getpshared",
+        "ordinal": 372,
+        "address": 115792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_condattr_init",
+        "ordinal": 373,
+        "address": 115760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_condattr_setclock",
+        "ordinal": 374,
+        "address": 115888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_condattr_setpshared",
+        "ordinal": 375,
+        "address": 116144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_create",
+        "ordinal": 376,
+        "address": 129824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_create_wrapper",
+        "ordinal": 377,
+        "address": 125072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_delay_np",
+        "ordinal": 378,
+        "address": 128160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_delay_np_ms",
+        "ordinal": 379,
+        "address": 128320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_detach",
+        "ordinal": 380,
+        "address": 131152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_equal",
+        "ordinal": 381,
+        "address": 127200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_exit",
+        "ordinal": 382,
+        "address": 127440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_get_concurrency",
+        "ordinal": 383,
+        "address": 127408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_getclean",
+        "ordinal": 384,
+        "address": 127376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_getconcurrency",
+        "ordinal": 385,
+        "address": 131408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_getevent",
+        "ordinal": 386,
+        "address": 127296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_gethandle",
+        "ordinal": 387,
+        "address": 127328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_getname_np",
+        "ordinal": 388,
+        "address": 131680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_getschedparam",
+        "ordinal": 389,
+        "address": 132272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_getspecific",
+        "ordinal": 390,
+        "address": 126800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_join",
+        "ordinal": 391,
+        "address": 130496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_key_create",
+        "ordinal": 392,
+        "address": 126224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_key_delete",
+        "ordinal": 393,
+        "address": 126608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_kill",
+        "ordinal": 394,
+        "address": 128944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutex_destroy",
+        "ordinal": 395,
+        "address": 121536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutex_init",
+        "ordinal": 396,
+        "address": 121456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutex_lock",
+        "ordinal": 397,
+        "address": 120416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutex_timedlock",
+        "ordinal": 398,
+        "address": 120752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutex_trylock",
+        "ordinal": 399,
+        "address": 121328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutex_unlock",
+        "ordinal": 400,
+        "address": 121152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutexattr_destroy",
+        "ordinal": 401,
+        "address": 121616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutexattr_getprioceiling",
+        "ordinal": 402,
+        "address": 121936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutexattr_getprotocol",
+        "ordinal": 403,
+        "address": 121840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutexattr_getpshared",
+        "ordinal": 404,
+        "address": 121728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutexattr_gettype",
+        "ordinal": 405,
+        "address": 121632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutexattr_init",
+        "ordinal": 406,
+        "address": 121600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutexattr_setprioceiling",
+        "ordinal": 407,
+        "address": 121968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutexattr_setprotocol",
+        "ordinal": 408,
+        "address": 121872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutexattr_setpshared",
+        "ordinal": 409,
+        "address": 121792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_mutexattr_settype",
+        "ordinal": 410,
+        "address": 121680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_num_processors_np",
+        "ordinal": 411,
+        "address": 125712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_once",
+        "ordinal": 412,
+        "address": 125952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlock_destroy",
+        "ordinal": 413,
+        "address": 134096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlock_init",
+        "ordinal": 414,
+        "address": 134064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlock_rdlock",
+        "ordinal": 415,
+        "address": 134336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlock_timedrdlock",
+        "ordinal": 416,
+        "address": 134496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlock_timedwrlock",
+        "ordinal": 417,
+        "address": 135488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlock_tryrdlock",
+        "ordinal": 418,
+        "address": 134688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlock_trywrlock",
+        "ordinal": 419,
+        "address": 134848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlock_unlock",
+        "ordinal": 420,
+        "address": 135024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlock_wrlock",
+        "ordinal": 421,
+        "address": 135200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlockattr_destroy",
+        "ordinal": 422,
+        "address": 135872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlockattr_getpshared",
+        "ordinal": 423,
+        "address": 135920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlockattr_init",
+        "ordinal": 424,
+        "address": 135888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_rwlockattr_setpshared",
+        "ordinal": 425,
+        "address": 135968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_self",
+        "ordinal": 426,
+        "address": 127248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_set_concurrency",
+        "ordinal": 427,
+        "address": 127424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_set_num_processors_np",
+        "ordinal": 428,
+        "address": 125808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_setcancelstate",
+        "ordinal": 429,
+        "address": 129600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_setcanceltype",
+        "ordinal": 430,
+        "address": 129712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_setconcurrency",
+        "ordinal": 431,
+        "address": 131424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_setname_np",
+        "ordinal": 432,
+        "address": 131440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_setschedparam",
+        "ordinal": 433,
+        "address": 132400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_setspecific",
+        "ordinal": 434,
+        "address": 126912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_spin_destroy",
+        "ordinal": 435,
+        "address": 122016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_spin_init",
+        "ordinal": 436,
+        "address": 122000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_spin_lock",
+        "ordinal": 437,
+        "address": 122032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_spin_trylock",
+        "ordinal": 438,
+        "address": 122064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_spin_unlock",
+        "ordinal": 439,
+        "address": 122096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_testcancel",
+        "ordinal": 440,
+        "address": 128016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_timechange_handler_np",
+        "ordinal": 441,
+        "address": 125696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "pthread_tls_init",
+        "ordinal": 442,
+        "address": 122544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "rwl_print",
+        "ordinal": 443,
+        "address": 133904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "rwl_print_set",
+        "ordinal": 444,
+        "address": 133888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sched_get_priority_max",
+        "ordinal": 445,
+        "address": 132032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sched_get_priority_min",
+        "ordinal": 446,
+        "address": 131984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sched_getscheduler",
+        "ordinal": 447,
+        "address": 132608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sched_setscheduler",
+        "ordinal": 448,
+        "address": 132720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sched_yield",
+        "ordinal": 449,
+        "address": 132896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "thread_print",
+        "ordinal": 450,
+        "address": 125536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "thread_print_set",
+        "ordinal": 451,
+        "address": 125520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "wcrtomb",
+        "ordinal": 452,
+        "address": 180976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "wcsrtombs",
+        "ordinal": 453,
+        "address": 181056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 0,
+    "node_count": 0,
+    "nodes": null,
+    "total_size": 0,
+    "max_entropy": null
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 0,
+    "key": null,
+    "entries": null,
+    "raw_hex": null,
+    "raw_offset": null,
+    "raw_size": null,
+    "entry_count": null
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 1331420,
+      "size": 29656,
+      "section": "UPX2",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 1331200,
+      "size": 220,
+      "section": "UPX2",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 1361076,
+      "size": 24,
+      "section": "UPX2",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 1328464,
+      "size": 24,
+      "section": "UPX1",
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 0,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": null
+  },
+  "entrypoint_bytes": {
+    "offset": 394544,
+    "hex": "807c2408010f85f101000060be1540fa708dbeebcff1ff5783cdffeb0d9090908a064688074701db75078b1e83eefc11db72edb80100000001db75078b1e83ee",
+    "entropy": 5.090018
+  },
+  "load_config": {
+    "present": 0,
+    "security_cookie": null,
+    "se_handler_count": null,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 1,
+    "callback_count": 1,
+    "callbacks": [
+      1895843121
+    ],
+    "addressof_callbacks": 1895843180,
+    "addressof_index": 1895403828,
+    "addressof_raw_data_start": 1895843176,
+    "addressof_raw_data_end": 1895843180,
+    "raw_data_size": 4,
+    "sizeof_zero_fill": 0,
+    "characteristics": 0,
+    "section": "UPX1",
+    "data_template_hex": "00000000",
+    "data_template_entropy": -0.0
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 0,
+    "overlaps": 0,
+    "zero_raw_size": 1,
+    "raw_exceeds_virtual": 0,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 0
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 2,
+    "minor_linker_version": 28,
+    "sizeof_code": 397312,
+    "sizeof_initialized_data": 32768,
+    "sizeof_uninitialized_data": 929792,
+    "addressof_entrypoint": 1327920,
+    "baseof_code": 933888,
+    "baseof_data": 1331200,
+    "imagebase": 1894514688,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 4,
+    "minor_operating_system_version": 0,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 4,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 1363968,
+    "sizeof_headers": 4096,
+    "checksum": 0,
+    "subsystem": "WINDOWS_CUI",
+    "dll_characteristics_raw": 0,
+    "dll_characteristics": [],
+    "sizeof_stack_reserve": 2097152,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 64,
+    "entropy": 4.794355,
+    "is_standard_ms": 1,
+    "sha256": "7764e7022dcac1b5779d1f96fc05af5c1fee394aaff8a3a7e9a881e1a1b163a3",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a2400000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 0,
+    "checksum_computed": 1351769,
+    "checksum_valid": 0,
+    "checksum_zero": 1
+  },
+  "entrypoint_section": {
+    "ep_rva": 1327920,
+    "section_name": "UPX1",
+    "section_index": 1,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 7.900346
+  },
+  "overlay": {
+    "size": 895607,
+    "offset": 425472,
+    "entropy": 5.121583,
+    "magic_head": "2e66696c6500000024000000feff0000",
+    "sha256": "85c81d3135c4ac77d1440195f7d7f1d13e117f4166a93beaa018da6ebb7cf128"
+  },
+  "debug": {
+    "has_debug": 0,
+    "count": 0,
+    "types": [],
+    "pdb_path": null
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 1,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 0
+  },
+  "version_info": {
+    "present": null,
+    "company_name": null,
+    "file_description": null,
+    "original_filename": null,
+    "product_name": null,
+    "file_version": null,
+    "legal_copyright": null,
+    "internal_name": null
+  },
+  "strings": {
+    "count_ascii": 18433,
+    "count_utf16": 1,
+    "count_total": 18434,
+    "chars_total": 606960,
+    "printable_ratio": 0.459443,
+    "len_mean": 32.93,
+    "len_max": 304,
+    "urls": [],
+    "n_urls": 0,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "bgcj-16.dll",
+      "kernel32.dll",
+      "libpepflashplayer.dll",
+      "libspark.dll",
+      "msvcrt.dll"
+    ],
+    "n_dll_names": 5,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [],
+    "n_file_paths": 0
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "bgcj-16.dll",
+      "libpepflashplayer.dll"
+    ],
+    "n_orphans": 2,
+    "n_imported": 3
+  }
+}

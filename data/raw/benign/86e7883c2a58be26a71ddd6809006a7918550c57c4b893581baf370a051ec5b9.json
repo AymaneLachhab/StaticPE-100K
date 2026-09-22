@@ -1,0 +1,5783 @@
+{
+  "sha256": "86e7883c2a58be26a71ddd6809006a7918550c57c4b893581baf370a051ec5b9",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 4207616,
+    "md5": "9b0750781dd56c7c1891564df2cc70b3",
+    "sha1": "2b0a1e52e8f16c696d36a5536020ddf8444bb1f0",
+    "imphash": "ab4c80cfc9ad8d47d3d78c9f20ee8dc0",
+    "tlsh": "T1A0167C87FAC744F0E85B04B04157F7BF5A346B058020CE7AEB98EE49FE73E92641A255",
+    "ssdeep": "98304:YdSnJDi3JzT/m48S9J2VJPBGbSVV5Q3bf0GILAZ:Y6+m48SOBx75QQGI",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.430123,
+    "byte_histogram_256": [
+      0.171562,
+      0.01940505,
+      0.00546081,
+      0.00445145,
+      0.01699537,
+      0.00258793,
+      0.00209976,
+      0.0019151,
+      0.01041017,
+      0.00167767,
+      0.00149277,
+      0.00100841,
+      0.00691342,
+      0.00188919,
+      0.0020653,
+      0.02068963,
+      0.01845677,
+      0.00091073,
+      0.00087556,
+      0.00104976,
+      0.00495364,
+      0.00085013,
+      0.0009345,
+      0.00069446,
+      0.00437421,
+      0.00070729,
+      0.00063599,
+      0.00056921,
+      0.00520675,
+      0.00056802,
+      0.00066332,
+      0.0015346,
+      0.00930717,
+      0.00069968,
+      0.0006878,
+      0.00173994,
+      0.05436855,
+      0.00161374,
+      0.00203726,
+      0.00166912,
+      0.00386608,
+      0.00314359,
+      0.00048555,
+      0.00100223,
+      0.00330876,
+      0.00111084,
+      0.00127317,
+      0.00099486,
+      0.0044978,
+      0.00460213,
+      0.00247052,
+      0.00160447,
+      0.00464135,
+      0.00205033,
+      0.00184309,
+      0.00195479,
+      0.00425538,
+      0.00564476,
+      0.00184475,
+      0.00226993,
+      0.00429911,
+      0.00182597,
+      0.00193815,
+      0.00252162,
+      0.00604903,
+      0.00184855,
+      0.00139818,
+      0.00293206,
+      0.02102711,
+      0.00959379,
+      0.00167339,
+      0.00156692,
+      0.00269559,
+      0.00076076,
+      0.00073819,
+      0.00069802,
+      0.00506296,
+      0.00173946,
+      0.00104382,
+      0.00085274,
+      0.00366336,
+      0.00068851,
+      0.00075577,
+      0.00254039,
+      0.00608207,
+      0.00319017,
+      0.00177179,
+      0.00154601,
+      0.00257058,
+      0.00085607,
+      0.00064098,
+      0.00227207,
+      0.00467367,
+      0.00213922,
+      0.00195241,
+      0.00256844,
+      0.00204867,
+      0.00342569,
+      0.00092309,
+      0.00176894,
+      0.00294228,
+      0.00477872,
+      0.00731293,
+      0.00102837,
+      0.00223191,
+      0.00315975,
+      0.00039547,
+      0.00071537,
+      0.0049408,
+      0.00156835,
+      0.00275762,
+      0.00383947,
+      0.00306943,
+      0.00055899,
+      0.00313646,
+      0.00330876,
+      0.01101336,
+      0.0039495,
+      0.00181409,
+      0.00119711,
+      0.00200446,
+      0.00098631,
+      0.00065999,
+      0.00058774,
+      0.00438324,
+      0.00167078,
+      0.00098179,
+      0.00107377,
+      0.00493343,
+      0.00196453,
+      0.00069422,
+      0.01327498,
+      0.00741037,
+      0.00861747,
+      0.0008102,
+      0.00089623,
+      0.00223404,
+      0.03519998,
+      0.00041259,
+      0.03484063,
+      0.00157358,
+      0.01072199,
+      0.00095731,
+      0.0006474,
+      0.01055919,
+      0.00036006,
+      0.00040355,
+      0.00065049,
+      0.00175396,
+      0.00078429,
+      0.00037385,
+      0.00038644,
+      0.00146877,
+      0.00060367,
+      0.00035079,
+      0.00036743,
+      0.0020047,
+      0.00052595,
+      0.00033083,
+      0.00040403,
+      0.00172806,
+      0.00042257,
+      0.00031134,
+      0.00029661,
+      0.00092594,
+      0.0003313,
+      0.00037955,
+      0.00028852,
+      0.00151368,
+      0.00036743,
+      0.00051027,
+      0.00035768,
+      0.00141648,
+      0.00030564,
+      0.00031229,
+      0.00132165,
+      0.00155836,
+      0.0003237,
+      0.00034533,
+      0.00035578,
+      0.00206293,
+      0.00041758,
+      0.00351101,
+      0.00150441,
+      0.00261668,
+      0.00074817,
+      0.00078049,
+      0.00065168,
+      0.00263974,
+      0.00055709,
+      0.0008159,
+      0.00111132,
+      0.00834178,
+      0.0054948,
+      0.00320015,
+      0.00376603,
+      0.0039766,
+      0.00332136,
+      0.00292422,
+      0.01028112,
+      0.00227088,
+      0.00290164,
+      0.0013554,
+      0.0010973,
+      0.00132165,
+      0.00061056,
+      0.00064169,
+      0.00056303,
+      0.00307538,
+      0.00157262,
+      0.00200161,
+      0.00131428,
+      0.00095945,
+      0.00059273,
+      0.00074793,
+      0.00073747,
+      0.00421236,
+      0.0058444,
+      0.00110062,
+      0.00340098,
+      0.00156003,
+      0.00471716,
+      0.0019372,
+      0.00132926,
+      0.00290117,
+      0.00179817,
+      0.00214777,
+      0.00141719,
+      0.00136871,
+      0.00136847,
+      0.00059725,
+      0.00069541,
+      0.0100879,
+      0.0054456,
+      0.00125415,
+      0.002967,
+      0.00395497,
+      0.00096563,
+      0.00122777,
+      0.00118428,
+      0.00266921,
+      0.00095232,
+      0.00145023,
+      0.00137299,
+      0.00228514,
+      0.00102148,
+      0.00191035,
+      0.00190797,
+      0.00363745,
+      0.00217724,
+      0.00191153,
+      0.00153888,
+      0.00252708,
+      0.00238472,
+      0.00345611,
+      0.03393133
+    ],
+    "byte_entropy_histogram_256": [
+      0.01141589,
+      1.414e-05,
+      1.66e-06,
+      0.0,
+      1.55e-06,
+      7.61e-06,
+      0.0,
+      1.2e-07,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.2e-07,
+      0.00023321,
+      2.61e-06,
+      3.21e-06,
+      0.0,
+      1.78e-06,
+      0.0,
+      3.6e-07,
+      0.0,
+      2.14e-06,
+      0.0,
+      0.0,
+      0.0,
+      1.2e-07,
+      0.0,
+      0.0,
+      0.0,
+      0.00132304,
+      1.272e-05,
+      1.45e-05,
+      6.54e-06,
+      1.082e-05,
+      9.5e-07,
+      1.343e-05,
+      3.09e-06,
+      8.32e-06,
+      2.4e-07,
+      1.07e-06,
+      4.8e-07,
+      1.66e-06,
+      3.6e-07,
+      7.1e-07,
+      6.264e-05,
+      0.00110291,
+      1.866e-05,
+      1.735e-05,
+      5.71e-06,
+      1.628e-05,
+      7.25e-06,
+      5.47e-06,
+      6.06e-06,
+      8.68e-06,
+      2.4e-07,
+      4.8e-07,
+      0.0,
+      5.159e-05,
+      1.31e-06,
+      0.0,
+      0.00021859,
+      0.00071947,
+      1.058e-05,
+      4.99e-06,
+      1.129e-05,
+      6.3e-06,
+      5.71e-06,
+      1.533e-05,
+      9.87e-06,
+      4.4e-06,
+      2.02e-06,
+      4.04e-06,
+      6.89e-06,
+      0.0001122,
+      3.8e-06,
+      2.14e-06,
+      5.468e-05,
+      0.00261411,
+      0.00010674,
+      3.899e-05,
+      6.668e-05,
+      2.781e-05,
+      3.281e-05,
+      0.0001122,
+      8.962e-05,
+      2.365e-05,
+      9.75e-06,
+      6.66e-06,
+      5.47e-06,
+      2.056e-05,
+      2.258e-05,
+      7.61e-06,
+      0.00022275,
+      0.00643229,
+      0.00066943,
+      0.00018091,
+      0.00024236,
+      0.00016498,
+      0.00010888,
+      0.00050243,
+      0.00030666,
+      0.00012813,
+      7.001e-05,
+      9.402e-05,
+      8.13e-05,
+      8.701e-05,
+      7.976e-05,
+      7.251e-05,
+      0.00027302,
+      0.00739387,
+      0.00066978,
+      0.00034803,
+      0.00044739,
+      0.00021847,
+      0.00012005,
+      0.00099915,
+      0.00051205,
+      0.00012397,
+      6.787e-05,
+      8.594e-05,
+      6.918e-05,
+      8.641e-05,
+      5.765e-05,
+      8.439e-05,
+      0.00040032,
+      0.02093393,
+      0.00177519,
+      0.00266249,
+      0.00191877,
+      0.00139495,
+      0.0008558,
+      0.00563449,
+      0.00289486,
+      0.00030369,
+      0.00021181,
+      0.00018661,
+      0.00023725,
+      0.00028408,
+      0.00018863,
+      0.00024307,
+      0.00068333,
+      0.02131821,
+      0.00198771,
+      0.00272857,
+      0.0021017,
+      0.00101103,
+      0.0008035,
+      0.00873403,
+      0.00448962,
+      0.00035219,
+      0.0002029,
+      0.00024925,
+      0.00028681,
+      0.0003794,
+      0.00030286,
+      0.00030678,
+      0.00075322,
+      0.00931526,
+      0.00194504,
+      0.00212357,
+      0.00199306,
+      0.00070092,
+      0.00060477,
+      0.00441046,
+      0.00231993,
+      0.00046047,
+      0.00037762,
+      0.0002401,
+      0.0002823,
+      0.00040995,
+      0.00025187,
+      0.00035908,
+      0.0007392,
+      0.00937505,
+      0.00236522,
+      0.00279466,
+      0.0122421,
+      0.00139852,
+      0.00118885,
+      0.00398933,
+      0.00216731,
+      0.00258226,
+      0.00104087,
+      0.00108164,
+      0.00109423,
+      0.00150383,
+      0.00161556,
+      0.00281784,
+      0.00240194,
+      0.02661085,
+      0.00367851,
+      0.00761971,
+      0.00477251,
+      0.00508119,
+      0.00263551,
+      0.00589896,
+      0.00334214,
+      0.01262281,
+      0.00181739,
+      0.00131116,
+      0.00198165,
+      0.00466209,
+      0.00376017,
+      0.00589812,
+      0.00884279,
+      0.10494778,
+      0.01722166,
+      0.0440618,
+      0.01487986,
+      0.03257352,
+      0.01873666,
+      0.00877943,
+      0.01501191,
+      0.07281714,
+      0.00928519,
+      0.00484525,
+      0.01014218,
+      0.02700904,
+      0.01722725,
+      0.01765194,
+      0.0334462,
+      0.04660792,
+      0.01235311,
+      0.02455872,
+      0.00934521,
+      0.01692118,
+      0.01266084,
+      0.00454584,
+      0.00909121,
+      0.03562753,
+      0.00809765,
+      0.00253127,
+      0.00560929,
+      0.01730855,
+      0.01142909,
+      0.01179066,
+      0.01689681,
+      0.00023035,
+      0.00015939,
+      0.00016379,
+      0.00018554,
+      0.00015868,
+      0.00014691,
+      0.00019767,
+      0.00015404,
+      0.00015,
+      0.0001456,
+      0.00014988,
+      0.00020385,
+      0.00016011,
+      0.00016783,
+      0.00015297,
+      0.00015107
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 3233388,
+      "raw_size": 3233792,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.40492,
+      "characteristics": 1615855712,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".data",
+      "virtual_size": 41124,
+      "raw_size": 41472,
+      "virtual_address": 3239936,
+      "pointerto_raw_data": 3234816,
+      "entropy": 4.211612,
+      "characteristics": 3227516992,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 804976,
+      "raw_size": 805376,
+      "virtual_address": 3284992,
+      "pointerto_raw_data": 3276288,
+      "entropy": 5.337616,
+      "characteristics": 1080033344,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".rodata",
+      "virtual_size": 1664,
+      "raw_size": 2048,
+      "virtual_address": 4091904,
+      "pointerto_raw_data": 4081664,
+      "entropy": 3.758593,
+      "characteristics": 1080033344,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".bss",
+      "virtual_size": 73020,
+      "raw_size": 0,
+      "virtual_address": 4096000,
+      "pointerto_raw_data": 0,
+      "entropy": 0.0,
+      "characteristics": 3227517056,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".edata",
+      "virtual_size": 2131,
+      "raw_size": 2560,
+      "virtual_address": 4169728,
+      "pointerto_raw_data": 4083712,
+      "entropy": 5.171314,
+      "characteristics": 1076887616,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".idata",
+      "virtual_size": 14048,
+      "raw_size": 14336,
+      "virtual_address": 4173824,
+      "pointerto_raw_data": 4086272,
+      "entropy": 5.30964,
+      "characteristics": 3224371264,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".CRT",
+      "virtual_size": 44,
+      "raw_size": 512,
+      "virtual_address": 4190208,
+      "pointerto_raw_data": 4100608,
+      "entropy": 1.255483,
+      "characteristics": 3224371264,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".tls",
+      "virtual_size": 32,
+      "raw_size": 512,
+      "virtual_address": 4194304,
+      "pointerto_raw_data": 4101120,
+      "entropy": 2.102793,
+      "characteristics": 3224371264,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 880,
+      "raw_size": 1024,
+      "virtual_address": 4198400,
+      "pointerto_raw_data": 4101632,
+      "entropy": 3.297756,
+      "characteristics": 3224371264,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 104792,
+      "raw_size": 104960,
+      "virtual_address": 4202496,
+      "pointerto_raw_data": 4102656,
+      "entropy": 6.502392,
+      "characteristics": 1110442048,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 128,
+    "e_lfanew_raw": 128,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000080000000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 11,
+    "time_date_stamp": 835072416,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 9006,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LINE_NUMS_STRIPPED",
+      "LOCAL_SYMS_STRIPPED",
+      "LARGE_ADDRESS_AWARE",
+      "NEED_32BIT_MACHINE",
+      "DEBUG_STRIPPED",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 4175860,
+      "import_lookup_table_rva": 4174024,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 83,
+          "iat_address": 4175860,
+          "iat_value": 4177696,
+          "data": 4177696
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateEventA",
+          "hint": 132,
+          "iat_address": 4175864,
+          "iat_value": 4177710,
+          "data": 4177710
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileMappingA",
+          "hint": 140,
+          "iat_address": 4175868,
+          "iat_value": 4177726,
+          "data": 4177726
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateSemaphoreA",
+          "hint": 175,
+          "iat_address": 4175872,
+          "iat_value": 4177748,
+          "data": 4177748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateSemaphoreW",
+          "hint": 178,
+          "iat_address": 4175876,
+          "iat_value": 4177768,
+          "data": 4177768
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 214,
+          "iat_address": 4175880,
+          "iat_value": 4177788,
+          "data": 4177788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 242,
+          "iat_address": 4175884,
+          "iat_value": 4177812,
+          "data": 4177812
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FormatMessageA",
+          "hint": 354,
+          "iat_address": 4175888,
+          "iat_value": 4177836,
+          "data": 4177836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibrary",
+          "hint": 359,
+          "iat_address": 4175892,
+          "iat_value": 4177854,
+          "data": 4177854
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 455,
+          "iat_address": 4175896,
+          "iat_value": 4177868,
+          "data": 4177868
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 456,
+          "iat_address": 4175900,
+          "iat_value": 4177888,
+          "data": 4177888
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 460,
+          "iat_address": 4175904,
+          "iat_value": 4177910,
+          "data": 4177910
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileAttributesA",
+          "hint": 489,
+          "iat_address": 4175908,
+          "iat_value": 4177932,
+          "data": 4177932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileAttributesExA",
+          "hint": 490,
+          "iat_address": 4175912,
+          "iat_value": 4177954,
+          "data": 4177954
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFullPathNameA",
+          "hint": 508,
+          "iat_address": 4175916,
+          "iat_value": 4177978,
+          "data": 4177978
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 518,
+          "iat_address": 4175920,
+          "iat_value": 4177998,
+          "data": 4177998
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLongPathNameA",
+          "hint": 527,
+          "iat_address": 4175924,
+          "iat_value": 4178014,
+          "data": 4178014
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameA",
+          "hint": 534,
+          "iat_address": 4175928,
+          "iat_value": 4178034,
+          "data": 4178034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameW",
+          "hint": 535,
+          "iat_address": 4175932,
+          "iat_value": 4178056,
+          "data": 4178056
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleA",
+          "hint": 536,
+          "iat_address": 4175936,
+          "iat_value": 4178078,
+          "data": 4178078
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleExW",
+          "hint": 538,
+          "iat_address": 4175940,
+          "iat_value": 4178098,
+          "data": 4178098
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleW",
+          "hint": 539,
+          "iat_address": 4175944,
+          "iat_value": 4178120,
+          "data": 4178120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 584,
+          "iat_address": 4175948,
+          "iat_value": 4178140,
+          "data": 4178140
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 638,
+          "iat_address": 4175952,
+          "iat_value": 4178158,
+          "data": 4178158
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTempPathA",
+          "hint": 650,
+          "iat_address": 4175956,
+          "iat_value": 4178184,
+          "data": 4178184
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTickCount",
+          "hint": 666,
+          "iat_address": 4175960,
+          "iat_value": 4178200,
+          "data": 4178200
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetWindowsDirectoryA",
+          "hint": 692,
+          "iat_address": 4175964,
+          "iat_value": 4178216,
+          "data": 4178216
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSection",
+          "hint": 750,
+          "iat_address": 4175968,
+          "iat_value": 4178240,
+          "data": 4178240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDBCSLeadByteEx",
+          "hint": 778,
+          "iat_address": 4175972,
+          "iat_value": 4178268,
+          "data": 4178268
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 809,
+          "iat_address": 4175976,
+          "iat_value": 4178288,
+          "data": 4178288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryA",
+          "hint": 812,
+          "iat_address": 4175980,
+          "iat_value": 4178312,
+          "data": 4178312
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryExA",
+          "hint": 813,
+          "iat_address": 4175984,
+          "iat_value": 4178328,
+          "data": 4178328
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MapViewOfFile",
+          "hint": 839,
+          "iat_address": 4175988,
+          "iat_value": 4178346,
+          "data": 4178346
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MultiByteToWideChar",
+          "hint": 857,
+          "iat_address": 4175992,
+          "iat_value": 4178362,
+          "data": 4178362
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 922,
+          "iat_address": 4175996,
+          "iat_value": 4178384,
+          "data": 4178384
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseSemaphore",
+          "hint": 970,
+          "iat_address": 4176000,
+          "iat_value": 4178410,
+          "data": 4178410
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ResetEvent",
+          "hint": 987,
+          "iat_address": 4176004,
+          "iat_value": 4178430,
+          "data": 4178430
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetErrorMode",
+          "hint": 1060,
+          "iat_address": 4176008,
+          "iat_value": 4178444,
+          "data": 4178444
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEvent",
+          "hint": 1061,
+          "iat_address": 4176012,
+          "iat_value": 4178460,
+          "data": 4178460
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetLastError",
+          "hint": 1086,
+          "iat_address": 4176016,
+          "iat_value": 4178472,
+          "data": 4178472
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1135,
+          "iat_address": 4176020,
+          "iat_value": 4178488,
+          "data": 4178488
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 1148,
+          "iat_address": 4176024,
+          "iat_value": 4178518,
+          "data": 4178518
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1162,
+          "iat_address": 4176028,
+          "iat_value": 4178526,
+          "data": 4178526
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsAlloc",
+          "hint": 1167,
+          "iat_address": 4176032,
+          "iat_value": 4178546,
+          "data": 4178546
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsFree",
+          "hint": 1168,
+          "iat_address": 4176036,
+          "iat_value": 4178558,
+          "data": 4178558
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsGetValue",
+          "hint": 1169,
+          "iat_address": 4176040,
+          "iat_value": 4178568,
+          "data": 4178568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsSetValue",
+          "hint": 1170,
+          "iat_address": 4176044,
+          "iat_value": 4178582,
+          "data": 4178582
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1182,
+          "iat_address": 4176048,
+          "iat_value": 4178596,
+          "data": 4178596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnmapViewOfFile",
+          "hint": 1185,
+          "iat_address": 4176052,
+          "iat_value": 4178624,
+          "data": 4178624
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualProtect",
+          "hint": 1215,
+          "iat_address": 4176056,
+          "iat_value": 4178642,
+          "data": 4178642
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualQuery",
+          "hint": 1218,
+          "iat_address": 4176060,
+          "iat_value": 4178660,
+          "data": 4178660
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObject",
+          "hint": 1227,
+          "iat_address": 4176064,
+          "iat_value": 4178676,
+          "data": 4178676
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 1251,
+          "iat_address": 4176068,
+          "iat_value": 4178698,
+          "data": 4178698
+        }
+      ],
+      "function_count": 53
+    },
+    {
+      "name": "msvcrt.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 4176076,
+      "import_lookup_table_rva": 4174240,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__dllonexit",
+          "hint": 55,
+          "iat_address": 4176076,
+          "iat_value": 4178720,
+          "data": 4178720
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__mb_cur_max",
+          "hint": 69,
+          "iat_address": 4176080,
+          "iat_value": 4178734,
+          "data": 4178734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__setusermatherr",
+          "hint": 107,
+          "iat_address": 4176084,
+          "iat_value": 4178750,
+          "data": 4178750
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_aligned_free",
+          "hint": 137,
+          "iat_address": 4176088,
+          "iat_value": 4178770,
+          "data": 4178770
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_aligned_malloc",
+          "hint": 138,
+          "iat_address": 4176092,
+          "iat_value": 4178786,
+          "data": 4178786
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_amsg_exit",
+          "hint": 142,
+          "iat_address": 4176096,
+          "iat_value": 4178804,
+          "data": 4178804
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_beginthreadex",
+          "hint": 155,
+          "iat_address": 4176100,
+          "iat_value": 4178818,
+          "data": 4178818
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_errno",
+          "hint": 207,
+          "iat_address": 4176104,
+          "iat_value": 4178836,
+          "data": 4178836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_exit",
+          "hint": 218,
+          "iat_address": 4176108,
+          "iat_value": 4178846,
+          "data": 4178846
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_findclose",
+          "hint": 231,
+          "iat_address": 4176112,
+          "iat_value": 4178854,
+          "data": 4178854
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_findnext",
+          "hint": 237,
+          "iat_address": 4176116,
+          "iat_value": 4178868,
+          "data": 4178868
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_fullpath",
+          "hint": 260,
+          "iat_address": 4176120,
+          "iat_value": 4178880,
+          "data": 4178880
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_get_osfhandle",
+          "hint": 272,
+          "iat_address": 4176124,
+          "iat_value": 4178892,
+          "data": 4178892
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_hypot",
+          "hint": 298,
+          "iat_address": 4176128,
+          "iat_value": 4178910,
+          "data": 4178910
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 303,
+          "iat_address": 4176132,
+          "iat_value": 4178920,
+          "data": 4178920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_iob",
+          "hint": 307,
+          "iat_address": 4176136,
+          "iat_value": 4178932,
+          "data": 4178932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_lock",
+          "hint": 404,
+          "iat_address": 4176140,
+          "iat_value": 4178940,
+          "data": 4178940
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_locking",
+          "hint": 405,
+          "iat_address": 4176144,
+          "iat_value": 4178948,
+          "data": 4178948
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_mbsrchr",
+          "hint": 525,
+          "iat_address": 4176148,
+          "iat_value": 4178960,
+          "data": 4178960
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_mkdir",
+          "hint": 557,
+          "iat_address": 4176152,
+          "iat_value": 4178972,
+          "data": 4178972
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_onexit",
+          "hint": 563,
+          "iat_address": 4176156,
+          "iat_value": 4178982,
+          "data": 4178982
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_setjmp3",
+          "hint": 615,
+          "iat_address": 4176160,
+          "iat_value": 4178992,
+          "data": 4178992
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_snwprintf",
+          "hint": 631,
+          "iat_address": 4176164,
+          "iat_value": 4179004,
+          "data": 4179004
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_sopen",
+          "hint": 639,
+          "iat_address": 4176168,
+          "iat_value": 4179018,
+          "data": 4179018
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "time",
+          "hint": 676,
+          "iat_address": 4176172,
+          "iat_value": 4179028,
+          "data": 4179028
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "localtime",
+          "hint": 678,
+          "iat_address": 4176176,
+          "iat_value": 4179036,
+          "data": 4179036
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "gmtime",
+          "hint": 679,
+          "iat_address": 4176180,
+          "iat_value": 4179048,
+          "data": 4179048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_strnicmp",
+          "hint": 701,
+          "iat_address": 4176184,
+          "iat_value": 4179058,
+          "data": 4179058
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_unlock",
+          "hint": 751,
+          "iat_address": 4176188,
+          "iat_value": 4179070,
+          "data": 4179070
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "bsearch",
+          "hint": 840,
+          "iat_address": 4176192,
+          "iat_value": 4179080,
+          "data": 4179080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "calloc",
+          "hint": 842,
+          "iat_address": 4176196,
+          "iat_value": 4179090,
+          "data": 4179090
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cosh",
+          "hint": 848,
+          "iat_address": 4176200,
+          "iat_value": 4179100,
+          "data": 4179100
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fclose",
+          "hint": 855,
+          "iat_address": 4176204,
+          "iat_value": 4179108,
+          "data": 4179108
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fflush",
+          "hint": 858,
+          "iat_address": 4176208,
+          "iat_value": 4179118,
+          "data": 4179118
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fgetc",
+          "hint": 859,
+          "iat_address": 4176212,
+          "iat_value": 4179128,
+          "data": 4179128
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fgets",
+          "hint": 861,
+          "iat_address": 4176216,
+          "iat_value": 4179136,
+          "data": 4179136
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fopen",
+          "hint": 866,
+          "iat_address": 4176220,
+          "iat_value": 4179144,
+          "data": 4179144
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fprintf",
+          "hint": 868,
+          "iat_address": 4176224,
+          "iat_value": 4179152,
+          "data": 4179152
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fputc",
+          "hint": 870,
+          "iat_address": 4176228,
+          "iat_value": 4179162,
+          "data": 4179162
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fputs",
+          "hint": 871,
+          "iat_address": 4176232,
+          "iat_value": 4179170,
+          "data": 4179170
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fread",
+          "hint": 874,
+          "iat_address": 4176236,
+          "iat_value": 4179178,
+          "data": 4179178
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 875,
+          "iat_address": 4176240,
+          "iat_value": 4179186,
+          "data": 4179186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "frexp",
+          "hint": 878,
+          "iat_address": 4176244,
+          "iat_value": 4179194,
+          "data": 4179194
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fscanf",
+          "hint": 879,
+          "iat_address": 4176248,
+          "iat_value": 4179202,
+          "data": 4179202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fseek",
+          "hint": 881,
+          "iat_address": 4176252,
+          "iat_value": 4179212,
+          "data": 4179212
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ftell",
+          "hint": 883,
+          "iat_address": 4176256,
+          "iat_value": 4179220,
+          "data": 4179220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fwprintf",
+          "hint": 884,
+          "iat_address": 4176260,
+          "iat_value": 4179228,
+          "data": 4179228
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fwrite",
+          "hint": 886,
+          "iat_address": 4176264,
+          "iat_value": 4179240,
+          "data": 4179240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "getc",
+          "hint": 889,
+          "iat_address": 4176268,
+          "iat_value": 4179250,
+          "data": 4179250
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "getenv",
+          "hint": 891,
+          "iat_address": 4176272,
+          "iat_value": 4179258,
+          "data": 4179258
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "isalpha",
+          "hint": 899,
+          "iat_address": 4176276,
+          "iat_value": 4179268,
+          "data": 4179268
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "islower",
+          "hint": 904,
+          "iat_address": 4176280,
+          "iat_value": 4179278,
+          "data": 4179278
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "isspace",
+          "hint": 907,
+          "iat_address": 4176284,
+          "iat_value": 4179288,
+          "data": 4179288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "isupper",
+          "hint": 908,
+          "iat_address": 4176288,
+          "iat_value": 4179298,
+          "data": 4179298
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "iswctype",
+          "hint": 913,
+          "iat_address": 4176292,
+          "iat_value": 4179308,
+          "data": 4179308
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "isxdigit",
+          "hint": 922,
+          "iat_address": 4176296,
+          "iat_value": 4179320,
+          "data": 4179320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "localeconv",
+          "hint": 926,
+          "iat_address": 4176300,
+          "iat_value": 4179332,
+          "data": 4179332
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "log10",
+          "hint": 929,
+          "iat_address": 4176304,
+          "iat_value": 4179346,
+          "data": 4179346
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 930,
+          "iat_address": 4176308,
+          "iat_value": 4179354,
+          "data": 4179354
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memchr",
+          "hint": 936,
+          "iat_address": 4176312,
+          "iat_value": 4179364,
+          "data": 4179364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcmp",
+          "hint": 937,
+          "iat_address": 4176316,
+          "iat_value": 4179374,
+          "data": 4179374
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 938,
+          "iat_address": 4176320,
+          "iat_value": 4179384,
+          "data": 4179384
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memmove",
+          "hint": 939,
+          "iat_address": 4176324,
+          "iat_value": 4179394,
+          "data": 4179394
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 940,
+          "iat_address": 4176328,
+          "iat_value": 4179404,
+          "data": 4179404
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "perror",
+          "hint": 943,
+          "iat_address": 4176332,
+          "iat_value": 4179414,
+          "data": 4179414
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "printf",
+          "hint": 945,
+          "iat_address": 4176336,
+          "iat_value": 4179424,
+          "data": 4179424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "putchar",
+          "hint": 948,
+          "iat_address": 4176340,
+          "iat_value": 4179434,
+          "data": 4179434
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "puts",
+          "hint": 949,
+          "iat_address": 4176344,
+          "iat_value": 4179444,
+          "data": 4179444
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "qsort",
+          "hint": 952,
+          "iat_address": 4176348,
+          "iat_value": 4179452,
+          "data": 4179452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "raise",
+          "hint": 954,
+          "iat_address": 4176352,
+          "iat_value": 4179460,
+          "data": 4179460
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "rand",
+          "hint": 955,
+          "iat_address": 4176356,
+          "iat_value": 4179468,
+          "data": 4179468
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "realloc",
+          "hint": 956,
+          "iat_address": 4176360,
+          "iat_value": 4179476,
+          "data": 4179476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "rename",
+          "hint": 958,
+          "iat_address": 4176364,
+          "iat_value": 4179486,
+          "data": 4179486
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "rewind",
+          "hint": 959,
+          "iat_address": 4176368,
+          "iat_value": 4179496,
+          "data": 4179496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "setlocale",
+          "hint": 963,
+          "iat_address": 4176372,
+          "iat_value": 4179506,
+          "data": 4179506
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sinh",
+          "hint": 967,
+          "iat_address": 4176376,
+          "iat_value": 4179518,
+          "data": 4179518
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sprintf",
+          "hint": 968,
+          "iat_address": 4176380,
+          "iat_value": 4179526,
+          "data": 4179526
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "srand",
+          "hint": 970,
+          "iat_address": 4176384,
+          "iat_value": 4179536,
+          "data": 4179536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sscanf",
+          "hint": 971,
+          "iat_address": 4176388,
+          "iat_value": 4179544,
+          "data": 4179544
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcat",
+          "hint": 973,
+          "iat_address": 4176392,
+          "iat_value": 4179554,
+          "data": 4179554
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strchr",
+          "hint": 975,
+          "iat_address": 4176396,
+          "iat_value": 4179564,
+          "data": 4179564
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcmp",
+          "hint": 976,
+          "iat_address": 4176400,
+          "iat_value": 4179574,
+          "data": 4179574
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcoll",
+          "hint": 977,
+          "iat_address": 4176404,
+          "iat_value": 4179584,
+          "data": 4179584
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcpy",
+          "hint": 978,
+          "iat_address": 4176408,
+          "iat_value": 4179594,
+          "data": 4179594
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcspn",
+          "hint": 980,
+          "iat_address": 4176412,
+          "iat_value": 4179604,
+          "data": 4179604
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strerror",
+          "hint": 981,
+          "iat_address": 4176416,
+          "iat_value": 4179614,
+          "data": 4179614
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strftime",
+          "hint": 982,
+          "iat_address": 4176420,
+          "iat_value": 4179626,
+          "data": 4179626
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strlen",
+          "hint": 983,
+          "iat_address": 4176424,
+          "iat_value": 4179638,
+          "data": 4179638
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strncat",
+          "hint": 984,
+          "iat_address": 4176428,
+          "iat_value": 4179648,
+          "data": 4179648
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strncmp",
+          "hint": 986,
+          "iat_address": 4176432,
+          "iat_value": 4179658,
+          "data": 4179658
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strncpy",
+          "hint": 987,
+          "iat_address": 4176436,
+          "iat_value": 4179668,
+          "data": 4179668
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strrchr",
+          "hint": 990,
+          "iat_address": 4176440,
+          "iat_value": 4179678,
+          "data": 4179678
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strspn",
+          "hint": 991,
+          "iat_address": 4176444,
+          "iat_value": 4179688,
+          "data": 4179688
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strstr",
+          "hint": 992,
+          "iat_address": 4176448,
+          "iat_value": 4179698,
+          "data": 4179698
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strtol",
+          "hint": 996,
+          "iat_address": 4176452,
+          "iat_value": 4179708,
+          "data": 4179708
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strtoul",
+          "hint": 997,
+          "iat_address": 4176456,
+          "iat_value": 4179718,
+          "data": 4179718
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strxfrm",
+          "hint": 998,
+          "iat_address": 4176460,
+          "iat_value": 4179728,
+          "data": 4179728
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_vsnprintf",
+          "hint": 1002,
+          "iat_address": 4176464,
+          "iat_value": 4179738,
+          "data": 4179738
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "abort",
+          "hint": 1082,
+          "iat_address": 4176468,
+          "iat_value": 4179752,
+          "data": 4179752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "acos",
+          "hint": 1084,
+          "iat_address": 4176472,
+          "iat_value": 4179760,
+          "data": 4179760
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "asin",
+          "hint": 1086,
+          "iat_address": 4176476,
+          "iat_value": 4179768,
+          "data": 4179768
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "atan",
+          "hint": 1087,
+          "iat_address": 4176480,
+          "iat_value": 4179776,
+          "data": 4179776
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "tan",
+          "hint": 1096,
+          "iat_address": 4176484,
+          "iat_value": 4179784,
+          "data": 4179784
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "tolower",
+          "hint": 1103,
+          "iat_address": 4176488,
+          "iat_value": 4179790,
+          "data": 4179790
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "towlower",
+          "hint": 1105,
+          "iat_address": 4176492,
+          "iat_value": 4179800,
+          "data": 4179800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "towupper",
+          "hint": 1106,
+          "iat_address": 4176496,
+          "iat_value": 4179812,
+          "data": 4179812
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ungetc",
+          "hint": 1107,
+          "iat_address": 4176500,
+          "iat_value": 4179824,
+          "data": 4179824
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vfprintf",
+          "hint": 1109,
+          "iat_address": 4176504,
+          "iat_value": 4179834,
+          "data": 4179834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wcscoll",
+          "hint": 1128,
+          "iat_address": 4176508,
+          "iat_value": 4179846,
+          "data": 4179846
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wcscpy",
+          "hint": 1129,
+          "iat_address": 4176512,
+          "iat_value": 4179856,
+          "data": 4179856
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wcsftime",
+          "hint": 1132,
+          "iat_address": 4176516,
+          "iat_value": 4179866,
+          "data": 4179866
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wcslen",
+          "hint": 1133,
+          "iat_address": 4176520,
+          "iat_value": 4179878,
+          "data": 4179878
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wcsxfrm",
+          "hint": 1152,
+          "iat_address": 4176524,
+          "iat_value": 4179888,
+          "data": 4179888
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "atoi",
+          "hint": 1163,
+          "iat_address": 4176528,
+          "iat_value": 4179898,
+          "data": 4179898
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_stati64",
+          "hint": 1177,
+          "iat_address": 4176532,
+          "iat_value": 4179906,
+          "data": 4179906
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_findfirst",
+          "hint": 1182,
+          "iat_address": 4176536,
+          "iat_value": 4179918,
+          "data": 4179918
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "longjmp",
+          "hint": 1184,
+          "iat_address": 4176540,
+          "iat_value": 4179932,
+          "data": 4179932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_write",
+          "hint": 1200,
+          "iat_address": 4176544,
+          "iat_value": 4179942,
+          "data": 4179942
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_unlink",
+          "hint": 1212,
+          "iat_address": 4176548,
+          "iat_value": 4179952,
+          "data": 4179952
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_strdup",
+          "hint": 1227,
+          "iat_address": 4176552,
+          "iat_value": 4179962,
+          "data": 4179962
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_rmdir",
+          "hint": 1241,
+          "iat_address": 4176556,
+          "iat_value": 4179972,
+          "data": 4179972
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_read",
+          "hint": 1242,
+          "iat_address": 4176560,
+          "iat_value": 4179982,
+          "data": 4179982
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_open",
+          "hint": 1248,
+          "iat_address": 4176564,
+          "iat_value": 4179990,
+          "data": 4179990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_fdopen",
+          "hint": 1273,
+          "iat_address": 4176568,
+          "iat_value": 4179998,
+          "data": 4179998
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_close",
+          "hint": 1289,
+          "iat_address": 4176572,
+          "iat_value": 4180008,
+          "data": 4180008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_chmod",
+          "hint": 1291,
+          "iat_address": 4176576,
+          "iat_value": 4180018,
+          "data": 4180018
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_access",
+          "hint": 1293,
+          "iat_address": 4176580,
+          "iat_value": 4180028,
+          "data": 4180028
+        }
+      ],
+      "function_count": 127
+    },
+    {
+      "name": "USER32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 4176588,
+      "import_lookup_table_rva": 4174752,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MessageBoxW",
+          "hint": 595,
+          "iat_address": 4176588,
+          "iat_value": 4180038,
+          "data": 4180038
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "avcodec-57.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 4176596,
+      "import_lookup_table_rva": 4174760,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_codec_set_pkt_timebase",
+          "hint": 39,
+          "iat_address": 4176596,
+          "iat_value": 4180052,
+          "data": 4180052
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fft_calc",
+          "hint": 55,
+          "iat_address": 4176600,
+          "iat_value": 4180080,
+          "data": 4180080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fft_end",
+          "hint": 56,
+          "iat_address": 4176604,
+          "iat_value": 4180096,
+          "data": 4180096
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fft_init",
+          "hint": 57,
+          "iat_address": 4176608,
+          "iat_value": 4180112,
+          "data": 4180112
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fft_permute",
+          "hint": 58,
+          "iat_address": 4176612,
+          "iat_value": 4180128,
+          "data": 4180128
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_init_packet",
+          "hint": 71,
+          "iat_address": 4176616,
+          "iat_value": 4180148,
+          "data": 4180148
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_packet_unref",
+          "hint": 103,
+          "iat_address": 4176620,
+          "iat_value": 4180168,
+          "data": 4180168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_rdft_calc",
+          "hint": 113,
+          "iat_address": 4176624,
+          "iat_value": 4180188,
+          "data": 4180188
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_rdft_end",
+          "hint": 114,
+          "iat_address": 4176628,
+          "iat_value": 4180204,
+          "data": 4180204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_rdft_init",
+          "hint": 115,
+          "iat_address": 4176632,
+          "iat_value": 4180220,
+          "data": 4180220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_alloc_context3",
+          "hint": 133,
+          "iat_address": 4176636,
+          "iat_value": 4180236,
+          "data": 4180236
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_close",
+          "hint": 135,
+          "iat_address": 4176640,
+          "iat_value": 4180264,
+          "data": 4180264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_dct_alloc",
+          "hint": 138,
+          "iat_address": 4176644,
+          "iat_value": 4180280,
+          "data": 4180280
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_dct_get_class",
+          "hint": 139,
+          "iat_address": 4176648,
+          "iat_value": 4180300,
+          "data": 4180300
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_dct_init",
+          "hint": 140,
+          "iat_address": 4176652,
+          "iat_value": 4180324,
+          "data": 4180324
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_decode_audio4",
+          "hint": 141,
+          "iat_address": 4176656,
+          "iat_value": 4180344,
+          "data": 4180344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_decode_subtitle2",
+          "hint": 142,
+          "iat_address": 4176660,
+          "iat_value": 4180368,
+          "data": 4180368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_decode_video2",
+          "hint": 143,
+          "iat_address": 4176664,
+          "iat_value": 4180396,
+          "data": 4180396
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_descriptor_get",
+          "hint": 148,
+          "iat_address": 4176668,
+          "iat_value": 4180420,
+          "data": 4180420
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_encode_video2",
+          "hint": 153,
+          "iat_address": 4176672,
+          "iat_value": 4180448,
+          "data": 4180448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_find_decoder",
+          "hint": 159,
+          "iat_address": 4176676,
+          "iat_value": 4180472,
+          "data": 4180472
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_find_encoder",
+          "hint": 161,
+          "iat_address": 4176680,
+          "iat_value": 4180496,
+          "data": 4180496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_flush_buffers",
+          "hint": 163,
+          "iat_address": 4176684,
+          "iat_value": 4180520,
+          "data": 4180520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_free_context",
+          "hint": 164,
+          "iat_address": 4176688,
+          "iat_value": 4180544,
+          "data": 4180544
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_get_name",
+          "hint": 170,
+          "iat_address": 4176692,
+          "iat_value": 4180568,
+          "data": 4180568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_open2",
+          "hint": 176,
+          "iat_address": 4176696,
+          "iat_value": 4180588,
+          "data": 4180588
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avcodec_parameters_to_context",
+          "hint": 181,
+          "iat_address": 4176700,
+          "iat_value": 4180604,
+          "data": 4180604
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avpriv_do_elbg",
+          "hint": 213,
+          "iat_address": 4176704,
+          "iat_value": 4180636,
+          "data": 4180636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avpriv_init_elbg",
+          "hint": 219,
+          "iat_address": 4176708,
+          "iat_value": 4180656,
+          "data": 4180656
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avsubtitle_free",
+          "hint": 242,
+          "iat_address": 4176712,
+          "iat_value": 4180676,
+          "data": 4180676
+        }
+      ],
+      "function_count": 30
+    },
+    {
+      "name": "avformat-57.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 4176720,
+      "import_lookup_table_rva": 4174884,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_find_best_stream",
+          "hint": 10,
+          "iat_address": 4176720,
+          "iat_value": 4180696,
+          "data": 4180696
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_find_input_format",
+          "hint": 12,
+          "iat_address": 4176724,
+          "iat_value": 4180720,
+          "data": 4180720
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_read_frame",
+          "hint": 59,
+          "iat_address": 4176728,
+          "iat_value": 4180744,
+          "data": 4180744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_register_all",
+          "hint": 62,
+          "iat_address": 4176732,
+          "iat_value": 4180760,
+          "data": 4180760
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_seek_frame",
+          "hint": 66,
+          "iat_address": 4176736,
+          "iat_value": 4180780,
+          "data": 4180780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avformat_close_input",
+          "hint": 83,
+          "iat_address": 4176740,
+          "iat_value": 4180796,
+          "data": 4180796
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avformat_find_stream_info",
+          "hint": 85,
+          "iat_address": 4176744,
+          "iat_value": 4180820,
+          "data": 4180820
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avformat_match_stream_specifier",
+          "hint": 95,
+          "iat_address": 4176748,
+          "iat_value": 4180848,
+          "data": 4180848
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avformat_open_input",
+          "hint": 99,
+          "iat_address": 4176752,
+          "iat_value": 4180884,
+          "data": 4180884
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avio_closep",
+          "hint": 112,
+          "iat_address": 4176756,
+          "iat_value": 4180908,
+          "data": 4180908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avio_open",
+          "hint": 122,
+          "iat_address": 4176760,
+          "iat_value": 4180924,
+          "data": 4180924
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avio_write",
+          "hint": 156,
+          "iat_address": 4176764,
+          "iat_value": 4180936,
+          "data": 4180936
+        }
+      ],
+      "function_count": 12
+    },
+    {
+      "name": "avutil-55.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 4176772,
+      "import_lookup_table_rva": 4174936,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_adler32_update",
+          "hint": 3,
+          "iat_address": 4176772,
+          "iat_value": 4180952,
+          "data": 4180952
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_asprintf",
+          "hint": 17,
+          "iat_address": 4176776,
+          "iat_value": 4180972,
+          "data": 4180972
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_audio_fifo_alloc",
+          "hint": 19,
+          "iat_address": 4176780,
+          "iat_value": 4180988,
+          "data": 4180988
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_audio_fifo_drain",
+          "hint": 20,
+          "iat_address": 4176784,
+          "iat_value": 4181012,
+          "data": 4181012
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_audio_fifo_free",
+          "hint": 21,
+          "iat_address": 4176788,
+          "iat_value": 4181036,
+          "data": 4181036
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_audio_fifo_peek",
+          "hint": 22,
+          "iat_address": 4176792,
+          "iat_value": 4181060,
+          "data": 4181060
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_audio_fifo_peek_at",
+          "hint": 23,
+          "iat_address": 4176796,
+          "iat_value": 4181084,
+          "data": 4181084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_audio_fifo_read",
+          "hint": 24,
+          "iat_address": 4176800,
+          "iat_value": 4181108,
+          "data": 4181108
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_audio_fifo_realloc",
+          "hint": 25,
+          "iat_address": 4176804,
+          "iat_value": 4181132,
+          "data": 4181132
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_audio_fifo_size",
+          "hint": 27,
+          "iat_address": 4176808,
+          "iat_value": 4181156,
+          "data": 4181156
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_audio_fifo_space",
+          "hint": 28,
+          "iat_address": 4176812,
+          "iat_value": 4181180,
+          "data": 4181180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_audio_fifo_write",
+          "hint": 29,
+          "iat_address": 4176816,
+          "iat_value": 4181204,
+          "data": 4181204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_bprint_channel_layout",
+          "hint": 39,
+          "iat_address": 4176820,
+          "iat_value": 4181228,
+          "data": 4181228
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_bprint_chars",
+          "hint": 40,
+          "iat_address": 4176824,
+          "iat_value": 4181256,
+          "data": 4181256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_bprint_clear",
+          "hint": 41,
+          "iat_address": 4176828,
+          "iat_value": 4181276,
+          "data": 4181276
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_bprint_finalize",
+          "hint": 43,
+          "iat_address": 4176832,
+          "iat_value": 4181296,
+          "data": 4181296
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_bprint_init",
+          "hint": 45,
+          "iat_address": 4176836,
+          "iat_value": 4181320,
+          "data": 4181320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_bprint_strftime",
+          "hint": 47,
+          "iat_address": 4176840,
+          "iat_value": 4181340,
+          "data": 4181340
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_bprintf",
+          "hint": 48,
+          "iat_address": 4176844,
+          "iat_value": 4181364,
+          "data": 4181364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_buffer_alloc",
+          "hint": 49,
+          "iat_address": 4176848,
+          "iat_value": 4181380,
+          "data": 4181380
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_buffer_allocz",
+          "hint": 50,
+          "iat_address": 4176852,
+          "iat_value": 4181400,
+          "data": 4181400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_buffer_pool_get",
+          "hint": 57,
+          "iat_address": 4176856,
+          "iat_value": 4181420,
+          "data": 4181420
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_buffer_pool_init",
+          "hint": 58,
+          "iat_address": 4176860,
+          "iat_value": 4181444,
+          "data": 4181444
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_buffer_pool_uninit",
+          "hint": 60,
+          "iat_address": 4176864,
+          "iat_value": 4181468,
+          "data": 4181468
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_buffer_ref",
+          "hint": 62,
+          "iat_address": 4176868,
+          "iat_value": 4181492,
+          "data": 4181492
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_buffer_unref",
+          "hint": 63,
+          "iat_address": 4176872,
+          "iat_value": 4181508,
+          "data": 4181508
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_calloc",
+          "hint": 64,
+          "iat_address": 4176876,
+          "iat_value": 4181528,
+          "data": 4181528
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_channel_layout_extract_channel",
+          "hint": 74,
+          "iat_address": 4176880,
+          "iat_value": 4181540,
+          "data": 4181540
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_color_primaries_name",
+          "hint": 77,
+          "iat_address": 4176884,
+          "iat_value": 4181576,
+          "data": 4181576
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_color_range_name",
+          "hint": 78,
+          "iat_address": 4176888,
+          "iat_value": 4181604,
+          "data": 4181604
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_color_space_name",
+          "hint": 79,
+          "iat_address": 4176892,
+          "iat_value": 4181628,
+          "data": 4181628
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_color_transfer_name",
+          "hint": 80,
+          "iat_address": 4176896,
+          "iat_value": 4181652,
+          "data": 4181652
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_compare_ts",
+          "hint": 82,
+          "iat_address": 4176900,
+          "iat_value": 4181680,
+          "data": 4181680
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_cpu_count",
+          "hint": 83,
+          "iat_address": 4176904,
+          "iat_value": 4181696,
+          "data": 4181696
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_d2q",
+          "hint": 87,
+          "iat_address": 4176908,
+          "iat_value": 4181712,
+          "data": 4181712
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_default_item_name",
+          "hint": 90,
+          "iat_address": 4176912,
+          "iat_value": 4181724,
+          "data": 4181724
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_dict_free",
+          "hint": 97,
+          "iat_address": 4176916,
+          "iat_value": 4181748,
+          "data": 4181748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_dict_get",
+          "hint": 98,
+          "iat_address": 4176920,
+          "iat_value": 4181764,
+          "data": 4181764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_dict_set",
+          "hint": 101,
+          "iat_address": 4176924,
+          "iat_value": 4181780,
+          "data": 4181780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_dict_set_int",
+          "hint": 102,
+          "iat_address": 4176928,
+          "iat_value": 4181796,
+          "data": 4181796
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_display_rotation_get",
+          "hint": 105,
+          "iat_address": 4176932,
+          "iat_value": 4181816,
+          "data": 4181816
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_div_q",
+          "hint": 108,
+          "iat_address": 4176936,
+          "iat_value": 4181844,
+          "data": 4181844
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_dynarray2_add",
+          "hint": 110,
+          "iat_address": 4176940,
+          "iat_value": 4181856,
+          "data": 4181856
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_dynarray_add",
+          "hint": 111,
+          "iat_address": 4176944,
+          "iat_value": 4181876,
+          "data": 4181876
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_expr_eval",
+          "hint": 114,
+          "iat_address": 4176948,
+          "iat_value": 4181896,
+          "data": 4181896
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_expr_free",
+          "hint": 115,
+          "iat_address": 4176952,
+          "iat_value": 4181912,
+          "data": 4181912
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_expr_parse",
+          "hint": 116,
+          "iat_address": 4176956,
+          "iat_value": 4181928,
+          "data": 4181928
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_expr_parse_and_eval",
+          "hint": 117,
+          "iat_address": 4176960,
+          "iat_value": 4181944,
+          "data": 4181944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fast_malloc",
+          "hint": 118,
+          "iat_address": 4176964,
+          "iat_value": 4181972,
+          "data": 4181972
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fast_realloc",
+          "hint": 120,
+          "iat_address": 4176968,
+          "iat_value": 4181992,
+          "data": 4181992
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fifo_alloc",
+          "hint": 121,
+          "iat_address": 4176972,
+          "iat_value": 4182012,
+          "data": 4182012
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fifo_alloc_array",
+          "hint": 122,
+          "iat_address": 4176976,
+          "iat_value": 4182028,
+          "data": 4182028
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fifo_freep",
+          "hint": 125,
+          "iat_address": 4176980,
+          "iat_value": 4182052,
+          "data": 4182052
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fifo_generic_read",
+          "hint": 128,
+          "iat_address": 4176984,
+          "iat_value": 4182068,
+          "data": 4182068
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fifo_generic_write",
+          "hint": 129,
+          "iat_address": 4176988,
+          "iat_value": 4182092,
+          "data": 4182092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fifo_realloc2",
+          "hint": 131,
+          "iat_address": 4176992,
+          "iat_value": 4182116,
+          "data": 4182116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fifo_size",
+          "hint": 133,
+          "iat_address": 4176996,
+          "iat_value": 4182136,
+          "data": 4182136
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fifo_space",
+          "hint": 134,
+          "iat_address": 4177000,
+          "iat_value": 4182152,
+          "data": 4182152
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_file_map",
+          "hint": 135,
+          "iat_address": 4177004,
+          "iat_value": 4182168,
+          "data": 4182168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_file_unmap",
+          "hint": 136,
+          "iat_address": 4177008,
+          "iat_value": 4182184,
+          "data": 4182184
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_find_best_pix_fmt_of_2",
+          "hint": 137,
+          "iat_address": 4177012,
+          "iat_value": 4182200,
+          "data": 4182200
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_fopen_utf8",
+          "hint": 140,
+          "iat_address": 4177016,
+          "iat_value": 4182228,
+          "data": 4182228
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_alloc",
+          "hint": 142,
+          "iat_address": 4177020,
+          "iat_value": 4182244,
+          "data": 4182244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_clone",
+          "hint": 143,
+          "iat_address": 4177024,
+          "iat_value": 4182264,
+          "data": 4182264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_copy",
+          "hint": 144,
+          "iat_address": 4177028,
+          "iat_value": 4182284,
+          "data": 4182284
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_copy_props",
+          "hint": 145,
+          "iat_address": 4177032,
+          "iat_value": 4182300,
+          "data": 4182300
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_free",
+          "hint": 146,
+          "iat_address": 4177036,
+          "iat_value": 4182324,
+          "data": 4182324
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_best_effort_timestamp",
+          "hint": 147,
+          "iat_address": 4177040,
+          "iat_value": 4182340,
+          "data": 4182340
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_buffer",
+          "hint": 148,
+          "iat_address": 4177044,
+          "iat_value": 4182380,
+          "data": 4182380
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_channels",
+          "hint": 150,
+          "iat_address": 4177048,
+          "iat_value": 4182404,
+          "data": 4182404
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_color_range",
+          "hint": 151,
+          "iat_address": 4177052,
+          "iat_value": 4182428,
+          "data": 4182428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_colorspace",
+          "hint": 152,
+          "iat_address": 4177056,
+          "iat_value": 4182456,
+          "data": 4182456
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_metadata",
+          "hint": 154,
+          "iat_address": 4177060,
+          "iat_value": 4182484,
+          "data": 4182484
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_pkt_duration",
+          "hint": 155,
+          "iat_address": 4177064,
+          "iat_value": 4182508,
+          "data": 4182508
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_pkt_pos",
+          "hint": 156,
+          "iat_address": 4177068,
+          "iat_value": 4182536,
+          "data": 4182536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_plane_buffer",
+          "hint": 158,
+          "iat_address": 4177072,
+          "iat_value": 4182560,
+          "data": 4182560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_qp_table",
+          "hint": 159,
+          "iat_address": 4177076,
+          "iat_value": 4182588,
+          "data": 4182588
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_get_side_data",
+          "hint": 161,
+          "iat_address": 4177080,
+          "iat_value": 4182612,
+          "data": 4182612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_is_writable",
+          "hint": 162,
+          "iat_address": 4177084,
+          "iat_value": 4182640,
+          "data": 4182640
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_make_writable",
+          "hint": 163,
+          "iat_address": 4177088,
+          "iat_value": 4182664,
+          "data": 4182664
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_move_ref",
+          "hint": 164,
+          "iat_address": 4177092,
+          "iat_value": 4182692,
+          "data": 4182692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_new_side_data",
+          "hint": 165,
+          "iat_address": 4177096,
+          "iat_value": 4182712,
+          "data": 4182712
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_ref",
+          "hint": 166,
+          "iat_address": 4177100,
+          "iat_value": 4182740,
+          "data": 4182740
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_remove_side_data",
+          "hint": 167,
+          "iat_address": 4177104,
+          "iat_value": 4182756,
+          "data": 4182756
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_set_channels",
+          "hint": 170,
+          "iat_address": 4177108,
+          "iat_value": 4182784,
+          "data": 4182784
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_set_color_range",
+          "hint": 171,
+          "iat_address": 4177112,
+          "iat_value": 4182808,
+          "data": 4182808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_set_colorspace",
+          "hint": 172,
+          "iat_address": 4177116,
+          "iat_value": 4182836,
+          "data": 4182836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_set_qp_table",
+          "hint": 178,
+          "iat_address": 4177120,
+          "iat_value": 4182864,
+          "data": 4182864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_frame_unref",
+          "hint": 181,
+          "iat_address": 4177124,
+          "iat_value": 4182888,
+          "data": 4182888
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_free",
+          "hint": 182,
+          "iat_address": 4177128,
+          "iat_value": 4182908,
+          "data": 4182908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_freep",
+          "hint": 183,
+          "iat_address": 4177132,
+          "iat_value": 4182920,
+          "data": 4182920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_gcd",
+          "hint": 184,
+          "iat_address": 4177136,
+          "iat_value": 4182932,
+          "data": 4182932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_bits_per_pixel",
+          "hint": 186,
+          "iat_address": 4177140,
+          "iat_value": 4182944,
+          "data": 4182944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_bytes_per_sample",
+          "hint": 187,
+          "iat_address": 4177144,
+          "iat_value": 4182968,
+          "data": 4182968
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_channel_layout",
+          "hint": 189,
+          "iat_address": 4177148,
+          "iat_value": 4182996,
+          "data": 4182996
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_channel_layout_channel_index",
+          "hint": 190,
+          "iat_address": 4177152,
+          "iat_value": 4183020,
+          "data": 4183020
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_channel_layout_nb_channels",
+          "hint": 191,
+          "iat_address": 4177156,
+          "iat_value": 4183060,
+          "data": 4183060
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_channel_layout_string",
+          "hint": 192,
+          "iat_address": 4177160,
+          "iat_value": 4183096,
+          "data": 4183096
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_channel_name",
+          "hint": 193,
+          "iat_address": 4177164,
+          "iat_value": 4183128,
+          "data": 4183128
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_cpu_flags",
+          "hint": 195,
+          "iat_address": 4177168,
+          "iat_value": 4183152,
+          "data": 4183152
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_default_channel_layout",
+          "hint": 196,
+          "iat_address": 4177172,
+          "iat_value": 4183172,
+          "data": 4183172
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_media_type_string",
+          "hint": 198,
+          "iat_address": 4177176,
+          "iat_value": 4183204,
+          "data": 4183204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_packed_sample_fmt",
+          "hint": 199,
+          "iat_address": 4177180,
+          "iat_value": 4183232,
+          "data": 4183232
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_padded_bits_per_pixel",
+          "hint": 200,
+          "iat_address": 4177184,
+          "iat_value": 4183260,
+          "data": 4183260
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_picture_type_char",
+          "hint": 201,
+          "iat_address": 4177188,
+          "iat_value": 4183292,
+          "data": 4183292
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_pix_fmt",
+          "hint": 202,
+          "iat_address": 4177192,
+          "iat_value": 4183320,
+          "data": 4183320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_pix_fmt_name",
+          "hint": 204,
+          "iat_address": 4177196,
+          "iat_value": 4183340,
+          "data": 4183340
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_planar_sample_fmt",
+          "hint": 206,
+          "iat_address": 4177200,
+          "iat_value": 4183364,
+          "data": 4183364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_random_seed",
+          "hint": 207,
+          "iat_address": 4177204,
+          "iat_value": 4183392,
+          "data": 4183392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_sample_fmt",
+          "hint": 208,
+          "iat_address": 4177208,
+          "iat_value": 4183416,
+          "data": 4183416
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_sample_fmt_name",
+          "hint": 209,
+          "iat_address": 4177212,
+          "iat_value": 4183436,
+          "data": 4183436
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_get_token",
+          "hint": 213,
+          "iat_address": 4177216,
+          "iat_value": 4183464,
+          "data": 4183464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_gettime",
+          "hint": 214,
+          "iat_address": 4177220,
+          "iat_value": 4183480,
+          "data": 4183480
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_gettime_relative",
+          "hint": 215,
+          "iat_address": 4177224,
+          "iat_value": 4183496,
+          "data": 4183496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_hwdevice_get_hwframe_constraints",
+          "hint": 237,
+          "iat_address": 4177228,
+          "iat_value": 4183520,
+          "data": 4183520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_hwframe_constraints_free",
+          "hint": 239,
+          "iat_address": 4177232,
+          "iat_value": 4183560,
+          "data": 4183560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_hwframe_ctx_alloc",
+          "hint": 240,
+          "iat_address": 4177236,
+          "iat_value": 4183592,
+          "data": 4183592
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_hwframe_ctx_init",
+          "hint": 241,
+          "iat_address": 4177240,
+          "iat_value": 4183616,
+          "data": 4183616
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_hwframe_get_buffer",
+          "hint": 242,
+          "iat_address": 4177244,
+          "iat_value": 4183640,
+          "data": 4183640
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_hwframe_transfer_data",
+          "hint": 243,
+          "iat_address": 4177248,
+          "iat_value": 4183664,
+          "data": 4183664
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_hwframe_transfer_get_formats",
+          "hint": 244,
+          "iat_address": 4177252,
+          "iat_value": 4183692,
+          "data": 4183692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_image_alloc",
+          "hint": 246,
+          "iat_address": 4177256,
+          "iat_value": 4183728,
+          "data": 4183728
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_image_check_size",
+          "hint": 248,
+          "iat_address": 4177260,
+          "iat_value": 4183748,
+          "data": 4183748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_image_copy",
+          "hint": 249,
+          "iat_address": 4177264,
+          "iat_value": 4183772,
+          "data": 4183772
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_image_copy_plane",
+          "hint": 250,
+          "iat_address": 4177268,
+          "iat_value": 4183788,
+          "data": 4183788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_image_fill_linesizes",
+          "hint": 253,
+          "iat_address": 4177272,
+          "iat_value": 4183812,
+          "data": 4183812
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_image_fill_max_pixsteps",
+          "hint": 254,
+          "iat_address": 4177276,
+          "iat_value": 4183840,
+          "data": 4183840
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_image_get_linesize",
+          "hint": 257,
+          "iat_address": 4177280,
+          "iat_value": 4183872,
+          "data": 4183872
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_int_list_length_for_size",
+          "hint": 259,
+          "iat_address": 4177284,
+          "iat_value": 4183896,
+          "data": 4183896
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_lfg_init",
+          "hint": 260,
+          "iat_address": 4177288,
+          "iat_value": 4183928,
+          "data": 4183928
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_log",
+          "hint": 261,
+          "iat_address": 4177292,
+          "iat_value": 4183944,
+          "data": 4183944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_log_get_level",
+          "hint": 269,
+          "iat_address": 4177296,
+          "iat_value": 4183956,
+          "data": 4183956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_malloc",
+          "hint": 274,
+          "iat_address": 4177300,
+          "iat_value": 4183976,
+          "data": 4183976
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_mallocz",
+          "hint": 275,
+          "iat_address": 4177304,
+          "iat_value": 4183988,
+          "data": 4183988
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_memdup",
+          "hint": 288,
+          "iat_address": 4177308,
+          "iat_value": 4184004,
+          "data": 4184004
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_mul_q",
+          "hint": 291,
+          "iat_address": 4177312,
+          "iat_value": 4184016,
+          "data": 4184016
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_eval_flags",
+          "hint": 302,
+          "iat_address": 4177316,
+          "iat_value": 4184028,
+          "data": 4184028
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_find",
+          "hint": 307,
+          "iat_address": 4177320,
+          "iat_value": 4184048,
+          "data": 4184048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_free",
+          "hint": 310,
+          "iat_address": 4177324,
+          "iat_value": 4184064,
+          "data": 4184064
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_get_int",
+          "hint": 317,
+          "iat_address": 4177328,
+          "iat_value": 4184080,
+          "data": 4184080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_get_key_value",
+          "hint": 318,
+          "iat_address": 4177332,
+          "iat_value": 4184100,
+          "data": 4184100
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_get_sample_fmt",
+          "hint": 321,
+          "iat_address": 4177336,
+          "iat_value": 4184124,
+          "data": 4184124
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_next",
+          "hint": 325,
+          "iat_address": 4177340,
+          "iat_value": 4184148,
+          "data": 4184148
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_set",
+          "hint": 330,
+          "iat_address": 4177344,
+          "iat_value": 4184164,
+          "data": 4184164
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_set_bin",
+          "hint": 331,
+          "iat_address": 4177348,
+          "iat_value": 4184180,
+          "data": 4184180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_set_defaults",
+          "hint": 333,
+          "iat_address": 4177352,
+          "iat_value": 4184200,
+          "data": 4184200
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_set_dict",
+          "hint": 335,
+          "iat_address": 4177356,
+          "iat_value": 4184224,
+          "data": 4184224
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_set_int",
+          "hint": 341,
+          "iat_address": 4177360,
+          "iat_value": 4184244,
+          "data": 4184244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_opt_set_sample_fmt",
+          "hint": 344,
+          "iat_address": 4177364,
+          "iat_value": 4184264,
+          "data": 4184264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_parse_color",
+          "hint": 347,
+          "iat_address": 4177368,
+          "iat_value": 4184288,
+          "data": 4184288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_parse_ratio",
+          "hint": 350,
+          "iat_address": 4177372,
+          "iat_value": 4184308,
+          "data": 4184308
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_parse_time",
+          "hint": 351,
+          "iat_address": 4177376,
+          "iat_value": 4184328,
+          "data": 4184328
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_parse_video_size",
+          "hint": 353,
+          "iat_address": 4177380,
+          "iat_value": 4184344,
+          "data": 4184344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_pix_fmt_count_planes",
+          "hint": 354,
+          "iat_address": 4177384,
+          "iat_value": 4184368,
+          "data": 4184368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_pix_fmt_desc_get",
+          "hint": 355,
+          "iat_address": 4177388,
+          "iat_value": 4184396,
+          "data": 4184396
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_pix_fmt_desc_get_id",
+          "hint": 356,
+          "iat_address": 4177392,
+          "iat_value": 4184420,
+          "data": 4184420
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_pix_fmt_desc_next",
+          "hint": 357,
+          "iat_address": 4177396,
+          "iat_value": 4184448,
+          "data": 4184448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_pixelutils_get_sad_fn",
+          "hint": 360,
+          "iat_address": 4177400,
+          "iat_value": 4184472,
+          "data": 4184472
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_read_image_line",
+          "hint": 365,
+          "iat_address": 4177404,
+          "iat_value": 4184500,
+          "data": 4184500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_realloc",
+          "hint": 366,
+          "iat_address": 4177408,
+          "iat_value": 4184524,
+          "data": 4184524
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_realloc_array",
+          "hint": 367,
+          "iat_address": 4177412,
+          "iat_value": 4184540,
+          "data": 4184540
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_realloc_f",
+          "hint": 368,
+          "iat_address": 4177416,
+          "iat_value": 4184560,
+          "data": 4184560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_reallocp_array",
+          "hint": 370,
+          "iat_address": 4177420,
+          "iat_value": 4184576,
+          "data": 4184576
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_reduce",
+          "hint": 371,
+          "iat_address": 4177424,
+          "iat_value": 4184596,
+          "data": 4184596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_rescale",
+          "hint": 372,
+          "iat_address": 4177428,
+          "iat_value": 4184608,
+          "data": 4184608
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_rescale_q",
+          "hint": 374,
+          "iat_address": 4177432,
+          "iat_value": 4184624,
+          "data": 4184624
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_rescale_q_rnd",
+          "hint": 375,
+          "iat_address": 4177436,
+          "iat_value": 4184640,
+          "data": 4184640
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_rescale_rnd",
+          "hint": 376,
+          "iat_address": 4177440,
+          "iat_value": 4184660,
+          "data": 4184660
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_sample_fmt_is_planar",
+          "hint": 382,
+          "iat_address": 4177444,
+          "iat_value": 4184680,
+          "data": 4184680
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_samples_alloc_array_and_samples",
+          "hint": 384,
+          "iat_address": 4177448,
+          "iat_value": 4184708,
+          "data": 4184708
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_samples_copy",
+          "hint": 385,
+          "iat_address": 4177452,
+          "iat_value": 4184748,
+          "data": 4184748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_samples_set_silence",
+          "hint": 388,
+          "iat_address": 4177456,
+          "iat_value": 4184768,
+          "data": 4184768
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_set_options_string",
+          "hint": 390,
+          "iat_address": 4177460,
+          "iat_value": 4184796,
+          "data": 4184796
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_stereo3d_create_side_data",
+          "hint": 404,
+          "iat_address": 4177464,
+          "iat_value": 4184820,
+          "data": 4184820
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_strcasecmp",
+          "hint": 407,
+          "iat_address": 4177468,
+          "iat_value": 4184852,
+          "data": 4184852
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_strdup",
+          "hint": 408,
+          "iat_address": 4177472,
+          "iat_value": 4184868,
+          "data": 4184868
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_strerror",
+          "hint": 409,
+          "iat_address": 4177476,
+          "iat_value": 4184880,
+          "data": 4184880
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_strlcatf",
+          "hint": 413,
+          "iat_address": 4177480,
+          "iat_value": 4184896,
+          "data": 4184896
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_strlcpy",
+          "hint": 414,
+          "iat_address": 4177484,
+          "iat_value": 4184912,
+          "data": 4184912
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_strtod",
+          "hint": 419,
+          "iat_address": 4177488,
+          "iat_value": 4184928,
+          "data": 4184928
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_strtok",
+          "hint": 420,
+          "iat_address": 4177492,
+          "iat_value": 4184940,
+          "data": 4184940
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_timecode_init_from_string",
+          "hint": 440,
+          "iat_address": 4177496,
+          "iat_value": 4184952,
+          "data": 4184952
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_timecode_make_string",
+          "hint": 443,
+          "iat_address": 4177500,
+          "iat_value": 4184984,
+          "data": 4184984
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_tree_destroy",
+          "hint": 445,
+          "iat_address": 4177504,
+          "iat_value": 4185012,
+          "data": 4185012
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_tree_enumerate",
+          "hint": 446,
+          "iat_address": 4177508,
+          "iat_value": 4185032,
+          "data": 4185032
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_tree_find",
+          "hint": 447,
+          "iat_address": 4177512,
+          "iat_value": 4185052,
+          "data": 4185052
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_tree_insert",
+          "hint": 448,
+          "iat_address": 4177516,
+          "iat_value": 4185068,
+          "data": 4185068
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_tree_node_alloc",
+          "hint": 449,
+          "iat_address": 4177520,
+          "iat_value": 4185088,
+          "data": 4185088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_usleep",
+          "hint": 455,
+          "iat_address": 4177524,
+          "iat_value": 4185112,
+          "data": 4185112
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_vlog",
+          "hint": 460,
+          "iat_address": 4177528,
+          "iat_value": 4185124,
+          "data": 4185124
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "av_write_image_line",
+          "hint": 461,
+          "iat_address": 4177532,
+          "iat_value": 4185136,
+          "data": 4185136
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avpriv_cga_font",
+          "hint": 468,
+          "iat_address": 4177536,
+          "iat_value": 4185160,
+          "data": 4185160
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avpriv_float_dsp_alloc",
+          "hint": 470,
+          "iat_address": 4177540,
+          "iat_value": 4185180,
+          "data": 4185180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avpriv_frame_get_metadatap",
+          "hint": 471,
+          "iat_address": 4177544,
+          "iat_value": 4185208,
+          "data": 4185208
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avpriv_set_systematic_pal2",
+          "hint": 479,
+          "iat_address": 4177548,
+          "iat_value": 4185240,
+          "data": 4185240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "avpriv_vga16_font",
+          "hint": 482,
+          "iat_address": 4177552,
+          "iat_value": 4185272,
+          "data": 4185272
+        }
+      ],
+      "function_count": 196
+    },
+    {
+      "name": "postproc-54.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 4177560,
+      "import_lookup_table_rva": 4175724,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "pp_free_context",
+          "hint": 4,
+          "iat_address": 4177560,
+          "iat_value": 4185292,
+          "data": 4185292
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "pp_free_mode",
+          "hint": 5,
+          "iat_address": 4177564,
+          "iat_value": 4185312,
+          "data": 4185312
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "pp_get_context",
+          "hint": 6,
+          "iat_address": 4177568,
+          "iat_value": 4185328,
+          "data": 4185328
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "pp_get_mode_by_name_and_quality",
+          "hint": 7,
+          "iat_address": 4177572,
+          "iat_value": 4185348,
+          "data": 4185348
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "pp_postprocess",
+          "hint": 9,
+          "iat_address": 4177576,
+          "iat_value": 4185384,
+          "data": 4185384
+        }
+      ],
+      "function_count": 5
+    },
+    {
+      "name": "swresample-2.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 4177584,
+      "import_lookup_table_rva": 4175748,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "swr_alloc",
+          "hint": 0,
+          "iat_address": 4177584,
+          "iat_value": 4185404,
+          "data": 4185404
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "swr_alloc_set_opts",
+          "hint": 1,
+          "iat_address": 4177588,
+          "iat_value": 4185416,
+          "data": 4185416
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "swr_convert",
+          "hint": 5,
+          "iat_address": 4177592,
+          "iat_value": 4185440,
+          "data": 4185440
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "swr_free",
+          "hint": 9,
+          "iat_address": 4177596,
+          "iat_value": 4185456,
+          "data": 4185456
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "swr_get_class",
+          "hint": 10,
+          "iat_address": 4177600,
+          "iat_value": 4185468,
+          "data": 4185468
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "swr_get_delay",
+          "hint": 11,
+          "iat_address": 4177604,
+          "iat_value": 4185484,
+          "data": 4185484
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "swr_init",
+          "hint": 13,
+          "iat_address": 4177608,
+          "iat_value": 4185500,
+          "data": 4185500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "swr_next_pts",
+          "hint": 16,
+          "iat_address": 4177612,
+          "iat_value": 4185512,
+          "data": 4185512
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "swr_set_channel_mapping",
+          "hint": 17,
+          "iat_address": 4177616,
+          "iat_value": 4185528,
+          "data": 4185528
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "swr_set_matrix",
+          "hint": 19,
+          "iat_address": 4177620,
+          "iat_value": 4185556,
+          "data": 4185556
+        }
+      ],
+      "function_count": 10
+    },
+    {
+      "name": "swscale-4.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 4177628,
+      "import_lookup_table_rva": 4175792,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_alloc_context",
+          "hint": 2,
+          "iat_address": 4177628,
+          "iat_value": 4185576,
+          "data": 4185576
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_freeContext",
+          "hint": 8,
+          "iat_address": 4177632,
+          "iat_value": 4185596,
+          "data": 4185596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_freeVec",
+          "hint": 10,
+          "iat_address": 4177636,
+          "iat_value": 4185616,
+          "data": 4185616
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_getCachedContext",
+          "hint": 11,
+          "iat_address": 4177640,
+          "iat_value": 4185632,
+          "data": 4185632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_getCoefficients",
+          "hint": 12,
+          "iat_address": 4177644,
+          "iat_value": 4185656,
+          "data": 4185656
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_getColorspaceDetails",
+          "hint": 13,
+          "iat_address": 4177648,
+          "iat_value": 4185680,
+          "data": 4185680
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_getContext",
+          "hint": 15,
+          "iat_address": 4177652,
+          "iat_value": 4185708,
+          "data": 4185708
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_getGaussianVec",
+          "hint": 17,
+          "iat_address": 4177656,
+          "iat_value": 4185728,
+          "data": 4185728
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_get_class",
+          "hint": 19,
+          "iat_address": 4177660,
+          "iat_value": 4185752,
+          "data": 4185752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_init_context",
+          "hint": 20,
+          "iat_address": 4177664,
+          "iat_value": 4185768,
+          "data": 4185768
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_isSupportedEndiannessConversion",
+          "hint": 21,
+          "iat_address": 4177668,
+          "iat_value": 4185788,
+          "data": 4185788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_isSupportedInput",
+          "hint": 22,
+          "iat_address": 4177672,
+          "iat_value": 4185828,
+          "data": 4185828
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_isSupportedOutput",
+          "hint": 23,
+          "iat_address": 4177676,
+          "iat_value": 4185852,
+          "data": 4185852
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_scale",
+          "hint": 26,
+          "iat_address": 4177680,
+          "iat_value": 4185876,
+          "data": 4185876
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_scaleVec",
+          "hint": 27,
+          "iat_address": 4177684,
+          "iat_value": 4185888,
+          "data": 4185888
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sws_setColorspaceDetails",
+          "hint": 28,
+          "iat_address": 4177688,
+          "iat_value": 4185904,
+          "data": 4185904
+        }
+      ],
+      "function_count": 16
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "avfilter-6.dll",
+    "export_flags": 0,
+    "timestamp": 1481937443,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 63,
+    "entries": [
+      {
+        "name": "av_abuffersink_params_alloc",
+        "ordinal": 1,
+        "address": 293328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersink_get_frame",
+        "ordinal": 2,
+        "address": 292176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersink_get_frame_flags",
+        "ordinal": 3,
+        "address": 292224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersink_get_frame_rate",
+        "ordinal": 4,
+        "address": 293392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersink_get_samples",
+        "ordinal": 5,
+        "address": 292496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersink_params_alloc",
+        "ordinal": 6,
+        "address": 293296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersink_set_frame_size",
+        "ordinal": 7,
+        "address": 293360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersrc_add_frame",
+        "ordinal": 8,
+        "address": 295456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersrc_add_frame_flags",
+        "ordinal": 9,
+        "address": 296160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersrc_get_nb_failed_requests",
+        "ordinal": 10,
+        "address": 296384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersrc_parameters_alloc",
+        "ordinal": 11,
+        "address": 294912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersrc_parameters_set",
+        "ordinal": 12,
+        "address": 294944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffersrc_write_frame",
+        "ordinal": 13,
+        "address": 295216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_filter_ffversion",
+        "ordinal": 14,
+        "address": 3440532,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_filter_next",
+        "ordinal": 15,
+        "address": 273312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_add_matrix",
+        "ordinal": 16,
+        "address": 430928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_all_channel_layouts",
+        "ordinal": 17,
+        "address": 3470112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_config_links",
+        "ordinal": 18,
+        "address": 268208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_configuration",
+        "ordinal": 19,
+        "address": 266224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_free",
+        "ordinal": 20,
+        "address": 274096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_get_by_name",
+        "ordinal": 21,
+        "address": 273056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_get_class",
+        "ordinal": 22,
+        "address": 276784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_get_matrix",
+        "ordinal": 23,
+        "address": 430800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_add_filter",
+        "ordinal": 24,
+        "address": 282624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_alloc",
+        "ordinal": 25,
+        "address": 282208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_alloc_filter",
+        "ordinal": 26,
+        "address": 282992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_config",
+        "ordinal": 27,
+        "address": 283280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_create_filter",
+        "ordinal": 28,
+        "address": 282704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_dump",
+        "ordinal": 29,
+        "address": 397600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_free",
+        "ordinal": 30,
+        "address": 282464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_get_filter",
+        "ordinal": 31,
+        "address": 283184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_parse",
+        "ordinal": 32,
+        "address": 401328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_parse2",
+        "ordinal": 33,
+        "address": 400464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_parse_ptr",
+        "ordinal": 34,
+        "address": 402240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_queue_command",
+        "ordinal": 35,
+        "address": 289200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_request_oldest",
+        "ordinal": 36,
+        "address": 290032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_send_command",
+        "ordinal": 37,
+        "address": 288816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_graph_set_auto_convert",
+        "ordinal": 38,
+        "address": 282976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_init_dict",
+        "ordinal": 39,
+        "address": 274496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_init_filter",
+        "ordinal": 40,
+        "address": 275776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_init_str",
+        "ordinal": 41,
+        "address": 274800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_inout_alloc",
+        "ordinal": 42,
+        "address": 400368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_inout_free",
+        "ordinal": 43,
+        "address": 400400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_insert_filter",
+        "ordinal": 44,
+        "address": 267552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_license",
+        "ordinal": 45,
+        "address": 266240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_link",
+        "ordinal": 46,
+        "address": 266720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_link_free",
+        "ordinal": 47,
+        "address": 267088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_link_get_channels",
+        "ordinal": 48,
+        "address": 267168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_link_set_closed",
+        "ordinal": 49,
+        "address": 267504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_make_format64_list",
+        "ordinal": 50,
+        "address": 384624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_mul_matrix",
+        "ordinal": 51,
+        "address": 431152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_next",
+        "ordinal": 52,
+        "address": 273280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_open",
+        "ordinal": 53,
+        "address": 274048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_pad_count",
+        "ordinal": 54,
+        "address": 273360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_pad_get_name",
+        "ordinal": 55,
+        "address": 275792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_pad_get_type",
+        "ordinal": 56,
+        "address": 275824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_process_command",
+        "ordinal": 57,
+        "address": 271008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_register",
+        "ordinal": 58,
+        "address": 273136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_register_all",
+        "ordinal": 59,
+        "address": 188304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_sub_matrix",
+        "ordinal": 60,
+        "address": 431040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_transform",
+        "ordinal": 61,
+        "address": 431248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_uninit",
+        "ordinal": 62,
+        "address": 273344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avfilter_version",
+        "ordinal": 63,
+        "address": 266208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 1,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 4101720,
+        "size": 792,
+        "entropy": 3.407138,
+        "sha256": "e0079fd2c9b40ebb19898f03ae3dca27ba6ccebea090bf3c2e44ec2a0fcede87",
+        "magic_head": "1803340000005600"
+      }
+    ],
+    "total_size": 792,
+    "max_entropy": 3.407138
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 0,
+    "key": null,
+    "entries": null,
+    "raw_hex": null,
+    "raw_offset": null,
+    "raw_size": null,
+    "entry_count": null
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 4169728,
+      "size": 2131,
+      "section": ".edata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 4173824,
+      "size": 14048,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 4198400,
+      "size": 880,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 4202496,
+      "size": 104792,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 4194308,
+      "size": 24,
+      "section": ".tls",
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 4175860,
+      "size": 1836,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 0,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": null
+  },
+  "entrypoint_bytes": {
+    "offset": 2048,
+    "hex": "83ec1cc705d0853f10000000008b54242483fa01741a8b4c24288b442420e84dfeffff83c41cc20c008db426000000008954240ce8b79b13008b54240cebd790",
+    "entropy": 4.796973
+  },
+  "load_config": {
+    "present": 0,
+    "security_cookie": null,
+    "se_handler_count": null,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 1,
+    "callback_count": 2,
+    "callbacks": [
+      269726080,
+      269726000
+    ],
+    "addressof_callbacks": 272625688,
+    "addressof_index": 272598476,
+    "addressof_raw_data_start": 272629760,
+    "addressof_raw_data_end": 272629788,
+    "raw_data_size": 28,
+    "sizeof_zero_fill": 0,
+    "characteristics": 0,
+    "section": ".tls",
+    "data_template_hex": "00000000000040101c004010cc853f1018f03f100000000000000000",
+    "data_template_entropy": 2.285806
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 10,
+    "overlaps": 0,
+    "zero_raw_size": 1,
+    "raw_exceeds_virtual": 10,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 3513
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 2,
+    "minor_linker_version": 27,
+    "sizeof_code": 3233792,
+    "sizeof_initialized_data": 4206592,
+    "sizeof_uninitialized_data": 73216,
+    "addressof_entrypoint": 5120,
+    "baseof_code": 4096,
+    "baseof_data": 3239936,
+    "imagebase": 268435456,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 4,
+    "minor_operating_system_version": 0,
+    "major_image_version": 1,
+    "minor_image_version": 0,
+    "major_subsystem_version": 4,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 4308992,
+    "sizeof_headers": 1024,
+    "checksum": 4272769,
+    "subsystem": "WINDOWS_CUI",
+    "dll_characteristics_raw": 320,
+    "dll_characteristics": [
+      "DYNAMIC_BASE",
+      "NX_COMPAT"
+    ],
+    "sizeof_stack_reserve": 2097152,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 64,
+    "entropy": 4.794355,
+    "is_standard_ms": 1,
+    "sha256": "7764e7022dcac1b5779d1f96fc05af5c1fee394aaff8a3a7e9a881e1a1b163a3",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a2400000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 4272769,
+    "checksum_computed": 4272769,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 5120,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.40492
+  },
+  "overlay": {
+    "size": 0,
+    "offset": 0,
+    "entropy": null,
+    "magic_head": null,
+    "sha256": null
+  },
+  "debug": {
+    "has_debug": 0,
+    "count": 0,
+    "types": [],
+    "pdb_path": null
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 851,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 0
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "FFmpeg Project",
+    "file_description": "FFmpeg audio/video filtering library",
+    "original_filename": "avfilter-6.dll",
+    "product_name": "FFmpeg",
+    "file_version": "6.65.100",
+    "legal_copyright": "Copyright (C) 2000-2016 FFmpeg Project",
+    "internal_name": "libavfilter"
+  },
+  "strings": {
+    "count_ascii": 34180,
+    "count_utf16": 123,
+    "count_total": 34303,
+    "chars_total": 325704,
+    "printable_ratio": 0.077408,
+    "len_mean": 9.49,
+    "len_max": 858,
+    "urls": [
+      "http://gcc.gnu.org/bugs.html):",
+      "http://www.brynosaurus.com/cachedir/",
+      "http://www.w3.org/2000/xmlns/",
+      "http://www.w3.org/XML/1998/namespace"
+    ],
+    "n_urls": 4,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "avcodec-57.dll",
+      "avfilter-6.dll",
+      "avformat-57.dll",
+      "avutil-55.dll",
+      "kernel32.dll",
+      "libgcj-16.dll",
+      "msvcrt.dll",
+      "postproc-54.dll",
+      "shfolder.dll",
+      "swresample-2.dll",
+      "swscale-4.dll",
+      "tmsvcrt.dll",
+      "user32.dll"
+    ],
+    "n_dll_names": 13,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [],
+    "n_file_paths": 0
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "avfilter-6.dll",
+      "libgcj-16.dll",
+      "shfolder.dll",
+      "tmsvcrt.dll"
+    ],
+    "n_orphans": 4,
+    "n_imported": 9
+  }
+}

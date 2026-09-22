@@ -1,0 +1,4013 @@
+{
+  "sha256": "b10abcf7bc7c5f5033be78dbbc44ddb77c4ff00190c23ee082c39f64b0740cc2",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 785408,
+    "md5": "2b4507a63e811114bbc56621f2561732",
+    "sha1": "cc9a0c243068595c5db9a73b591c823cbe76a030",
+    "imphash": "3a1f40f976212fe795c8f53c4f10833c",
+    "tlsh": "T1C2F49E21BBC8C135E19E0275A9BBB76F48BA75B80310C6C7F6A4746D1E603C27A3535B",
+    "ssdeep": "12288:YdjG0mxQtkPn3ERiGHRj8HgYUyaqKzVb4Q2SVa6yT0ZwuYO99mA5kICUm3PA:YdjGYtkPn3IJ8xUyaxSSVa/sLJ99mA59",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.596875,
+    "byte_histogram_256": [
+      0.14712226,
+      0.01483051,
+      0.0077743,
+      0.00623625,
+      0.01186644,
+      0.00418381,
+      0.00762534,
+      0.00386933,
+      0.01307219,
+      0.00811935,
+      0.00576006,
+      0.00667806,
+      0.00744327,
+      0.00182453,
+      0.00127195,
+      0.00933018,
+      0.03131366,
+      0.00209318,
+      0.00102622,
+      0.00096001,
+      0.00423729,
+      0.00309011,
+      0.00136999,
+      0.00092691,
+      0.00316141,
+      0.00096128,
+      0.00055258,
+      0.00163482,
+      0.00260756,
+      0.00061242,
+      0.00150622,
+      0.00073465,
+      0.00486117,
+      0.00050929,
+      0.00076903,
+      0.00170485,
+      0.01179514,
+      0.00067863,
+      0.00045709,
+      0.00048255,
+      0.0016641,
+      0.00062261,
+      0.00044308,
+      0.00255409,
+      0.00168702,
+      0.00075375,
+      0.00084797,
+      0.00042653,
+      0.0043557,
+      0.0022587,
+      0.00256173,
+      0.00824667,
+      0.00324545,
+      0.00237202,
+      0.0020397,
+      0.00188819,
+      0.00329128,
+      0.00323271,
+      0.0022014,
+      0.00869994,
+      0.00397373,
+      0.00240767,
+      0.00225997,
+      0.00303918,
+      0.0055347,
+      0.00289276,
+      0.00222305,
+      0.00217212,
+      0.00480642,
+      0.00974907,
+      0.00313977,
+      0.00159535,
+      0.00306847,
+      0.00138272,
+      0.00096256,
+      0.00077412,
+      0.00369744,
+      0.0050687,
+      0.00187164,
+      0.00094728,
+      0.01124002,
+      0.00446392,
+      0.00282656,
+      0.00365161,
+      0.00303282,
+      0.00510817,
+      0.00499868,
+      0.00373818,
+      0.001645,
+      0.00217976,
+      0.00043035,
+      0.00263812,
+      0.00168575,
+      0.005592,
+      0.00418636,
+      0.00352046,
+      0.0020397,
+      0.0022778,
+      0.00102113,
+      0.00135471,
+      0.00378275,
+      0.00384641,
+      0.00780995,
+      0.00091545,
+      0.00375856,
+      0.00246623,
+      0.00459761,
+      0.00065316,
+      0.00287749,
+      0.0012745,
+      0.00207535,
+      0.00303791,
+      0.0034568,
+      0.0005755,
+      0.0032047,
+      0.00241785,
+      0.01240884,
+      0.0107129,
+      0.00105805,
+      0.00105041,
+      0.00203461,
+      0.00120192,
+      0.00054876,
+      0.00053985,
+      0.00243186,
+      0.00235037,
+      0.00165901,
+      0.00120447,
+      0.00515401,
+      0.00222687,
+      0.00097529,
+      0.01392143,
+      0.00477968,
+      0.00977708,
+      0.00185891,
+      0.00096256,
+      0.00255281,
+      0.0150164,
+      0.00170485,
+      0.04958951,
+      0.00141582,
+      0.01250433,
+      0.00177869,
+      0.00092945,
+      0.00235419,
+      0.00061242,
+      0.0004991,
+      0.00081614,
+      0.00131906,
+      0.00120447,
+      0.00054239,
+      0.00038961,
+      0.0010364,
+      0.00051184,
+      0.00031958,
+      0.00050292,
+      0.00124776,
+      0.00060096,
+      0.00041762,
+      0.00059205,
+      0.00160172,
+      0.00187164,
+      0.00034886,
+      0.00094728,
+      0.00146039,
+      0.00042271,
+      0.00031449,
+      0.0002852,
+      0.00180416,
+      0.0004138,
+      0.00044181,
+      0.00038579,
+      0.0015024,
+      0.00028902,
+      0.00033868,
+      0.00050674,
+      0.00185127,
+      0.00036542,
+      0.00026992,
+      0.00043544,
+      0.00106823,
+      0.00078176,
+      0.00170867,
+      0.00084797,
+      0.0023631,
+      0.00145784,
+      0.00064934,
+      0.00066844,
+      0.00127704,
+      0.00087088,
+      0.00122229,
+      0.00090526,
+      0.01129986,
+      0.0041227,
+      0.0044983,
+      0.00523677,
+      0.0045314,
+      0.00084287,
+      0.00361214,
+      0.00515783,
+      0.00325818,
+      0.00207281,
+      0.00097402,
+      0.00110261,
+      0.03057519,
+      0.0007321,
+      0.00211737,
+      0.00125031,
+      0.00411761,
+      0.00116245,
+      0.00347081,
+      0.00130251,
+      0.00136872,
+      0.0003947,
+      0.00085943,
+      0.00095619,
+      0.00295643,
+      0.00136744,
+      0.00050292,
+      0.00121593,
+      0.00137126,
+      0.00056786,
+      0.00129614,
+      0.00049401,
+      0.0027387,
+      0.00055513,
+      0.00070155,
+      0.00034377,
+      0.00171631,
+      0.00217721,
+      0.00050547,
+      0.0003374,
+      0.0167327,
+      0.00318688,
+      0.00062261,
+      0.00432132,
+      0.00492101,
+      0.00040743,
+      0.0005704,
+      0.00054112,
+      0.0040132,
+      0.00108861,
+      0.00078813,
+      0.00090781,
+      0.00266868,
+      0.00056658,
+      0.00279218,
+      0.00218867,
+      0.00472366,
+      0.00178251,
+      0.00208172,
+      0.00243186,
+      0.00449066,
+      0.00245223,
+      0.00419018,
+      0.04827809
+    ],
+    "byte_entropy_histogram_256": [
+      0.01044386,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00449015,
+      7.713e-05,
+      5.227e-05,
+      5.163e-05,
+      4.526e-05,
+      0.00017721,
+      5.418e-05,
+      4.526e-05,
+      4.653e-05,
+      2.295e-05,
+      2.359e-05,
+      2.932e-05,
+      2.996e-05,
+      2.486e-05,
+      2.486e-05,
+      2.677e-05,
+      0.00209846,
+      0.00011474,
+      2.996e-05,
+      1.02e-05,
+      3.888e-05,
+      7.522e-05,
+      3.187e-05,
+      2.422e-05,
+      2.868e-05,
+      1.275e-05,
+      2.231e-05,
+      2.231e-05,
+      2.359e-05,
+      1.912e-05,
+      1.211e-05,
+      4.653e-05,
+      0.01007797,
+      0.00128062,
+      0.00042262,
+      7.586e-05,
+      0.0001651,
+      2.996e-05,
+      6.374e-05,
+      5.928e-05,
+      0.00012621,
+      0.00025115,
+      5.036e-05,
+      4.845e-05,
+      0.00012876,
+      0.00011984,
+      0.00012303,
+      0.00133736,
+      0.00677092,
+      0.00075027,
+      0.00029577,
+      0.00032828,
+      0.00016255,
+      0.00014215,
+      0.00037545,
+      0.00020143,
+      0.00014534,
+      0.00011538,
+      6.629e-05,
+      8.988e-05,
+      8.414e-05,
+      8.351e-05,
+      0.00011092,
+      0.00072159,
+      0.01775725,
+      0.00258356,
+      0.00058581,
+      0.00038693,
+      0.00098039,
+      0.00038119,
+      0.00207998,
+      0.00131632,
+      0.00053163,
+      0.00044111,
+      0.00022374,
+      0.00024159,
+      0.00017593,
+      0.00017912,
+      0.00016828,
+      0.00199328,
+      0.00970124,
+      0.001287,
+      0.00038693,
+      0.00029067,
+      0.0010282,
+      0.00066358,
+      0.0036245,
+      0.00171408,
+      0.00019824,
+      0.00018422,
+      0.00056286,
+      0.00013896,
+      0.00015107,
+      0.00014661,
+      0.00014852,
+      0.00066103,
+      0.00947686,
+      0.00150819,
+      0.00110533,
+      0.00101863,
+      0.00376346,
+      0.00176253,
+      0.00726557,
+      0.00371629,
+      0.00030279,
+      0.0001753,
+      0.00040796,
+      0.00016828,
+      0.00017976,
+      0.00013833,
+      0.00013131,
+      0.00021099,
+      0.00956292,
+      0.00285574,
+      0.00206022,
+      0.02447589,
+      0.00230627,
+      0.00208699,
+      0.0040178,
+      0.00294626,
+      0.00217432,
+      0.00157831,
+      0.00152859,
+      0.00161847,
+      0.00179376,
+      0.0016293,
+      0.00159998,
+      0.00173384,
+      0.02666806,
+      0.00891719,
+      0.00265176,
+      0.00411342,
+      0.00402864,
+      0.0044978,
+      0.00474576,
+      0.0044111,
+      0.01073071,
+      0.00171153,
+      0.00121433,
+      0.00168349,
+      0.00576631,
+      0.00161783,
+      0.00263646,
+      0.00598941,
+      0.10423147,
+      0.02275607,
+      0.013531,
+      0.01529353,
+      0.02428147,
+      0.03406495,
+      0.01273356,
+      0.02008455,
+      0.07633634,
+      0.00578989,
+      0.00573061,
+      0.00863926,
+      0.05221358,
+      0.01150202,
+      0.02321248,
+      0.05001696,
+      0.04492634,
+      0.01470453,
+      0.00915495,
+      0.01009327,
+      0.01313324,
+      0.01712745,
+      0.00882986,
+      0.01238424,
+      0.03468964,
+      0.0026932,
+      0.00311965,
+      0.00407007,
+      0.02094064,
+      0.00797186,
+      0.01225165,
+      0.02281281,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 598256,
+      "raw_size": 598528,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.620722,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 119673,
+      "raw_size": 119808,
+      "virtual_address": 606208,
+      "pointerto_raw_data": 599552,
+      "entropy": 5.181112,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 46528,
+      "raw_size": 16896,
+      "virtual_address": 729088,
+      "pointerto_raw_data": 719360,
+      "entropy": 4.989609,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 1564,
+      "raw_size": 2048,
+      "virtual_address": 778240,
+      "pointerto_raw_data": 736256,
+      "entropy": 4.530628,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 46922,
+      "raw_size": 47104,
+      "virtual_address": 782336,
+      "pointerto_raw_data": 738304,
+      "entropy": 5.826607,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 248,
+    "e_lfanew_raw": 248,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b800000000000000400000000000000000000000000000000000000000000000000000000000000000000000f8000000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 5,
+    "time_date_stamp": 1464224549,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8450,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 606404,
+      "import_lookup_table_rva": 718976,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileA",
+          "hint": 136,
+          "iat_address": 606404,
+          "iat_value": 724932,
+          "data": 724932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetConsoleMode",
+          "hint": 428,
+          "iat_address": 606408,
+          "iat_value": 724914,
+          "data": 724914
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetConsoleCP",
+          "hint": 410,
+          "iat_address": 606412,
+          "iat_value": 724898,
+          "data": 724898
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 449,
+          "iat_address": 606416,
+          "iat_value": 724876,
+          "data": 724876
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 935,
+          "iat_address": 606420,
+          "iat_value": 724850,
+          "data": 724850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapDestroy",
+          "hint": 718,
+          "iat_address": 606424,
+          "iat_value": 724836,
+          "data": 724836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapCreate",
+          "hint": 717,
+          "iat_address": 606428,
+          "iat_value": 724822,
+          "data": 724822
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetEnvironmentStringsW",
+          "hint": 474,
+          "iat_address": 606432,
+          "iat_value": 724796,
+          "data": 724796
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeEnvironmentStringsW",
+          "hint": 353,
+          "iat_address": 606436,
+          "iat_value": 724770,
+          "data": 724770
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameA",
+          "hint": 531,
+          "iat_address": 606440,
+          "iat_value": 724748,
+          "data": 724748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStringTypeW",
+          "hint": 617,
+          "iat_address": 606444,
+          "iat_value": 724730,
+          "data": 724730
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsValidLocale",
+          "hint": 780,
+          "iat_address": 606448,
+          "iat_value": 724714,
+          "data": 724714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnumSystemLocalesA",
+          "hint": 269,
+          "iat_address": 606452,
+          "iat_value": 724692,
+          "data": 724692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLocaleInfoA",
+          "hint": 516,
+          "iat_address": 606456,
+          "iat_value": 724674,
+          "data": 724674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetUserDefaultLCID",
+          "hint": 667,
+          "iat_address": 606460,
+          "iat_value": 724652,
+          "data": 724652
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStartupInfoW",
+          "hint": 611,
+          "iat_address": 606464,
+          "iat_value": 724634,
+          "data": 724634
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetHandleCount",
+          "hint": 1135,
+          "iat_address": 606468,
+          "iat_value": 724616,
+          "data": 724616
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSectionAndSpinCount",
+          "hint": 739,
+          "iat_address": 606472,
+          "iat_value": 724576,
+          "data": 724576
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsProcessorFeaturePresent",
+          "hint": 772,
+          "iat_address": 606476,
+          "iat_value": 724548,
+          "data": 724548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapSize",
+          "hint": 724,
+          "iat_address": 606480,
+          "iat_value": 724536,
+          "data": 724536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLocaleInfoW",
+          "hint": 518,
+          "iat_address": 606484,
+          "iat_value": 724518,
+          "data": 724518
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStdHandle",
+          "hint": 612,
+          "iat_address": 606488,
+          "iat_value": 724502,
+          "data": 724502
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetLastError",
+          "hint": 1139,
+          "iat_address": 606492,
+          "iat_value": 724486,
+          "data": 724486
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsFree",
+          "hint": 1222,
+          "iat_address": 606496,
+          "iat_value": 724476,
+          "data": 724476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetStdHandle",
+          "hint": 1159,
+          "iat_address": 606500,
+          "iat_value": 724946,
+          "data": 724946
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsGetValue",
+          "hint": 1223,
+          "iat_address": 606504,
+          "iat_value": 724448,
+          "data": 724448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsAlloc",
+          "hint": 1221,
+          "iat_address": 606508,
+          "iat_value": 724436,
+          "data": 724436
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsValidCodePage",
+          "hint": 778,
+          "iat_address": 606512,
+          "iat_value": 724418,
+          "data": 724418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetOEMCP",
+          "hint": 567,
+          "iat_address": 606516,
+          "iat_value": 724406,
+          "data": 724406
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 768,
+          "iat_address": 606520,
+          "iat_value": 724386,
+          "data": 724386
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1189,
+          "iat_address": 606524,
+          "iat_value": 724356,
+          "data": 724356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1235,
+          "iat_address": 606528,
+          "iat_value": 724328,
+          "data": 724328
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1216,
+          "iat_address": 606532,
+          "iat_value": 724308,
+          "data": 724308
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CompareStringW",
+          "hint": 100,
+          "iat_address": 606536,
+          "iat_value": 724290,
+          "data": 724290
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCPInfo",
+          "hint": 370,
+          "iat_address": 606540,
+          "iat_value": 724278,
+          "data": 724278
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LCMapStringW",
+          "hint": 813,
+          "iat_address": 606544,
+          "iat_value": 724262,
+          "data": 724262
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlUnwind",
+          "hint": 1048,
+          "iat_address": 606548,
+          "iat_value": 724250,
+          "data": 724250
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RaiseException",
+          "hint": 945,
+          "iat_address": 606552,
+          "iat_value": 724232,
+          "data": 724232
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 633,
+          "iat_address": 606556,
+          "iat_value": 724206,
+          "data": 724206
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapReAlloc",
+          "hint": 722,
+          "iat_address": 606560,
+          "iat_value": 724192,
+          "data": 724192
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapFree",
+          "hint": 719,
+          "iat_address": 606564,
+          "iat_value": 724180,
+          "data": 724180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapAlloc",
+          "hint": 715,
+          "iat_address": 606568,
+          "iat_value": 724168,
+          "data": 724168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCommandLineA",
+          "hint": 390,
+          "iat_address": 606572,
+          "iat_value": 724150,
+          "data": 724150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 453,
+          "iat_address": 606576,
+          "iat_value": 724128,
+          "data": 724128
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LocalFree",
+          "hint": 840,
+          "iat_address": 606580,
+          "iat_value": 724116,
+          "data": 724116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DecodePointer",
+          "hint": 202,
+          "iat_address": 606584,
+          "iat_value": 724100,
+          "data": 724100
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EncodePointer",
+          "hint": 234,
+          "iat_address": 606588,
+          "iat_value": 724084,
+          "data": 724084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 825,
+          "iat_address": 606592,
+          "iat_value": 724060,
+          "data": 724060
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 238,
+          "iat_address": 606596,
+          "iat_value": 724036,
+          "data": 724036
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 209,
+          "iat_address": 606600,
+          "iat_value": 724012,
+          "data": 724012
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSection",
+          "hint": 738,
+          "iat_address": 606604,
+          "iat_value": 723984,
+          "data": 723984
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 1202,
+          "iat_address": 606608,
+          "iat_value": 723976,
+          "data": 723976
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlushFileBuffers",
+          "hint": 343,
+          "iat_address": 606612,
+          "iat_value": 724962,
+          "data": 724962
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteConsoleW",
+          "hint": 1316,
+          "iat_address": 606616,
+          "iat_value": 724982,
+          "data": 724982
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcessHeap",
+          "hint": 586,
+          "iat_address": 606620,
+          "iat_value": 725014,
+          "data": 725014
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEndOfFile",
+          "hint": 1107,
+          "iat_address": 606624,
+          "iat_value": 724998,
+          "data": 724998
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLocalTime",
+          "hint": 515,
+          "iat_address": 606628,
+          "iat_value": 720638,
+          "data": 720638
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalUnlock",
+          "hint": 709,
+          "iat_address": 606632,
+          "iat_value": 720622,
+          "data": 720622
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalLock",
+          "hint": 702,
+          "iat_address": 606636,
+          "iat_value": 720608,
+          "data": 720608
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MulDiv",
+          "hint": 870,
+          "iat_address": 606640,
+          "iat_value": 720598,
+          "data": 720598
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DuplicateHandle",
+          "hint": 232,
+          "iat_address": 606644,
+          "iat_value": 720580,
+          "data": 720580
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileType",
+          "hint": 499,
+          "iat_address": 606648,
+          "iat_value": 720566,
+          "data": 720566
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReadFile",
+          "hint": 960,
+          "iat_address": 606652,
+          "iat_value": 720554,
+          "data": 720554
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteFile",
+          "hint": 1317,
+          "iat_address": 606656,
+          "iat_value": 720542,
+          "data": 720542
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 448,
+          "iat_address": 606660,
+          "iat_value": 720522,
+          "data": 720522
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SystemTimeToFileTime",
+          "hint": 1213,
+          "iat_address": 606664,
+          "iat_value": 720498,
+          "data": 720498
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetFilePointer",
+          "hint": 1126,
+          "iat_address": 606668,
+          "iat_value": 720480,
+          "data": 720480
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DosDateTimeToFileTime",
+          "hint": 228,
+          "iat_address": 606672,
+          "iat_value": 720456,
+          "data": 720456
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibrary",
+          "hint": 354,
+          "iat_address": 606676,
+          "iat_value": 720442,
+          "data": 720442
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedDecrement",
+          "hint": 747,
+          "iat_address": 606680,
+          "iat_value": 720418,
+          "data": 720418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedIncrement",
+          "hint": 751,
+          "iat_address": 606684,
+          "iat_value": 720394,
+          "data": 720394
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LockResource",
+          "hint": 852,
+          "iat_address": 606688,
+          "iat_value": 720378,
+          "data": 720378
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SizeofResource",
+          "hint": 1201,
+          "iat_address": 606692,
+          "iat_value": 720360,
+          "data": 720360
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeResource",
+          "hint": 357,
+          "iat_address": 606696,
+          "iat_value": 720344,
+          "data": 720344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadResource",
+          "hint": 833,
+          "iat_address": 606700,
+          "iat_value": 720328,
+          "data": 720328
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindResourceW",
+          "hint": 334,
+          "iat_address": 606704,
+          "iat_value": 720312,
+          "data": 720312
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTickCount",
+          "hint": 659,
+          "iat_address": 606708,
+          "iat_value": 720296,
+          "data": 720296
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleW",
+          "hint": 536,
+          "iat_address": 606712,
+          "iat_value": 720276,
+          "data": 720276
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 581,
+          "iat_address": 606716,
+          "iat_value": 720258,
+          "data": 720258
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameW",
+          "hint": 532,
+          "iat_address": 606720,
+          "iat_value": 720236,
+          "data": 720236
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryW",
+          "hint": 831,
+          "iat_address": 606724,
+          "iat_value": 720220,
+          "data": 720220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 514,
+          "iat_address": 606728,
+          "iat_value": 720204,
+          "data": 720204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetACP",
+          "hint": 360,
+          "iat_address": 606732,
+          "iat_value": 720194,
+          "data": 720194
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WinExec",
+          "hint": 1298,
+          "iat_address": 606736,
+          "iat_value": 720184,
+          "data": 720184
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "lstrcmpiW",
+          "hint": 1349,
+          "iat_address": 606740,
+          "iat_value": 720172,
+          "data": 720172
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalAlloc",
+          "hint": 691,
+          "iat_address": 606744,
+          "iat_value": 720158,
+          "data": 720158
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "lstrcpynW",
+          "hint": 1355,
+          "iat_address": 606748,
+          "iat_value": 720146,
+          "data": 720146
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalFree",
+          "hint": 698,
+          "iat_address": 606752,
+          "iat_value": 720132,
+          "data": 720132
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "lstrcpyW",
+          "hint": 1352,
+          "iat_address": 606756,
+          "iat_value": 720120,
+          "data": 720120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ExitProcess",
+          "hint": 281,
+          "iat_address": 606760,
+          "iat_value": 720106,
+          "data": 720106
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MultiByteToWideChar",
+          "hint": 871,
+          "iat_address": 606764,
+          "iat_value": 720084,
+          "data": 720084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "lstrlenA",
+          "hint": 1357,
+          "iat_address": 606768,
+          "iat_value": 720072,
+          "data": 720072
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 1297,
+          "iat_address": 606772,
+          "iat_value": 720050,
+          "data": 720050
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "lstrlenW",
+          "hint": 1358,
+          "iat_address": 606776,
+          "iat_value": 720038,
+          "data": 720038
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 82,
+          "iat_address": 606780,
+          "iat_value": 720024,
+          "data": 720024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileSize",
+          "hint": 496,
+          "iat_address": 606784,
+          "iat_value": 720010,
+          "data": 720010
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileW",
+          "hint": 143,
+          "iat_address": 606788,
+          "iat_value": 719996,
+          "data": 719996
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentDirectoryW",
+          "hint": 447,
+          "iat_address": 606792,
+          "iat_value": 719972,
+          "data": 719972
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsSetValue",
+          "hint": 1224,
+          "iat_address": 606796,
+          "iat_value": 724462,
+          "data": 724462
+        }
+      ],
+      "function_count": 99
+    },
+    {
+      "name": "USER32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 606844,
+      "import_lookup_table_rva": 719416,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FillRect",
+          "hint": 246,
+          "iat_address": 606844,
+          "iat_value": 721716,
+          "data": 721716
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HideCaret",
+          "hint": 425,
+          "iat_address": 606848,
+          "iat_value": 721770,
+          "data": 721770
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MoveWindow",
+          "hint": 539,
+          "iat_address": 606852,
+          "iat_value": 721728,
+          "data": 721728
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetWindowRgn",
+          "hint": 413,
+          "iat_address": 606856,
+          "iat_value": 721742,
+          "data": 721742
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadIconW",
+          "hint": 493,
+          "iat_address": 606860,
+          "iat_value": 721704,
+          "data": 721704
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ClientToScreen",
+          "hint": 71,
+          "iat_address": 606864,
+          "iat_value": 721782,
+          "data": 721782
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSysColor",
+          "hint": 379,
+          "iat_address": 606868,
+          "iat_value": 721800,
+          "data": 721800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCaretPos",
+          "hint": 266,
+          "iat_address": 606872,
+          "iat_value": 721814,
+          "data": 721814
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SendMessageW",
+          "hint": 636,
+          "iat_address": 606876,
+          "iat_value": 720668,
+          "data": 720668
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ShowWindow",
+          "hint": 735,
+          "iat_address": 606880,
+          "iat_value": 720684,
+          "data": 720684
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetTimer",
+          "hint": 699,
+          "iat_address": 606884,
+          "iat_value": 720698,
+          "data": 720698
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "KillTimer",
+          "hint": 483,
+          "iat_address": 606888,
+          "iat_value": 720710,
+          "data": 720710
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MessageBoxW",
+          "hint": 533,
+          "iat_address": 606892,
+          "iat_value": 720722,
+          "data": 720722
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wsprintfW",
+          "hint": 819,
+          "iat_address": 606896,
+          "iat_value": 720736,
+          "data": 720736
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DrawTextW",
+          "hint": 208,
+          "iat_address": 606900,
+          "iat_value": 721828,
+          "data": 721828
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetRect",
+          "hint": 686,
+          "iat_address": 606904,
+          "iat_value": 721840,
+          "data": 721840
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CharPrevW",
+          "hint": 52,
+          "iat_address": 606908,
+          "iat_value": 721850,
+          "data": 721850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InvalidateRgn",
+          "hint": 447,
+          "iat_address": 606912,
+          "iat_value": 721862,
+          "data": 721862
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateAcceleratorTableW",
+          "hint": 88,
+          "iat_address": 606916,
+          "iat_value": 721878,
+          "data": 721878
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetWindowTextW",
+          "hint": 715,
+          "iat_address": 606920,
+          "iat_value": 721904,
+          "data": 721904
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetWindowTextLengthW",
+          "hint": 418,
+          "iat_address": 606924,
+          "iat_value": 721922,
+          "data": 721922
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetWindowTextW",
+          "hint": 419,
+          "iat_address": 606928,
+          "iat_value": 721946,
+          "data": 721946
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ShowCaret",
+          "hint": 729,
+          "iat_address": 606932,
+          "iat_value": 721758,
+          "data": 721758
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CallWindowProcW",
+          "hint": 30,
+          "iat_address": 606936,
+          "iat_value": 720748,
+          "data": 720748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetWindowLongW",
+          "hint": 708,
+          "iat_address": 606940,
+          "iat_value": 720766,
+          "data": 720766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindWindowExW",
+          "hint": 249,
+          "iat_address": 606944,
+          "iat_value": 720784,
+          "data": 720784
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetMessageW",
+          "hint": 349,
+          "iat_address": 606948,
+          "iat_value": 720800,
+          "data": 720800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TranslateMessage",
+          "hint": 764,
+          "iat_address": 606952,
+          "iat_value": 720814,
+          "data": 720814
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DispatchMessageW",
+          "hint": 175,
+          "iat_address": 606956,
+          "iat_value": 720834,
+          "data": 720834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsWindow",
+          "hint": 475,
+          "iat_address": 606960,
+          "iat_value": 720854,
+          "data": 720854
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetForegroundWindow",
+          "hint": 301,
+          "iat_address": 606964,
+          "iat_value": 721682,
+          "data": 721682
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetMenu",
+          "hint": 331,
+          "iat_address": 606968,
+          "iat_value": 721672,
+          "data": 721672
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AdjustWindowRectEx",
+          "hint": 3,
+          "iat_address": 606972,
+          "iat_value": 721650,
+          "data": 721650
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetWindowPos",
+          "hint": 710,
+          "iat_address": 606976,
+          "iat_value": 720866,
+          "data": 720866
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OffsetRect",
+          "hint": 549,
+          "iat_address": 606980,
+          "iat_value": 720882,
+          "data": 720882
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InflateRect",
+          "hint": 437,
+          "iat_address": 606984,
+          "iat_value": 720896,
+          "data": 720896
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnionRect",
+          "hint": 769,
+          "iat_address": 606988,
+          "iat_value": 720910,
+          "data": 720910
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wvsprintfW",
+          "hint": 821,
+          "iat_address": 606992,
+          "iat_value": 720922,
+          "data": 720922
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetCursor",
+          "hint": 648,
+          "iat_address": 606996,
+          "iat_value": 720936,
+          "data": 720936
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadCursorW",
+          "hint": 491,
+          "iat_address": 607000,
+          "iat_value": 720948,
+          "data": 720948
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DestroyWindow",
+          "hint": 166,
+          "iat_address": 607004,
+          "iat_value": 720962,
+          "data": 720962
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseDC",
+          "hint": 613,
+          "iat_address": 607008,
+          "iat_value": 720978,
+          "data": 720978
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetDC",
+          "hint": 289,
+          "iat_address": 607012,
+          "iat_value": 720990,
+          "data": 720990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetClientRect",
+          "hint": 276,
+          "iat_address": 607016,
+          "iat_value": 720998,
+          "data": 720998
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetWindowLongW",
+          "hint": 406,
+          "iat_address": 607020,
+          "iat_value": 721014,
+          "data": 721014
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCaretBlinkTime",
+          "hint": 265,
+          "iat_address": 607024,
+          "iat_value": 721032,
+          "data": 721032
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetCaretPos",
+          "hint": 642,
+          "iat_address": 607028,
+          "iat_value": 721052,
+          "data": 721052
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateCaret",
+          "hint": 89,
+          "iat_address": 607032,
+          "iat_value": 721066,
+          "data": 721066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFocus",
+          "hint": 300,
+          "iat_address": 607036,
+          "iat_value": 721080,
+          "data": 721080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IntersectRect",
+          "hint": 445,
+          "iat_address": 607040,
+          "iat_value": 721092,
+          "data": 721092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetKeyState",
+          "hint": 317,
+          "iat_address": 607044,
+          "iat_value": 721108,
+          "data": 721108
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetWindow",
+          "hint": 398,
+          "iat_address": 607048,
+          "iat_value": 721122,
+          "data": 721122
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetFocus",
+          "hint": 658,
+          "iat_address": 607052,
+          "iat_value": 721134,
+          "data": 721134
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "BeginPaint",
+          "hint": 14,
+          "iat_address": 607056,
+          "iat_value": 721146,
+          "data": 721146
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EndPaint",
+          "hint": 220,
+          "iat_address": 607060,
+          "iat_value": 721160,
+          "data": 721160
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InvalidateRect",
+          "hint": 446,
+          "iat_address": 607064,
+          "iat_value": 721172,
+          "data": 721172
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetUpdateRect",
+          "hint": 391,
+          "iat_address": 607068,
+          "iat_value": 721190,
+          "data": 721190
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsRectEmpty",
+          "hint": 468,
+          "iat_address": 607072,
+          "iat_value": 721206,
+          "data": 721206
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsIconic",
+          "hint": 465,
+          "iat_address": 607076,
+          "iat_value": 721220,
+          "data": 721220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "PostMessageW",
+          "hint": 566,
+          "iat_address": 607080,
+          "iat_value": 721232,
+          "data": 721232
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetWindowRect",
+          "hint": 412,
+          "iat_address": 607084,
+          "iat_value": 721248,
+          "data": 721248
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UpdateLayeredWindow",
+          "hint": 782,
+          "iat_address": 607088,
+          "iat_value": 721264,
+          "data": 721264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MapWindowPoints",
+          "hint": 521,
+          "iat_address": 607092,
+          "iat_value": 721286,
+          "data": 721286
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateWindowExW",
+          "hint": 110,
+          "iat_address": 607096,
+          "iat_value": 721304,
+          "data": 721304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ScreenToClient",
+          "hint": 621,
+          "iat_address": 607100,
+          "iat_value": 721322,
+          "data": 721322
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCursorPos",
+          "hint": 288,
+          "iat_address": 607104,
+          "iat_value": 721340,
+          "data": 721340
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetCapture",
+          "hint": 640,
+          "iat_address": 607108,
+          "iat_value": 721356,
+          "data": 721356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseCapture",
+          "hint": 612,
+          "iat_address": 607112,
+          "iat_value": 721370,
+          "data": 721370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "PtInRect",
+          "hint": 576,
+          "iat_address": 607116,
+          "iat_value": 721388,
+          "data": 721388
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetPropW",
+          "hint": 363,
+          "iat_address": 607120,
+          "iat_value": 721638,
+          "data": 721638
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetPropW",
+          "hint": 685,
+          "iat_address": 607124,
+          "iat_value": 721626,
+          "data": 721626
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RegisterClassExW",
+          "hint": 589,
+          "iat_address": 607128,
+          "iat_value": 721606,
+          "data": 721606
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetClassInfoExW",
+          "hint": 269,
+          "iat_address": 607132,
+          "iat_value": 721588,
+          "data": 721588
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetParent",
+          "hint": 356,
+          "iat_address": 607136,
+          "iat_value": 721400,
+          "data": 721400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CharNextW",
+          "hint": 49,
+          "iat_address": 607140,
+          "iat_value": 721412,
+          "data": 721412
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RegisterClassW",
+          "hint": 590,
+          "iat_address": 607144,
+          "iat_value": 721570,
+          "data": 721570
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadImageW",
+          "hint": 495,
+          "iat_address": 607148,
+          "iat_value": 721556,
+          "data": 721556
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "PostQuitMessage",
+          "hint": 567,
+          "iat_address": 607152,
+          "iat_value": 721538,
+          "data": 721538
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnableWindow",
+          "hint": 216,
+          "iat_address": 607156,
+          "iat_value": 721522,
+          "data": 721522
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DefWindowProcW",
+          "hint": 156,
+          "iat_address": 607160,
+          "iat_value": 721504,
+          "data": 721504
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindWindowW",
+          "hint": 250,
+          "iat_address": 607164,
+          "iat_value": 721490,
+          "data": 721490
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetWindowRgn",
+          "hint": 711,
+          "iat_address": 607168,
+          "iat_value": 721474,
+          "data": 721474
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MonitorFromWindow",
+          "hint": 538,
+          "iat_address": 607172,
+          "iat_value": 721454,
+          "data": 721454
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetMonitorInfoW",
+          "hint": 351,
+          "iat_address": 607176,
+          "iat_value": 721436,
+          "data": 721436
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsZoomed",
+          "hint": 482,
+          "iat_address": 607180,
+          "iat_value": 721424,
+          "data": 721424
+        }
+      ],
+      "function_count": 85
+    },
+    {
+      "name": "GDI32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 606220,
+      "import_lookup_table_rva": 718792,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateRoundRectRgn",
+          "hint": 81,
+          "iat_address": 606220,
+          "iat_value": 722242,
+          "data": 722242
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateSolidBrush",
+          "hint": 84,
+          "iat_address": 606224,
+          "iat_value": 722222,
+          "data": 722222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTextMetricsW",
+          "hint": 550,
+          "iat_address": 606228,
+          "iat_value": 722204,
+          "data": 722204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetWindowOrgEx",
+          "hint": 685,
+          "iat_address": 606232,
+          "iat_value": 722186,
+          "data": 722186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "BitBlt",
+          "hint": 19,
+          "iat_address": 606236,
+          "iat_value": 722176,
+          "data": 722176
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateCompatibleBitmap",
+          "hint": 47,
+          "iat_address": 606240,
+          "iat_value": 722150,
+          "data": 722150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RestoreDC",
+          "hint": 617,
+          "iat_address": 606244,
+          "iat_value": 722138,
+          "data": 722138
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SaveDC",
+          "hint": 624,
+          "iat_address": 606248,
+          "iat_value": 722128,
+          "data": 722128
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SelectObject",
+          "hint": 631,
+          "iat_address": 606252,
+          "iat_value": 722112,
+          "data": 722112
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateDIBSection",
+          "hint": 53,
+          "iat_address": 606256,
+          "iat_value": 722092,
+          "data": 722092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateCompatibleDC",
+          "hint": 48,
+          "iat_address": 606260,
+          "iat_value": 722070,
+          "data": 722070
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteDC",
+          "hint": 227,
+          "iat_address": 606264,
+          "iat_value": 722058,
+          "data": 722058
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteObject",
+          "hint": 230,
+          "iat_address": 606268,
+          "iat_value": 722042,
+          "data": 722042
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreatePen",
+          "hint": 75,
+          "iat_address": 606272,
+          "iat_value": 722030,
+          "data": 722030
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFontIndirectW",
+          "hint": 64,
+          "iat_address": 606276,
+          "iat_value": 722008,
+          "data": 722008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStockObject",
+          "hint": 525,
+          "iat_address": 606280,
+          "iat_value": 721990,
+          "data": 721990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetObjectW",
+          "hint": 509,
+          "iat_address": 606284,
+          "iat_value": 721976,
+          "data": 721976
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetPixel",
+          "hint": 516,
+          "iat_address": 606288,
+          "iat_value": 722264,
+          "data": 722264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CombineRgn",
+          "hint": 34,
+          "iat_address": 606292,
+          "iat_value": 722408,
+          "data": 722408
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "StretchBlt",
+          "hint": 691,
+          "iat_address": 606296,
+          "iat_value": 722422,
+          "data": 722422
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetStretchBltMode",
+          "hint": 674,
+          "iat_address": 606300,
+          "iat_value": 722436,
+          "data": 722436
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreatePenIndirect",
+          "hint": 76,
+          "iat_address": 606304,
+          "iat_value": 722456,
+          "data": 722456
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MoveToEx",
+          "hint": 570,
+          "iat_address": 606308,
+          "iat_value": 722476,
+          "data": 722476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LineTo",
+          "hint": 566,
+          "iat_address": 606312,
+          "iat_value": 722488,
+          "data": 722488
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Rectangle",
+          "hint": 607,
+          "iat_address": 606316,
+          "iat_value": 722498,
+          "data": 722498
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoundRect",
+          "hint": 618,
+          "iat_address": 606320,
+          "iat_value": 722510,
+          "data": 722510
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetObjectA",
+          "hint": 507,
+          "iat_address": 606324,
+          "iat_value": 722522,
+          "data": 722522
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetBkMode",
+          "hint": 639,
+          "iat_address": 606328,
+          "iat_value": 722536,
+          "data": 722536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetTextColor",
+          "hint": 678,
+          "iat_address": 606332,
+          "iat_value": 722548,
+          "data": 722548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetBkColor",
+          "hint": 638,
+          "iat_address": 606336,
+          "iat_value": 722564,
+          "data": 722564
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCharABCWidthsW",
+          "hint": 437,
+          "iat_address": 606340,
+          "iat_value": 722578,
+          "data": 722578
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTextExtentPoint32W",
+          "hint": 542,
+          "iat_address": 606344,
+          "iat_value": 722598,
+          "data": 722598
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TextOutW",
+          "hint": 697,
+          "iat_address": 606348,
+          "iat_value": 722622,
+          "data": 722622
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateRectRgn",
+          "hint": 79,
+          "iat_address": 606352,
+          "iat_value": 722288,
+          "data": 722288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetPixel",
+          "hint": 667,
+          "iat_address": 606356,
+          "iat_value": 722276,
+          "data": 722276
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "PtInRegion",
+          "hint": 601,
+          "iat_address": 606360,
+          "iat_value": 722304,
+          "data": 722304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetDeviceCaps",
+          "hint": 459,
+          "iat_address": 606364,
+          "iat_value": 722318,
+          "data": 722318
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SelectClipRgn",
+          "hint": 629,
+          "iat_address": 606368,
+          "iat_value": 722334,
+          "data": 722334
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ExtSelectClipRgn",
+          "hint": 310,
+          "iat_address": 606372,
+          "iat_value": 722388,
+          "data": 722388
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateRectRgnIndirect",
+          "hint": 80,
+          "iat_address": 606376,
+          "iat_value": 722364,
+          "data": 722364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetClipBox",
+          "hint": 448,
+          "iat_address": 606380,
+          "iat_value": 722350,
+          "data": 722350
+        }
+      ],
+      "function_count": 41
+    },
+    {
+      "name": "SHELL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 606824,
+      "import_lookup_table_rva": 719396,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SHGetPathFromIDListW",
+          "hint": 215,
+          "iat_address": 606824,
+          "iat_value": 722666,
+          "data": 722666
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Shell_NotifyIconW",
+          "hint": 302,
+          "iat_address": 606828,
+          "iat_value": 722706,
+          "data": 722706
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ShellExecuteW",
+          "hint": 290,
+          "iat_address": 606832,
+          "iat_value": 722690,
+          "data": 722690
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SHBrowseForFolderW",
+          "hint": 123,
+          "iat_address": 606836,
+          "iat_value": 722644,
+          "data": 722644
+        }
+      ],
+      "function_count": 4
+    },
+    {
+      "name": "ole32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 607364,
+      "import_lookup_table_rva": 719936,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateStreamOnHGlobal",
+          "hint": 134,
+          "iat_address": 607364,
+          "iat_value": 722862,
+          "data": 722862
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CLSIDFromProgID",
+          "hint": 6,
+          "iat_address": 607368,
+          "iat_value": 722844,
+          "data": 722844
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CLSIDFromString",
+          "hint": 8,
+          "iat_address": 607372,
+          "iat_value": 722826,
+          "data": 722826
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OleLockRunning",
+          "hint": 312,
+          "iat_address": 607376,
+          "iat_value": 722808,
+          "data": 722808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoUninitialize",
+          "hint": 108,
+          "iat_address": 607380,
+          "iat_value": 722790,
+          "data": 722790
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoInitialize",
+          "hint": 62,
+          "iat_address": 607384,
+          "iat_value": 722774,
+          "data": 722774
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoCreateInstance",
+          "hint": 16,
+          "iat_address": 607388,
+          "iat_value": 722754,
+          "data": 722754
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoTaskMemFree",
+          "hint": 104,
+          "iat_address": 607392,
+          "iat_value": 722738,
+          "data": 722738
+        }
+      ],
+      "function_count": 8
+    },
+    {
+      "name": "OLEAUT32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 606804,
+      "import_lookup_table_rva": 719376,
+      "functions": [
+        {
+          "is_ordinal": 1,
+          "ordinal": 6,
+          "name": null,
+          "hint": 0,
+          "iat_address": 606804,
+          "iat_value": 2147483654,
+          "data": 2147483654
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 2,
+          "name": null,
+          "hint": 0,
+          "iat_address": 606808,
+          "iat_value": 2147483650,
+          "data": 2147483650
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 9,
+          "name": null,
+          "hint": 0,
+          "iat_address": 606812,
+          "iat_value": 2147483657,
+          "data": 2147483657
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 8,
+          "name": null,
+          "hint": 0,
+          "iat_address": 606816,
+          "iat_value": 2147483656,
+          "data": 2147483656
+        }
+      ],
+      "function_count": 4
+    },
+    {
+      "name": "WINMM.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 607188,
+      "import_lookup_table_rva": 719760,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "timeKillEvent",
+          "hint": 149,
+          "iat_address": 607188,
+          "iat_value": 722924,
+          "data": 722924
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "timeEndPeriod",
+          "hint": 145,
+          "iat_address": 607192,
+          "iat_value": 722940,
+          "data": 722940
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "timeGetDevCaps",
+          "hint": 146,
+          "iat_address": 607196,
+          "iat_value": 722956,
+          "data": 722956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "timeBeginPeriod",
+          "hint": 144,
+          "iat_address": 607200,
+          "iat_value": 722974,
+          "data": 722974
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "timeSetEvent",
+          "hint": 150,
+          "iat_address": 607204,
+          "iat_value": 722992,
+          "data": 722992
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "timeGetTime",
+          "hint": 148,
+          "iat_address": 607208,
+          "iat_value": 722910,
+          "data": 722910
+        }
+      ],
+      "function_count": 6
+    },
+    {
+      "name": "COMCTL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 606208,
+      "import_lookup_table_rva": 718780,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_TrackMouseEvent",
+          "hint": 146,
+          "iat_address": 606208,
+          "iat_value": 723018,
+          "data": 723018
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 17,
+          "name": null,
+          "hint": 0,
+          "iat_address": 606212,
+          "iat_value": 2147483665,
+          "data": 2147483665
+        }
+      ],
+      "function_count": 2
+    },
+    {
+      "name": "gdiplus.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 607224,
+      "import_lookup_table_rva": 719796,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipGetImageHeight",
+          "hint": 290,
+          "iat_address": 607224,
+          "iat_value": 723726,
+          "data": 723726
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipGetImageWidth",
+          "hint": 300,
+          "iat_address": 607228,
+          "iat_value": 723706,
+          "data": 723706
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipGetPropertyItem",
+          "hint": 374,
+          "iat_address": 607232,
+          "iat_value": 723684,
+          "data": 723684
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipImageGetFrameCount",
+          "hint": 408,
+          "iat_address": 607236,
+          "iat_value": 723632,
+          "data": 723632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipImageGetFrameDimensionsList",
+          "hint": 410,
+          "iat_address": 607240,
+          "iat_value": 723598,
+          "data": 723598
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipImageGetFrameDimensionsCount",
+          "hint": 409,
+          "iat_address": 607244,
+          "iat_value": 723562,
+          "data": 723562
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipDrawString",
+          "hint": 200,
+          "iat_address": 607248,
+          "iat_value": 723544,
+          "data": 723544
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipMeasureString",
+          "hint": 443,
+          "iat_address": 607252,
+          "iat_value": 723524,
+          "data": 723524
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipSetStringFormatLineAlign",
+          "hint": 591,
+          "iat_address": 607256,
+          "iat_value": 723492,
+          "data": 723492
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipSetStringFormatAlign",
+          "hint": 587,
+          "iat_address": 607260,
+          "iat_value": 723464,
+          "data": 723464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipSetStringFormatFlags",
+          "hint": 589,
+          "iat_address": 607264,
+          "iat_value": 723436,
+          "data": 723436
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipSetStringFormatTrimming",
+          "hint": 594,
+          "iat_address": 607268,
+          "iat_value": 723406,
+          "data": 723406
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipDeleteStringFormat",
+          "hint": 151,
+          "iat_address": 607272,
+          "iat_value": 723380,
+          "data": 723380
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipDisposeImage",
+          "hint": 152,
+          "iat_address": 607276,
+          "iat_value": 723748,
+          "data": 723748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipCloneStringFormat",
+          "hint": 60,
+          "iat_address": 607280,
+          "iat_value": 723316,
+          "data": 723316
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipDeleteFont",
+          "hint": 142,
+          "iat_address": 607284,
+          "iat_value": 723298,
+          "data": 723298
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipCreateFontFromLogfontA",
+          "hint": 89,
+          "iat_address": 607288,
+          "iat_value": 723268,
+          "data": 723268
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipCreateFontFromDC",
+          "hint": 88,
+          "iat_address": 607292,
+          "iat_value": 723244,
+          "data": 723244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipSetTextRenderingHint",
+          "hint": 596,
+          "iat_address": 607296,
+          "iat_value": 723216,
+          "data": 723216
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipFillRectangleI",
+          "hint": 229,
+          "iat_address": 607300,
+          "iat_value": 723194,
+          "data": 723194
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipAlloc",
+          "hint": 33,
+          "iat_address": 607304,
+          "iat_value": 723182,
+          "data": 723182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipFree",
+          "hint": 237,
+          "iat_address": 607308,
+          "iat_value": 723170,
+          "data": 723170
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipDeleteBrush",
+          "hint": 138,
+          "iat_address": 607312,
+          "iat_value": 723152,
+          "data": 723152
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipCreateSolidFill",
+          "hint": 130,
+          "iat_address": 607316,
+          "iat_value": 723130,
+          "data": 723130
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipDeleteGraphics",
+          "hint": 144,
+          "iat_address": 607320,
+          "iat_value": 723108,
+          "data": 723108
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipCreateFromHDC",
+          "hint": 91,
+          "iat_address": 607324,
+          "iat_value": 723088,
+          "data": 723088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdiplusShutdown",
+          "hint": 628,
+          "iat_address": 607328,
+          "iat_value": 723070,
+          "data": 723070
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdiplusStartup",
+          "hint": 629,
+          "iat_address": 607332,
+          "iat_value": 723052,
+          "data": 723052
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipCloneImage",
+          "hint": 54,
+          "iat_address": 607336,
+          "iat_value": 723768,
+          "data": 723768
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipDrawImageRectI",
+          "hint": 184,
+          "iat_address": 607340,
+          "iat_value": 723786,
+          "data": 723786
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipImageSelectActiveFrame",
+          "hint": 412,
+          "iat_address": 607344,
+          "iat_value": 723808,
+          "data": 723808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipLoadImageFromStream",
+          "hint": 439,
+          "iat_address": 607348,
+          "iat_value": 723838,
+          "data": 723838
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipStringFormatGetGenericTypographic",
+          "hint": 603,
+          "iat_address": 607352,
+          "iat_value": 723340,
+          "data": 723340
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GdipGetPropertyItemSize",
+          "hint": 375,
+          "iat_address": 607356,
+          "iat_value": 723658,
+          "data": 723658
+        }
+      ],
+      "function_count": 34
+    },
+    {
+      "name": "IMM32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 606388,
+      "import_lookup_table_rva": 718960,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ImmGetContext",
+          "hint": 56,
+          "iat_address": 606388,
+          "iat_value": 723876,
+          "data": 723876
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ImmReleaseContext",
+          "hint": 104,
+          "iat_address": 606392,
+          "iat_value": 723918,
+          "data": 723918
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ImmSetCompositionWindow",
+          "hint": 116,
+          "iat_address": 606396,
+          "iat_value": 723892,
+          "data": 723892
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "d3d9.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 607216,
+      "import_lookup_table_rva": 719788,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Direct3DCreate9",
+          "hint": 9,
+          "iat_address": 607216,
+          "iat_value": 723948,
+          "data": 723948
+        }
+      ],
+      "function_count": 1
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "nsSkinEngine.dll",
+    "export_flags": 0,
+    "timestamp": 1464224543,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 28,
+    "entries": [
+      {
+        "name": "InitNSISSkinEngine",
+        "ordinal": 1,
+        "address": 5664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "InitNSISMessageBox",
+        "ordinal": 2,
+        "address": 13504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnControlBindNSISScript",
+        "ordinal": 3,
+        "address": 7440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "FindControl",
+        "ordinal": 4,
+        "address": 6704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "SetControlData",
+        "ordinal": 5,
+        "address": 7744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "GetControlData",
+        "ordinal": 6,
+        "address": 9328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "NSISSendMessage",
+        "ordinal": 7,
+        "address": 10800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "NSISCreatTimer",
+        "ordinal": 8,
+        "address": 9856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "NSISKillTimer",
+        "ordinal": 9,
+        "address": 10160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "SelectFolderDialog",
+        "ordinal": 10,
+        "address": 11920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "SetTabLayoutCurrentIndex",
+        "ordinal": 11,
+        "address": 13776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ShowNSISMessageBox",
+        "ordinal": 12,
+        "address": 10320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "RunNSISSkinEngine",
+        "ordinal": 13,
+        "address": 13200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ShowNSISSkinEngine",
+        "ordinal": 14,
+        "address": 14112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "HideNSISSkinEngine",
+        "ordinal": 15,
+        "address": 14080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ShowLicense",
+        "ordinal": 16,
+        "address": 6864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ExitNSISSkinEngine",
+        "ordinal": 17,
+        "address": 13344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "InitAnimationBkControl",
+        "ordinal": 18,
+        "address": 14144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "StartAnimationBkControl",
+        "ordinal": 19,
+        "address": 15488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "StopAnimationBkControl",
+        "ordinal": 20,
+        "address": 15824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "MaxNSISSkinEngine",
+        "ordinal": 21,
+        "address": 13472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "MinNSISSkinEngine",
+        "ordinal": 22,
+        "address": 13456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "NSISBindingDetail",
+        "ordinal": 23,
+        "address": 16352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "NSISBindingProgress",
+        "ordinal": 24,
+        "address": 12800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "NSISResize",
+        "ordinal": 25,
+        "address": 15856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "NSISStopMsgLoop",
+        "ordinal": 26,
+        "address": 16288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "NormalNSISSkinEngine",
+        "ordinal": 27,
+        "address": 13488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "SetAwareness",
+        "ordinal": 28,
+        "address": 16160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 2,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 2052,
+        "offset": 736416,
+        "size": 780,
+        "entropy": 3.364014,
+        "sha256": "c2de6616770a173eaad160a2a4a2c396421ce02eadb1816a6fecc49e6919893f",
+        "magic_head": "0c03340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 737196,
+        "size": 622,
+        "entropy": 5.023007,
+        "sha256": "cd5da690f175edb1a0c4c9e93f0f7e6ff74999be182f6680da05806dff33977b",
+        "magic_head": "3c617373656d626c"
+      }
+    ],
+    "total_size": 1402,
+    "max_entropy": 5.023007
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 347202875,
+    "entries": [
+      {
+        "id": 157,
+        "build_id": 30319,
+        "count": 1
+      },
+      {
+        "id": 154,
+        "build_id": 30319,
+        "count": 1
+      },
+      {
+        "id": 155,
+        "build_id": 30319,
+        "count": 1
+      },
+      {
+        "id": 175,
+        "build_id": 30319,
+        "count": 71
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 318
+      },
+      {
+        "id": 147,
+        "build_id": 30729,
+        "count": 25
+      },
+      {
+        "id": 131,
+        "build_id": 30729,
+        "count": 12
+      },
+      {
+        "id": 170,
+        "build_id": 30319,
+        "count": 154
+      },
+      {
+        "id": 171,
+        "build_id": 30319,
+        "count": 70
+      },
+      {
+        "id": 158,
+        "build_id": 30319,
+        "count": 32
+      }
+    ],
+    "raw_hex": "7f84df473be5b1143be5b1143be5b11454932f141be5b11454931a147de5b11454931b14a1e5b114329d321437e5b114329d221422e5b1143be5b01405e4b11454931e147ce5b11454932a143ae5b11454932b143ae5b11454932c143ae5b114526963683be5b114",
+    "raw_offset": 128,
+    "raw_size": 104,
+    "entry_count": 10
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 725040,
+      "size": 841,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 718540,
+      "size": 240,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 778240,
+      "size": 1564,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 782336,
+      "size": 37644,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 607712,
+      "size": 28,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 680088,
+      "size": 64,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 606208,
+      "size": 1192,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": "asInvoker",
+    "ui_access": "false",
+    "size": 622
+  },
+  "entrypoint_bytes": {
+    "offset": 475929,
+    "hex": "8bff558bec837d0c017505e837be0000ff75088b4d108b550ce8ecfeffff595dc20c008bff558bec538b5d0883fbe0776f5657833d306f0b10007518e8c66f00",
+    "entropy": 4.716328
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 269165372,
+    "se_handler_count": 227,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 4,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 4,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 1073
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 10,
+    "minor_linker_version": 0,
+    "sizeof_code": 598528,
+    "sizeof_initialized_data": 185856,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 479001,
+    "baseof_code": 4096,
+    "baseof_data": 606208,
+    "imagebase": 268435456,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 5,
+    "minor_operating_system_version": 1,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 5,
+    "minor_subsystem_version": 1,
+    "win32_version_value": 0,
+    "sizeof_image": 831488,
+    "sizeof_headers": 1024,
+    "checksum": 796797,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 320,
+    "dll_characteristics": [
+      "DYNAMIC_BASE",
+      "NX_COMPAT"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 184,
+    "entropy": 5.037849,
+    "is_standard_ms": 1,
+    "sha256": "c374181bb691a2e7e180066b7403eada2a7ee4279b451a9560f76145bc3b02e2",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a24000000000000007f84df473be5b1143be5b1143be5b11454932f141be5b11454931a147de5b11454931b14a1e5b114329d321437e5b114329d221422e5b1143be5b01405e4b11454931e147ce5b11454932a143ae5b11454932b143ae5b11454932c143ae5b114526963683be5b11400000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ G; ; ; T / T } T 2 2 7 2 \" \" ; T | T * : T + : T , : Rich;",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 796797,
+    "checksum_computed": 796797,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 479001,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.620722
+  },
+  "overlay": {
+    "size": 0,
+    "offset": 0,
+    "entropy": null,
+    "magic_head": null,
+    "sha256": null
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 1,
+    "types": [
+      "CODEVIEW"
+    ],
+    "pdb_path": "G:\\MySource\\WpsMailInstall\\dll\\nsSkinEngineU.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 178,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "www.aceui.cn",
+    "file_description": "DirectUI Skin Engine for NSIS ",
+    "original_filename": "nsSkinEngine.dll",
+    "product_name": "Skin Engine for NSIS ",
+    "file_version": "2.0.0.1",
+    "legal_copyright": "Copyright (C) 2016",
+    "internal_name": "nsSkinEngine.dll"
+  },
+  "strings": {
+    "count_ascii": 4889,
+    "count_utf16": 618,
+    "count_total": 5507,
+    "chars_total": 56463,
+    "printable_ratio": 0.07189,
+    "len_mean": 10.25,
+    "len_max": 497,
+    "urls": [],
+    "n_urls": 0,
+    "ipv4": [
+      "2.0.0.1",
+      "6.0.0.0"
+    ],
+    "n_ipv4": 2,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "comctl32.dll",
+      "d3d9.dll",
+      "gdi32.dll",
+      "gdiplus.dll",
+      "imm32.dll",
+      "kernel32.dll",
+      "mscoree.dll",
+      "msftedit.dll",
+      "msimg32.dll",
+      "nkernel32.dll",
+      "nsskinengine.dll",
+      "ole32.dll",
+      "oleaut32.dll",
+      "shell32.dll",
+      "user32.dll",
+      "winmm.dll",
+      "wuser32.dll"
+    ],
+    "n_dll_names": 17,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [
+      "G:\\MySource\\WpsMailInstall\\dll\\nsSkinEngineU.pdb"
+    ],
+    "n_file_paths": 1
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "mscoree.dll",
+      "msftedit.dll",
+      "msimg32.dll",
+      "nkernel32.dll",
+      "nsskinengine.dll",
+      "wuser32.dll"
+    ],
+    "n_orphans": 6,
+    "n_imported": 11
+  }
+}

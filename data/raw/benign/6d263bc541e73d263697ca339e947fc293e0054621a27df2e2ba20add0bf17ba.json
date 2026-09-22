@@ -1,0 +1,6789 @@
+{
+  "sha256": "6d263bc541e73d263697ca339e947fc293e0054621a27df2e2ba20add0bf17ba",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 847136,
+    "md5": "e1efa7886e709b7dc44b9544c33a3e36",
+    "sha1": "e5163ac3ae4176b8e2ab3ecaf39167accfe851f1",
+    "imphash": "beefc7280d7a1e13aeed1ec6bbd38a00",
+    "tlsh": "T1C805BE01BAC1C133E5B6017291BDDB621A7EBA358B396DFB2BD418492DB41D23237B53",
+    "ssdeep": "12288:8l5nJJ8YrVYkFGk7nsPw2BoIasNI3hKFgmRN7kCNsahnfTizaobTJ:8lRuqqFasNI3hKOO+bTJ",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 5.966671,
+    "byte_histogram_256": [
+      0.21689316,
+      0.00825959,
+      0.00502163,
+      0.00839062,
+      0.00667189,
+      0.00321318,
+      0.00299007,
+      0.00263476,
+      0.01047293,
+      0.00202093,
+      0.00329463,
+      0.00527778,
+      0.00726566,
+      0.00195246,
+      0.0035378,
+      0.01393755,
+      0.01374632,
+      0.00141536,
+      0.00135279,
+      0.00190524,
+      0.00290862,
+      0.00193475,
+      0.00126072,
+      0.00105414,
+      0.00316596,
+      0.00110136,
+      0.00073778,
+      0.00093491,
+      0.00182733,
+      0.00084638,
+      0.00087943,
+      0.00117927,
+      0.00399936,
+      0.0006339,
+      0.00063626,
+      0.00211182,
+      0.00317895,
+      0.00135633,
+      0.00060675,
+      0.00068112,
+      0.00139883,
+      0.00071535,
+      0.00063626,
+      0.00193948,
+      0.00102581,
+      0.00147438,
+      0.00087707,
+      0.00074368,
+      0.0036287,
+      0.00199968,
+      0.00165145,
+      0.01043516,
+      0.00181317,
+      0.00129495,
+      0.00152514,
+      0.00124655,
+      0.00191941,
+      0.00161603,
+      0.00137994,
+      0.00285314,
+      0.00286731,
+      0.00274336,
+      0.00190052,
+      0.00689972,
+      0.00333831,
+      0.00200794,
+      0.00150389,
+      0.00144369,
+      0.00214723,
+      0.01179268,
+      0.0021012,
+      0.00159479,
+      0.00160777,
+      0.0011049,
+      0.00068938,
+      0.00065515,
+      0.00125364,
+      0.00574642,
+      0.00110254,
+      0.00099984,
+      0.00431926,
+      0.0014673,
+      0.00106712,
+      0.00250137,
+      0.00134571,
+      0.0052105,
+      0.00308923,
+      0.00260289,
+      0.00164082,
+      0.00303139,
+      0.0007307,
+      0.00169512,
+      0.00129731,
+      0.00524119,
+      0.00244471,
+      0.00382347,
+      0.00124537,
+      0.00352246,
+      0.00119579,
+      0.00169394,
+      0.00203391,
+      0.00409852,
+      0.00535333,
+      0.00128079,
+      0.00295938,
+      0.00253088,
+      0.00361335,
+      0.00070355,
+      0.00263712,
+      0.00158298,
+      0.00231486,
+      0.0023609,
+      0.00244707,
+      0.0008511,
+      0.00296647,
+      0.00259108,
+      0.00794442,
+      0.00931492,
+      0.00215078,
+      0.00126072,
+      0.00148028,
+      0.00142952,
+      0.00074604,
+      0.00051349,
+      0.001328,
+      0.00252616,
+      0.00140473,
+      0.0017813,
+      0.00306562,
+      0.00262059,
+      0.00103997,
+      0.00969384,
+      0.00217675,
+      0.00784526,
+      0.00080979,
+      0.00073896,
+      0.00149091,
+      0.00865623,
+      0.00122294,
+      0.02656598,
+      0.00088061,
+      0.00587981,
+      0.00056543,
+      0.00066577,
+      0.00106949,
+      0.00044975,
+      0.00046628,
+      0.00045683,
+      0.00089714,
+      0.00100456,
+      0.00046864,
+      0.00044503,
+      0.00086527,
+      0.00093964,
+      0.00042024,
+      0.00062682,
+      0.0007791,
+      0.00078382,
+      0.00052176,
+      0.00093846,
+      0.00109664,
+      0.00101164,
+      0.00057724,
+      0.00063862,
+      0.00127252,
+      0.00057488,
+      0.00048516,
+      0.00043322,
+      0.00095734,
+      0.0005678,
+      0.00046037,
+      0.00054891,
+      0.00151688,
+      0.00046982,
+      0.00054537,
+      0.00062682,
+      0.00116274,
+      0.00057016,
+      0.00045565,
+      0.00054065,
+      0.00094436,
+      0.00084874,
+      0.00205162,
+      0.00106831,
+      0.0017872,
+      0.00074368,
+      0.00075431,
+      0.00052176,
+      0.00129259,
+      0.00152632,
+      0.00102109,
+      0.00177303,
+      0.00766701,
+      0.00932672,
+      0.00264066,
+      0.00614895,
+      0.0039486,
+      0.00110018,
+      0.00281537,
+      0.00346698,
+      0.00439599,
+      0.00247776,
+      0.00132918,
+      0.00111198,
+      0.14312696,
+      0.00081923,
+      0.00110726,
+      0.00125127,
+      0.00318721,
+      0.00187337,
+      0.00188163,
+      0.00097033,
+      0.00129377,
+      0.00051349,
+      0.00092665,
+      0.00084874,
+      0.00247658,
+      0.00161603,
+      0.0010447,
+      0.00124419,
+      0.00179664,
+      0.00146139,
+      0.00072243,
+      0.00071535,
+      0.00333949,
+      0.00112615,
+      0.00086881,
+      0.00074722,
+      0.00183914,
+      0.00184976,
+      0.00127724,
+      0.0006764,
+      0.00869282,
+      0.00327574,
+      0.00097977,
+      0.00300188,
+      0.00431926,
+      0.00056898,
+      0.00104706,
+      0.00121468,
+      0.00490948,
+      0.00172109,
+      0.00263594,
+      0.00154285,
+      0.00223813,
+      0.00066931,
+      0.00245061,
+      0.00281891,
+      0.0047938,
+      0.0016243,
+      0.00128905,
+      0.00116038,
+      0.00406428,
+      0.00209411,
+      0.00453528,
+      0.03108946
+    ],
+    "byte_entropy_histogram_256": [
+      0.09263393,
+      0.00031567,
+      4.374e-05,
+      2.601e-05,
+      1.123e-05,
+      1.064e-05,
+      1.478e-05,
+      1.301e-05,
+      1.833e-05,
+      2.837e-05,
+      2.069e-05,
+      1.892e-05,
+      0.07144394,
+      1.182e-05,
+      1.419e-05,
+      2.365e-05,
+      0.01051283,
+      0.00013301,
+      2.897e-05,
+      1.714e-05,
+      1.301e-05,
+      2.66e-05,
+      6.975e-05,
+      3.015e-05,
+      1.005e-05,
+      1.773e-05,
+      1.123e-05,
+      1.182e-05,
+      0.00117696,
+      8.87e-06,
+      6.5e-06,
+      3.192e-05,
+      0.00572105,
+      0.00020749,
+      3.015e-05,
+      8.87e-06,
+      9.46e-06,
+      1.36e-05,
+      2.778e-05,
+      1.892e-05,
+      4.552e-05,
+      1.064e-05,
+      1.005e-05,
+      3.133e-05,
+      0.00097242,
+      1.714e-05,
+      1.951e-05,
+      0.00012,
+      0.00304141,
+      2.778e-05,
+      1.596e-05,
+      9.044e-05,
+      2.542e-05,
+      2.128e-05,
+      2.66e-05,
+      3.547e-05,
+      3.783e-05,
+      1.123e-05,
+      1.301e-05,
+      1.182e-05,
+      0.00142406,
+      1.182e-05,
+      1.951e-05,
+      2.897e-05,
+      0.00503828,
+      0.00016788,
+      4.729e-05,
+      0.00018503,
+      3.783e-05,
+      3.606e-05,
+      0.00013064,
+      0.00011054,
+      6.266e-05,
+      0.00010345,
+      1.773e-05,
+      1.241e-05,
+      1.537e-05,
+      1.714e-05,
+      1.36e-05,
+      5.734e-05,
+      0.0048769,
+      0.00024414,
+      0.00016256,
+      0.00014187,
+      0.00015074,
+      6.68e-05,
+      0.0002666,
+      0.00017971,
+      0.00019744,
+      4.079e-05,
+      1.419e-05,
+      1.36e-05,
+      0.00193244,
+      2.837e-05,
+      3.606e-05,
+      0.00012237,
+      0.00689919,
+      0.00015902,
+      0.00021281,
+      0.00031212,
+      0.00018798,
+      0.00122898,
+      0.0048302,
+      0.00248456,
+      8.749e-05,
+      5.379e-05,
+      5.261e-05,
+      4.788e-05,
+      0.00185322,
+      9.517e-05,
+      0.00010936,
+      0.00075607,
+      0.0096338,
+      0.00063547,
+      0.00055153,
+      0.00056336,
+      0.00051074,
+      0.00061774,
+      0.00261165,
+      0.00169421,
+      0.00037656,
+      5.793e-05,
+      0.00014719,
+      0.00010581,
+      0.00255609,
+      0.00013714,
+      8.512e-05,
+      0.00029675,
+      0.00641682,
+      0.00058168,
+      0.00037301,
+      0.00049597,
+      0.00041025,
+      0.0004067,
+      0.00209677,
+      0.0011474,
+      0.00023941,
+      9.281e-05,
+      0.00012059,
+      0.00010936,
+      0.00158366,
+      0.00012414,
+      0.00010936,
+      0.0002199,
+      0.01262792,
+      0.00123193,
+      0.00122307,
+      0.00125026,
+      0.00137676,
+      0.00121893,
+      0.0041764,
+      0.00213401,
+      0.00076434,
+      0.00022463,
+      0.00021872,
+      0.00022936,
+      0.00539356,
+      0.00039488,
+      0.00059882,
+      0.00083469,
+      0.00975144,
+      0.00109538,
+      0.00094405,
+      0.00174859,
+      0.00124553,
+      0.00107706,
+      0.00266072,
+      0.00165283,
+      0.00101499,
+      0.0002471,
+      0.00029734,
+      0.00029912,
+      0.00525168,
+      0.00042326,
+      0.00050188,
+      0.00084474,
+      0.01070317,
+      0.0018213,
+      0.00114622,
+      0.00911123,
+      0.00141873,
+      0.0013543,
+      0.00230131,
+      0.00181716,
+      0.00163214,
+      0.00078562,
+      0.00087666,
+      0.00085124,
+      0.00503887,
+      0.0010676,
+      0.00160849,
+      0.00204948,
+      0.03398343,
+      0.00611475,
+      0.0033825,
+      0.00688027,
+      0.00777526,
+      0.00822866,
+      0.00395591,
+      0.00612598,
+      0.0179068,
+      0.00175568,
+      0.00149854,
+      0.00301718,
+      0.03727844,
+      0.00320871,
+      0.00597879,
+      0.01392606,
+      0.04910241,
+      0.01112879,
+      0.00573228,
+      0.01044366,
+      0.01305236,
+      0.0145639,
+      0.00716166,
+      0.01156446,
+      0.02837943,
+      0.00284279,
+      0.00279905,
+      0.00500932,
+      0.04057759,
+      0.00591494,
+      0.01188427,
+      0.02681645,
+      0.03678602,
+      0.01050218,
+      0.00615967,
+      0.01032957,
+      0.01099342,
+      0.01075283,
+      0.00671475,
+      0.00986671,
+      0.02135078,
+      0.0029959,
+      0.00386546,
+      0.00504419,
+      0.01454794,
+      0.00899951,
+      0.01118022,
+      0.02119413,
+      0.00396832,
+      0.00185677,
+      0.00191825,
+      0.0041634,
+      0.00185381,
+      0.00187687,
+      0.00205539,
+      0.0018479,
+      0.0018414,
+      0.00183844,
+      0.00177637,
+      0.00222623,
+      0.00194426,
+      0.00210978,
+      0.00267136,
+      0.00237106
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 532059,
+      "raw_size": 532480,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.024579,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 276500,
+      "raw_size": 276992,
+      "virtual_address": 536576,
+      "pointerto_raw_data": 533504,
+      "entropy": 4.599263,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 113732,
+      "raw_size": 7168,
+      "virtual_address": 815104,
+      "pointerto_raw_data": 810496,
+      "entropy": 2.878643,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".idata",
+      "virtual_size": 4089,
+      "raw_size": 4096,
+      "virtual_address": 929792,
+      "pointerto_raw_data": 817664,
+      "entropy": 4.762912,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".rodata",
+      "virtual_size": 294,
+      "raw_size": 512,
+      "virtual_address": 933888,
+      "pointerto_raw_data": 821760,
+      "entropy": 0.229168,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 17521,
+      "raw_size": 17920,
+      "virtual_address": 937984,
+      "pointerto_raw_data": 822272,
+      "entropy": 6.081623,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 256,
+    "e_lfanew_raw": 256,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000000010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 6,
+    "time_date_stamp": 1513733510,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8482,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LARGE_ADDRESS_AWARE",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "USER32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 930412,
+      "import_lookup_table_rva": 931160,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetDesktopWindow",
+          "hint": 311,
+          "iat_address": 930412,
+          "iat_value": 931208,
+          "data": 931208
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "ADVAPI32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 929792,
+      "import_lookup_table_rva": 930540,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CryptGenRandom",
+          "hint": 209,
+          "iat_address": 929792,
+          "iat_value": 931286,
+          "data": 931286
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CryptAcquireContextA",
+          "hint": 192,
+          "iat_address": 929796,
+          "iat_value": 931240,
+          "data": 931240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CryptReleaseContext",
+          "hint": 219,
+          "iat_address": 929800,
+          "iat_value": 931264,
+          "data": 931264
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 929848,
+      "import_lookup_table_rva": 930596,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsValidCodePage",
+          "hint": 882,
+          "iat_address": 929848,
+          "iat_value": 932330,
+          "data": 932330
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSection",
+          "hint": 839,
+          "iat_address": 929852,
+          "iat_value": 931318,
+          "data": 931318
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 293,
+          "iat_address": 929856,
+          "iat_value": 931346,
+          "data": 931346
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 930,
+          "iat_address": 929860,
+          "iat_value": 931370,
+          "data": 931370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 261,
+          "iat_address": 929864,
+          "iat_value": 931394,
+          "data": 931394
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 521,
+          "iat_address": 929868,
+          "iat_value": 931418,
+          "data": 931418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcessAffinityMask",
+          "hint": 670,
+          "iat_address": 929872,
+          "iat_value": 931438,
+          "data": 931438
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 127,
+          "iat_address": 929876,
+          "iat_value": 931464,
+          "data": 931464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MapViewOfFile",
+          "hint": 960,
+          "iat_address": 929880,
+          "iat_value": 931478,
+          "data": 931478
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnmapViewOfFile",
+          "hint": 1413,
+          "iat_address": 929884,
+          "iat_value": 931494,
+          "data": 931494
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileMappingA",
+          "hint": 187,
+          "iat_address": 929888,
+          "iat_value": 931512,
+          "data": 931512
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MultiByteToWideChar",
+          "hint": 977,
+          "iat_address": 929892,
+          "iat_value": 931534,
+          "data": 931534
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemDirectoryW",
+          "hint": 717,
+          "iat_address": 929896,
+          "iat_value": 931556,
+          "data": 931556
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibrary",
+          "hint": 414,
+          "iat_address": 929900,
+          "iat_value": 931578,
+          "data": 931578
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameW",
+          "hint": 611,
+          "iat_address": 929904,
+          "iat_value": 931592,
+          "data": 931592
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleW",
+          "hint": 615,
+          "iat_address": 929908,
+          "iat_value": 931614,
+          "data": 931614
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 669,
+          "iat_address": 929912,
+          "iat_value": 931634,
+          "data": 931634
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryExA",
+          "hint": 934,
+          "iat_address": 929916,
+          "iat_value": 931652,
+          "data": 931652
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryExW",
+          "hint": 935,
+          "iat_address": 929920,
+          "iat_value": 931670,
+          "data": 931670
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseMutex",
+          "hint": 1164,
+          "iat_address": 929924,
+          "iat_value": 931688,
+          "data": 931688
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObjectEx",
+          "hint": 1452,
+          "iat_address": 929928,
+          "iat_value": 931704,
+          "data": 931704
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateMutexA",
+          "hint": 206,
+          "iat_address": 929932,
+          "iat_value": 931728,
+          "data": 931728
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 1362,
+          "iat_address": 929936,
+          "iat_value": 931744,
+          "data": 931744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleA",
+          "hint": 612,
+          "iat_address": 929940,
+          "iat_value": 931752,
+          "data": 931752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryA",
+          "hint": 933,
+          "iat_address": 929944,
+          "iat_value": 931772,
+          "data": 931772
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStdHandle",
+          "hint": 704,
+          "iat_address": 929948,
+          "iat_value": 931788,
+          "data": 931788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetConsoleScreenBufferInfo",
+          "hint": 500,
+          "iat_address": 929952,
+          "iat_value": 931804,
+          "data": 931804
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetConsoleTextAttribute",
+          "hint": 1244,
+          "iat_address": 929956,
+          "iat_value": 931834,
+          "data": 931834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEvent",
+          "hint": 1264,
+          "iat_address": 929960,
+          "iat_value": 931860,
+          "data": 931860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ResetEvent",
+          "hint": 1186,
+          "iat_address": 929964,
+          "iat_value": 931872,
+          "data": 931872
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseSemaphore",
+          "hint": 1168,
+          "iat_address": 929968,
+          "iat_value": 931886,
+          "data": 931886
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObject",
+          "hint": 1451,
+          "iat_address": 929972,
+          "iat_value": 931906,
+          "data": 931906
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateEventA",
+          "hint": 179,
+          "iat_address": 929976,
+          "iat_value": 931928,
+          "data": 931928
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateSemaphoreA",
+          "hint": 222,
+          "iat_address": 929980,
+          "iat_value": 931944,
+          "data": 931944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 726,
+          "iat_address": 929984,
+          "iat_value": 931964,
+          "data": 931964
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsProcessorFeaturePresent",
+          "hint": 877,
+          "iat_address": 929988,
+          "iat_value": 931990,
+          "data": 931990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 592,
+          "iat_address": 929992,
+          "iat_value": 932018,
+          "data": 932018
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 1485,
+          "iat_address": 929996,
+          "iat_value": 932034,
+          "data": 932034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FileTimeToLocalFileTime",
+          "hint": 348,
+          "iat_address": 930000,
+          "iat_value": 932056,
+          "data": 932056
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileInformationByHandle",
+          "hint": 567,
+          "iat_address": 930004,
+          "iat_value": 932082,
+          "data": 932082
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileType",
+          "hint": 574,
+          "iat_address": 930008,
+          "iat_value": 932112,
+          "data": 932112
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "PeekNamedPipe",
+          "hint": 1027,
+          "iat_address": 930012,
+          "iat_value": 932126,
+          "data": 932126
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FileTimeToSystemTime",
+          "hint": 349,
+          "iat_address": 930016,
+          "iat_value": 932142,
+          "data": 932142
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetStdHandle",
+          "hint": 1314,
+          "iat_address": 930020,
+          "iat_value": 932166,
+          "data": 932166
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapFree",
+          "hint": 819,
+          "iat_address": 930024,
+          "iat_value": 932182,
+          "data": 932182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileW",
+          "hint": 194,
+          "iat_address": 930028,
+          "iat_value": 932194,
+          "data": 932194
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 871,
+          "iat_address": 930032,
+          "iat_value": 932208,
+          "data": 932208
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EncodePointer",
+          "hint": 289,
+          "iat_address": 930036,
+          "iat_value": 932228,
+          "data": 932228
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DecodePointer",
+          "hint": 254,
+          "iat_address": 930040,
+          "iat_value": 932244,
+          "data": 932244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateThread",
+          "hint": 232,
+          "iat_address": 930044,
+          "iat_value": 932260,
+          "data": 932260
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 526,
+          "iat_address": 930048,
+          "iat_value": 932276,
+          "data": 932276
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ExitThread",
+          "hint": 338,
+          "iat_address": 930052,
+          "iat_value": 932298,
+          "data": 932298
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCommandLineA",
+          "hint": 456,
+          "iat_address": 930056,
+          "iat_value": 932312,
+          "data": 932312
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileAttributesExW",
+          "hint": 562,
+          "iat_address": 930060,
+          "iat_value": 933382,
+          "data": 933382
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetACP",
+          "hint": 420,
+          "iat_address": 930064,
+          "iat_value": 932348,
+          "data": 932348
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetOEMCP",
+          "hint": 646,
+          "iat_address": 930068,
+          "iat_value": 932358,
+          "data": 932358
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCPInfo",
+          "hint": 435,
+          "iat_address": 930072,
+          "iat_value": 932370,
+          "data": 932370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetLastError",
+          "hint": 1291,
+          "iat_address": 930076,
+          "iat_value": 932382,
+          "data": 932382
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThread",
+          "hint": 525,
+          "iat_address": 930080,
+          "iat_value": 932398,
+          "data": 932398
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RaiseException",
+          "hint": 1088,
+          "iat_address": 930084,
+          "iat_value": 932418,
+          "data": 932418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ExitProcess",
+          "hint": 337,
+          "iat_address": 930088,
+          "iat_value": 932436,
+          "data": 932436
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleExW",
+          "hint": 614,
+          "iat_address": 930092,
+          "iat_value": 932450,
+          "data": 932450
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AreFileApisANSI",
+          "hint": 27,
+          "iat_address": 930096,
+          "iat_value": 932472,
+          "data": 932472
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetConsoleCtrlHandler",
+          "hint": 1219,
+          "iat_address": 930100,
+          "iat_value": 932490,
+          "data": 932490
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStartupInfoW",
+          "hint": 702,
+          "iat_address": 930104,
+          "iat_value": 932514,
+          "data": 932514
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FatalAppExitA",
+          "hint": 344,
+          "iat_address": 930108,
+          "iat_value": 932532,
+          "data": 932532
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1410,
+          "iat_address": 930112,
+          "iat_value": 932548,
+          "data": 932548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1347,
+          "iat_address": 930116,
+          "iat_value": 932576,
+          "data": 932576
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSectionAndSpinCount",
+          "hint": 840,
+          "iat_address": 930120,
+          "iat_value": 932606,
+          "data": 932606
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateEventW",
+          "hint": 182,
+          "iat_address": 930124,
+          "iat_value": 932646,
+          "data": 932646
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1377,
+          "iat_address": 930128,
+          "iat_value": 932662,
+          "data": 932662
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsAlloc",
+          "hint": 1395,
+          "iat_address": 930132,
+          "iat_value": 932682,
+          "data": 932682
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsGetValue",
+          "hint": 1397,
+          "iat_address": 930136,
+          "iat_value": 932694,
+          "data": 932694
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsSetValue",
+          "hint": 1398,
+          "iat_address": 930140,
+          "iat_value": 932708,
+          "data": 932708
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsFree",
+          "hint": 1396,
+          "iat_address": 930144,
+          "iat_value": 932722,
+          "data": 932722
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTickCount",
+          "hint": 754,
+          "iat_address": 930148,
+          "iat_value": 932732,
+          "data": 932732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateSemaphoreW",
+          "hint": 225,
+          "iat_address": 930152,
+          "iat_value": 932748,
+          "data": 932748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteFile",
+          "hint": 1505,
+          "iat_address": 930156,
+          "iat_value": 932768,
+          "data": 932768
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcessHeap",
+          "hint": 674,
+          "iat_address": 930160,
+          "iat_value": 932780,
+          "data": 932780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetConsoleCP",
+          "hint": 476,
+          "iat_address": 930164,
+          "iat_value": 932798,
+          "data": 932798
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetConsoleMode",
+          "hint": 494,
+          "iat_address": 930168,
+          "iat_value": 932814,
+          "data": 932814
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEndOfFile",
+          "hint": 1258,
+          "iat_address": 930172,
+          "iat_value": 932832,
+          "data": 932832
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapAlloc",
+          "hint": 815,
+          "iat_address": 930176,
+          "iat_value": 932848,
+          "data": 932848
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReadFile",
+          "hint": 1104,
+          "iat_address": 930180,
+          "iat_value": 932860,
+          "data": 932860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReadConsoleW",
+          "hint": 1102,
+          "iat_address": 930184,
+          "iat_value": 932872,
+          "data": 932872
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetFilePointerEx",
+          "hint": 1277,
+          "iat_address": 930188,
+          "iat_value": 932888,
+          "data": 932888
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapReAlloc",
+          "hint": 822,
+          "iat_address": 930192,
+          "iat_value": 932908,
+          "data": 932908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapSize",
+          "hint": 824,
+          "iat_address": 930196,
+          "iat_value": 932922,
+          "data": 932922
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapQueryInformation",
+          "hint": 821,
+          "iat_address": 930200,
+          "iat_value": 932934,
+          "data": 932934
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTimeZoneInformation",
+          "hint": 761,
+          "iat_address": 930204,
+          "iat_value": 932958,
+          "data": 932958
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameA",
+          "hint": 610,
+          "iat_address": 930208,
+          "iat_value": 932984,
+          "data": 932984
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1069,
+          "iat_address": 930212,
+          "iat_value": 933006,
+          "data": 933006
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 522,
+          "iat_address": 930216,
+          "iat_value": 933032,
+          "data": 933032
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetEnvironmentStringsW",
+          "hint": 551,
+          "iat_address": 930220,
+          "iat_value": 933054,
+          "data": 933054
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeEnvironmentStringsW",
+          "hint": 413,
+          "iat_address": 930224,
+          "iat_value": 933080,
+          "data": 933080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStringTypeW",
+          "hint": 709,
+          "iat_address": 930228,
+          "iat_value": 933106,
+          "data": 933106
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLocaleInfoW",
+          "hint": 596,
+          "iat_address": 930232,
+          "iat_value": 933124,
+          "data": 933124
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsValidLocale",
+          "hint": 884,
+          "iat_address": 930236,
+          "iat_value": 933142,
+          "data": 933142
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetUserDefaultLCID",
+          "hint": 764,
+          "iat_address": 930240,
+          "iat_value": 933158,
+          "data": 933158
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnumSystemLocalesW",
+          "hint": 327,
+          "iat_address": 930244,
+          "iat_value": 933180,
+          "data": 933180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetDateFormatW",
+          "hint": 531,
+          "iat_address": 930248,
+          "iat_value": 933202,
+          "data": 933202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTimeFormatW",
+          "hint": 759,
+          "iat_address": 930252,
+          "iat_value": 933220,
+          "data": 933220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CompareStringW",
+          "hint": 147,
+          "iat_address": 930256,
+          "iat_value": 933238,
+          "data": 933238
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LCMapStringW",
+          "hint": 918,
+          "iat_address": 930260,
+          "iat_value": 933256,
+          "data": 933256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlUnwind",
+          "hint": 1197,
+          "iat_address": 930264,
+          "iat_value": 933272,
+          "data": 933272
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OutputDebugStringW",
+          "hint": 1018,
+          "iat_address": 930268,
+          "iat_value": 933284,
+          "data": 933284
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteConsoleW",
+          "hint": 1504,
+          "iat_address": 930272,
+          "iat_value": 933306,
+          "data": 933306
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEnvironmentVariableA",
+          "hint": 1261,
+          "iat_address": 930276,
+          "iat_value": 933322,
+          "data": 933322
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlushFileBuffers",
+          "hint": 402,
+          "iat_address": 930280,
+          "iat_value": 933348,
+          "data": 933348
+        }
+      ],
+      "function_count": 109
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "libavutil-55.dll",
+    "export_flags": 0,
+    "timestamp": 1513733510,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 517,
+    "entries": [
+      {
+        "name": "av_add_i",
+        "ordinal": 1,
+        "address": 6041,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_add_q",
+        "ordinal": 2,
+        "address": 6066,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_add_stable",
+        "ordinal": 3,
+        "address": 4486,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_adler32_update",
+        "ordinal": 4,
+        "address": 5461,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_alloc",
+        "ordinal": 5,
+        "address": 4876,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_crypt",
+        "ordinal": 6,
+        "address": 4966,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_ctr_alloc",
+        "ordinal": 7,
+        "address": 4896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_ctr_crypt",
+        "ordinal": 8,
+        "address": 6106,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_ctr_free",
+        "ordinal": 9,
+        "address": 4386,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_ctr_get_iv",
+        "ordinal": 10,
+        "address": 4216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_ctr_increment_iv",
+        "ordinal": 11,
+        "address": 4461,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_ctr_init",
+        "ordinal": 12,
+        "address": 4421,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_ctr_set_iv",
+        "ordinal": 13,
+        "address": 4241,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_ctr_set_random_iv",
+        "ordinal": 14,
+        "address": 5451,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_init",
+        "ordinal": 15,
+        "address": 5206,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_aes_size",
+        "ordinal": 16,
+        "address": 539660,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_append_path_component",
+        "ordinal": 17,
+        "address": 4856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_asprintf",
+        "ordinal": 18,
+        "address": 5116,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_assert0_fpu",
+        "ordinal": 19,
+        "address": 6611,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_alloc",
+        "ordinal": 20,
+        "address": 5766,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_drain",
+        "ordinal": 21,
+        "address": 5476,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_free",
+        "ordinal": 22,
+        "address": 5596,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_peek",
+        "ordinal": 23,
+        "address": 6311,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_peek_at",
+        "ordinal": 24,
+        "address": 4271,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_read",
+        "ordinal": 25,
+        "address": 6371,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_realloc",
+        "ordinal": 26,
+        "address": 5891,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_reset",
+        "ordinal": 27,
+        "address": 6306,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_size",
+        "ordinal": 28,
+        "address": 6456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_space",
+        "ordinal": 29,
+        "address": 5701,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_audio_fifo_write",
+        "ordinal": 30,
+        "address": 4161,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_base64_decode",
+        "ordinal": 31,
+        "address": 5076,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_base64_encode",
+        "ordinal": 32,
+        "address": 5361,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_basename",
+        "ordinal": 33,
+        "address": 6326,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_blowfish_alloc",
+        "ordinal": 34,
+        "address": 5626,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_blowfish_crypt",
+        "ordinal": 35,
+        "address": 5811,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_blowfish_crypt_ecb",
+        "ordinal": 36,
+        "address": 4471,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_blowfish_init",
+        "ordinal": 37,
+        "address": 6336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bmg_get",
+        "ordinal": 38,
+        "address": 5571,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprint_append_data",
+        "ordinal": 39,
+        "address": 4456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprint_channel_layout",
+        "ordinal": 40,
+        "address": 4781,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprint_chars",
+        "ordinal": 41,
+        "address": 5976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprint_clear",
+        "ordinal": 42,
+        "address": 5911,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprint_escape",
+        "ordinal": 43,
+        "address": 6291,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprint_finalize",
+        "ordinal": 44,
+        "address": 4231,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprint_get_buffer",
+        "ordinal": 45,
+        "address": 4766,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprint_init",
+        "ordinal": 46,
+        "address": 5711,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprint_init_for_buffer",
+        "ordinal": 47,
+        "address": 4251,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprint_strftime",
+        "ordinal": 48,
+        "address": 4286,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_bprintf",
+        "ordinal": 49,
+        "address": 5741,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_alloc",
+        "ordinal": 50,
+        "address": 5311,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_allocz",
+        "ordinal": 51,
+        "address": 6206,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_create",
+        "ordinal": 52,
+        "address": 4566,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_default_free",
+        "ordinal": 53,
+        "address": 5101,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_get_opaque",
+        "ordinal": 54,
+        "address": 4801,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_get_ref_count",
+        "ordinal": 55,
+        "address": 5636,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_is_writable",
+        "ordinal": 56,
+        "address": 5231,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_make_writable",
+        "ordinal": 57,
+        "address": 6656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_pool_get",
+        "ordinal": 58,
+        "address": 4621,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_pool_init",
+        "ordinal": 59,
+        "address": 6061,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_pool_init2",
+        "ordinal": 60,
+        "address": 5091,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_pool_uninit",
+        "ordinal": 61,
+        "address": 4711,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_realloc",
+        "ordinal": 62,
+        "address": 4756,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_ref",
+        "ordinal": 63,
+        "address": 6186,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_buffer_unref",
+        "ordinal": 64,
+        "address": 6621,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_calloc",
+        "ordinal": 65,
+        "address": 5466,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_camellia_alloc",
+        "ordinal": 66,
+        "address": 5631,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_camellia_crypt",
+        "ordinal": 67,
+        "address": 5681,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_camellia_init",
+        "ordinal": 68,
+        "address": 6396,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_camellia_size",
+        "ordinal": 69,
+        "address": 546568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_cast5_alloc",
+        "ordinal": 70,
+        "address": 5341,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_cast5_crypt",
+        "ordinal": 71,
+        "address": 5666,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_cast5_crypt2",
+        "ordinal": 72,
+        "address": 5771,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_cast5_init",
+        "ordinal": 73,
+        "address": 4581,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_cast5_size",
+        "ordinal": 74,
+        "address": 555008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_channel_layout_extract_channel",
+        "ordinal": 75,
+        "address": 4616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_chroma_location_from_name",
+        "ordinal": 76,
+        "address": 5961,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_chroma_location_name",
+        "ordinal": 77,
+        "address": 6361,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_cmp_i",
+        "ordinal": 78,
+        "address": 4256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_color_primaries_from_name",
+        "ordinal": 79,
+        "address": 4736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_color_primaries_name",
+        "ordinal": 80,
+        "address": 4596,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_color_range_from_name",
+        "ordinal": 81,
+        "address": 5436,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_color_range_name",
+        "ordinal": 82,
+        "address": 5781,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_color_space_from_name",
+        "ordinal": 83,
+        "address": 5411,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_color_space_name",
+        "ordinal": 84,
+        "address": 4831,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_color_transfer_from_name",
+        "ordinal": 85,
+        "address": 6536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_color_transfer_name",
+        "ordinal": 86,
+        "address": 6676,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_compare_mod",
+        "ordinal": 87,
+        "address": 4121,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_compare_ts",
+        "ordinal": 88,
+        "address": 5541,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_content_light_metadata_alloc",
+        "ordinal": 89,
+        "address": 4851,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_content_light_metadata_create_side_data",
+        "ordinal": 90,
+        "address": 6331,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_cpu_count",
+        "ordinal": 91,
+        "address": 4691,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_cpu_max_align",
+        "ordinal": 92,
+        "address": 6246,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_crc",
+        "ordinal": 93,
+        "address": 5216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_crc_get_table",
+        "ordinal": 94,
+        "address": 4496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_crc_init",
+        "ordinal": 95,
+        "address": 5186,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_d2q",
+        "ordinal": 96,
+        "address": 6576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_d2str",
+        "ordinal": 97,
+        "address": 4176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_default_get_category",
+        "ordinal": 98,
+        "address": 5776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_default_item_name",
+        "ordinal": 99,
+        "address": 6051,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_des_alloc",
+        "ordinal": 100,
+        "address": 4921,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_des_crypt",
+        "ordinal": 101,
+        "address": 4796,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_des_init",
+        "ordinal": 102,
+        "address": 5651,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_des_mac",
+        "ordinal": 103,
+        "address": 6221,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dict_copy",
+        "ordinal": 104,
+        "address": 5166,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dict_count",
+        "ordinal": 105,
+        "address": 4406,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dict_free",
+        "ordinal": 106,
+        "address": 5111,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dict_get",
+        "ordinal": 107,
+        "address": 5836,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dict_get_string",
+        "ordinal": 108,
+        "address": 4591,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dict_parse_string",
+        "ordinal": 109,
+        "address": 4366,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dict_set",
+        "ordinal": 110,
+        "address": 5816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dict_set_int",
+        "ordinal": 111,
+        "address": 5281,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dirname",
+        "ordinal": 112,
+        "address": 4291,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_display_matrix_flip",
+        "ordinal": 113,
+        "address": 6411,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_display_rotation_get",
+        "ordinal": 114,
+        "address": 5041,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_display_rotation_set",
+        "ordinal": 115,
+        "address": 5586,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_div_i",
+        "ordinal": 116,
+        "address": 6116,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_div_q",
+        "ordinal": 117,
+        "address": 6156,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_downmix_info_update_side_data",
+        "ordinal": 118,
+        "address": 6406,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dynarray2_add",
+        "ordinal": 119,
+        "address": 6011,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dynarray_add",
+        "ordinal": 120,
+        "address": 5926,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_dynarray_add_nofree",
+        "ordinal": 121,
+        "address": 4476,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_escape",
+        "ordinal": 122,
+        "address": 5246,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_expr_eval",
+        "ordinal": 123,
+        "address": 4671,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_expr_free",
+        "ordinal": 124,
+        "address": 4636,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_expr_parse",
+        "ordinal": 125,
+        "address": 4941,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_expr_parse_and_eval",
+        "ordinal": 126,
+        "address": 6316,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fast_malloc",
+        "ordinal": 127,
+        "address": 5301,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fast_mallocz",
+        "ordinal": 128,
+        "address": 6181,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fast_realloc",
+        "ordinal": 129,
+        "address": 6351,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_alloc",
+        "ordinal": 130,
+        "address": 4431,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_alloc_array",
+        "ordinal": 131,
+        "address": 6416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_drain",
+        "ordinal": 132,
+        "address": 5196,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_free",
+        "ordinal": 133,
+        "address": 4146,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_freep",
+        "ordinal": 134,
+        "address": 5156,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_generic_peek",
+        "ordinal": 135,
+        "address": 5026,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_generic_peek_at",
+        "ordinal": 136,
+        "address": 6561,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_generic_read",
+        "ordinal": 137,
+        "address": 4981,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_generic_write",
+        "ordinal": 138,
+        "address": 5096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_grow",
+        "ordinal": 139,
+        "address": 4261,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_realloc2",
+        "ordinal": 140,
+        "address": 6101,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_reset",
+        "ordinal": 141,
+        "address": 5441,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_size",
+        "ordinal": 142,
+        "address": 4301,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fifo_space",
+        "ordinal": 143,
+        "address": 5306,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_file_map",
+        "ordinal": 144,
+        "address": 6166,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_file_unmap",
+        "ordinal": 145,
+        "address": 6081,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_find_best_pix_fmt_of_2",
+        "ordinal": 146,
+        "address": 4721,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_find_info_tag",
+        "ordinal": 147,
+        "address": 6121,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_find_nearest_q_idx",
+        "ordinal": 148,
+        "address": 4211,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fopen_utf8",
+        "ordinal": 149,
+        "address": 4576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_force_cpu_flags",
+        "ordinal": 150,
+        "address": 5386,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_fourcc_make_string",
+        "ordinal": 151,
+        "address": 4811,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_alloc",
+        "ordinal": 152,
+        "address": 5621,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_apply_cropping",
+        "ordinal": 153,
+        "address": 4561,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_clone",
+        "ordinal": 154,
+        "address": 5646,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_copy",
+        "ordinal": 155,
+        "address": 6321,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_copy_props",
+        "ordinal": 156,
+        "address": 5881,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_free",
+        "ordinal": 157,
+        "address": 6211,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_best_effort_timestamp",
+        "ordinal": 158,
+        "address": 4131,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_buffer",
+        "ordinal": 159,
+        "address": 6296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_channel_layout",
+        "ordinal": 160,
+        "address": 6636,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_channels",
+        "ordinal": 161,
+        "address": 6141,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_color_range",
+        "ordinal": 162,
+        "address": 5526,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_colorspace",
+        "ordinal": 163,
+        "address": 5286,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_decode_error_flags",
+        "ordinal": 164,
+        "address": 4481,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_metadata",
+        "ordinal": 165,
+        "address": 5641,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_pkt_duration",
+        "ordinal": 166,
+        "address": 5381,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_pkt_pos",
+        "ordinal": 167,
+        "address": 6526,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_pkt_size",
+        "ordinal": 168,
+        "address": 4866,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_plane_buffer",
+        "ordinal": 169,
+        "address": 6446,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_qp_table",
+        "ordinal": 170,
+        "address": 5871,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_sample_rate",
+        "ordinal": 171,
+        "address": 4791,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_get_side_data",
+        "ordinal": 172,
+        "address": 4961,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_is_writable",
+        "ordinal": 173,
+        "address": 5726,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_make_writable",
+        "ordinal": 174,
+        "address": 6431,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_move_ref",
+        "ordinal": 175,
+        "address": 6126,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_new_side_data",
+        "ordinal": 176,
+        "address": 5941,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_ref",
+        "ordinal": 177,
+        "address": 4641,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_remove_side_data",
+        "ordinal": 178,
+        "address": 5146,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_best_effort_timestamp",
+        "ordinal": 179,
+        "address": 6631,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_channel_layout",
+        "ordinal": 180,
+        "address": 4206,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_channels",
+        "ordinal": 181,
+        "address": 4451,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_color_range",
+        "ordinal": 182,
+        "address": 6436,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_colorspace",
+        "ordinal": 183,
+        "address": 4631,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_decode_error_flags",
+        "ordinal": 184,
+        "address": 6366,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_metadata",
+        "ordinal": 185,
+        "address": 5376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_pkt_duration",
+        "ordinal": 186,
+        "address": 5011,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_pkt_pos",
+        "ordinal": 187,
+        "address": 6281,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_pkt_size",
+        "ordinal": 188,
+        "address": 5396,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_qp_table",
+        "ordinal": 189,
+        "address": 4741,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_set_sample_rate",
+        "ordinal": 190,
+        "address": 4601,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_side_data_name",
+        "ordinal": 191,
+        "address": 4351,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_frame_unref",
+        "ordinal": 192,
+        "address": 4746,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_free",
+        "ordinal": 193,
+        "address": 6571,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_freep",
+        "ordinal": 194,
+        "address": 4336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_gcd",
+        "ordinal": 195,
+        "address": 6596,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_alt_sample_fmt",
+        "ordinal": 196,
+        "address": 5021,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_bits_per_pixel",
+        "ordinal": 197,
+        "address": 5971,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_bytes_per_sample",
+        "ordinal": 198,
+        "address": 6546,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_channel_description",
+        "ordinal": 199,
+        "address": 6391,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_channel_layout",
+        "ordinal": 200,
+        "address": 5071,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_channel_layout_channel_index",
+        "ordinal": 201,
+        "address": 4911,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_channel_layout_nb_channels",
+        "ordinal": 202,
+        "address": 4156,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_channel_layout_string",
+        "ordinal": 203,
+        "address": 5546,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_channel_name",
+        "ordinal": 204,
+        "address": 6381,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_colorspace_name",
+        "ordinal": 205,
+        "address": 6481,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_cpu_flags",
+        "ordinal": 206,
+        "address": 5866,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_default_channel_layout",
+        "ordinal": 207,
+        "address": 4306,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_extended_channel_layout",
+        "ordinal": 208,
+        "address": 5746,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_known_color_name",
+        "ordinal": 209,
+        "address": 4101,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_media_type_string",
+        "ordinal": 210,
+        "address": 6541,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_packed_sample_fmt",
+        "ordinal": 211,
+        "address": 5676,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_padded_bits_per_pixel",
+        "ordinal": 212,
+        "address": 5371,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_picture_type_char",
+        "ordinal": 213,
+        "address": 4236,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_pix_fmt",
+        "ordinal": 214,
+        "address": 5751,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_pix_fmt_loss",
+        "ordinal": 215,
+        "address": 4136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_pix_fmt_name",
+        "ordinal": 216,
+        "address": 5066,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_pix_fmt_string",
+        "ordinal": 217,
+        "address": 6426,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_planar_sample_fmt",
+        "ordinal": 218,
+        "address": 5566,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_random_seed",
+        "ordinal": 219,
+        "address": 5551,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_sample_fmt",
+        "ordinal": 220,
+        "address": 6191,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_sample_fmt_name",
+        "ordinal": 221,
+        "address": 5716,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_sample_fmt_string",
+        "ordinal": 222,
+        "address": 5661,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_standard_channel_layout",
+        "ordinal": 223,
+        "address": 5126,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_time_base_q",
+        "ordinal": 224,
+        "address": 4341,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_get_token",
+        "ordinal": 225,
+        "address": 6521,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_gettime",
+        "ordinal": 226,
+        "address": 5531,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_gettime_relative",
+        "ordinal": 227,
+        "address": 5696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_gettime_relative_is_monotonic",
+        "ordinal": 228,
+        "address": 4536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_alloc",
+        "ordinal": 229,
+        "address": 5226,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_final",
+        "ordinal": 230,
+        "address": 5936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_final_b64",
+        "ordinal": 231,
+        "address": 6506,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_final_bin",
+        "ordinal": 232,
+        "address": 6606,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_final_hex",
+        "ordinal": 233,
+        "address": 4171,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_freep",
+        "ordinal": 234,
+        "address": 5706,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_get_name",
+        "ordinal": 235,
+        "address": 6646,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_get_size",
+        "ordinal": 236,
+        "address": 6556,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_init",
+        "ordinal": 237,
+        "address": 4971,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_names",
+        "ordinal": 238,
+        "address": 5986,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hash_update",
+        "ordinal": 239,
+        "address": 5861,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hmac_alloc",
+        "ordinal": 240,
+        "address": 5981,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hmac_calc",
+        "ordinal": 241,
+        "address": 5996,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hmac_final",
+        "ordinal": 242,
+        "address": 5736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hmac_free",
+        "ordinal": 243,
+        "address": 4996,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hmac_init",
+        "ordinal": 244,
+        "address": 4821,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hmac_update",
+        "ordinal": 245,
+        "address": 5721,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwdevice_ctx_alloc",
+        "ordinal": 246,
+        "address": 4411,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwdevice_ctx_create",
+        "ordinal": 247,
+        "address": 5241,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwdevice_ctx_create_derived",
+        "ordinal": 248,
+        "address": 5321,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwdevice_ctx_init",
+        "ordinal": 249,
+        "address": 6111,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwdevice_find_type_by_name",
+        "ordinal": 250,
+        "address": 6091,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwdevice_get_hwframe_constraints",
+        "ordinal": 251,
+        "address": 5831,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwdevice_get_type_name",
+        "ordinal": 252,
+        "address": 4986,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwdevice_hwconfig_alloc",
+        "ordinal": 253,
+        "address": 5326,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwdevice_iterate_types",
+        "ordinal": 254,
+        "address": 4696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwframe_constraints_free",
+        "ordinal": 255,
+        "address": 4716,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwframe_ctx_alloc",
+        "ordinal": 256,
+        "address": 5501,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwframe_ctx_create_derived",
+        "ordinal": 257,
+        "address": 5731,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwframe_ctx_init",
+        "ordinal": 258,
+        "address": 4976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwframe_get_buffer",
+        "ordinal": 259,
+        "address": 4376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwframe_map",
+        "ordinal": 260,
+        "address": 5421,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwframe_transfer_data",
+        "ordinal": 261,
+        "address": 4521,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_hwframe_transfer_get_formats",
+        "ordinal": 262,
+        "address": 6516,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_i2int",
+        "ordinal": 263,
+        "address": 6196,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_alloc",
+        "ordinal": 264,
+        "address": 4316,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_check_sar",
+        "ordinal": 265,
+        "address": 6486,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_check_size",
+        "ordinal": 266,
+        "address": 6421,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_check_size2",
+        "ordinal": 267,
+        "address": 5416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_copy",
+        "ordinal": 268,
+        "address": 5446,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_copy_plane",
+        "ordinal": 269,
+        "address": 6071,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_copy_to_buffer",
+        "ordinal": 270,
+        "address": 4201,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_copy_uc_from",
+        "ordinal": 271,
+        "address": 5346,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_fill_arrays",
+        "ordinal": 272,
+        "address": 5841,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_fill_black",
+        "ordinal": 273,
+        "address": 6056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_fill_linesizes",
+        "ordinal": 274,
+        "address": 6461,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_fill_max_pixsteps",
+        "ordinal": 275,
+        "address": 5616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_fill_pointers",
+        "ordinal": 276,
+        "address": 6086,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_get_buffer_size",
+        "ordinal": 277,
+        "address": 6511,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_image_get_linesize",
+        "ordinal": 278,
+        "address": 4956,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_int2i",
+        "ordinal": 279,
+        "address": 4296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_int_list_length_for_size",
+        "ordinal": 280,
+        "address": 5316,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_lfg_init",
+        "ordinal": 281,
+        "address": 6236,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_lfg_init_from_data",
+        "ordinal": 282,
+        "address": 5491,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log",
+        "ordinal": 283,
+        "address": 6601,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log2",
+        "ordinal": 284,
+        "address": 5031,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log2_16bit",
+        "ordinal": 285,
+        "address": 5796,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log2_i",
+        "ordinal": 286,
+        "address": 5956,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log_default_callback",
+        "ordinal": 287,
+        "address": 4141,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log_format_line",
+        "ordinal": 288,
+        "address": 4106,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log_format_line2",
+        "ordinal": 289,
+        "address": 6341,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log_get_flags",
+        "ordinal": 290,
+        "address": 4426,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log_get_level",
+        "ordinal": 291,
+        "address": 4436,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log_set_callback",
+        "ordinal": 292,
+        "address": 6471,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log_set_flags",
+        "ordinal": 293,
+        "address": 4321,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_log_set_level",
+        "ordinal": 294,
+        "address": 4326,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_lzo1x_decode",
+        "ordinal": 295,
+        "address": 5081,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_malloc_tracked",
+        "ordinal": 296,
+        "address": 4531,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_mallocz_tracked",
+        "ordinal": 297,
+        "address": 4571,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_mastering_display_metadata_alloc",
+        "ordinal": 298,
+        "address": 6661,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_mastering_display_metadata_create_side_data",
+        "ordinal": 299,
+        "address": 6566,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_match_list",
+        "ordinal": 300,
+        "address": 6076,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_match_name",
+        "ordinal": 301,
+        "address": 6271,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_max_alloc",
+        "ordinal": 302,
+        "address": 4511,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_md5_alloc",
+        "ordinal": 303,
+        "address": 5856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_md5_final",
+        "ordinal": 304,
+        "address": 5176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_md5_init",
+        "ordinal": 305,
+        "address": 5141,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_md5_size",
+        "ordinal": 306,
+        "address": 583120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_md5_sum",
+        "ordinal": 307,
+        "address": 4726,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_md5_update",
+        "ordinal": 308,
+        "address": 4586,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_memcpy_backptr",
+        "ordinal": 309,
+        "address": 5391,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_memdup",
+        "ordinal": 310,
+        "address": 5921,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_mod_i",
+        "ordinal": 311,
+        "address": 6031,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_mul_i",
+        "ordinal": 312,
+        "address": 6136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_mul_q",
+        "ordinal": 313,
+        "address": 6161,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_murmur3_alloc",
+        "ordinal": 314,
+        "address": 5906,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_murmur3_final",
+        "ordinal": 315,
+        "address": 6016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_murmur3_init",
+        "ordinal": 316,
+        "address": 4346,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_murmur3_init_seeded",
+        "ordinal": 317,
+        "address": 5601,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_murmur3_update",
+        "ordinal": 318,
+        "address": 5426,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_nearer_q",
+        "ordinal": 319,
+        "address": 6171,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_child_class_next",
+        "ordinal": 320,
+        "address": 6501,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_child_next",
+        "ordinal": 321,
+        "address": 4246,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_copy",
+        "ordinal": 322,
+        "address": 4951,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_eval_double",
+        "ordinal": 323,
+        "address": 4861,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_eval_flags",
+        "ordinal": 324,
+        "address": 6151,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_eval_float",
+        "ordinal": 325,
+        "address": 4441,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_eval_int",
+        "ordinal": 326,
+        "address": 4701,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_eval_int64",
+        "ordinal": 327,
+        "address": 4361,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_eval_q",
+        "ordinal": 328,
+        "address": 6616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_find",
+        "ordinal": 329,
+        "address": 5161,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_find2",
+        "ordinal": 330,
+        "address": 4651,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_flag_is_set",
+        "ordinal": 331,
+        "address": 5901,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_free",
+        "ordinal": 332,
+        "address": 5211,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_freep_ranges",
+        "ordinal": 333,
+        "address": 4166,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get",
+        "ordinal": 334,
+        "address": 4841,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get_channel_layout",
+        "ordinal": 335,
+        "address": 4151,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get_dict_val",
+        "ordinal": 336,
+        "address": 4466,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get_double",
+        "ordinal": 337,
+        "address": 4646,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get_image_size",
+        "ordinal": 338,
+        "address": 6376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get_int",
+        "ordinal": 339,
+        "address": 5291,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get_key_value",
+        "ordinal": 340,
+        "address": 6591,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get_pixel_fmt",
+        "ordinal": 341,
+        "address": 5261,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get_q",
+        "ordinal": 342,
+        "address": 4836,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get_sample_fmt",
+        "ordinal": 343,
+        "address": 6466,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_get_video_rate",
+        "ordinal": 344,
+        "address": 5401,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_is_set_to_default",
+        "ordinal": 345,
+        "address": 5171,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_is_set_to_default_by_name",
+        "ordinal": 346,
+        "address": 5656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_next",
+        "ordinal": 347,
+        "address": 5036,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_ptr",
+        "ordinal": 348,
+        "address": 4846,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_query_ranges",
+        "ordinal": 349,
+        "address": 5561,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_query_ranges_default",
+        "ordinal": 350,
+        "address": 5846,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_serialize",
+        "ordinal": 351,
+        "address": 4706,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set",
+        "ordinal": 352,
+        "address": 4771,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_bin",
+        "ordinal": 353,
+        "address": 5266,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_channel_layout",
+        "ordinal": 354,
+        "address": 5931,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_defaults",
+        "ordinal": 355,
+        "address": 4551,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_defaults2",
+        "ordinal": 356,
+        "address": 6386,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_dict",
+        "ordinal": 357,
+        "address": 6021,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_dict2",
+        "ordinal": 358,
+        "address": 4751,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_dict_val",
+        "ordinal": 359,
+        "address": 4871,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_double",
+        "ordinal": 360,
+        "address": 6401,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_from_string",
+        "ordinal": 361,
+        "address": 6491,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_image_size",
+        "ordinal": 362,
+        "address": 6231,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_int",
+        "ordinal": 363,
+        "address": 5131,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_pixel_fmt",
+        "ordinal": 364,
+        "address": 4906,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_q",
+        "ordinal": 365,
+        "address": 4916,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_sample_fmt",
+        "ordinal": 366,
+        "address": 4446,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_set_video_rate",
+        "ordinal": 367,
+        "address": 6496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_opt_show2",
+        "ordinal": 368,
+        "address": 4666,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_parse_color",
+        "ordinal": 369,
+        "address": 5691,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_parse_cpu_caps",
+        "ordinal": 370,
+        "address": 4806,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_parse_cpu_flags",
+        "ordinal": 371,
+        "address": 4681,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_parse_ratio",
+        "ordinal": 372,
+        "address": 6476,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_parse_time",
+        "ordinal": 373,
+        "address": 4186,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_parse_video_rate",
+        "ordinal": 374,
+        "address": 4371,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_parse_video_size",
+        "ordinal": 375,
+        "address": 4416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_pix_fmt_count_planes",
+        "ordinal": 376,
+        "address": 5471,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_pix_fmt_desc_get",
+        "ordinal": 377,
+        "address": 4281,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_pix_fmt_desc_get_id",
+        "ordinal": 378,
+        "address": 5046,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_pix_fmt_desc_next",
+        "ordinal": 379,
+        "address": 4936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_pix_fmt_get_chroma_sub_sample",
+        "ordinal": 380,
+        "address": 4381,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_pix_fmt_swap_endianness",
+        "ordinal": 381,
+        "address": 4656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_pixelutils_get_sad_fn",
+        "ordinal": 382,
+        "address": 5826,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_q2intfloat",
+        "ordinal": 383,
+        "address": 4931,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_rc4_alloc",
+        "ordinal": 384,
+        "address": 5991,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_rc4_crypt",
+        "ordinal": 385,
+        "address": 5896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_rc4_init",
+        "ordinal": 386,
+        "address": 4826,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_read_image_line",
+        "ordinal": 387,
+        "address": 5431,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_realloc_array",
+        "ordinal": 388,
+        "address": 4891,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_realloc_f",
+        "ordinal": 389,
+        "address": 4356,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_realloc_tracked",
+        "ordinal": 390,
+        "address": 4126,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_reallocp",
+        "ordinal": 391,
+        "address": 6216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_reallocp_array",
+        "ordinal": 392,
+        "address": 4886,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_reduce",
+        "ordinal": 393,
+        "address": 5916,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_register_malloc",
+        "ordinal": 394,
+        "address": 5271,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_rescale",
+        "ordinal": 395,
+        "address": 4786,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_rescale_delta",
+        "ordinal": 396,
+        "address": 6641,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_rescale_q",
+        "ordinal": 397,
+        "address": 4926,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_rescale_q_rnd",
+        "ordinal": 398,
+        "address": 6626,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_rescale_rnd",
+        "ordinal": 399,
+        "address": 4611,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_ripemd_alloc",
+        "ordinal": 400,
+        "address": 6096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_ripemd_final",
+        "ordinal": 401,
+        "address": 6046,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_ripemd_init",
+        "ordinal": 402,
+        "address": 5876,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_ripemd_size",
+        "ordinal": 403,
+        "address": 660672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_ripemd_update",
+        "ordinal": 404,
+        "address": 5786,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sample_fmt_is_planar",
+        "ordinal": 405,
+        "address": 6356,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_samples_alloc",
+        "ordinal": 406,
+        "address": 6586,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_samples_alloc_array_and_samples",
+        "ordinal": 407,
+        "address": 5276,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_samples_copy",
+        "ordinal": 408,
+        "address": 4731,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_samples_fill_arrays",
+        "ordinal": 409,
+        "address": 4506,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_samples_get_buffer_size",
+        "ordinal": 410,
+        "address": 5521,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_samples_set_silence",
+        "ordinal": 411,
+        "address": 5016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_set_cpu_flags_mask",
+        "ordinal": 412,
+        "address": 5251,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_set_options_string",
+        "ordinal": 413,
+        "address": 4816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sha512_alloc",
+        "ordinal": 414,
+        "address": 4776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sha512_final",
+        "ordinal": 415,
+        "address": 4266,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sha512_init",
+        "ordinal": 416,
+        "address": 5406,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sha512_size",
+        "ordinal": 417,
+        "address": 662968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sha512_update",
+        "ordinal": 418,
+        "address": 4676,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sha_alloc",
+        "ordinal": 419,
+        "address": 5136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sha_final",
+        "ordinal": 420,
+        "address": 6451,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sha_init",
+        "ordinal": 421,
+        "address": 6286,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sha_size",
+        "ordinal": 422,
+        "address": 662632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sha_update",
+        "ordinal": 423,
+        "address": 4946,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_shr_i",
+        "ordinal": 424,
+        "address": 6036,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_small_strptime",
+        "ordinal": 425,
+        "address": 6241,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_spherical_alloc",
+        "ordinal": 426,
+        "address": 4181,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_spherical_from_name",
+        "ordinal": 427,
+        "address": 5506,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_spherical_projection_name",
+        "ordinal": 428,
+        "address": 6001,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_spherical_tile_bounds",
+        "ordinal": 429,
+        "address": 4606,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_stereo3d_alloc",
+        "ordinal": 430,
+        "address": 4396,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_stereo3d_create_side_data",
+        "ordinal": 431,
+        "address": 6131,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_stereo3d_from_name",
+        "ordinal": 432,
+        "address": 5606,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_stereo3d_type_name",
+        "ordinal": 433,
+        "address": 5366,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strcasecmp",
+        "ordinal": 434,
+        "address": 5336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strdup",
+        "ordinal": 435,
+        "address": 5516,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strerror",
+        "ordinal": 436,
+        "address": 6256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strireplace",
+        "ordinal": 437,
+        "address": 5256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_stristart",
+        "ordinal": 438,
+        "address": 6531,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_stristr",
+        "ordinal": 439,
+        "address": 5611,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strlcat",
+        "ordinal": 440,
+        "address": 5486,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strlcatf",
+        "ordinal": 441,
+        "address": 6346,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strlcpy",
+        "ordinal": 442,
+        "address": 5576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strncasecmp",
+        "ordinal": 443,
+        "address": 5221,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strndup",
+        "ordinal": 444,
+        "address": 5581,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strnstr",
+        "ordinal": 445,
+        "address": 5756,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strstart",
+        "ordinal": 446,
+        "address": 6266,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strtod",
+        "ordinal": 447,
+        "address": 5481,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_strtok",
+        "ordinal": 448,
+        "address": 5496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sub_i",
+        "ordinal": 449,
+        "address": 6146,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_sub_q",
+        "ordinal": 450,
+        "address": 6176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tea_alloc",
+        "ordinal": 451,
+        "address": 4391,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tea_crypt",
+        "ordinal": 452,
+        "address": 4526,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tea_init",
+        "ordinal": 453,
+        "address": 6251,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tea_size",
+        "ordinal": 454,
+        "address": 664228,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tempfile",
+        "ordinal": 455,
+        "address": 5356,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_thread_message_flush",
+        "ordinal": 456,
+        "address": 4761,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_thread_message_queue_alloc",
+        "ordinal": 457,
+        "address": 5536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_thread_message_queue_free",
+        "ordinal": 458,
+        "address": 4191,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_thread_message_queue_recv",
+        "ordinal": 459,
+        "address": 4221,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_thread_message_queue_send",
+        "ordinal": 460,
+        "address": 4196,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_thread_message_queue_set_err_recv",
+        "ordinal": 461,
+        "address": 5061,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_thread_message_queue_set_err_send",
+        "ordinal": 462,
+        "address": 5001,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_thread_message_queue_set_free_func",
+        "ordinal": 463,
+        "address": 4501,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_timecode_adjust_ntsc_framenum2",
+        "ordinal": 464,
+        "address": 6201,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_timecode_check_frame_rate",
+        "ordinal": 465,
+        "address": 4516,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_timecode_get_smpte_from_framenum",
+        "ordinal": 466,
+        "address": 5151,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_timecode_init",
+        "ordinal": 467,
+        "address": 4626,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_timecode_init_from_string",
+        "ordinal": 468,
+        "address": 5806,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_timecode_make_mpeg_tc_string",
+        "ordinal": 469,
+        "address": 6276,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_timecode_make_smpte_tc_string",
+        "ordinal": 470,
+        "address": 4881,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_timecode_make_string",
+        "ordinal": 471,
+        "address": 4546,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_timegm",
+        "ordinal": 472,
+        "address": 5296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tree_destroy",
+        "ordinal": 473,
+        "address": 5106,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tree_enumerate",
+        "ordinal": 474,
+        "address": 6301,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tree_find",
+        "ordinal": 475,
+        "address": 4401,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tree_insert",
+        "ordinal": 476,
+        "address": 4991,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tree_node_alloc",
+        "ordinal": 477,
+        "address": 5556,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_tree_node_size",
+        "ordinal": 478,
+        "address": 664664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_twofish_alloc",
+        "ordinal": 479,
+        "address": 6551,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_twofish_crypt",
+        "ordinal": 480,
+        "address": 5351,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_twofish_init",
+        "ordinal": 481,
+        "address": 5671,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_twofish_size",
+        "ordinal": 482,
+        "address": 665712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_usleep",
+        "ordinal": 483,
+        "address": 5511,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_utf8_decode",
+        "ordinal": 484,
+        "address": 4541,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_util_ffversion",
+        "ordinal": 485,
+        "address": 665948,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_vbprintf",
+        "ordinal": 486,
+        "address": 6226,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_version_info",
+        "ordinal": 487,
+        "address": 5056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_vlog",
+        "ordinal": 488,
+        "address": 5201,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_write_image_line",
+        "ordinal": 489,
+        "address": 4491,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_xtea_alloc",
+        "ordinal": 490,
+        "address": 6006,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_xtea_crypt",
+        "ordinal": 491,
+        "address": 5946,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_xtea_init",
+        "ordinal": 492,
+        "address": 5051,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_xtea_le_crypt",
+        "ordinal": 493,
+        "address": 6671,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "av_xtea_le_init",
+        "ordinal": 494,
+        "address": 6441,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_alloc_fixed_dsp",
+        "ordinal": 495,
+        "address": 4226,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_cga_font",
+        "ordinal": 496,
+        "address": 666896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_dict_set_timestamp",
+        "ordinal": 497,
+        "address": 6651,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_float_dsp_alloc",
+        "ordinal": 498,
+        "address": 4116,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_frame_get_metadatap",
+        "ordinal": 499,
+        "address": 4661,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_get_gamma_from_trc",
+        "ordinal": 500,
+        "address": 5966,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_get_trc_function_from_trc",
+        "ordinal": 501,
+        "address": 5791,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_init_lls",
+        "ordinal": 502,
+        "address": 6261,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_report_missing_feature",
+        "ordinal": 503,
+        "address": 5886,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_request_sample",
+        "ordinal": 504,
+        "address": 4331,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_scalarproduct_float_c",
+        "ordinal": 505,
+        "address": 4111,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_set_systematic_pal2",
+        "ordinal": 506,
+        "address": 5456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_slicethread_create",
+        "ordinal": 507,
+        "address": 5801,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_slicethread_execute",
+        "ordinal": 508,
+        "address": 4311,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_slicethread_free",
+        "ordinal": 509,
+        "address": 5821,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_snprintf",
+        "ordinal": 510,
+        "address": 4901,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_solve_lls",
+        "ordinal": 511,
+        "address": 5181,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_strtod",
+        "ordinal": 512,
+        "address": 5121,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_vga16_font",
+        "ordinal": 513,
+        "address": 668944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avpriv_vsnprintf",
+        "ordinal": 514,
+        "address": 5236,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avutil_configuration",
+        "ordinal": 515,
+        "address": 5951,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avutil_license",
+        "ordinal": 516,
+        "address": 5761,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "avutil_version",
+        "ordinal": 517,
+        "address": 5851,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 0,
+    "node_count": 0,
+    "nodes": null,
+    "total_size": 0,
+    "max_entropy": null
+  },
+  "digital_signature": {
+    "signature_present": 1,
+    "verification_flag": "OK",
+    "signature_count": 1,
+    "certificates": [
+      {
+        "version": 3,
+        "subject": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA",
+        "issuer": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA",
+        "serial_number": "0ce7e0e517d846fe8fe560fc1bf03039",
+        "signature_algorithm": "1.2.840.113549.1.1.5",
+        "valid_from": "2006-11-10",
+        "valid_to": "2031-11-10",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN",
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services CA - G2",
+        "issuer": "C=ZA, ST=Western Cape, L=Durbanville, O=Thawte, OU=Thawte Certification, CN=Thawte Timestamping CA",
+        "serial_number": "7e93ebfb7cc64e59ea4b9a77d406fc3b",
+        "signature_algorithm": "1.2.840.113549.1.1.5",
+        "valid_from": "2012-12-21",
+        "valid_to": "2020-12-30",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services Signer - G4",
+        "issuer": "C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services CA - G2",
+        "serial_number": "0ecff438c8febf356e04d86a981b1a50",
+        "signature_algorithm": "1.2.840.113549.1.1.5",
+        "valid_from": "2012-10-18",
+        "valid_to": "2020-12-29",
+        "is_ca": 0,
+        "key_usage": [
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=US, ST=WA, L=Bellevue, O=Valve, CN=Valve",
+        "issuer": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Assured ID Code Signing CA",
+        "serial_number": "084caf4df499141d404b7199aa2c2131",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2015-9-25",
+        "valid_to": "2018-10-3",
+        "is_ca": 0,
+        "key_usage": [
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Assured ID Code Signing CA",
+        "issuer": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA",
+        "serial_number": "0409181b5fd5bb66755343b56f955008",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2013-10-22",
+        "valid_to": "2028-10-22",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN",
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      }
+    ]
+  },
+  "rich_header": {
+    "has_rich_header": 0,
+    "key": null,
+    "entries": null,
+    "raw_hex": null,
+    "raw_offset": null,
+    "raw_size": null,
+    "entry_count": null
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 794768,
+      "size": 18308,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 930460,
+      "size": 80,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 840192,
+      "size": 6944,
+      "section": ".data",
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 937984,
+      "size": 14724,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 539472,
+      "size": 56,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 769816,
+      "size": 64,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 929792,
+      "size": 668,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 0,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": null
+  },
+  "entrypoint_bytes": {
+    "offset": 327578,
+    "hex": "558bec837d0c017505e8ff240100ff7510ff750cff7508e80700000083c40c5dc20c006a0c68e8170c10e8c7c9000033c0408b750c85f6750c3935b00c0e100f",
+    "entropy": 4.58679
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 269250816,
+    "se_handler_count": 3,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 3,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 5,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 1537
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 12,
+    "minor_linker_version": 0,
+    "sizeof_code": 532480,
+    "sizeof_initialized_data": 413696,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 330650,
+    "baseof_code": 4096,
+    "baseof_data": 536576,
+    "imagebase": 268435456,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 6,
+    "minor_operating_system_version": 0,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 6,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 958464,
+    "sizeof_headers": 1024,
+    "checksum": 889020,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 320,
+    "dll_characteristics": [
+      "DYNAMIC_BASE",
+      "NX_COMPAT"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 192,
+    "entropy": 5.652002,
+    "is_standard_ms": 0,
+    "sha256": "3fefd14b9e0a860d106e62cbfbf38750641c5c219f8affd39b5a8d5ac1b720fe",
+    "head_hex": "564c56000100000000d20c00bbbd395a",
+    "raw_hex": "564c56000100000000d20c00bbbd395a7ae2621a5985eed42fd3fc08844dd3a14d90e21c75ad843758d2554f4dcab9ae80d8844807b82b2a46f0e1f05f132b7b9edcf1c32978f77b018470a25215acb7a09dfdaad8ed116b9d620724c9c3ef8d349a3f0b6e22035e450f5d16ae0384296341c57a35233d6bba8ad5d99bc1a7c26ee5f1e082de24712ec789dc61c4104b000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "VLV 9Zz b Y / M M u 7X UOM H +*F _ +{ )x { p R k b $ 4 ? n\" ^E ] )cA z5#=k n $q. a K",
+    "message_is_standard": 0
+  },
+  "checksum_check": {
+    "checksum_declared": 889020,
+    "checksum_computed": 889020,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 330650,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.024579
+  },
+  "overlay": {
+    "size": 6944,
+    "offset": 840192,
+    "entropy": 7.387183,
+    "magic_head": "201b00000002020030821b1306092a86",
+    "sha256": "642e64445cb5ac9ec3f7dec5555792928bc1e8b06e1d8b8f997d4a7a629ce3a4"
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 2,
+    "types": [
+      "CODEVIEW",
+      "VC_FEATURE"
+    ],
+    "pdb_path": "c:\\buildslave\\libav_win32\\build\\dev\\libavutil\\libavutil-55.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 129,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": null,
+    "company_name": null,
+    "file_description": null,
+    "original_filename": null,
+    "product_name": null,
+    "file_version": null,
+    "legal_copyright": null,
+    "internal_name": null
+  },
+  "strings": {
+    "count_ascii": 4538,
+    "count_utf16": 494,
+    "count_total": 5032,
+    "chars_total": 49614,
+    "printable_ratio": 0.058567,
+    "len_mean": 9.86,
+    "len_max": 531,
+    "urls": [
+      "ftp://upload.ffmpeg.org/incoming/",
+      "http://crl.thawte.com/ThawteTimestampingCA.crl0",
+      "http://crl3.digicert.com/sha2-assured-cs-g1.crl05",
+      "http://crl4.digicert.com/sha2-assured-cs-g1.crl0K",
+      "http://ocsp.digicert.com0C",
+      "http://ocsp.digicert.com0N",
+      "http://ocsp.thawte.com0",
+      "http://ts-aia.ws.symantec.com/tss-ca-g2.cer0",
+      "http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(",
+      "http://ts-ocsp.ws.symantec.com07",
+      "https://www.digicert.com/CPS0"
+    ],
+    "n_urls": 11,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "advapi32.dll",
+      "combase.dll",
+      "d3d11.dll",
+      "d3d11_1sdklayers.dll",
+      "d3d9.dll",
+      "dxgi.dll",
+      "dxgidebug.dll",
+      "dxva2.dll",
+      "kernel32.dll",
+      "libavutil-55.dll",
+      "mscoree.dll",
+      "nvcuda.dll",
+      "user32.dll"
+    ],
+    "n_dll_names": 13,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [
+      "c:\\buildslave\\libav_win32\\build\\dev\\compat",
+      "c:\\buildslave\\libav_win32\\build\\dev\\libavutil\\libavutil-55.pdb",
+      "c:\\buildslave\\libav_win32\\build\\dev\\libavutil\\mem.h",
+      "c:\\buildslave\\libav_win32\\build\\dev\\libavutil\\mem_internal.h"
+    ],
+    "n_file_paths": 4
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "combase.dll",
+      "d3d11.dll",
+      "d3d11_1sdklayers.dll",
+      "d3d9.dll",
+      "dxgi.dll",
+      "dxgidebug.dll",
+      "dxva2.dll",
+      "libavutil-55.dll",
+      "mscoree.dll",
+      "nvcuda.dll"
+    ],
+    "n_orphans": 10,
+    "n_imported": 3
+  }
+}

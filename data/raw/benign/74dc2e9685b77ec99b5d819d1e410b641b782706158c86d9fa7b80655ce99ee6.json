@@ -1,0 +1,6421 @@
+{
+  "sha256": "74dc2e9685b77ec99b5d819d1e410b641b782706158c86d9fa7b80655ce99ee6",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 256120,
+    "md5": "c40b07346068de9f17a5ff626e1251be",
+    "sha1": "5b421ccc5567d0178c2edda6b9a9a2a2bd93b0bb",
+    "imphash": "d2fd751d80eb5577749a40c5c096f99a",
+    "tlsh": "T1CA447C52B6429CB7D84E0278584FAB3BD73EF1110B25D7C3E3E89E1B58923E24E36645",
+    "ssdeep": "6144:aheO11Ajlvw6Yc701YFlQDA6ksAjbT2LQRaZHC/fwq:uSlvw6Ycln6kseT",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.343685,
+    "byte_histogram_256": [
+      0.19027019,
+      0.01645323,
+      0.01967828,
+      0.0176714,
+      0.0118343,
+      0.00233875,
+      0.00325629,
+      0.00204201,
+      0.00935499,
+      0.00124941,
+      0.00139388,
+      0.001062,
+      0.00650867,
+      0.00133141,
+      0.00222942,
+      0.01368499,
+      0.03305091,
+      0.00301812,
+      0.00072622,
+      0.00133922,
+      0.00455255,
+      0.00908168,
+      0.00087459,
+      0.0005271,
+      0.00413478,
+      0.0004373,
+      0.00122208,
+      0.00071841,
+      0.00327971,
+      0.00078869,
+      0.00071451,
+      0.00127675,
+      0.01058098,
+      0.00047634,
+      0.00053881,
+      0.00045291,
+      0.02405513,
+      0.00196783,
+      0.0007926,
+      0.00034749,
+      0.00324067,
+      0.00069108,
+      0.00059347,
+      0.00102296,
+      0.00307278,
+      0.00126113,
+      0.00168671,
+      0.00113619,
+      0.00525144,
+      0.003268,
+      0.00337732,
+      0.00383414,
+      0.00393175,
+      0.00217476,
+      0.00192097,
+      0.00181165,
+      0.00338513,
+      0.0024715,
+      0.00217867,
+      0.00434562,
+      0.00289708,
+      0.00226847,
+      0.00181946,
+      0.00481415,
+      0.01533656,
+      0.00600109,
+      0.00310792,
+      0.00278776,
+      0.01123692,
+      0.00424801,
+      0.00381852,
+      0.00366625,
+      0.0030025,
+      0.00165547,
+      0.00067937,
+      0.00109714,
+      0.00655943,
+      0.00175699,
+      0.00271748,
+      0.00218648,
+      0.00983523,
+      0.00942136,
+      0.00383024,
+      0.00996798,
+      0.00412697,
+      0.00357645,
+      0.00644229,
+      0.00363501,
+      0.00425191,
+      0.00151101,
+      0.00285413,
+      0.00184679,
+      0.0023895,
+      0.0014095,
+      0.00274481,
+      0.00319382,
+      0.00121818,
+      0.00807044,
+      0.00155396,
+      0.00403717,
+      0.00552475,
+      0.01408324,
+      0.00396299,
+      0.00217476,
+      0.00580978,
+      0.00616508,
+      0.00778151,
+      0.00069499,
+      0.00561456,
+      0.00241684,
+      0.00652819,
+      0.00623145,
+      0.00376777,
+      0.00068718,
+      0.00801968,
+      0.00457598,
+      0.01844057,
+      0.00652429,
+      0.00160862,
+      0.00137436,
+      0.00299859,
+      0.00222161,
+      0.00066375,
+      0.00058957,
+      0.00226066,
+      0.00063642,
+      0.00104248,
+      0.0012338,
+      0.00287365,
+      0.00165938,
+      0.0007028,
+      0.01123692,
+      0.00607137,
+      0.00475949,
+      0.00111276,
+      0.00078869,
+      0.0016828,
+      0.00764095,
+      0.00072232,
+      0.03235593,
+      0.0016789,
+      0.01027643,
+      0.00090192,
+      0.00060519,
+      0.00146416,
+      0.0003553,
+      0.00027721,
+      0.00031626,
+      0.00153834,
+      0.00084726,
+      0.00041387,
+      0.00035921,
+      0.00098391,
+      0.0004373,
+      0.00027721,
+      0.00025769,
+      0.00195611,
+      0.00025379,
+      0.00038654,
+      0.00039435,
+      0.00110105,
+      0.00131969,
+      0.00033188,
+      0.0004451,
+      0.00085897,
+      0.00034359,
+      0.00037482,
+      0.00030845,
+      0.00105419,
+      0.00022255,
+      0.0002655,
+      0.00120256,
+      0.00069499,
+      0.0001796,
+      0.00023427,
+      0.00025379,
+      0.00140169,
+      0.00040606,
+      0.00028112,
+      0.00051929,
+      0.00089411,
+      0.00033968,
+      0.00051148,
+      0.0004412,
+      0.00106981,
+      0.00048415,
+      0.00038654,
+      0.00042949,
+      0.0009683,
+      0.00039435,
+      0.00133531,
+      0.00077308,
+      0.00673903,
+      0.0026472,
+      0.00287756,
+      0.0021162,
+      0.00577854,
+      0.00065594,
+      0.00179603,
+      0.00557942,
+      0.00285804,
+      0.0016828,
+      0.00054662,
+      0.00107762,
+      0.01975636,
+      0.00060909,
+      0.00153834,
+      0.00117913,
+      0.00104248,
+      0.0004373,
+      0.00071451,
+      0.00062861,
+      0.00083555,
+      0.00065204,
+      0.00091754,
+      0.00054662,
+      0.00111666,
+      0.00076136,
+      0.00034359,
+      0.00055052,
+      0.00074574,
+      0.00047243,
+      0.00030064,
+      0.00018741,
+      0.00130798,
+      0.00080431,
+      0.00030454,
+      0.00033968,
+      0.00081602,
+      0.00028112,
+      0.00046463,
+      0.00022255,
+      0.00708262,
+      0.00107762,
+      0.00033968,
+      0.00186241,
+      0.00164376,
+      0.00039435,
+      0.00039435,
+      0.00038263,
+      0.00253787,
+      0.00099172,
+      0.00233875,
+      0.0028307,
+      0.00111666,
+      0.00045291,
+      0.00124941,
+      0.00104638,
+      0.00271357,
+      0.00071451,
+      0.00043339,
+      0.00041777,
+      0.00090192,
+      0.00044901,
+      0.00101515,
+      0.03278932
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00310029,
+      0.00044318,
+      0.00011178,
+      3.726e-05,
+      0.00012158,
+      1.569e-05,
+      1.177e-05,
+      3.92e-06,
+      3.334e-05,
+      1.96e-06,
+      4.118e-05,
+      5.88e-06,
+      0.0,
+      0.0,
+      7.84e-06,
+      8.04e-05,
+      0.02097845,
+      0.0019394,
+      0.00050201,
+      0.00074321,
+      0.00103147,
+      0.00048828,
+      0.00056672,
+      0.00033925,
+      0.00028238,
+      8.236e-05,
+      0.00023532,
+      2.157e-05,
+      8.824e-05,
+      3.726e-05,
+      0.00011766,
+      0.00065889,
+      0.05393645,
+      0.00235905,
+      0.00168251,
+      0.00138052,
+      0.00337875,
+      0.00240807,
+      0.00341209,
+      0.00181978,
+      0.00064124,
+      0.00024316,
+      0.00106088,
+      0.00028826,
+      0.00023728,
+      0.00015884,
+      0.00020786,
+      0.00309049,
+      0.02333553,
+      0.00293165,
+      0.00225904,
+      0.00077262,
+      0.00118639,
+      0.00066477,
+      0.00373368,
+      0.00156289,
+      0.00023924,
+      0.00013923,
+      0.00031376,
+      0.00057064,
+      0.00021375,
+      0.00012158,
+      0.00021767,
+      0.00189822,
+      0.01677217,
+      0.00133346,
+      0.00326501,
+      0.00371996,
+      0.01397386,
+      0.01034803,
+      0.0275222,
+      0.01332674,
+      0.00022355,
+      0.00015099,
+      0.00033925,
+      0.00026865,
+      0.00018433,
+      0.0001608,
+      0.00031179,
+      0.00046867,
+      0.02641425,
+      0.00312971,
+      0.00475535,
+      0.00395724,
+      0.01257765,
+      0.00866944,
+      0.01995874,
+      0.01124223,
+      0.00116285,
+      0.00095107,
+      0.00085694,
+      0.00045102,
+      0.00043141,
+      0.00031179,
+      0.00047848,
+      0.00103735,
+      0.01306005,
+      0.00278458,
+      0.0027081,
+      0.02114317,
+      0.00424158,
+      0.00352974,
+      0.00728696,
+      0.00427883,
+      0.00194332,
+      0.00165898,
+      0.00156289,
+      0.00139229,
+      0.00174722,
+      0.0014217,
+      0.00172173,
+      0.00180801,
+      0.01374443,
+      0.00333757,
+      0.00227276,
+      0.00237473,
+      0.00225315,
+      0.00319638,
+      0.00144523,
+      0.00174526,
+      0.0065967,
+      0.00056084,
+      0.00034905,
+      0.00046279,
+      0.00502792,
+      0.00064124,
+      0.00103539,
+      0.00314932,
+      0.10805919,
+      0.03798593,
+      0.02750455,
+      0.01118341,
+      0.02562986,
+      0.03408948,
+      0.01302279,
+      0.01735654,
+      0.06264315,
+      0.00507303,
+      0.00300617,
+      0.00533972,
+      0.04262166,
+      0.0052652,
+      0.01066179,
+      0.03232461,
+      0.01968421,
+      0.00929499,
+      0.00651042,
+      0.00406705,
+      0.00542012,
+      0.00753796,
+      0.00455925,
+      0.00471613,
+      0.01132263,
+      0.00135895,
+      0.00123149,
+      0.00160407,
+      0.00688692,
+      0.00189037,
+      0.00285321,
+      0.00744776,
+      0.00071379,
+      0.00028434,
+      0.00033533,
+      0.00037455,
+      0.00018433,
+      0.00023728,
+      0.000402,
+      0.00030199,
+      0.00021178,
+      0.00012942,
+      0.00013138,
+      0.00016276,
+      0.00015884,
+      0.00012746,
+      0.00010589,
+      0.00015492
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 144823,
+      "raw_size": 144896,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.344774,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 87574,
+      "raw_size": 88064,
+      "virtual_address": 151552,
+      "pointerto_raw_data": 145920,
+      "entropy": 5.103564,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 4972,
+      "raw_size": 3584,
+      "virtual_address": 241664,
+      "pointerto_raw_data": 233984,
+      "entropy": 4.912459,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".qtmetad",
+      "virtual_size": 99,
+      "raw_size": 512,
+      "virtual_address": 249856,
+      "pointerto_raw_data": 237568,
+      "entropy": 5.204783,
+      "characteristics": 1342177344,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 896,
+      "raw_size": 1024,
+      "virtual_address": 253952,
+      "pointerto_raw_data": 238080,
+      "entropy": 3.335982,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 11232,
+      "raw_size": 11264,
+      "virtual_address": 258048,
+      "pointerto_raw_data": 239104,
+      "entropy": 6.751143,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 264,
+    "e_lfanew_raw": 264,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000008010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 6,
+    "time_date_stamp": 1585337894,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8450,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "dxgi.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 153876,
+      "import_lookup_table_rva": 214972,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateDXGIFactory2",
+          "hint": 5,
+          "iat_address": 153876,
+          "iat_value": 214980,
+          "data": 214980
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "d3d12.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 153852,
+      "import_lookup_table_rva": 214948,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "D3D12SerializeRootSignature",
+          "hint": 13,
+          "iat_address": 153852,
+          "iat_value": 215012,
+          "data": 215012
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 101,
+          "name": null,
+          "hint": 0,
+          "iat_address": 153856,
+          "iat_value": 2147483749,
+          "data": 2147483749
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 102,
+          "name": null,
+          "hint": 0,
+          "iat_address": 153860,
+          "iat_value": 2147483750,
+          "data": 2147483750
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "D3DCOMPILER_47.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 151552,
+      "import_lookup_table_rva": 212648,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "D3DReflect",
+          "hint": 22,
+          "iat_address": 151552,
+          "iat_value": 215066,
+          "data": 215066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "D3DCompile",
+          "hint": 1,
+          "iat_address": 151556,
+          "iat_value": 215052,
+          "data": 215052
+        }
+      ],
+      "function_count": 2
+    },
+    {
+      "name": "dcomp.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 153868,
+      "import_lookup_table_rva": 214964,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DCompositionCreateDevice",
+          "hint": 2,
+          "iat_address": 153868,
+          "iat_value": 215100,
+          "data": 215100
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "Qt5Quick.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 152892,
+      "import_lookup_table_rva": 213988,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGContextPlugin@@QAE@PAVQObject@@@Z",
+          "hint": 222,
+          "iat_address": 152892,
+          "iat_value": 215138,
+          "data": 215138
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGContextPlugin@@UAE@XZ",
+          "hint": 490,
+          "iat_address": 152896,
+          "iat_value": 215180,
+          "data": 215180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QSGLayer@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3787,
+          "iat_address": 152900,
+          "iat_value": 226318,
+          "data": 226318
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QSGLayer@@UAEPAXPBD@Z",
+          "hint": 3914,
+          "iat_address": 152904,
+          "iat_value": 226280,
+          "data": 226280
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QSGLayer@@2UQMetaObject@@B",
+          "hint": 5534,
+          "iat_address": 152908,
+          "iat_value": 226232,
+          "data": 226232
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QSGRenderLoop@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3791,
+          "iat_address": 152912,
+          "iat_value": 226168,
+          "data": 226168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QSGRenderLoop@@UAEPAXPBD@Z",
+          "hint": 3918,
+          "iat_address": 152916,
+          "iat_value": 226126,
+          "data": 226126
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QSGRenderLoop@@2UQMetaObject@@B",
+          "hint": 5538,
+          "iat_address": 152920,
+          "iat_value": 226074,
+          "data": 226074
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QSGContextPlugin@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3782,
+          "iat_address": 152924,
+          "iat_value": 226008,
+          "data": 226008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QSGContextPlugin@@UAEPAXPBD@Z",
+          "hint": 3909,
+          "iat_address": 152928,
+          "iat_value": 225962,
+          "data": 225962
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QSGContextPlugin@@2UQMetaObject@@B",
+          "hint": 5529,
+          "iat_address": 152932,
+          "iat_value": 225906,
+          "data": 225906
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?accept@QSGSpriteNode@@UAEXPAVQSGNodeVisitorEx@@@Z",
+          "hint": 1045,
+          "iat_address": 152936,
+          "iat_value": 225852,
+          "data": 225852
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?createWithAttributeType@Attribute@QSGGeometry@@SA?AU12@HHHW4AttributeType@2@@Z",
+          "hint": 1671,
+          "iat_address": 152940,
+          "iat_value": 225770,
+          "data": 225770
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rebuildGeometry@QSGNinePatchNode@@SAXPAVQSGTexture@@PAVQSGGeometry@@ABVQVector4D@@ABVQRectF@@N@Z",
+          "hint": 4078,
+          "iat_address": 152944,
+          "iat_value": 225670,
+          "data": 225670
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rebuildGeometry@QSGImageNode@@SAXPAVQSGGeometry@@PAVQSGTexture@@ABVQRectF@@V4@V?$QFlags@W4TextureCoordinatesTransformFlag@QSGImageNode@@@@@Z",
+          "hint": 4077,
+          "iat_address": 152948,
+          "iat_value": 225526,
+          "data": 225526
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?updateRectGeometry@QSGGeometry@@SAXPAV1@ABVQRectF@@@Z",
+          "hint": 6153,
+          "iat_address": 152952,
+          "iat_value": 225468,
+          "data": 225468
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setDrawingMode@QSGGeometry@@QAEXI@Z",
+          "hint": 4675,
+          "iat_address": 152956,
+          "iat_value": 225428,
+          "data": 225428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?defaultAttributes_Point2D@QSGGeometry@@SAABUAttributeSet@1@XZ",
+          "hint": 1887,
+          "iat_address": 152960,
+          "iat_value": 225362,
+          "data": 225362
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?accept@QSGPainterNode@@UAEXPAVQSGNodeVisitorEx@@@Z",
+          "hint": 1043,
+          "iat_address": 152964,
+          "iat_value": 225308,
+          "data": 225308
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sceneGraphRenderContext@QQuickItemPrivate@@QBEPAVQSGRenderContext@@XZ",
+          "hint": 4419,
+          "iat_address": 152968,
+          "iat_value": 225234,
+          "data": 225234
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?get@QQuickItemPrivate@@SAPAV1@PAVQQuickItem@@@Z",
+          "hint": 2321,
+          "iat_address": 152972,
+          "iat_value": 225182,
+          "data": 225182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setGeometry@QSGBasicGeometryNode@@QAEXPAVQSGGeometry@@@Z",
+          "hint": 4759,
+          "iat_address": 152976,
+          "iat_value": 225122,
+          "data": 225122
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?updateTexturedRectGeometry@QSGGeometry@@SAXPAV1@ABVQRectF@@1@Z",
+          "hint": 6183,
+          "iat_address": 152980,
+          "iat_value": 225056,
+          "data": 225056
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGGeometry@@QAE@ABUAttributeSet@0@HHH@Z",
+          "hint": 241,
+          "iat_address": 152984,
+          "iat_value": 225010,
+          "data": 225010
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?defaultAttributes_TexturedPoint2D@QSGGeometry@@SAABUAttributeSet@1@XZ",
+          "hint": 1888,
+          "iat_address": 152988,
+          "iat_value": 224936,
+          "data": 224936
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??_7QSGVisitableNode@@6B@",
+          "hint": 939,
+          "iat_address": 152992,
+          "iat_value": 224908,
+          "data": 224908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QQuickItem@@2UQMetaObject@@B",
+          "hint": 5443,
+          "iat_address": 152996,
+          "iat_value": 224858,
+          "data": 224858
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QSGDynamicTexture@@2UQMetaObject@@B",
+          "hint": 5531,
+          "iat_address": 153000,
+          "iat_value": 224802,
+          "data": 224802
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?accept@QSGShaderEffectNode@@UAEXPAVQSGNodeVisitorEx@@@Z",
+          "hint": 1044,
+          "iat_address": 153004,
+          "iat_value": 224742,
+          "data": 224742
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6@YA?AVQDebug@@V0@ABUVariable@ShaderInfo@QSGGuiThreadShaderEffectManager@@@Z",
+          "hint": 621,
+          "iat_address": 153008,
+          "iat_value": 224660,
+          "data": 224660
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?logAndStatusChanged@QSGGuiThreadShaderEffectManager@@QAEXXZ",
+          "hint": 2919,
+          "iat_address": 153012,
+          "iat_value": 224596,
+          "data": 224596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?textureChanged@QSGGuiThreadShaderEffectManager@@QAEXXZ",
+          "hint": 5644,
+          "iat_address": 153016,
+          "iat_value": 224538,
+          "data": 224538
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shaderCodePrepared@QSGGuiThreadShaderEffectManager@@QAEX_NW4Type@ShaderInfo@1@ABVQByteArray@@PAU31@@Z",
+          "hint": 5298,
+          "iat_address": 153020,
+          "iat_value": 224432,
+          "data": 224432
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?verticalWrapMode@QSGTexture@@QBE?AW4WrapMode@1@XZ",
+          "hint": 6260,
+          "iat_address": 153024,
+          "iat_value": 224378,
+          "data": 224378
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?horizontalWrapMode@QSGTexture@@QBE?AW4WrapMode@1@XZ",
+          "hint": 2520,
+          "iat_address": 153028,
+          "iat_value": 224322,
+          "data": 224322
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?filtering@QSGTexture@@QBE?AW4Filtering@1@XZ",
+          "hint": 2164,
+          "iat_address": 153032,
+          "iat_value": 224274,
+          "data": 224274
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGGeometryNode@@QAE@XZ",
+          "hint": 244,
+          "iat_address": 153036,
+          "iat_value": 224244,
+          "data": 224244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setFlag@QSGNode@@QAEXW4Flag@1@_N@Z",
+          "hint": 4715,
+          "iat_address": 153040,
+          "iat_value": 224206,
+          "data": 224206
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setClearColor@QSGAbstractRenderer@@QAEXABVQColor@@@Z",
+          "hint": 4580,
+          "iat_address": 153044,
+          "iat_value": 224150,
+          "data": 224150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setProjectionMatrixToRect@QSGAbstractRenderer@@QAEXABVQRectF@@@Z",
+          "hint": 5010,
+          "iat_address": 153048,
+          "iat_value": 224082,
+          "data": 224082
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setViewportRect@QSGAbstractRenderer@@QAEXABVQRect@@@Z",
+          "hint": 5253,
+          "iat_address": 153052,
+          "iat_value": 224024,
+          "data": 224024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setDeviceRect@QSGAbstractRenderer@@QAEXABVQRect@@@Z",
+          "hint": 4660,
+          "iat_address": 153056,
+          "iat_value": 223968,
+          "data": 223968
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setRootNode@QSGAbstractRenderer@@QAEXPAVQSGRootNode@@@Z",
+          "hint": 5088,
+          "iat_address": 153060,
+          "iat_value": 223908,
+          "data": 223908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGLayer@@IAE@AAVQSGTexturePrivate@@@Z",
+          "hint": 251,
+          "iat_address": 153064,
+          "iat_value": 223864,
+          "data": 223864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?scheduledUpdateCompleted@QSGLayer@@QAEXXZ",
+          "hint": 4429,
+          "iat_address": 153068,
+          "iat_value": 223818,
+          "data": 223818
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?updateRequested@QSGLayer@@QAEXXZ",
+          "hint": 6155,
+          "iat_address": 153072,
+          "iat_value": 223782,
+          "data": 223782
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?update@QSGBasicInternalImageNode@@UAEXXZ",
+          "hint": 6071,
+          "iat_address": 153076,
+          "iat_value": 223738,
+          "data": 223738
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setTexture@QSGBasicInternalImageNode@@UAEXPAVQSGTexture@@@Z",
+          "hint": 5185,
+          "iat_address": 153080,
+          "iat_value": 223674,
+          "data": 223674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setTargetRect@QSGBasicInternalImageNode@@UAEXABVQRectF@@@Z",
+          "hint": 5175,
+          "iat_address": 153084,
+          "iat_value": 223612,
+          "data": 223612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setSubSourceRect@QSGBasicInternalImageNode@@UAEXABVQRectF@@@Z",
+          "hint": 5157,
+          "iat_address": 153088,
+          "iat_value": 223546,
+          "data": 223546
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setMirror@QSGBasicInternalImageNode@@UAEX_N@Z",
+          "hint": 4911,
+          "iat_address": 153092,
+          "iat_value": 223496,
+          "data": 223496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setInnerTargetRect@QSGBasicInternalImageNode@@UAEXABVQRectF@@@Z",
+          "hint": 4827,
+          "iat_address": 153096,
+          "iat_value": 223428,
+          "data": 223428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setInnerSourceRect@QSGBasicInternalImageNode@@UAEXABVQRectF@@@Z",
+          "hint": 4826,
+          "iat_address": 153100,
+          "iat_value": 223360,
+          "data": 223360
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setAntialiasing@QSGBasicInternalImageNode@@UAEX_N@Z",
+          "hint": 4534,
+          "iat_address": 153104,
+          "iat_value": 223304,
+          "data": 223304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?preprocess@QSGBasicInternalImageNode@@UAEXXZ",
+          "hint": 3535,
+          "iat_address": 153108,
+          "iat_value": 223256,
+          "data": 223256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?accept@QSGInternalImageNode@@UAEXPAVQSGNodeVisitorEx@@@Z",
+          "hint": 1041,
+          "iat_address": 153112,
+          "iat_value": 223196,
+          "data": 223196
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGBasicInternalImageNode@@QAE@XZ",
+          "hint": 211,
+          "iat_address": 153116,
+          "iat_value": 223156,
+          "data": 223156
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGGeometryNode@@UAE@XZ",
+          "hint": 508,
+          "iat_address": 153120,
+          "iat_value": 223126,
+          "data": 223126
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?markDirty@QSGNode@@QAEXV?$QFlags@W4DirtyStateBit@QSGNode@@@@@Z",
+          "hint": 2951,
+          "iat_address": 153124,
+          "iat_value": 223060,
+          "data": 223060
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGGeometry@@UAE@XZ",
+          "hint": 507,
+          "iat_address": 153128,
+          "iat_value": 223034,
+          "data": 223034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?updateRhiTexture@QSGTexturePrivate@@UAEXPAVQRhi@@PAVQRhiResourceUpdateBatch@@@Z",
+          "hint": 6158,
+          "iat_address": 153132,
+          "iat_value": 222950,
+          "data": 222950
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rhiTexture@QSGTexturePrivate@@UBEPAVQRhiTexture@@XZ",
+          "hint": 4347,
+          "iat_address": 153136,
+          "iat_value": 222894,
+          "data": 222894
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?removedFromAtlas@QSGTexture@@UBEPAV1@XZ",
+          "hint": 4168,
+          "iat_address": 153140,
+          "iat_value": 222850,
+          "data": 222850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QSGTexture@@UAEPAXPBD@Z",
+          "hint": 3920,
+          "iat_address": 153144,
+          "iat_value": 222810,
+          "data": 222810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QSGTexture@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3793,
+          "iat_address": 153148,
+          "iat_value": 222750,
+          "data": 222750
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QSGTexture@@UBEPBUQMetaObject@@XZ",
+          "hint": 3144,
+          "iat_address": 153152,
+          "iat_value": 222702,
+          "data": 222702
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isAtlasTexture@QSGTexture@@UBE_NXZ",
+          "hint": 2670,
+          "iat_address": 153156,
+          "iat_value": 222664,
+          "data": 222664
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGTexturePrivate@@QAE@XZ",
+          "hint": 312,
+          "iat_address": 153160,
+          "iat_value": 222632,
+          "data": 222632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGTexture@@IAE@AAVQSGTexturePrivate@@@Z",
+          "hint": 309,
+          "iat_address": 153164,
+          "iat_value": 222586,
+          "data": 222586
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mipmapFiltering@QSGTexture@@QBE?AW4Filtering@1@XZ",
+          "hint": 3182,
+          "iat_address": 153168,
+          "iat_value": 222532,
+          "data": 222532
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGTexture@@UAE@XZ",
+          "hint": 555,
+          "iat_address": 153172,
+          "iat_value": 222508,
+          "data": 222508
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?registerFontengineForCleanup@QSGRenderContext@@QAEXPAVQFontEngine@@@Z",
+          "hint": 4105,
+          "iat_address": 153176,
+          "iat_value": 222434,
+          "data": 222434
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setVerticalWrapMode@QSGTexture@@QAEXW4WrapMode@1@@Z",
+          "hint": 5250,
+          "iat_address": 153180,
+          "iat_value": 222378,
+          "data": 222378
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setHorizontalWrapMode@QSGTexture@@QAEXW4WrapMode@1@@Z",
+          "hint": 4807,
+          "iat_address": 153184,
+          "iat_value": 222320,
+          "data": 222320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setFiltering@QSGTexture@@QAEXW4Filtering@1@@Z",
+          "hint": 4710,
+          "iat_address": 153188,
+          "iat_value": 222270,
+          "data": 222270
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setMipmapFiltering@QSGTexture@@QAEXW4Filtering@1@@Z",
+          "hint": 4908,
+          "iat_address": 153192,
+          "iat_value": 222214,
+          "data": 222214
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?allocate@QSGGeometry@@QAEXHH@Z",
+          "hint": 1145,
+          "iat_address": 153196,
+          "iat_value": 222180,
+          "data": 222180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?viewportRect@RenderState@QSGMaterialShader@@QBE?AVQRect@@XZ",
+          "hint": 6270,
+          "iat_address": 153200,
+          "iat_value": 222116,
+          "data": 222116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?combinedMatrix@RenderState@QSGMaterialShader@@QBE?AVQMatrix4x4@@XZ",
+          "hint": 1472,
+          "iat_address": 153204,
+          "iat_value": 222046,
+          "data": 222046
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?opacity@RenderState@QSGMaterialShader@@QBEMXZ",
+          "hint": 3347,
+          "iat_address": 153208,
+          "iat_value": 221996,
+          "data": 221996
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isCachedMaterialDataDirty@RenderState@QSGMaterialShader@@QBE_NXZ",
+          "hint": 2672,
+          "iat_address": 153212,
+          "iat_value": 221928,
+          "data": 221928
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isOpacityDirty@RenderState@QSGMaterialShader@@QBE_NXZ",
+          "hint": 2734,
+          "iat_address": 153216,
+          "iat_value": 221870,
+          "data": 221870
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isMatrixDirty@RenderState@QSGMaterialShader@@QBE_NXZ",
+          "hint": 2721,
+          "iat_address": 153220,
+          "iat_value": 221814,
+          "data": 221814
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?update@QSGBasicInternalRectangleNode@@UAEXXZ",
+          "hint": 6072,
+          "iat_address": 153224,
+          "iat_value": 221766,
+          "data": 221766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?supportsAntialiasing@QSGBasicInternalRectangleNode@@MBE_NXZ",
+          "hint": 5568,
+          "iat_address": 153228,
+          "iat_value": 221702,
+          "data": 221702
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setRect@QSGBasicInternalRectangleNode@@UAEXABVQRectF@@@Z",
+          "hint": 5032,
+          "iat_address": 153232,
+          "iat_value": 221642,
+          "data": 221642
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setRadius@QSGBasicInternalRectangleNode@@UAEXN@Z",
+          "hint": 5022,
+          "iat_address": 153236,
+          "iat_value": 221590,
+          "data": 221590
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setPenWidth@QSGBasicInternalRectangleNode@@UAEXN@Z",
+          "hint": 4975,
+          "iat_address": 153240,
+          "iat_value": 221536,
+          "data": 221536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setPenColor@QSGBasicInternalRectangleNode@@UAEXABVQColor@@@Z",
+          "hint": 4974,
+          "iat_address": 153244,
+          "iat_value": 221472,
+          "data": 221472
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setGradientVertical@QSGBasicInternalRectangleNode@@UAEX_N@Z",
+          "hint": 4772,
+          "iat_address": 153248,
+          "iat_value": 221408,
+          "data": 221408
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setGradientStops@QSGBasicInternalRectangleNode@@UAEXABV?$QVector@U?$QPair@NVQColor@@@@@@@Z",
+          "hint": 4771,
+          "iat_address": 153252,
+          "iat_value": 221314,
+          "data": 221314
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setColor@QSGBasicInternalRectangleNode@@UAEXABVQColor@@@Z",
+          "hint": 4593,
+          "iat_address": 153256,
+          "iat_value": 221252,
+          "data": 221252
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setAntialiasing@QSGBasicInternalRectangleNode@@UAEX_N@Z",
+          "hint": 4535,
+          "iat_address": 153260,
+          "iat_value": 221192,
+          "data": 221192
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setAligned@QSGBasicInternalRectangleNode@@UAEX_N@Z",
+          "hint": 4526,
+          "iat_address": 153264,
+          "iat_value": 221138,
+          "data": 221138
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?accept@QSGInternalRectangleNode@@UAEXPAVQSGNodeVisitorEx@@@Z",
+          "hint": 1042,
+          "iat_address": 153268,
+          "iat_value": 221074,
+          "data": 221074
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setFlag@QSGMaterial@@QAEXV?$QFlags@W4Flag@QSGMaterial@@@@_N@Z",
+          "hint": 4713,
+          "iat_address": 153272,
+          "iat_value": 221008,
+          "data": 221008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGMaterial@@UAE@XZ",
+          "hint": 517,
+          "iat_address": 153276,
+          "iat_value": 220982,
+          "data": 220982
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGMaterial@@QAE@XZ",
+          "hint": 253,
+          "iat_address": 153280,
+          "iat_value": 220956,
+          "data": 220956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGBasicInternalRectangleNode@@UAE@XZ",
+          "hint": 483,
+          "iat_address": 153284,
+          "iat_value": 220912,
+          "data": 220912
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGBasicInternalRectangleNode@@QAE@XZ",
+          "hint": 212,
+          "iat_address": 153288,
+          "iat_value": 220868,
+          "data": 220868
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setMaterial@QSGGeometryNode@@QAEXPAVQSGMaterial@@@Z",
+          "hint": 4872,
+          "iat_address": 153292,
+          "iat_value": 220812,
+          "data": 220812
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setAttachToGraphicsContext@QSGRenderContext@@UAEX_N@Z",
+          "hint": 4540,
+          "iat_address": 153296,
+          "iat_value": 220754,
+          "data": 220754
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rhi@QSGRenderContext@@UBEPAVQRhi@@XZ",
+          "hint": 4344,
+          "iat_address": 153300,
+          "iat_value": 220714,
+          "data": 220714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?renderNextRhiFrame@QSGRenderContext@@UAEXPAVQSGRenderer@@@Z",
+          "hint": 4183,
+          "iat_address": 153304,
+          "iat_value": 220650,
+          "data": 220650
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QSGRenderContext@@UAEPAXPBD@Z",
+          "hint": 3917,
+          "iat_address": 153308,
+          "iat_value": 220604,
+          "data": 220604
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QSGRenderContext@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3790,
+          "iat_address": 153312,
+          "iat_value": 220538,
+          "data": 220538
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?prepareSync@QSGRenderContext@@UAEXN@Z",
+          "hint": 3529,
+          "iat_address": 153316,
+          "iat_value": 220496,
+          "data": 220496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QSGRenderContext@@UBEPBUQMetaObject@@XZ",
+          "hint": 3141,
+          "iat_address": 153320,
+          "iat_value": 220442,
+          "data": 220442
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?getResource@QSGRendererInterface@@UBEPAXPAVQQuickWindow@@PBD@Z",
+          "hint": 2357,
+          "iat_address": 153324,
+          "iat_value": 220376,
+          "data": 220376
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?endSync@QSGRenderContext@@UAEXXZ",
+          "hint": 2105,
+          "iat_address": 153328,
+          "iat_value": 220340,
+          "data": 220340
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?endNextRhiFrame@QSGRenderContext@@UAEXPAVQSGRenderer@@@Z",
+          "hint": 2104,
+          "iat_address": 153332,
+          "iat_value": 220280,
+          "data": 220280
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?endNextFrame@QSGRenderContext@@UAEXPAVQSGRenderer@@@Z",
+          "hint": 2102,
+          "iat_address": 153336,
+          "iat_value": 220222,
+          "data": 220222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?distanceFieldGlyphCache@QSGRenderContext@@UAEPAVQSGDistanceFieldGlyphCache@@ABVQRawFont@@@Z",
+          "hint": 1993,
+          "iat_address": 153340,
+          "iat_value": 220126,
+          "data": 220126
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?compressedTextureForFactory@QSGRenderContext@@UBEPAVQSGTexture@@PBVQSGCompressedTextureFactory@@@Z",
+          "hint": 1519,
+          "iat_address": 153344,
+          "iat_value": 220024,
+          "data": 220024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?beginNextRhiFrame@QSGRenderContext@@UAEXPAVQSGRenderer@@PAVQRhiRenderTarget@@PAVQRhiRenderPassDescriptor@@PAVQRhiCommandBuffer@@P6AXPAX@Z54@Z",
+          "hint": 1256,
+          "iat_address": 153348,
+          "iat_value": 219878,
+          "data": 219878
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?beginNextFrame@QSGRenderContext@@UAEXPAVQSGRenderer@@P6AXPAX@Z21@Z",
+          "hint": 1254,
+          "iat_address": 153352,
+          "iat_value": 219808,
+          "data": 219808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGRendererInterface@@UAE@XZ",
+          "hint": 542,
+          "iat_address": 153356,
+          "iat_value": 219774,
+          "data": 219774
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?invalidated@QSGRenderContext@@QAEXXZ",
+          "hint": 2654,
+          "iat_address": 153360,
+          "iat_value": 219734,
+          "data": 219734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?initialized@QSGRenderContext@@QAEXXZ",
+          "hint": 2599,
+          "iat_address": 153364,
+          "iat_value": 219694,
+          "data": 219694
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGRenderContext@@UAE@XZ",
+          "hint": 538,
+          "iat_address": 153368,
+          "iat_value": 219664,
+          "data": 219664
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGRenderContext@@QAE@PAVQSGContext@@@Z",
+          "hint": 287,
+          "iat_address": 153372,
+          "iat_value": 219618,
+          "data": 219618
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setStyleColor@QSGBasicGlyphNode@@UAEXABVQColor@@@Z",
+          "hint": 5155,
+          "iat_address": 153376,
+          "iat_value": 219564,
+          "data": 219564
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setStyle@QSGBasicGlyphNode@@UAEXW4TextStyle@QQuickText@@@Z",
+          "hint": 5153,
+          "iat_address": 153380,
+          "iat_value": 219502,
+          "data": 219502
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setPreferredAntialiasingMode@QSGBasicGlyphNode@@UAEXW4AntialiasingMode@QSGGlyphNode@@@Z",
+          "hint": 4993,
+          "iat_address": 153384,
+          "iat_value": 219410,
+          "data": 219410
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setGlyphs@QSGBasicGlyphNode@@UAEXABVQPointF@@ABVQGlyphRun@@@Z",
+          "hint": 4763,
+          "iat_address": 153388,
+          "iat_value": 219344,
+          "data": 219344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setColor@QSGBasicGlyphNode@@UAEXABVQColor@@@Z",
+          "hint": 4592,
+          "iat_address": 153392,
+          "iat_value": 219294,
+          "data": 219294
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setBoundingRect@QSGGlyphNode@@UAEXABVQRectF@@@Z",
+          "hint": 4568,
+          "iat_address": 153396,
+          "iat_value": 219242,
+          "data": 219242
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QSGGuiThreadShaderEffectManager@@UAEPAXPBD@Z",
+          "hint": 3913,
+          "iat_address": 153400,
+          "iat_value": 219182,
+          "data": 219182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QSGGuiThreadShaderEffectManager@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3786,
+          "iat_address": 153404,
+          "iat_value": 219100,
+          "data": 219100
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?preprocess@QSGNode@@UAEXXZ",
+          "hint": 3536,
+          "iat_address": 153408,
+          "iat_value": 219070,
+          "data": 219070
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QSGGuiThreadShaderEffectManager@@UBEPBUQMetaObject@@XZ",
+          "hint": 3137,
+          "iat_address": 153412,
+          "iat_value": 219000,
+          "data": 219000
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isSubtreeBlocked@QSGNode@@UBE_NXZ",
+          "hint": 2769,
+          "iat_address": 153416,
+          "iat_value": 218962,
+          "data": 218962
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?boundingRect@QSGGlyphNode@@UBE?AVQRectF@@XZ",
+          "hint": 1290,
+          "iat_address": 153420,
+          "iat_value": 218914,
+          "data": 218914
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?baseLine@QSGBasicGlyphNode@@UBE?AVQPointF@@XZ",
+          "hint": 1236,
+          "iat_address": 153424,
+          "iat_value": 218864,
+          "data": 218864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?accept@QSGGlyphNode@@UAEXPAVQSGNodeVisitorEx@@@Z",
+          "hint": 1040,
+          "iat_address": 153428,
+          "iat_value": 218812,
+          "data": 218812
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?hasDefaultAlphaBuffer@QQuickWindow@@SA_NXZ",
+          "hint": 2437,
+          "iat_address": 153432,
+          "iat_value": 218766,
+          "data": 218766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGBasicGlyphNode@@UAE@XZ",
+          "hint": 481,
+          "iat_address": 153436,
+          "iat_value": 218734,
+          "data": 218734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGBasicGlyphNode@@QAE@XZ",
+          "hint": 210,
+          "iat_address": 153440,
+          "iat_value": 218702,
+          "data": 218702
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??_7QSGBindable@@6B@",
+          "hint": 863,
+          "iat_address": 153444,
+          "iat_value": 218678,
+          "data": 218678
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?updateStates@QSGNodeUpdater@@UAEXPAVQSGNode@@@Z",
+          "hint": 6173,
+          "iat_address": 153448,
+          "iat_value": 218626,
+          "data": 218626
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setCustomRenderMode@QSGRenderer@@UAEXABVQByteArray@@@Z",
+          "hint": 4645,
+          "iat_address": 153452,
+          "iat_value": 218568,
+          "data": 218568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?releaseCachedResources@QSGRenderer@@UAEXXZ",
+          "hint": 4128,
+          "iat_address": 153456,
+          "iat_value": 218522,
+          "data": 218522
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?reactivate@QSGBindable@@UBEXXZ",
+          "hint": 4066,
+          "iat_address": 153460,
+          "iat_value": 218488,
+          "data": 218488
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QSGAbstractRenderer@@UAEPAXPBD@Z",
+          "hint": 3906,
+          "iat_address": 153464,
+          "iat_value": 218440,
+          "data": 218440
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QSGAbstractRenderer@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3779,
+          "iat_address": 153468,
+          "iat_value": 218370,
+          "data": 218370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?preprocess@QSGRenderer@@MAEXXZ",
+          "hint": 3537,
+          "iat_address": 153472,
+          "iat_value": 218336,
+          "data": 218336
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QSGAbstractRenderer@@UBEPBUQMetaObject@@XZ",
+          "hint": 3130,
+          "iat_address": 153476,
+          "iat_value": 218278,
+          "data": 218278
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?leaveTransformNode@QSGNodeUpdater@@MAEXPAVQSGTransformNode@@@Z",
+          "hint": 2851,
+          "iat_address": 153480,
+          "iat_value": 218212,
+          "data": 218212
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isNodeBlocked@QSGNodeUpdater@@UBE_NPAVQSGNode@@0@Z",
+          "hint": 2729,
+          "iat_address": 153484,
+          "iat_value": 218158,
+          "data": 218158
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?hasCustomRenderModeWithContinuousUpdate@QSGRenderer@@UBE_NXZ",
+          "hint": 2435,
+          "iat_address": 153488,
+          "iat_value": 218094,
+          "data": 218094
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?get@RenderState@QSGRenderNode@@UBEPAXPBD@Z",
+          "hint": 2345,
+          "iat_address": 153492,
+          "iat_value": 218048,
+          "data": 218048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?enterTransformNode@QSGNodeUpdater@@MAEXPAVQSGTransformNode@@@Z",
+          "hint": 2125,
+          "iat_address": 153496,
+          "iat_value": 217982,
+          "data": 217982
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@QSGBindable@@UBEXV?$QFlags@W4ClearModeBit@QSGAbstractRenderer@@@@@Z",
+          "hint": 1414,
+          "iat_address": 153500,
+          "iat_value": 217904,
+          "data": 217904
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1RenderState@QSGRenderNode@@UAE@XZ",
+          "hint": 562,
+          "iat_address": 153504,
+          "iat_value": 217864,
+          "data": 217864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGNodeUpdater@@UAE@XZ",
+          "hint": 525,
+          "iat_address": 153508,
+          "iat_value": 217836,
+          "data": 217836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGNodeUpdater@@QAE@XZ",
+          "hint": 271,
+          "iat_address": 153512,
+          "iat_value": 217808,
+          "data": 217808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?state@QSGRenderer@@QBE?AVRenderState@QSGMaterialShader@@V?$QFlags@W4DirtyState@RenderState@QSGMaterialShader@@@@@Z",
+          "hint": 5399,
+          "iat_address": 153516,
+          "iat_value": 217690,
+          "data": 217690
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setNodeUpdater@QSGRenderer@@QAEXPAVQSGNodeUpdater@@@Z",
+          "hint": 4936,
+          "iat_address": 153520,
+          "iat_value": 217632,
+          "data": 217632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?nodeChanged@QSGRenderer@@UAEXPAVQSGNode@@V?$QFlags@W4DirtyStateBit@QSGNode@@@@@Z",
+          "hint": 3308,
+          "iat_address": 153524,
+          "iat_value": 217548,
+          "data": 217548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?renderScene@QSGRenderer@@QAEXABVQSGBindable@@@Z",
+          "hint": 4191,
+          "iat_address": 153528,
+          "iat_value": 217496,
+          "data": 217496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGRenderer@@UAE@XZ",
+          "hint": 541,
+          "iat_address": 153532,
+          "iat_value": 217470,
+          "data": 217470
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGRenderer@@QAE@PAVQSGRenderContext@@@Z",
+          "hint": 290,
+          "iat_address": 153536,
+          "iat_value": 217424,
+          "data": 217424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clearColor@QSGAbstractRenderer@@QBE?AVQColor@@XZ",
+          "hint": 1419,
+          "iat_address": 153540,
+          "iat_value": 217372,
+          "data": 217372
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?projectionMatrix@QSGAbstractRenderer@@QBE?AVQMatrix4x4@@XZ",
+          "hint": 3579,
+          "iat_address": 153544,
+          "iat_value": 217310,
+          "data": 217310
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?viewportRect@QSGAbstractRenderer@@QBE?AVQRect@@XZ",
+          "hint": 6268,
+          "iat_address": 153548,
+          "iat_value": 217256,
+          "data": 217256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?deviceRect@QSGAbstractRenderer@@QBE?AVQRect@@XZ",
+          "hint": 1958,
+          "iat_address": 153552,
+          "iat_value": 217204,
+          "data": 217204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rootNode@QSGAbstractRenderer@@QBEPAVQSGRootNode@@XZ",
+          "hint": 4369,
+          "iat_address": 153556,
+          "iat_value": 217148,
+          "data": 217148
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6@YA?AVQDebug@@V0@PBVQSGGeometryNode@@@Z",
+          "hint": 628,
+          "iat_address": 153560,
+          "iat_value": 217102,
+          "data": 217102
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6@YA?AVQDebug@@V0@PBVQSGNode@@@Z",
+          "hint": 629,
+          "iat_address": 153564,
+          "iat_value": 217064,
+          "data": 217064
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setCombinedOpacity@QSGOpacityNode@@QAEXN@Z",
+          "hint": 4602,
+          "iat_address": 153568,
+          "iat_value": 217018,
+          "data": 217018
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setCombinedMatrix@QSGTransformNode@@QAEXABVQMatrix4x4@@@Z",
+          "hint": 4601,
+          "iat_address": 153572,
+          "iat_value": 216956,
+          "data": 216956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setInheritedOpacity@QSGGeometryNode@@QAEXN@Z",
+          "hint": 4824,
+          "iat_address": 153576,
+          "iat_value": 216908,
+          "data": 216908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?activeMaterial@QSGGeometryNode@@QBEPAVQSGMaterial@@XZ",
+          "hint": 1084,
+          "iat_address": 153580,
+          "iat_value": 216850,
+          "data": 216850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?lineWidth@QSGGeometry@@QBEMXZ",
+          "hint": 2884,
+          "iat_address": 153584,
+          "iat_value": 216816,
+          "data": 216816
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexData@QSGGeometry@@QAEPAXXZ",
+          "hint": 2564,
+          "iat_address": 153588,
+          "iat_value": 216780,
+          "data": 216780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QSGAbstractRenderer@@2UQMetaObject@@B",
+          "hint": 5526,
+          "iat_address": 153592,
+          "iat_value": 216722,
+          "data": 216722
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?registerAnimationCallback@QQuickProfiler@@SAXXZ",
+          "hint": 4100,
+          "iat_address": 153596,
+          "iat_value": 216670,
+          "data": 216670
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sceneGraphChanged@QSGAbstractRenderer@@QAEXXZ",
+          "hint": 4412,
+          "iat_address": 153600,
+          "iat_value": 216620,
+          "data": 216620
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sceneGraphContext@QSGRenderContext@@QBEPAVQSGContext@@XZ",
+          "hint": 4414,
+          "iat_address": 153604,
+          "iat_value": 216560,
+          "data": 216560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?s_instance@QQuickProfiler@@1PAV1@A",
+          "hint": 4394,
+          "iat_address": 153608,
+          "iat_value": 216522,
+          "data": 216522
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?featuresEnabled@QQuickProfiler@@2_KA",
+          "hint": 2151,
+          "iat_address": 153612,
+          "iat_value": 216482,
+          "data": 216482
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?handleUpdateRequest@QSGRenderLoop@@UAEXPAVQQuickWindow@@@Z",
+          "hint": 2421,
+          "iat_address": 153616,
+          "iat_value": 216420,
+          "data": 216420
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?processMessage@QQuickProfiler@@IAEXABUQQuickProfilerData@@@Z",
+          "hint": 3572,
+          "iat_address": 153620,
+          "iat_value": 216356,
+          "data": 216356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?cleanupNodesOnShutdown@QQuickWindowPrivate@@QAEXXZ",
+          "hint": 1407,
+          "iat_address": 153624,
+          "iat_value": 216302,
+          "data": 216302
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?renderSceneGraph@QQuickWindowPrivate@@QAEXABVQSize@@0@Z",
+          "hint": 4194,
+          "iat_address": 153628,
+          "iat_value": 216242,
+          "data": 216242
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?syncSceneGraph@QQuickWindowPrivate@@QAEXXZ",
+          "hint": 5580,
+          "iat_address": 153632,
+          "iat_value": 216196,
+          "data": 216196
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?polishItems@QQuickWindowPrivate@@QAEXXZ",
+          "hint": 3475,
+          "iat_address": 153636,
+          "iat_value": 216152,
+          "data": 216152
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?flushFrameSynchronousEvents@QQuickWindowPrivate@@QAEXXZ",
+          "hint": 2207,
+          "iat_address": 153640,
+          "iat_value": 216092,
+          "data": 216092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?get@QQuickWindowPrivate@@SAPAV1@PAVQQuickWindow@@@Z",
+          "hint": 2340,
+          "iat_address": 153644,
+          "iat_value": 216036,
+          "data": 216036
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6@YA?AVQDebug@@V0@PBVQQuickWindow@@@Z",
+          "hint": 627,
+          "iat_address": 153648,
+          "iat_value": 215994,
+          "data": 215994
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sceneGraphAboutToStop@QQuickWindow@@QAEXXZ",
+          "hint": 4410,
+          "iat_address": 153652,
+          "iat_value": 215948,
+          "data": 215948
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?afterAnimating@QQuickWindow@@QAEXXZ",
+          "hint": 1131,
+          "iat_address": 153656,
+          "iat_value": 215908,
+          "data": 215908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?frameSwapped@QQuickWindow@@QAEXXZ",
+          "hint": 2278,
+          "iat_address": 153660,
+          "iat_value": 215870,
+          "data": 215870
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?effectiveDevicePixelRatio@QQuickWindow@@QBENXZ",
+          "hint": 2052,
+          "iat_address": 153664,
+          "iat_value": 215820,
+          "data": 215820
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGRenderLoop@@QAE@XZ",
+          "hint": 288,
+          "iat_address": 153668,
+          "iat_value": 215792,
+          "data": 215792
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?timeToIncubate@QSGRenderLoop@@QAEXXZ",
+          "hint": 5687,
+          "iat_address": 153672,
+          "iat_value": 215752,
+          "data": 215752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGRenderLoop@@UAE@XZ",
+          "hint": 539,
+          "iat_address": 153676,
+          "iat_value": 215724,
+          "data": 215724
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?renderContextInvalidated@QSGContext@@UAEXPAVQSGRenderContext@@@Z",
+          "hint": 4176,
+          "iat_address": 153680,
+          "iat_value": 215656,
+          "data": 215656
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?renderContextInitialized@QSGContext@@UAEXPAVQSGRenderContext@@@Z",
+          "hint": 4174,
+          "iat_address": 153684,
+          "iat_value": 215588,
+          "data": 215588
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QSGContext@@UAEPAXPBD@Z",
+          "hint": 3908,
+          "iat_address": 153688,
+          "iat_value": 215548,
+          "data": 215548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QSGContext@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3781,
+          "iat_address": 153692,
+          "iat_value": 215488,
+          "data": 215488
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QSGContext@@UBEPBUQMetaObject@@XZ",
+          "hint": 3132,
+          "iat_address": 153696,
+          "iat_value": 215440,
+          "data": 215440
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?createTextureFactoryFromImage@QSGContextPlugin@@UAEPAVQQuickTextureFactory@@ABVQImage@@@Z",
+          "hint": 1660,
+          "iat_address": 153700,
+          "iat_value": 215346,
+          "data": 215346
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?createAnimationDriver@QSGContext@@UAEPAVQAnimationDriver@@PAVQObject@@@Z",
+          "hint": 1595,
+          "iat_address": 153704,
+          "iat_value": 215270,
+          "data": 215270
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSGContext@@UAE@XZ",
+          "hint": 488,
+          "iat_address": 153708,
+          "iat_value": 215246,
+          "data": 215246
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSGContext@@QAE@PAVQObject@@@Z",
+          "hint": 218,
+          "iat_address": 153712,
+          "iat_value": 215210,
+          "data": 215210
+        }
+      ],
+      "function_count": 206
+    },
+    {
+      "name": "Qt5Qml.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 152876,
+      "import_lookup_table_rva": 213972,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?s_key@QQmlProfilerService@@2VQString@@B",
+          "hint": 4056,
+          "iat_address": 152876,
+          "iat_value": 226432,
+          "data": 226432
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?urlToLocalFileOrQrc@QQmlFile@@SA?AVQString@@ABVQUrl@@@Z",
+          "hint": 4794,
+          "iat_address": 152880,
+          "iat_value": 226476,
+          "data": 226476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?instance@QQmlDebugConnector@@SAPAV1@XZ",
+          "hint": 2898,
+          "iat_address": 152884,
+          "iat_value": 226390,
+          "data": 226390
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "Qt5Gui.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 152504,
+      "import_lookup_table_rva": 213600,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?constScanLine@QImage@@QBEPBEH@Z",
+          "hint": 3156,
+          "iat_address": 152504,
+          "iat_value": 226996,
+          "data": 226996
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?scaled@QImage@@QBE?AV1@ABVQSize@@W4AspectRatioMode@Qt@@W4TransformationMode@4@@Z",
+          "hint": 22518,
+          "iat_address": 152508,
+          "iat_value": 227032,
+          "data": 227032
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertToFormat_helper@QImage@@IBE?AV1@W4Format@1@V?$QFlags@W4ImageConversionFlag@Qt@@@@@Z",
+          "hint": 3198,
+          "iat_address": 152512,
+          "iat_value": 227116,
+          "data": 227116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?devType@QImage@@UBEHXZ",
+          "hint": 3674,
+          "iat_address": 152516,
+          "iat_value": 227210,
+          "data": 227210
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?initPainter@QPaintDevice@@MBEXPAVQPainter@@@Z",
+          "hint": 20284,
+          "iat_address": 152520,
+          "iat_value": 227236,
+          "data": 227236
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metric@QImage@@MBEHW4PaintDeviceMetric@QPaintDevice@@@Z",
+          "hint": 21205,
+          "iat_address": 152524,
+          "iat_value": 227286,
+          "data": 227286
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?paintEngine@QImage@@UBEPAVQPaintEngine@@XZ",
+          "hint": 21530,
+          "iat_address": 152528,
+          "iat_value": 227346,
+          "data": 227346
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?redirected@QPaintDevice@@MBEPAV1@PAVQPoint@@@Z",
+          "hint": 22229,
+          "iat_address": 152532,
+          "iat_value": 227392,
+          "data": 227392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sharedPainter@QPaintDevice@@MBEPAVQPainter@@XZ",
+          "hint": 23891,
+          "iat_address": 152536,
+          "iat_value": 227442,
+          "data": 227442
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSurfaceFormat@@QAE@XZ",
+          "hint": 1332,
+          "iat_address": 152540,
+          "iat_value": 227492,
+          "data": 227492
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?alphaBufferSize@QSurfaceFormat@@QBEHXZ",
+          "hint": 2539,
+          "iat_address": 152544,
+          "iat_value": 227520,
+          "data": 227520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?samples@QSurfaceFormat@@QBEHXZ",
+          "hint": 22494,
+          "iat_address": 152548,
+          "iat_value": 227562,
+          "data": 227562
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isVisible@QWindow@@QBE_NXZ",
+          "hint": 20718,
+          "iat_address": 152552,
+          "iat_value": 227596,
+          "data": 227596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?winId@QWindow@@QBEIXZ",
+          "hint": 25151,
+          "iat_address": 152556,
+          "iat_value": 227626,
+          "data": 227626
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isExposed@QWindow@@QBE_NXZ",
+          "hint": 20561,
+          "iat_address": 152560,
+          "iat_value": 227652,
+          "data": 227652
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?geometry@QWindow@@QBE?AVQRect@@XZ",
+          "hint": 4528,
+          "iat_address": 152564,
+          "iat_value": 227682,
+          "data": 227682
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?refreshRate@QScreen@@QBENXZ",
+          "hint": 22237,
+          "iat_address": 152568,
+          "iat_value": 227720,
+          "data": 227720
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?primaryScreen@QGuiApplication@@SAPAVQScreen@@XZ",
+          "hint": 21759,
+          "iat_address": 152572,
+          "iat_value": 227752,
+          "data": 227752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setDevicePixelRatio@QImage@@QAEXN@Z",
+          "hint": 22922,
+          "iat_address": 152576,
+          "iat_value": 227804,
+          "data": 227804
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?create@QWindow@@QAEXXZ",
+          "hint": 3253,
+          "iat_address": 152580,
+          "iat_value": 227844,
+          "data": 227844
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isTopLevel@QWindow@@QBE_NXZ",
+          "hint": 20661,
+          "iat_address": 152584,
+          "iat_value": 227870,
+          "data": 227870
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?handle@QWindow@@QBEPAVQPlatformWindow@@XZ",
+          "hint": 20045,
+          "iat_address": 152588,
+          "iat_value": 227902,
+          "data": 227902
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?screen@QWindow@@QBEPAVQScreen@@XZ",
+          "hint": 22545,
+          "iat_address": 152592,
+          "iat_value": 227948,
+          "data": 227948
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?requestUpdate@QWindow@@QAEXXZ",
+          "hint": 22351,
+          "iat_address": 152596,
+          "iat_value": 227986,
+          "data": 227986
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?availableGeometry@QScreen@@QBE?AVQRect@@XZ",
+          "hint": 2650,
+          "iat_address": 152600,
+          "iat_value": 228020,
+          "data": 228020
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setToIdentity@QMatrix4x4@@QAEXXZ",
+          "hint": 23636,
+          "iat_address": 152604,
+          "iat_value": 228066,
+          "data": 228066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?determinant@QMatrix4x4@@QBENXZ",
+          "hint": 3671,
+          "iat_address": 152608,
+          "iat_value": 228102,
+          "data": 228102
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??XQMatrix4x4@@QAEAAV0@ABV0@@Z",
+          "hint": 2037,
+          "iat_address": 152612,
+          "iat_value": 228136,
+          "data": 228136
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setAlphaBufferSize@QSurfaceFormat@@QAEXH@Z",
+          "hint": 22631,
+          "iat_address": 152616,
+          "iat_value": 228170,
+          "data": 228170
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?defaultFormat@QSurfaceFormat@@SA?AV1@XZ",
+          "hint": 3568,
+          "iat_address": 152620,
+          "iat_value": 228216,
+          "data": 228216
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clearGlyphCache@QFontEngine@@QAEXPBX@Z",
+          "hint": 3022,
+          "iat_address": 152624,
+          "iat_value": 228260,
+          "data": 228260
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?alpha@QColor@@QBEHXZ",
+          "hint": 2538,
+          "iat_address": 152628,
+          "iat_value": 228302,
+          "data": 228302
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QColor@@QAE@XZ",
+          "hint": 177,
+          "iat_address": 152632,
+          "iat_value": 228326,
+          "data": 228326
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QColor@@QAE@HHHH@Z",
+          "hint": 168,
+          "iat_address": 152636,
+          "iat_value": 228346,
+          "data": 228346
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QColor@@QAEAAV0@ABV0@@Z",
+          "hint": 1429,
+          "iat_address": 152640,
+          "iat_value": 228370,
+          "data": 228370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rgba@QColor@@QBEIXZ",
+          "hint": 22436,
+          "iat_address": 152644,
+          "iat_value": 228400,
+          "data": 228400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QTransform@@QAE@XZ",
+          "hint": 936,
+          "iat_address": 152648,
+          "iat_value": 228424,
+          "data": 228424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromScale@QTransform@@SA?AV1@NN@Z",
+          "hint": 4495,
+          "iat_address": 152652,
+          "iat_value": 228448,
+          "data": 228448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QRawFont@@QAE@ABV0@@Z",
+          "hint": 643,
+          "iat_address": 152656,
+          "iat_value": 228486,
+          "data": 228486
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QRawFont@@QAE@XZ",
+          "hint": 1275,
+          "iat_address": 152660,
+          "iat_value": 228514,
+          "data": 228514
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?ascent@QRawFont@@QBENXZ",
+          "hint": 2624,
+          "iat_address": 152664,
+          "iat_value": 228536,
+          "data": 228536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setGlyphCache@QFontEngine@@QAEXPBXPAVQFontEngineGlyphCache@@@Z",
+          "hint": 23071,
+          "iat_address": 152668,
+          "iat_value": 228564,
+          "data": 228564
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?glyphCache@QFontEngine@@QBEPAVQFontEngineGlyphCache@@PBXW4GlyphFormat@1@ABVQTransform@@ABVQColor@@@Z",
+          "hint": 19997,
+          "iat_address": 152672,
+          "iat_value": 228630,
+          "data": 228630
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?populate@QTextureGlyphCache@@QAE_NPAVQFontEngine@@HPBIPBUQFixedPoint@@@Z",
+          "hint": 21690,
+          "iat_address": 152676,
+          "iat_value": 228734,
+          "data": 228734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fillInPendingGlyphs@QTextureGlyphCache@@QAEXXZ",
+          "hint": 4201,
+          "iat_address": 152680,
+          "iat_value": 228810,
+          "data": 228810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?get@QRawFontPrivate@@SAPAV1@ABVQRawFont@@@Z",
+          "hint": 4538,
+          "iat_address": 152684,
+          "iat_value": 228860,
+          "data": 228860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QImage@@QAEAAV0@ABV0@@Z",
+          "hint": 1486,
+          "iat_address": 152688,
+          "iat_value": 228908,
+          "data": 228908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?depth@QImage@@QBEHXZ",
+          "hint": 3600,
+          "iat_address": 152692,
+          "iat_value": 228938,
+          "data": 228938
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?hasAlphaChannel@QImage@@QBE_NXZ",
+          "hint": 20095,
+          "iat_address": 152696,
+          "iat_value": 228962,
+          "data": 228962
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rawFont@QGlyphRun@@QBE?AVQRawFont@@XZ",
+          "hint": 22182,
+          "iat_address": 152700,
+          "iat_value": 228998,
+          "data": 228998
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?glyphIndexes@QGlyphRun@@QBE?AV?$QVector@I@@XZ",
+          "hint": 20004,
+          "iat_address": 152704,
+          "iat_value": 229040,
+          "data": 229040
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?positions@QGlyphRun@@QBE?AV?$QVector@VQPointF@@@@XZ",
+          "hint": 21730,
+          "iat_address": 152708,
+          "iat_value": 229090,
+          "data": 229090
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QTextureGlyphCache@@QAE@W4GlyphFormat@QFontEngine@@ABVQTransform@@ABVQColor@@@Z",
+          "hint": 922,
+          "iat_address": 152712,
+          "iat_value": 229146,
+          "data": 229146
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QTextureGlyphCache@@UAE@XZ",
+          "hint": 1368,
+          "iat_address": 152716,
+          "iat_value": 229232,
+          "data": 229232
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?textureMapForGlyph@QTextureGlyphCache@@QBE?AVQImage@@IUQFixed@@@Z",
+          "hint": 24437,
+          "iat_address": 152720,
+          "iat_value": 229264,
+          "data": 229264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?size@QImage@@QBE?AVQSize@@XZ",
+          "hint": 23931,
+          "iat_address": 152724,
+          "iat_value": 226934,
+          "data": 226934
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fill@QImage@@QAEXI@Z",
+          "hint": 4192,
+          "iat_address": 152728,
+          "iat_value": 229368,
+          "data": 229368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QShader@@QAE@XZ",
+          "hint": 750,
+          "iat_address": 152732,
+          "iat_value": 229392,
+          "data": 229392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QShader@@QAE@XZ",
+          "hint": 1311,
+          "iat_address": 152736,
+          "iat_value": 229414,
+          "data": 229414
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??8QColor@@QBE_NABV0@@Z",
+          "hint": 1899,
+          "iat_address": 152740,
+          "iat_value": 229436,
+          "data": 229436
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QImage@@QAE@ABVQSize@@W4Format@0@@Z",
+          "hint": 311,
+          "iat_address": 152744,
+          "iat_value": 229462,
+          "data": 229462
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QImage@@QAE@PBEHHHW4Format@0@P6AXPAX@Z2@Z",
+          "hint": 316,
+          "iat_address": 152748,
+          "iat_value": 229504,
+          "data": 229504
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isNull@QImage@@QBE_NXZ",
+          "hint": 20610,
+          "iat_address": 152752,
+          "iat_value": 229552,
+          "data": 229552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?constBits@QImage@@QBEPBEXZ",
+          "hint": 3153,
+          "iat_address": 152756,
+          "iat_value": 229578,
+          "data": 229578
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?bytesPerLine@QImage@@QBEHXZ",
+          "hint": 2881,
+          "iat_address": 152760,
+          "iat_value": 229608,
+          "data": 229608
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fill@QImage@@QAEXW4GlobalColor@Qt@@@Z",
+          "hint": 4193,
+          "iat_address": 152764,
+          "iat_value": 229640,
+          "data": 229640
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QPainter@@QAE@XZ",
+          "hint": 514,
+          "iat_address": 152768,
+          "iat_value": 229682,
+          "data": 229682
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QPainter@@QAE@XZ",
+          "hint": 1217,
+          "iat_address": 152772,
+          "iat_value": 229704,
+          "data": 229704
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?begin@QPainter@@QAE_NPAVQPaintDevice@@@Z",
+          "hint": 2692,
+          "iat_address": 152776,
+          "iat_value": 229726,
+          "data": 229726
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?end@QPainter@@QAE_NXZ",
+          "hint": 4044,
+          "iat_address": 152780,
+          "iat_value": 229770,
+          "data": 229770
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setCompositionMode@QPainter@@QAEXW4CompositionMode@1@@Z",
+          "hint": 22803,
+          "iat_address": 152784,
+          "iat_value": 229796,
+          "data": 229796
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setClipRect@QPainter@@QAEXABVQRect@@W4ClipOperation@Qt@@@Z",
+          "hint": 22769,
+          "iat_address": 152788,
+          "iat_value": 229856,
+          "data": 229856
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?scale@QPainter@@QAEXNN@Z",
+          "hint": 22513,
+          "iat_address": 152792,
+          "iat_value": 229918,
+          "data": 229918
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fillRect@QPainter@@QAEXABVQRect@@ABVQColor@@@Z",
+          "hint": 4212,
+          "iat_address": 152796,
+          "iat_value": 229946,
+          "data": 229946
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setRenderHints@QPainter@@QAEXV?$QFlags@W4RenderHint@QPainter@@@@_N@Z",
+          "hint": 23425,
+          "iat_address": 152800,
+          "iat_value": 229996,
+          "data": 229996
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??9QColor@@QBE_NABV0@@Z",
+          "hint": 1939,
+          "iat_address": 152804,
+          "iat_value": 230068,
+          "data": 230068
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?height@QImage@@QBEHXZ",
+          "hint": 20158,
+          "iat_address": 152808,
+          "iat_value": 226908,
+          "data": 226908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?width@QImage@@QBEHXZ",
+          "hint": 25131,
+          "iat_address": 152812,
+          "iat_value": 226884,
+          "data": 226884
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?format@QImage@@QBE?AW4Format@1@XZ",
+          "hint": 4373,
+          "iat_address": 152816,
+          "iat_value": 226846,
+          "data": 226846
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QImage@@QAEAAV0@$$QAV0@@Z",
+          "hint": 1485,
+          "iat_address": 152820,
+          "iat_value": 226814,
+          "data": 226814
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QImage@@UAE@XZ",
+          "hint": 1117,
+          "iat_address": 152824,
+          "iat_value": 226794,
+          "data": 226794
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QImage@@QAE@$$QAV0@@Z",
+          "hint": 309,
+          "iat_address": 152828,
+          "iat_value": 226766,
+          "data": 226766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QImage@@QAE@ABV0@@Z",
+          "hint": 310,
+          "iat_address": 152832,
+          "iat_value": 226740,
+          "data": 226740
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QImage@@QAE@HHW4Format@0@@Z",
+          "hint": 313,
+          "iat_address": 152836,
+          "iat_value": 226706,
+          "data": 226706
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QImage@@QAE@XZ",
+          "hint": 319,
+          "iat_address": 152840,
+          "iat_value": 226686,
+          "data": 226686
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?blueF@QColor@@QBENXZ",
+          "hint": 2785,
+          "iat_address": 152844,
+          "iat_value": 226662,
+          "data": 226662
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?greenF@QColor@@QBENXZ",
+          "hint": 20034,
+          "iat_address": 152848,
+          "iat_value": 226636,
+          "data": 226636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?redF@QColor@@QBENXZ",
+          "hint": 22227,
+          "iat_address": 152852,
+          "iat_value": 226612,
+          "data": 226612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?alphaF@QColor@@QBENXZ",
+          "hint": 2542,
+          "iat_address": 152856,
+          "iat_value": 226586,
+          "data": 226586
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QColor@@QAE@W4GlobalColor@Qt@@@Z",
+          "hint": 174,
+          "iat_address": 152860,
+          "iat_value": 226548,
+          "data": 226548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?scanLine@QImage@@QAEPAEH@Z",
+          "hint": 22533,
+          "iat_address": 152864,
+          "iat_value": 226966,
+          "data": 226966
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromRgbF@QColor@@SA?AV1@NNNN@Z",
+          "hint": 4489,
+          "iat_address": 152868,
+          "iat_value": 229334,
+          "data": 229334
+        }
+      ],
+      "function_count": 92
+    },
+    {
+      "name": "Qt5Core.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 151676,
+      "import_lookup_table_rva": 212772,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QUrl@@QAE@XZ",
+          "hint": 879,
+          "iat_address": 151676,
+          "iat_value": 232956,
+          "data": 232956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?constData@QByteArray@@QBEPBDXZ",
+          "hint": 2679,
+          "iat_address": 151680,
+          "iat_value": 230620,
+          "data": 230620
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QObject@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 5632,
+          "iat_address": 151684,
+          "iat_value": 237810,
+          "data": 237810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QObject@@UAEPAXPBD@Z",
+          "hint": 5693,
+          "iat_address": 151688,
+          "iat_value": 237774,
+          "data": 237774
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?getAndRef@ExternalRefCountData@QtSharedPointer@@SAPAU12@PBVQObject@@@Z",
+          "hint": 3830,
+          "iat_address": 151692,
+          "iat_value": 237700,
+          "data": 237700
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toAlignedRect@QRectF@@QBE?AVQRect@@XZ",
+          "hint": 7311,
+          "iat_address": 151696,
+          "iat_value": 237658,
+          "data": 237658
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QObject@@2UQMetaObject@@B",
+          "hint": 7104,
+          "iat_address": 151700,
+          "iat_value": 237612,
+          "data": 237612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QFileSelector@@UAEPAXPBD@Z",
+          "hint": 5682,
+          "iat_address": 151704,
+          "iat_value": 237570,
+          "data": 237570
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QFileSelector@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 5621,
+          "iat_address": 151708,
+          "iat_value": 237506,
+          "data": 237506
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QFileSelector@@UBEPBUQMetaObject@@XZ",
+          "hint": 4888,
+          "iat_address": 151712,
+          "iat_value": 237454,
+          "data": 237454
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setExtraSelectors@QFileSelector@@QAEXABVQStringList@@@Z",
+          "hint": 6494,
+          "iat_address": 151716,
+          "iat_value": 237394,
+          "data": 237394
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?select@QFileSelector@@QBE?AVQString@@ABV2@@Z",
+          "hint": 6326,
+          "iat_address": 151720,
+          "iat_value": 237346,
+          "data": 237346
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QFileSelector@@UAE@XZ",
+          "hint": 779,
+          "iat_address": 151724,
+          "iat_value": 237318,
+          "data": 237318
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QFileSelector@@QAE@PAVQObject@@@Z",
+          "hint": 260,
+          "iat_address": 151728,
+          "iat_value": 237278,
+          "data": 237278
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?start@QThreadPool@@QAEXPAVQRunnable@@H@Z",
+          "hint": 6992,
+          "iat_address": 151732,
+          "iat_value": 237234,
+          "data": 237234
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?globalInstance@QThreadPool@@SAPAV1@XZ",
+          "hint": 3848,
+          "iat_address": 151736,
+          "iat_value": 237192,
+          "data": 237192
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QRunnable@@UAE@XZ",
+          "hint": 839,
+          "iat_address": 151740,
+          "iat_value": 237168,
+          "data": 237168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?open@QFile@@UAE_NV?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z",
+          "hint": 5187,
+          "iat_address": 151744,
+          "iat_value": 237106,
+          "data": 237106
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QFile@@UAE@XZ",
+          "hint": 776,
+          "iat_address": 151748,
+          "iat_value": 237086,
+          "data": 237086
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QFile@@QAE@ABVQString@@@Z",
+          "hint": 247,
+          "iat_address": 151752,
+          "iat_value": 237054,
+          "data": 237054
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?close@QFileDevice@@UAEXXZ",
+          "hint": 2540,
+          "iat_address": 151756,
+          "iat_value": 237024,
+          "data": 237024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isLocalFile@QUrl@@QBE_NXZ",
+          "hint": 4338,
+          "iat_address": 151760,
+          "iat_value": 236994,
+          "data": 236994
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?scheme@QUrl@@QBE?AVQString@@XZ",
+          "hint": 6285,
+          "iat_address": 151764,
+          "iat_value": 236960,
+          "data": 236960
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QUrl@@QAE@ABVQString@@W4ParsingMode@0@@Z",
+          "hint": 581,
+          "iat_address": 151768,
+          "iat_value": 236914,
+          "data": 236914
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QDebugStateSaver@@QAE@XZ",
+          "hint": 758,
+          "iat_address": 151772,
+          "iat_value": 236884,
+          "data": 236884
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QDebugStateSaver@@QAE@AAVQDebug@@@Z",
+          "hint": 205,
+          "iat_address": 151776,
+          "iat_value": 236842,
+          "data": 236842
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convert@QVariant@@QBE_NHPAX@Z",
+          "hint": 2766,
+          "iat_address": 151780,
+          "iat_value": 236808,
+          "data": 236808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?cmp@QVariant@@QBE_NABV1@@Z",
+          "hint": 2551,
+          "iat_address": 151784,
+          "iat_value": 236778,
+          "data": 236778
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6@YA?AVQDebug@@V0@ABVQVariant@@@Z",
+          "hint": 1281,
+          "iat_address": 151788,
+          "iat_value": 236740,
+          "data": 236740
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?constData@QVariant@@QBEPBXXZ",
+          "hint": 2683,
+          "iat_address": 151792,
+          "iat_value": 236708,
+          "data": 236708
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toRectF@QVariant@@QBE?AVQRectF@@XZ",
+          "hint": 7514,
+          "iat_address": 151796,
+          "iat_value": 236670,
+          "data": 236670
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toSizeF@QVariant@@QBE?AVQSizeF@@XZ",
+          "hint": 7533,
+          "iat_address": 151800,
+          "iat_value": 236632,
+          "data": 236632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toPointF@QVariant@@QBE?AVQPointF@@XZ",
+          "hint": 7508,
+          "iat_address": 151804,
+          "iat_value": 236592,
+          "data": 236592
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toByteArray@QVariant@@QBE?AVQByteArray@@XZ",
+          "hint": 7338,
+          "iat_address": 151808,
+          "iat_value": 236546,
+          "data": 236546
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toBool@QVariant@@QBE_NXZ",
+          "hint": 7333,
+          "iat_address": 151812,
+          "iat_value": 236518,
+          "data": 236518
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toInt@QVariant@@QBEHPA_N@Z",
+          "hint": 7420,
+          "iat_address": 151816,
+          "iat_value": 236488,
+          "data": 236488
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?typeName@QVariant@@QBEPBDXZ",
+          "hint": 7918,
+          "iat_address": 151820,
+          "iat_value": 236456,
+          "data": 236456
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?userType@QVariant@@QBEHXZ",
+          "hint": 8003,
+          "iat_address": 151824,
+          "iat_value": 236426,
+          "data": 236426
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?type@QVariant@@QBE?AW4Type@1@XZ",
+          "hint": 7912,
+          "iat_address": 151828,
+          "iat_value": 236390,
+          "data": 236390
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QVariant@@QAEAAV0@$$QAV0@@Z",
+          "hint": 1140,
+          "iat_address": 151832,
+          "iat_value": 236356,
+          "data": 236356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QVariant@@QAE@$$QAV0@@Z",
+          "hint": 595,
+          "iat_address": 151836,
+          "iat_value": 236326,
+          "data": 236326
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QVariant@@QAEAAV0@ABV0@@Z",
+          "hint": 1141,
+          "iat_address": 151840,
+          "iat_value": 236294,
+          "data": 236294
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QVariant@@QAE@ABVQByteArray@@@Z",
+          "hint": 602,
+          "iat_address": 151844,
+          "iat_value": 236256,
+          "data": 236256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QVariant@@QAE@H@Z",
+          "hint": 628,
+          "iat_address": 151848,
+          "iat_value": 236232,
+          "data": 236232
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QVariant@@QAE@ABV0@@Z",
+          "hint": 597,
+          "iat_address": 151852,
+          "iat_value": 236204,
+          "data": 236204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QVariant@@QAE@XZ",
+          "hint": 881,
+          "iat_address": 151856,
+          "iat_value": 236182,
+          "data": 236182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QVariant@@QAE@XZ",
+          "hint": 638,
+          "iat_address": 151860,
+          "iat_value": 236160,
+          "data": 236160
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?readAll@QIODevice@@QAE?AVQByteArray@@XZ",
+          "hint": 5847,
+          "iat_address": 151864,
+          "iat_value": 236116,
+          "data": 236116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?disconnect@QObject@@SA_NPBV1@PBD01@Z",
+          "hint": 3221,
+          "iat_address": 151868,
+          "iat_value": 236076,
+          "data": 236076
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?connect@QObject@@SA?AVConnection@QMetaObject@@PBV1@PBD01W4ConnectionType@Qt@@@Z",
+          "hint": 2655,
+          "iat_address": 151872,
+          "iat_value": 235992,
+          "data": 235992
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?previousNode@QHashData@@SAPAUNode@1@PAU21@@Z",
+          "hint": 5349,
+          "iat_address": 151876,
+          "iat_value": 235944,
+          "data": 235944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?typeFlags@QMetaType@@SA?AV?$QFlags@W4TypeFlag@QMetaType@@@@H@Z",
+          "hint": 7913,
+          "iat_address": 151880,
+          "iat_value": 235878,
+          "data": 235878
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?cast@QMetaObject@@QBEPAVQObject@@PAV2@@Z",
+          "hint": 2422,
+          "iat_address": 151884,
+          "iat_value": 235834,
+          "data": 235834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?className@QMetaObject@@QBEPBDXZ",
+          "hint": 2494,
+          "iat_address": 151888,
+          "iat_value": 235798,
+          "data": 235798
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qHash@@YAIABVQByteArray@@I@Z",
+          "hint": 5468,
+          "iat_address": 151892,
+          "iat_value": 235766,
+          "data": 235766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromAscii_helper@QString@@CAPAU?$QTypedArrayData@G@@PBDH@Z",
+          "hint": 3699,
+          "iat_address": 151896,
+          "iat_value": 235704,
+          "data": 235704
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?compare@QString@@QBEHVQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 2615,
+          "iat_address": 151900,
+          "iat_value": 235638,
+          "data": 235638
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromUtf8@QString@@SA?AV1@ABVQByteArray@@@Z",
+          "hint": 3789,
+          "iat_address": 151904,
+          "iat_value": 235592,
+          "data": 235592
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromUtf8@QString@@SA?AV1@PBDH@Z",
+          "hint": 3790,
+          "iat_address": 151908,
+          "iat_value": 235556,
+          "data": 235556
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromRawData@QByteArray@@SA?AV1@PBDH@Z",
+          "hint": 3739,
+          "iat_address": 151912,
+          "iat_value": 235514,
+          "data": 235514
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mid@QByteArray@@QBE?AV1@HH@Z",
+          "hint": 4949,
+          "iat_address": 151916,
+          "iat_value": 235482,
+          "data": 235482
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?data@QByteArray@@QAEPADXZ",
+          "hint": 3045,
+          "iat_address": 151920,
+          "iat_value": 235452,
+          "data": 235452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resize@QByteArray@@QAEXH@Z",
+          "hint": 6176,
+          "iat_address": 151924,
+          "iat_value": 235422,
+          "data": 235422
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QByteArray@@QAEAAV0@$$QAV0@@Z",
+          "hint": 935,
+          "iat_address": 151928,
+          "iat_value": 235386,
+          "data": 235386
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@$$QAV0@@Z",
+          "hint": 86,
+          "iat_address": 151932,
+          "iat_value": 235354,
+          "data": 235354
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QByteArray@@QAEAAV0@ABV0@@Z",
+          "hint": 936,
+          "iat_address": 151936,
+          "iat_value": 235320,
+          "data": 235320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@ABV0@@Z",
+          "hint": 87,
+          "iat_address": 151940,
+          "iat_value": 235290,
+          "data": 235290
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@XZ",
+          "hint": 92,
+          "iat_address": 151944,
+          "iat_value": 235266,
+          "data": 235266
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QRect@@QAE@ABVQPoint@@ABVQSize@@@Z",
+          "hint": 437,
+          "iat_address": 151948,
+          "iat_value": 235226,
+          "data": 235226
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@?$QVector@VQPoint@@@@QAEX$$QAVQPoint@@@Z",
+          "hint": 2102,
+          "iat_address": 151952,
+          "iat_value": 235174,
+          "data": 235174
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@?$QVector@VQPoint@@@@QAEXXZ",
+          "hint": 2499,
+          "iat_address": 151956,
+          "iat_value": 235136,
+          "data": 235136
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1?$QVector@VQPointF@@@@QAE@XZ",
+          "hint": 705,
+          "iat_address": 151960,
+          "iat_value": 235102,
+          "data": 235102
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QObjectPrivate@@UAE@XZ",
+          "hint": 821,
+          "iat_address": 151964,
+          "iat_value": 235074,
+          "data": 235074
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??UQRectF@@QBE?AV0@ABV0@@Z",
+          "hint": 1655,
+          "iat_address": 151968,
+          "iat_value": 235044,
+          "data": 235044
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?at@?$QVector@VQPointF@@@@QBEABVQPointF@@H@Z",
+          "hint": 2204,
+          "iat_address": 151972,
+          "iat_value": 234996,
+          "data": 234996
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isNull@QPointF@@QBE_NXZ",
+          "hint": 4385,
+          "iat_address": 151976,
+          "iat_value": 234968,
+          "data": 234968
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QObject@@UAE@XZ",
+          "hint": 818,
+          "iat_address": 151980,
+          "iat_value": 234946,
+          "data": 234946
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QObject@@QAE@PAV0@@Z",
+          "hint": 405,
+          "iat_address": 151984,
+          "iat_value": 234920,
+          "data": 234920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@XZ",
+          "hint": 515,
+          "iat_address": 151988,
+          "iat_value": 234898,
+          "data": 234898
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QBitArray@@QAE@XZ",
+          "hint": 734,
+          "iat_address": 151992,
+          "iat_value": 234874,
+          "data": 234874
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clearBit@QBitArray@@QAEXH@Z",
+          "hint": 2525,
+          "iat_address": 151996,
+          "iat_value": 234842,
+          "data": 234842
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setBit@QBitArray@@QAEXH@Z",
+          "hint": 6383,
+          "iat_address": 152000,
+          "iat_value": 234812,
+          "data": 234812
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?testBit@QBitArray@@QBE_NH@Z",
+          "hint": 7287,
+          "iat_address": 152004,
+          "iat_value": 234780,
+          "data": 234780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resize@QBitArray@@QAEXH@Z",
+          "hint": 6175,
+          "iat_address": 152008,
+          "iat_value": 234750,
+          "data": 234750
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QBitArray@@QAE@ABV0@@Z",
+          "hint": 80,
+          "iat_address": 152012,
+          "iat_value": 234722,
+          "data": 234722
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QBitArray@@QAE@XZ",
+          "hint": 82,
+          "iat_address": 152016,
+          "iat_value": 234698,
+          "data": 234698
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_QMetaEnum_flagDebugOperator@@YAXAAVQDebug@@IH@Z",
+          "hint": 5587,
+          "iat_address": 152020,
+          "iat_value": 234644,
+          "data": 234644
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@PBX@Z",
+          "hint": 1355,
+          "iat_address": 152024,
+          "iat_value": 234616,
+          "data": 234616
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QDebug@@QAE@$$QAV0@@Z",
+          "hint": 200,
+          "iat_address": 152028,
+          "iat_value": 234588,
+          "data": 234588
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@QByteArray@@QAEXXZ",
+          "hint": 2504,
+          "iat_address": 152032,
+          "iat_value": 234560,
+          "data": 234560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??IQRect@@QBE?AV0@ABV0@@Z",
+          "hint": 1592,
+          "iat_address": 152036,
+          "iat_value": 234532,
+          "data": 234532
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?self@QCoreApplication@@0PAV1@A",
+          "hint": 6340,
+          "iat_address": 152040,
+          "iat_value": 234498,
+          "data": 234498
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?wakeOne@QWaitCondition@@QAEXXZ",
+          "hint": 8087,
+          "iat_address": 152044,
+          "iat_value": 234464,
+          "data": 234464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?wait@QWaitCondition@@QAE_NPAVQMutex@@K@Z",
+          "hint": 8063,
+          "iat_address": 152048,
+          "iat_value": 234420,
+          "data": 234420
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QWaitCondition@@QAE@XZ",
+          "hint": 883,
+          "iat_address": 152052,
+          "iat_value": 234392,
+          "data": 234392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QWaitCondition@@QAE@XZ",
+          "hint": 644,
+          "iat_address": 152056,
+          "iat_value": 234364,
+          "data": 234364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sendPostedEvents@QCoreApplication@@SAXPAVQObject@@H@Z",
+          "hint": 6342,
+          "iat_address": 152060,
+          "iat_value": 234306,
+          "data": 234306
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?postEvent@QCoreApplication@@SAXPAVQObject@@PAVQEvent@@H@Z",
+          "hint": 5313,
+          "iat_address": 152064,
+          "iat_value": 234244,
+          "data": 234244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?processEvents@QCoreApplication@@SAXV?$QFlags@W4ProcessEventsFlag@QEventLoop@@@@@Z",
+          "hint": 5359,
+          "iat_address": 152068,
+          "iat_value": 234158,
+          "data": 234158
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?wait@QThread@@QAE_NK@Z",
+          "hint": 8062,
+          "iat_address": 152072,
+          "iat_value": 234132,
+          "data": 234132
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?start@QThread@@QAEXW4Priority@1@@Z",
+          "hint": 6991,
+          "iat_address": 152076,
+          "iat_value": 234094,
+          "data": 234094
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?event@QThread@@UAE_NPAVQEvent@@@Z",
+          "hint": 3475,
+          "iat_address": 152080,
+          "iat_value": 234056,
+          "data": 234056
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isRunning@QThread@@QBE_NXZ",
+          "hint": 4459,
+          "iat_address": 152084,
+          "iat_value": 234026,
+          "data": 234026
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QThread@@UAE@XZ",
+          "hint": 867,
+          "iat_address": 152088,
+          "iat_value": 234004,
+          "data": 234004
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QThread@@QAE@PAVQObject@@@Z",
+          "hint": 556,
+          "iat_address": 152092,
+          "iat_value": 233970,
+          "data": 233970
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?yieldCurrentThread@QThread@@SAXXZ",
+          "hint": 8182,
+          "iat_address": 152096,
+          "iat_value": 233932,
+          "data": 233932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?currentThread@QThread@@SAPAV1@XZ",
+          "hint": 2902,
+          "iat_address": 152100,
+          "iat_value": 233896,
+          "data": 233896
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QThread@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 5651,
+          "iat_address": 152104,
+          "iat_value": 233838,
+          "data": 233838
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QThread@@UAEPAXPBD@Z",
+          "hint": 5712,
+          "iat_address": 152108,
+          "iat_value": 233802,
+          "data": 233802
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?unlock@QMutex@@QAEXXZ",
+          "hint": 7946,
+          "iat_address": 152112,
+          "iat_value": 233776,
+          "data": 233776
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?lock@QMutex@@QAEXXZ",
+          "hint": 4765,
+          "iat_address": 152116,
+          "iat_value": 233752,
+          "data": 233752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QMutex@@QAE@XZ",
+          "hint": 815,
+          "iat_address": 152120,
+          "iat_value": 233732,
+          "data": 233732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QMutex@@QAE@XZ",
+          "hint": 400,
+          "iat_address": 152124,
+          "iat_value": 233712,
+          "data": 233712
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QEvent@@UAE@XZ",
+          "hint": 765,
+          "iat_address": 152128,
+          "iat_value": 233692,
+          "data": 233692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QEvent@@QAE@W4Type@0@@Z",
+          "hint": 225,
+          "iat_address": 152132,
+          "iat_value": 233662,
+          "data": 233662
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@_J@Z",
+          "hint": 1360,
+          "iat_address": 152136,
+          "iat_value": 233636,
+          "data": 233636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?moveToThread@QObject@@QAEXPAVQThread@@@Z",
+          "hint": 5032,
+          "iat_address": 152140,
+          "iat_value": 233592,
+          "data": 233592
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?thread@QObject@@QBEPAVQThread@@XZ",
+          "hint": 7292,
+          "iat_address": 152144,
+          "iat_value": 233554,
+          "data": 233554
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?dynamicMetaObject@QObjectData@@QBEPAUQMetaObject@@XZ",
+          "hint": 3275,
+          "iat_address": 152148,
+          "iat_value": 233498,
+          "data": 233498
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?intersects@QRect@@QBE_NABV1@@Z",
+          "hint": 4139,
+          "iat_address": 152152,
+          "iat_value": 233464,
+          "data": 233464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?erase@QListData@@QAEPAPAXPAPAX@Z",
+          "hint": 3424,
+          "iat_address": 152156,
+          "iat_value": 233428,
+          "data": 233428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?warning@QMessageLogger@@QBE?AVQDebug@@XZ",
+          "hint": 8096,
+          "iat_address": 152160,
+          "iat_value": 233384,
+          "data": 233384
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QThread@@2UQMetaObject@@B",
+          "hint": 7124,
+          "iat_address": 152164,
+          "iat_value": 233338,
+          "data": 233338
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QAnimationDriver@@2UQMetaObject@@B",
+          "hint": 7073,
+          "iat_address": 152168,
+          "iat_value": 233282,
+          "data": 233282
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?currentTime@QTime@@SA?AV1@XZ",
+          "hint": 2905,
+          "iat_address": 152172,
+          "iat_value": 233250,
+          "data": 233250
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?msecsTo@QTime@@QBEHABV1@@Z",
+          "hint": 5045,
+          "iat_address": 152176,
+          "iat_value": 233220,
+          "data": 233220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?elapsed@QElapsedTimer@@QBE_JXZ",
+          "hint": 3282,
+          "iat_address": 152180,
+          "iat_value": 233186,
+          "data": 233186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?nsecsElapsed@QElapsedTimer@@QBE_JXZ",
+          "hint": 5134,
+          "iat_address": 152184,
+          "iat_value": 233146,
+          "data": 233146
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?restart@QElapsedTimer@@QAE_JXZ",
+          "hint": 6189,
+          "iat_address": 152188,
+          "iat_value": 233112,
+          "data": 233112
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?start@QElapsedTimer@@QAEXXZ",
+          "hint": 6986,
+          "iat_address": 152192,
+          "iat_value": 233080,
+          "data": 233080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?set@QThreadStorageData@@QAEPAPAXPAX@Z",
+          "hint": 6359,
+          "iat_address": 152196,
+          "iat_value": 233038,
+          "data": 233038
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?get@QThreadStorageData@@QBEPAPAXXZ",
+          "hint": 3828,
+          "iat_address": 152200,
+          "iat_value": 233000,
+          "data": 233000
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?msleep@QThread@@SAXK@Z",
+          "hint": 5046,
+          "iat_address": 152204,
+          "iat_value": 232974,
+          "data": 232974
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexOf@QByteArray@@QBEHPBDH@Z",
+          "hint": 3984,
+          "iat_address": 152208,
+          "iat_value": 230654,
+          "data": 230654
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QUrl@@QAE@XZ",
+          "hint": 582,
+          "iat_address": 152212,
+          "iat_value": 232938,
+          "data": 232938
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?stopped@QAnimationDriver@@QAEXXZ",
+          "hint": 7155,
+          "iat_address": 152216,
+          "iat_value": 232902,
+          "data": 232902
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?started@QAnimationDriver@@QAEXXZ",
+          "hint": 7021,
+          "iat_address": 152220,
+          "iat_value": 232866,
+          "data": 232866
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isRunning@QAnimationDriver@@QBE_NXZ",
+          "hint": 4454,
+          "iat_address": 152224,
+          "iat_value": 232826,
+          "data": 232826
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?install@QAnimationDriver@@QAEXXZ",
+          "hint": 4107,
+          "iat_address": 152228,
+          "iat_value": 232790,
+          "data": 232790
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@N@Z",
+          "hint": 1352,
+          "iat_address": 152232,
+          "iat_value": 232764,
+          "data": 232764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@_N@Z",
+          "hint": 1362,
+          "iat_address": 152236,
+          "iat_value": 232738,
+          "data": 232738
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?connectImpl@QObject@@CA?AVConnection@QMetaObject@@PBV1@PAPAX01PAVQSlotObjectBase@QtPrivate@@W4ConnectionType@Qt@@PBHPBU3@@Z",
+          "hint": 2657,
+          "iat_address": 152240,
+          "iat_value": 232610,
+          "data": 232610
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?killTimer@QObject@@QAEXH@Z",
+          "hint": 4642,
+          "iat_address": 152244,
+          "iat_value": 232580,
+          "data": 232580
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?startTimer@QObject@@QAEHHW4TimerType@Qt@@@Z",
+          "hint": 7014,
+          "iat_address": 152248,
+          "iat_value": 232532,
+          "data": 232532
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1Connection@QMetaObject@@QAE@XZ",
+          "hint": 707,
+          "iat_address": 152252,
+          "iat_value": 232496,
+          "data": 232496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shared_null@QListData@@2UData@1@B",
+          "hint": 6822,
+          "iat_address": 152256,
+          "iat_value": 232458,
+          "data": 232458
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?timerEvent@QObject@@MAEXPAVQTimerEvent@@@Z",
+          "hint": 7301,
+          "iat_address": 152260,
+          "iat_value": 232412,
+          "data": 232412
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?eventFilter@QObject@@UAE_NPAV1@PAVQEvent@@@Z",
+          "hint": 3483,
+          "iat_address": 152264,
+          "iat_value": 232364,
+          "data": 232364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?event@QObject@@UAE_NPAVQEvent@@@Z",
+          "hint": 3465,
+          "iat_address": 152268,
+          "iat_value": 232326,
+          "data": 232326
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?disconnectNotify@QObject@@MAEXABVQMetaMethod@@@Z",
+          "hint": 3226,
+          "iat_address": 152272,
+          "iat_value": 232274,
+          "data": 232274
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?customEvent@QObject@@MAEXPAVQEvent@@@Z",
+          "hint": 2914,
+          "iat_address": 152276,
+          "iat_value": 232232,
+          "data": 232232
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?connectNotify@QObject@@MAEXABVQMetaMethod@@@Z",
+          "hint": 2661,
+          "iat_address": 152280,
+          "iat_value": 232182,
+          "data": 232182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?childEvent@QObject@@MAEXPAVQChildEvent@@@Z",
+          "hint": 2473,
+          "iat_address": 152284,
+          "iat_value": 232136,
+          "data": 232136
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QListData@@QAEPAPAXXZ",
+          "hint": 2139,
+          "iat_address": 152288,
+          "iat_value": 232104,
+          "data": 232104
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?dispose@QListData@@SAXPAUData@1@@Z",
+          "hint": 3237,
+          "iat_address": 152292,
+          "iat_value": 232066,
+          "data": 232066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?detach_grow@QListData@@QAEPAUData@1@PAHH@Z",
+          "hint": 3189,
+          "iat_address": 152296,
+          "iat_value": 232020,
+          "data": 232020
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?detach@QListData@@QAEPAUData@1@H@Z",
+          "hint": 3180,
+          "iat_address": 152300,
+          "iat_value": 231982,
+          "data": 231982
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shared_null@QHashData@@2U1@B",
+          "hint": 6820,
+          "iat_address": 152304,
+          "iat_value": 231950,
+          "data": 231950
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shared_null@QArrayData@@2QBU1@B",
+          "hint": 6819,
+          "iat_address": 152308,
+          "iat_value": 231914,
+          "data": 231914
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isDebugEnabled@QLoggingCategory@@QBE_NXZ",
+          "hint": 4216,
+          "iat_address": 152312,
+          "iat_value": 231870,
+          "data": 231870
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setEnabled@QLoggingCategory@@QAEXW4QtMsgType@@_N@Z",
+          "hint": 6464,
+          "iat_address": 152316,
+          "iat_value": 231816,
+          "data": 231816
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QLoggingCategory@@QAE@XZ",
+          "hint": 805,
+          "iat_address": 152320,
+          "iat_value": 231786,
+          "data": 231786
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QLoggingCategory@@QAE@PBD@Z",
+          "hint": 359,
+          "iat_address": 152324,
+          "iat_value": 231752,
+          "data": 231752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@PBD@Z",
+          "hint": 1354,
+          "iat_address": 152328,
+          "iat_value": 231724,
+          "data": 231724
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@M@Z",
+          "hint": 1351,
+          "iat_address": 152332,
+          "iat_value": 231698,
+          "data": 231698
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@_K@Z",
+          "hint": 1361,
+          "iat_address": 152336,
+          "iat_value": 231672,
+          "data": 231672
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@I@Z",
+          "hint": 1348,
+          "iat_address": 152340,
+          "iat_value": 231646,
+          "data": 231646
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@H@Z",
+          "hint": 1347,
+          "iat_address": 152344,
+          "iat_value": 231620,
+          "data": 231620
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@D@Z",
+          "hint": 1344,
+          "iat_address": 152348,
+          "iat_value": 231594,
+          "data": 231594
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QDebug@@QAE@XZ",
+          "hint": 757,
+          "iat_address": 152352,
+          "iat_value": 231574,
+          "data": 231574
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QTextStream@@QAEAAV0@D@Z",
+          "hint": 1369,
+          "iat_address": 152356,
+          "iat_value": 231544,
+          "data": 231544
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?nextNode@QHashData@@SAPAUNode@1@PAU21@@Z",
+          "hint": 5095,
+          "iat_address": 152360,
+          "iat_value": 231500,
+          "data": 231500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?free_helper@QHashData@@QAEXP6AXPAUNode@1@@Z@Z",
+          "hint": 3694,
+          "iat_address": 152364,
+          "iat_value": 231450,
+          "data": 231450
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rehash@QHashData@@QAEXH@Z",
+          "hint": 5958,
+          "iat_address": 152368,
+          "iat_value": 231420,
+          "data": 231420
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?hasShrunk@QHashData@@QAEXXZ",
+          "hint": 3913,
+          "iat_address": 152372,
+          "iat_value": 231388,
+          "data": 231388
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?detach_helper@QHashData@@QAEPAU1@P6AXPAUNode@1@PAX@ZP6AX0@ZHH@Z",
+          "hint": 3192,
+          "iat_address": 152376,
+          "iat_value": 231320,
+          "data": 231320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?freeNode@QHashData@@QAEXPAX@Z",
+          "hint": 3691,
+          "iat_address": 152380,
+          "iat_value": 231286,
+          "data": 231286
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?allocateNode@QHashData@@QAEPAXH@Z",
+          "hint": 2085,
+          "iat_address": 152384,
+          "iat_value": 231248,
+          "data": 231248
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6@YA?AVQDebug@@V0@ABVQSize@@@Z",
+          "hint": 1274,
+          "iat_address": 152388,
+          "iat_value": 231212,
+          "data": 231212
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@?$QVector@VQPoint@@@@QAEXABVQPoint@@@Z",
+          "hint": 2104,
+          "iat_address": 152392,
+          "iat_value": 231162,
+          "data": 231162
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??A?$QVector@VQPoint@@@@QBEABVQPoint@@H@Z",
+          "hint": 1499,
+          "iat_address": 152396,
+          "iat_value": 231118,
+          "data": 231118
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1?$QVector@VQPoint@@@@QAE@XZ",
+          "hint": 704,
+          "iat_address": 152400,
+          "iat_value": 231084,
+          "data": 231084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$QVector@VQPoint@@@@QAE@XZ",
+          "hint": 13,
+          "iat_address": 152404,
+          "iat_value": 231050,
+          "data": 231050
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@ABVQByteArray@@@Z",
+          "hint": 507,
+          "iat_address": 152408,
+          "iat_value": 231014,
+          "data": 231014
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?number@QString@@SA?AV1@KH@Z",
+          "hint": 5147,
+          "iat_address": 152412,
+          "iat_value": 230982,
+          "data": 230982
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromWCharArray@QString@@SA?AV1@PB_WH@Z",
+          "hint": 3802,
+          "iat_address": 152416,
+          "iat_value": 230940,
+          "data": 230940
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromUtf16@QString@@SA?AV1@PB_SH@Z",
+          "hint": 3788,
+          "iat_address": 152420,
+          "iat_value": 230902,
+          "data": 230902
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLocal8Bit@QString@@QHAE?AVQByteArray@@XZ",
+          "hint": 7455,
+          "iat_address": 152424,
+          "iat_value": 230856,
+          "data": 230856
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLocal8Bit@QString@@QGBE?AVQByteArray@@XZ",
+          "hint": 7454,
+          "iat_address": 152428,
+          "iat_value": 230810,
+          "data": 230810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QString@@QAEAAV1@ABV1@@Z",
+          "hint": 2142,
+          "iat_address": 152432,
+          "iat_value": 230774,
+          "data": 230774
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QString@@QAE@XZ",
+          "hint": 854,
+          "iat_address": 152436,
+          "iat_value": 230752,
+          "data": 230752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QByteArray@@QAE@XZ",
+          "hint": 736,
+          "iat_address": 152440,
+          "iat_value": 230596,
+          "data": 230596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@PBDH@Z",
+          "hint": 90,
+          "iat_address": 152444,
+          "iat_value": 230568,
+          "data": 230568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?deallocate@QArrayData@@SAXPAU1@II@Z",
+          "hint": 3108,
+          "iat_address": 152448,
+          "iat_value": 230528,
+          "data": 230528
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?allocate@QArrayData@@SAPAU1@IIIV?$QFlags@W4AllocationOption@QArrayData@@@@@Z",
+          "hint": 2083,
+          "iat_address": 152452,
+          "iat_value": 230448,
+          "data": 230448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?debug@QMessageLogger@@QBE?AVQDebug@@XZ",
+          "hint": 3114,
+          "iat_address": 152456,
+          "iat_value": 230406,
+          "data": 230406
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fatal@QMessageLogger@@QBAXPBDZZ",
+          "hint": 3539,
+          "iat_address": 152460,
+          "iat_value": 230370,
+          "data": 230370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?warning@QMessageLogger@@QBAXPBDZZ",
+          "hint": 8093,
+          "iat_address": 152464,
+          "iat_value": 230332,
+          "data": 230332
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?debug@QMessageLogger@@QBAXPBDZZ",
+          "hint": 3111,
+          "iat_address": 152468,
+          "iat_value": 230296,
+          "data": 230296
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QMessageLogger@@QAE@PBDH00@Z",
+          "hint": 362,
+          "iat_address": 152472,
+          "iat_value": 230262,
+          "data": 230262
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QMessageLogger@@QAE@PBDH0@Z",
+          "hint": 363,
+          "iat_address": 152476,
+          "iat_value": 230228,
+          "data": 230228
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qEnvironmentVariableIntValue@@YAHPBDPA_N@Z",
+          "hint": 5447,
+          "iat_address": 152480,
+          "iat_value": 230182,
+          "data": 230182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qEnvironmentVariableIsSet@@YA_NPBD@Z",
+          "hint": 5449,
+          "iat_address": 152484,
+          "iat_value": 230142,
+          "data": 230142
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qgetenv@@YA?AVQByteArray@@PBD@Z",
+          "hint": 5566,
+          "iat_address": 152488,
+          "iat_value": 230106,
+          "data": 230106
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@VQLatin1String@@@Z",
+          "hint": 514,
+          "iat_address": 152492,
+          "iat_value": 230688,
+          "data": 230688
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@ABV0@@Z",
+          "hint": 506,
+          "iat_address": 152496,
+          "iat_value": 230726,
+          "data": 230726
+        }
+      ],
+      "function_count": 206
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 151564,
+      "import_lookup_table_rva": 212660,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 745,
+          "iat_address": 151564,
+          "iat_value": 238392,
+          "data": 238392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 540,
+          "iat_address": 151568,
+          "iat_value": 238370,
+          "data": 238370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DisableThreadLibraryCalls",
+          "hint": 286,
+          "iat_address": 151572,
+          "iat_value": 238418,
+          "data": 238418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeSListHead",
+          "hint": 867,
+          "iat_address": 151576,
+          "iat_value": 238446,
+          "data": 238446
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObject",
+          "hint": 1495,
+          "iat_address": 151580,
+          "iat_value": 237894,
+          "data": 237894
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 895,
+          "iat_address": 151584,
+          "iat_value": 238204,
+          "data": 238204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 536,
+          "iat_address": 151588,
+          "iat_value": 238348,
+          "data": 238348
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1101,
+          "iat_address": 151592,
+          "iat_value": 238322,
+          "data": 238322
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1420,
+          "iat_address": 151596,
+          "iat_value": 238302,
+          "data": 238302
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 535,
+          "iat_address": 151600,
+          "iat_value": 238282,
+          "data": 238282
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1389,
+          "iat_address": 151604,
+          "iat_value": 238252,
+          "data": 238252
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1453,
+          "iat_address": 151608,
+          "iat_value": 238224,
+          "data": 238224
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 134,
+          "iat_address": 151612,
+          "iat_value": 237880,
+          "data": 237880
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsProcessorFeaturePresent",
+          "hint": 902,
+          "iat_address": 151616,
+          "iat_value": 238176,
+          "data": 238176
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 686,
+          "iat_address": 151620,
+          "iat_value": 238158,
+          "data": 238158
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleW",
+          "hint": 632,
+          "iat_address": 151624,
+          "iat_value": 238138,
+          "data": 238138
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObjectEx",
+          "hint": 1496,
+          "iat_address": 151628,
+          "iat_value": 238114,
+          "data": 238114
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ResetEvent",
+          "hint": 1222,
+          "iat_address": 151632,
+          "iat_value": 238100,
+          "data": 238100
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEvent",
+          "hint": 1302,
+          "iat_address": 151636,
+          "iat_value": 238088,
+          "data": 238088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 272,
+          "iat_address": 151640,
+          "iat_value": 238064,
+          "data": 238064
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSectionAndSpinCount",
+          "hint": 863,
+          "iat_address": 151644,
+          "iat_value": 238024,
+          "data": 238024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 957,
+          "iat_address": 151648,
+          "iat_value": 238000,
+          "data": 238000
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 305,
+          "iat_address": 151652,
+          "iat_value": 237976,
+          "data": 237976
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FormatMessageW",
+          "hint": 423,
+          "iat_address": 151656,
+          "iat_value": 237958,
+          "data": 237958
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LocalFree",
+          "hint": 975,
+          "iat_address": 151660,
+          "iat_value": 237946,
+          "data": 237946
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LocalAlloc",
+          "hint": 970,
+          "iat_address": 151664,
+          "iat_value": 237932,
+          "data": 237932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateEventW",
+          "hint": 191,
+          "iat_address": 151668,
+          "iat_value": 237916,
+          "data": 237916
+        }
+      ],
+      "function_count": 27
+    },
+    {
+      "name": "VCRUNTIME140.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 153720,
+      "import_lookup_table_rva": 214816,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_type_info_destroy_list",
+          "hint": 37,
+          "iat_address": 153720,
+          "iat_value": 238632,
+          "data": 238632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_except_handler4_common",
+          "hint": 53,
+          "iat_address": 153724,
+          "iat_value": 238606,
+          "data": 238606
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_CxxThrowException",
+          "hint": 1,
+          "iat_address": 153728,
+          "iat_value": 238584,
+          "data": 238584
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_exception_destroy",
+          "hint": 34,
+          "iat_address": 153732,
+          "iat_value": 238558,
+          "data": 238558
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_exception_copy",
+          "hint": 33,
+          "iat_address": 153736,
+          "iat_value": 238534,
+          "data": 238534
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CxxFrameHandler3",
+          "hint": 16,
+          "iat_address": 153740,
+          "iat_value": 238512,
+          "data": 238512
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memmove",
+          "hint": 71,
+          "iat_address": 153744,
+          "iat_value": 238502,
+          "data": 238502
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 72,
+          "iat_address": 153748,
+          "iat_value": 238492,
+          "data": 238492
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 70,
+          "iat_address": 153752,
+          "iat_value": 238482,
+          "data": 238482
+        }
+      ],
+      "function_count": 9
+    },
+    {
+      "name": "api-ms-win-crt-math-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 153780,
+      "import_lookup_table_rva": 214876,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "floor",
+          "hint": 224,
+          "iat_address": 153780,
+          "iat_value": 238756,
+          "data": 238756
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ceil",
+          "hint": 162,
+          "iat_address": 153784,
+          "iat_value": 238720,
+          "data": 238720
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_except1",
+          "hint": 64,
+          "iat_address": 153788,
+          "iat_value": 238958,
+          "data": 238958
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "log2",
+          "hint": 255,
+          "iat_address": 153792,
+          "iat_value": 238682,
+          "data": 238682
+        }
+      ],
+      "function_count": 4
+    },
+    {
+      "name": "api-ms-win-crt-stdio-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 153844,
+      "import_lookup_table_rva": 214940,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__stdio_common_vswprintf_s",
+          "hint": 19,
+          "iat_address": 153844,
+          "iat_value": 238690,
+          "data": 238690
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "api-ms-win-crt-heap-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 153760,
+      "import_lookup_table_rva": 214856,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "realloc",
+          "hint": 26,
+          "iat_address": 153760,
+          "iat_value": 238746,
+          "data": 238746
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 25,
+          "iat_address": 153764,
+          "iat_value": 238736,
+          "data": 238736
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_callnewh",
+          "hint": 8,
+          "iat_address": 153768,
+          "iat_value": 238764,
+          "data": 238764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 24,
+          "iat_address": 153772,
+          "iat_value": 238728,
+          "data": 238728
+        }
+      ],
+      "function_count": 4
+    },
+    {
+      "name": "api-ms-win-crt-runtime-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 153800,
+      "import_lookup_table_rva": 214896,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 56,
+          "iat_address": 153800,
+          "iat_value": 238970,
+          "data": 238970
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm_e",
+          "hint": 57,
+          "iat_address": 153804,
+          "iat_value": 238982,
+          "data": 238982
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_cexit",
+          "hint": 23,
+          "iat_address": 153808,
+          "iat_value": 238948,
+          "data": 238948
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_execute_onexit_table",
+          "hint": 36,
+          "iat_address": 153812,
+          "iat_value": 238910,
+          "data": 238910
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_seh_filter_dll",
+          "hint": 65,
+          "iat_address": 153816,
+          "iat_value": 238776,
+          "data": 238776
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_configure_narrow_argv",
+          "hint": 25,
+          "iat_address": 153820,
+          "iat_value": 238794,
+          "data": 238794
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_narrow_environment",
+          "hint": 53,
+          "iat_address": 153824,
+          "iat_value": 238820,
+          "data": 238820
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_onexit_table",
+          "hint": 54,
+          "iat_address": 153828,
+          "iat_value": 238854,
+          "data": 238854
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_register_onexit_function",
+          "hint": 62,
+          "iat_address": 153832,
+          "iat_value": 238882,
+          "data": 238882
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_crt_atexit",
+          "hint": 31,
+          "iat_address": 153836,
+          "iat_value": 238934,
+          "data": 238934
+        }
+      ],
+      "function_count": 10
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "qsgd3d12backend.dll",
+    "export_flags": 0,
+    "timestamp": 4294967295,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 2,
+    "entries": [
+      {
+        "name": "qt_plugin_instance",
+        "ordinal": 1,
+        "address": 141040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "qt_plugin_query_metadata",
+        "ordinal": 2,
+        "address": 141264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 1,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 238176,
+        "size": 800,
+        "entropy": 3.476608,
+        "sha256": "0dde7c3623031872135b28df98603ec3a3931d90b2dc97c95000838188442d18",
+        "magic_head": "2003340000005600"
+      }
+    ],
+    "total_size": 800,
+    "max_entropy": 3.476608
+  },
+  "digital_signature": {
+    "signature_present": 1,
+    "verification_flag": "OK",
+    "signature_count": 1,
+    "certificates": [
+      {
+        "version": 3,
+        "subject": "C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services CA - G2",
+        "issuer": "C=ZA, ST=Western Cape, L=Durbanville, O=Thawte, OU=Thawte Certification, CN=Thawte Timestamping CA",
+        "serial_number": "7e93ebfb7cc64e59ea4b9a77d406fc3b",
+        "signature_algorithm": "1.2.840.113549.1.1.5",
+        "valid_from": "2012-12-21",
+        "valid_to": "2020-12-30",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=US, O=thawte\\, Inc., CN=thawte SHA256 Code Signing CA",
+        "issuer": "C=US, O=thawte\\, Inc., OU=Certification Services Division, OU=(c) 2006 thawte\\, Inc. - For authorized use only, CN=thawte Primary Root CA",
+        "serial_number": "71a0b73695ddb1afc23b2b9a18ee54cb",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2013-12-10",
+        "valid_to": "2023-12-9",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services Signer - G4",
+        "issuer": "C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services CA - G2",
+        "serial_number": "0ecff438c8febf356e04d86a981b1a50",
+        "signature_algorithm": "1.2.840.113549.1.1.5",
+        "valid_from": "2012-10-18",
+        "valid_to": "2020-12-29",
+        "is_ca": 0,
+        "key_usage": [
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=FI, ST=Oulu, L=Oulu, O=The Qt Company Oy, CN=The Qt Company Oy",
+        "issuer": "C=US, O=thawte\\, Inc., CN=thawte SHA256 Code Signing CA",
+        "serial_number": "06e9579aab763e72079989c689d2b42d",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2017-9-18",
+        "valid_to": "2020-11-24",
+        "is_ca": 0,
+        "key_usage": [
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      }
+    ]
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 2681562576,
+    "entries": [
+      {
+        "id": 258,
+        "build_id": 27034,
+        "count": 1
+      },
+      {
+        "id": 255,
+        "build_id": 27034,
+        "count": 1
+      },
+      {
+        "id": 256,
+        "build_id": 27034,
+        "count": 1
+      },
+      {
+        "id": 261,
+        "build_id": 27034,
+        "count": 24
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 574
+      },
+      {
+        "id": 257,
+        "build_id": 26715,
+        "count": 11
+      },
+      {
+        "id": 257,
+        "build_id": 27034,
+        "count": 8
+      },
+      {
+        "id": 259,
+        "build_id": 26706,
+        "count": 5
+      },
+      {
+        "id": 260,
+        "build_id": 26706,
+        "count": 10
+      },
+      {
+        "id": 261,
+        "build_id": 26706,
+        "count": 18
+      },
+      {
+        "id": 257,
+        "build_id": 26706,
+        "count": 2
+      },
+      {
+        "id": 147,
+        "build_id": 30729,
+        "count": 8
+      }
+    ],
+    "raw_hex": "9404bbccd065d59fd065d59fd065d59fd91d469fd865d59f820dd49ed265d59f820dd09ec265d59f820dd19eda65d59f820dd69ed565d59f4a0cd49ed865d59f8b0dd49edb65d59fd065d49fee67d59f4a0cd09ec865d59f4a0cd59ed165d59f4a0c2a9fd165d59f4a0cd79ed165d59f52696368d065d59f",
+    "raw_offset": 128,
+    "raw_size": 120,
+    "entry_count": 12
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 212224,
+      "size": 124,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 212348,
+      "size": 300,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 253952,
+      "size": 896,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 250368,
+      "size": 5752,
+      "section": null,
+      "outside_sections": 1
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 258048,
+      "size": 11232,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 203616,
+      "size": 84,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 203864,
+      "size": 24,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 203704,
+      "size": 64,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 151552,
+      "size": 2332,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 0,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": null
+  },
+  "entrypoint_bytes": {
+    "offset": 143695,
+    "hex": "558bec837d0c017505e8ef050000ff7510ff750cff7508e8b3feffff83c40c5dc20c00558bec56ff75088bf1e858000000c706141b03108bc65e5dc204008361",
+    "entropy": 4.651864
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 268677364,
+    "se_handler_count": 2,
+    "guard_cf_function_count": 0,
+    "guard_flags": 256
+  },
+  "tls": {
+    "has_tls": 1,
+    "callback_count": 0,
+    "callbacks": [],
+    "addressof_callbacks": 268589396,
+    "addressof_index": 268681248,
+    "addressof_raw_data_start": 268647360,
+    "addressof_raw_data_end": 268647368,
+    "raw_data_size": 8,
+    "sizeof_zero_fill": 0,
+    "characteristics": 3145728,
+    "section": ".rdata",
+    "data_template_hex": "0000000000000080",
+    "data_template_entropy": 0.543564
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 5,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 5,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 1136
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 14,
+    "minor_linker_version": 16,
+    "sizeof_code": 144896,
+    "sizeof_initialized_data": 105984,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 146767,
+    "baseof_code": 4096,
+    "baseof_data": 151552,
+    "imagebase": 268435456,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 6,
+    "minor_operating_system_version": 0,
+    "major_image_version": 5,
+    "minor_image_version": 14,
+    "major_subsystem_version": 6,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 270336,
+    "sizeof_headers": 1024,
+    "checksum": 310142,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 320,
+    "dll_characteristics": [
+      "DYNAMIC_BASE",
+      "NX_COMPAT"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 200,
+    "entropy": 5.064682,
+    "is_standard_ms": 1,
+    "sha256": "ea87d928d9b27c46f8939cac1849f6f593f4a24a598859ef2a3db283719793a0",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a24000000000000009404bbccd065d59fd065d59fd065d59fd91d469fd865d59f820dd49ed265d59f820dd09ec265d59f820dd19eda65d59f820dd69ed565d59f4a0cd49ed865d59f8b0dd49edb65d59fd065d49fee67d59f4a0cd09ec865d59f4a0cd59ed165d59f4a0c2a9fd165d59f4a0cd79ed165d59f52696368d065d59f00000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ e e e F e e e e e J e e e g J e J e J * e J e Rich e",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 310142,
+    "checksum_computed": 310142,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 146767,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.344774
+  },
+  "overlay": {
+    "size": 5752,
+    "offset": 250368,
+    "entropy": 7.382274,
+    "magic_head": "78160000000202003082166a06092a86",
+    "sha256": "bedeab6c352029d119ff6a54e4b891fb842acd2fc4a2687ecbf5ead3ffbec482"
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 3,
+    "types": [
+      "CODEVIEW",
+      "VC_FEATURE",
+      "POGO"
+    ],
+    "pdb_path": "C:\\Users\\qt\\work\\qt\\qtdeclarative\\plugins\\scenegraph\\qsgd3d12backend.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 46,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "The Qt Company Ltd.",
+    "file_description": "Quick D3D12 Renderer for Qt.",
+    "original_filename": "qsgd3d12backend.dll",
+    "product_name": "Qt Quick D3D12 Renderer (Qt 5.14.2)",
+    "file_version": "5.14.2.0",
+    "legal_copyright": "Copyright (C) 2020 The Qt Company Ltd.",
+    "internal_name": null
+  },
+  "strings": {
+    "count_ascii": 2971,
+    "count_utf16": 24,
+    "count_total": 2995,
+    "chars_total": 49856,
+    "printable_ratio": 0.194659,
+    "len_mean": 16.65,
+    "len_max": 142,
+    "urls": [
+      "http://crl.thawte.com/ThawteTimestampingCA.crl0",
+      "http://ocsp.thawte.com0",
+      "http://t1.symcb.com/ThawtePCA.crl0",
+      "http://t2.symcb.com0",
+      "http://tl.symcb.com/tl.crl0",
+      "http://tl.symcb.com/tl.crt0",
+      "http://tl.symcd.com0&",
+      "http://ts-aia.ws.symantec.com/tss-ca-g2.cer0",
+      "http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(",
+      "http://ts-ocsp.ws.symantec.com07",
+      "https://www.thawte.com/cps0/",
+      "https://www.thawte.com/repository0W"
+    ],
+    "n_urls": 12,
+    "ipv4": [
+      "5.14.2.0"
+    ],
+    "n_ipv4": 1,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "api-ms-win-crt-heap-l1-1-0.dll",
+      "api-ms-win-crt-math-l1-1-0.dll",
+      "api-ms-win-crt-runtime-l1-1-0.dll",
+      "api-ms-win-crt-stdio-l1-1-0.dll",
+      "d3d12.dll",
+      "d3dcompiler_47.dll",
+      "dcomp.dll",
+      "dxgi.dll",
+      "eapi-ms-win-core-synch-l1-2-0.dll",
+      "kernel32.dll",
+      "qsgd3d12backend.dll",
+      "qt5core.dll",
+      "qt5gui.dll",
+      "qt5qml.dll",
+      "qt5quick.dll",
+      "vcruntime140.dll"
+    ],
+    "n_dll_names": 16,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [
+      "C:\\Users\\qt\\work\\qt\\qtdeclarative\\plugins\\scenegraph\\qsgd3d12backend.pdb"
+    ],
+    "n_file_paths": 1
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "eapi-ms-win-core-synch-l1-2-0.dll",
+      "qsgd3d12backend.dll"
+    ],
+    "n_orphans": 2,
+    "n_imported": 14
+  }
+}
