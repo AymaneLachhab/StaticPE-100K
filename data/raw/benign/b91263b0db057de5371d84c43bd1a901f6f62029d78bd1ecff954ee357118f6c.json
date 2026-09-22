@@ -1,0 +1,4349 @@
+{
+  "sha256": "b91263b0db057de5371d84c43bd1a901f6f62029d78bd1ecff954ee357118f6c",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 1286088,
+    "md5": "2ce9c6e1ce89f51fb3bd5837f9e9ab75",
+    "sha1": "8e9e8fc68a0c6882fae083baed89a860ba647b30",
+    "imphash": "a4ef95af467b1cd2493de13a89380d92",
+    "tlsh": "T1FA559575D7A3C66CC0ABD0B07F478EA164A5BC691A34F09A018A1A037B1BD706FEF1D5",
+    "ssdeep": "24576:rwdXuc3N7dzC57dnJOdYN4XXYTK6BoayQSKRZGqUafY40KVEihC:4+SpCXOdYN6XYTK6BoySSZGqUaf/nCi0",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 5.951883,
+    "byte_histogram_256": [
+      0.14420631,
+      0.02315083,
+      0.00621419,
+      0.00858417,
+      0.00473374,
+      0.008798,
+      0.00217092,
+      0.00268489,
+      0.00906781,
+      0.00168107,
+      0.00187234,
+      0.00131251,
+      0.00626551,
+      0.00153022,
+      0.00112434,
+      0.015303,
+      0.01848785,
+      0.00081099,
+      0.00251927,
+      0.00233421,
+      0.00188556,
+      0.00154033,
+      0.00068036,
+      0.00063059,
+      0.00981037,
+      0.00049219,
+      0.00056528,
+      0.00053496,
+      0.00104114,
+      0.00055673,
+      0.0029648,
+      0.00068813,
+      0.01093549,
+      0.00065081,
+      0.00060805,
+      0.0004712,
+      0.00289794,
+      0.00169506,
+      0.00049919,
+      0.00082109,
+      0.00417934,
+      0.00108235,
+      0.00057383,
+      0.00065003,
+      0.00114222,
+      0.00082732,
+      0.00073556,
+      0.00055439,
+      0.00470186,
+      0.00064148,
+      0.00106525,
+      0.00067336,
+      0.00097427,
+      0.00053729,
+      0.00056684,
+      0.00040977,
+      0.00233654,
+      0.0021717,
+      0.00051396,
+      0.00116555,
+      0.00129851,
+      0.00061038,
+      0.00049763,
+      0.00054584,
+      0.01349752,
+      0.00470574,
+      0.00093617,
+      0.00081254,
+      0.003062,
+      0.05045145,
+      0.00069435,
+      0.00060416,
+      0.10389336,
+      0.00348265,
+      0.00055439,
+      0.00032035,
+      0.00371825,
+      0.00820473,
+      0.00064148,
+      0.00058394,
+      0.01077453,
+      0.00050774,
+      0.0016072,
+      0.00075734,
+      0.00199053,
+      0.01074188,
+      0.00045098,
+      0.00048519,
+      0.00128218,
+      0.000374,
+      0.00041366,
+      0.00040277,
+      0.00063293,
+      0.00283962,
+      0.0004331,
+      0.0013164,
+      0.00148979,
+      0.00185835,
+      0.00079932,
+      0.00266,
+      0.00148435,
+      0.00322528,
+      0.00307211,
+      0.00076822,
+      0.00150845,
+      0.00200764,
+      0.0003499,
+      0.00051863,
+      0.0018498,
+      0.00118421,
+      0.0018739,
+      0.00177515,
+      0.00207995,
+      0.00079155,
+      0.00201386,
+      0.0019571,
+      0.00709671,
+      0.00520571,
+      0.00070291,
+      0.00073556,
+      0.00140659,
+      0.00077211,
+      0.00040122,
+      0.00029702,
+      0.00101471,
+      0.00502609,
+      0.00083742,
+      0.00070135,
+      0.00354408,
+      0.0009074,
+      0.00047275,
+      0.01529755,
+      0.00267089,
+      0.01579674,
+      0.00047664,
+      0.00062282,
+      0.00202552,
+      0.04221251,
+      0.00029625,
+      0.06576377,
+      0.00085764,
+      0.00840067,
+      0.00041988,
+      0.00034523,
+      0.0037999,
+      0.00026048,
+      0.00044398,
+      0.00024804,
+      0.00060649,
+      0.00155744,
+      0.00025193,
+      0.00024337,
+      0.00342823,
+      0.00027681,
+      0.00025037,
+      0.00024026,
+      0.00048675,
+      0.00026748,
+      0.00025037,
+      0.0002737,
+      0.00159709,
+      0.00032968,
+      0.00034757,
+      0.00028847,
+      0.00059172,
+      0.00031413,
+      0.00034834,
+      0.00035534,
+      0.00155744,
+      0.00036312,
+      0.00052174,
+      0.00035845,
+      0.0008382,
+      0.00037867,
+      0.00030791,
+      0.00041444,
+      0.00155433,
+      0.0002597,
+      0.0004051,
+      0.00028769,
+      0.00067103,
+      0.00033435,
+      0.00475628,
+      0.0023381,
+      0.00468397,
+      0.0013646,
+      0.00241041,
+      0.00024804,
+      0.00075034,
+      0.00113834,
+      0.0004642,
+      0.00041755,
+      0.01187322,
+      0.01151865,
+      0.00587207,
+      0.00286761,
+      0.003041,
+      0.00056139,
+      0.00108779,
+      0.00566213,
+      0.00443671,
+      0.00091362,
+      0.00057694,
+      0.00028458,
+      0.00089885,
+      0.00033512,
+      0.00037789,
+      0.00028847,
+      0.00962765,
+      0.00076356,
+      0.00079932,
+      0.00039966,
+      0.00082265,
+      0.00033512,
+      0.00033357,
+      0.00031646,
+      0.0024594,
+      0.00033435,
+      0.00031957,
+      0.00036778,
+      0.00102637,
+      0.00029314,
+      0.00030247,
+      0.00030947,
+      0.0062624,
+      0.00029858,
+      0.00046886,
+      0.00029158,
+      0.00122775,
+      0.00264212,
+      0.00026359,
+      0.000367,
+      0.01675391,
+      0.00317552,
+      0.00041055,
+      0.00495456,
+      0.00381234,
+      0.00027448,
+      0.00039189,
+      0.00066403,
+      0.00633627,
+      0.00046886,
+      0.00112745,
+      0.00323928,
+      0.00244151,
+      0.00062982,
+      0.00072001,
+      0.00097272,
+      0.00852741,
+      0.00125652,
+      0.00352775,
+      0.00132339,
+      0.00678803,
+      0.00126819,
+      0.00209783,
+      0.02370211
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00799901,
+      0.0001063,
+      1.558e-05,
+      0.00018846,
+      3.271e-05,
+      0.00091504,
+      5.334e-05,
+      8.372e-05,
+      2.687e-05,
+      4.127e-05,
+      3.5e-06,
+      2.804e-05,
+      6.62e-06,
+      2.025e-05,
+      3.037e-05,
+      1.83e-05,
+      0.01889968,
+      0.00048049,
+      4.595e-05,
+      0.00037964,
+      7.242e-05,
+      0.0022584,
+      0.00011759,
+      0.00027101,
+      0.00015848,
+      0.00014212,
+      1.869e-05,
+      9.228e-05,
+      2.064e-05,
+      6.581e-05,
+      2.998e-05,
+      7.281e-05,
+      0.00186123,
+      2.531e-05,
+      1.09e-05,
+      7.359e-05,
+      0.0001172,
+      1.674e-05,
+      0.00015225,
+      1.674e-05,
+      7.4e-06,
+      7.4e-06,
+      1.051e-05,
+      7.4e-06,
+      1.09e-05,
+      1.908e-05,
+      2.881e-05,
+      2.687e-05,
+      0.00175688,
+      5.373e-05,
+      1.791e-05,
+      2.726e-05,
+      7.671e-05,
+      6.113e-05,
+      8.099e-05,
+      2.219e-05,
+      5.179e-05,
+      2.181e-05,
+      0.0001063,
+      1.596e-05,
+      2.609e-05,
+      1.558e-05,
+      1.207e-05,
+      4.595e-05,
+      0.00181295,
+      4.244e-05,
+      7.048e-05,
+      0.00026789,
+      5.724e-05,
+      0.00031072,
+      0.00153766,
+      0.00105522,
+      2.57e-05,
+      9.345e-05,
+      0.00011837,
+      1.285e-05,
+      2.258e-05,
+      3.738e-05,
+      2.842e-05,
+      8.878e-05,
+      0.00270502,
+      0.00011681,
+      7.749e-05,
+      9.345e-05,
+      0.00029048,
+      0.00025933,
+      0.0012207,
+      0.00052683,
+      7.982e-05,
+      2.181e-05,
+      1.752e-05,
+      1.441e-05,
+      1.635e-05,
+      3.777e-05,
+      4.75e-05,
+      5.685e-05,
+      0.00468773,
+      0.00029009,
+      0.0007881,
+      0.00032124,
+      0.00065922,
+      0.0005424,
+      0.00256484,
+      0.00127171,
+      0.00014173,
+      8.177e-05,
+      7.749e-05,
+      6.581e-05,
+      8.527e-05,
+      0.00013278,
+      0.00013628,
+      0.00011526,
+      0.01000665,
+      0.000836,
+      0.00181645,
+      0.00097189,
+      0.00202828,
+      0.00111557,
+      0.00396621,
+      0.00214158,
+      0.00131727,
+      0.00023557,
+      0.0002274,
+      0.00043065,
+      0.00049256,
+      0.00034772,
+      0.00037614,
+      0.00080329,
+      0.04076798,
+      0.00455223,
+      0.00471811,
+      0.00255043,
+      0.0133923,
+      0.00324158,
+      0.00557941,
+      0.00412936,
+      0.01703105,
+      0.00201036,
+      0.00223659,
+      0.0027019,
+      0.00427772,
+      0.00204074,
+      0.00361811,
+      0.00517446,
+      0.08948747,
+      0.02151591,
+      0.01111521,
+      0.00730047,
+      0.10300943,
+      0.01493113,
+      0.00611675,
+      0.01153535,
+      0.08259312,
+      0.00595945,
+      0.00319135,
+      0.00937897,
+      0.02494167,
+      0.0085422,
+      0.02061022,
+      0.03112696,
+      0.05683454,
+      0.01675498,
+      0.00874351,
+      0.00548946,
+      0.07587011,
+      0.01085043,
+      0.00383889,
+      0.00929915,
+      0.05820281,
+      0.0038716,
+      0.00237833,
+      0.00891639,
+      0.02028158,
+      0.00705555,
+      0.01691346,
+      0.02643767,
+      0.000704,
+      0.0003228,
+      0.00037809,
+      0.00025426,
+      0.00038704,
+      0.00011876,
+      0.0002126,
+      0.00017639,
+      0.00027101,
+      8.917e-05,
+      0.00019469,
+      0.00012343,
+      0.00018379,
+      0.00019002,
+      0.00016588,
+      0.00021533,
+      0.00109571,
+      0.0004291,
+      0.0004914,
+      0.00072113,
+      0.00039405,
+      0.00036835,
+      0.00088895,
+      0.000484,
+      0.00038237,
+      0.00027062,
+      0.00029048,
+      0.00026867,
+      0.00025855,
+      0.00027412,
+      0.0002788,
+      0.00028074
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 1079160,
+      "raw_size": 1079296,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 5.680051,
+      "characteristics": 1615855712,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".data",
+      "virtual_size": 19264,
+      "raw_size": 19456,
+      "virtual_address": 1085440,
+      "pointerto_raw_data": 1080320,
+      "entropy": 4.225618,
+      "characteristics": 3227516992,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 76048,
+      "raw_size": 76288,
+      "virtual_address": 1105920,
+      "pointerto_raw_data": 1099776,
+      "entropy": 6.09823,
+      "characteristics": 1080033344,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".pdata",
+      "virtual_size": 38580,
+      "raw_size": 38912,
+      "virtual_address": 1183744,
+      "pointerto_raw_data": 1176064,
+      "entropy": 6.171273,
+      "characteristics": 1076887616,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".xdata",
+      "virtual_size": 37504,
+      "raw_size": 37888,
+      "virtual_address": 1224704,
+      "pointerto_raw_data": 1214976,
+      "entropy": 3.510838,
+      "characteristics": 1076887616,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".bss",
+      "virtual_size": 1696,
+      "raw_size": 0,
+      "virtual_address": 1265664,
+      "pointerto_raw_data": 0,
+      "entropy": 0.0,
+      "characteristics": 3227517056,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".edata",
+      "virtual_size": 8190,
+      "raw_size": 8192,
+      "virtual_address": 1269760,
+      "pointerto_raw_data": 1252864,
+      "entropy": 5.380082,
+      "characteristics": 1076887616,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".idata",
+      "virtual_size": 3724,
+      "raw_size": 4096,
+      "virtual_address": 1277952,
+      "pointerto_raw_data": 1261056,
+      "entropy": 4.506821,
+      "characteristics": 3224371264,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".CRT",
+      "virtual_size": 88,
+      "raw_size": 512,
+      "virtual_address": 1282048,
+      "pointerto_raw_data": 1265152,
+      "entropy": 0.876506,
+      "characteristics": 3225419840,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".tls",
+      "virtual_size": 16,
+      "raw_size": 512,
+      "virtual_address": 1286144,
+      "pointerto_raw_data": 1265664,
+      "entropy": 0.0,
+      "characteristics": 3225419840,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 3132,
+      "raw_size": 3584,
+      "virtual_address": 1290240,
+      "pointerto_raw_data": 1266176,
+      "entropy": 5.434673,
+      "characteristics": 1110442048,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 128,
+    "e_lfanew_raw": 128,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000080000000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "AMD64",
+    "numberof_sections": 11,
+    "time_date_stamp": 0,
+    "pointerto_symbol_table": 1269760,
+    "numberof_symbols": 106,
+    "sizeof_optional_header": 240,
+    "characteristics_raw": 8742,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LINE_NUMS_STRIPPED",
+      "LARGE_ADDRESS_AWARE",
+      "DEBUG_STRIPPED",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 1278828,
+      "import_lookup_table_rva": 1278012,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AreFileApisANSI",
+          "hint": 36,
+          "iat_address": 1278828,
+          "iat_value": 1279644,
+          "data": 1279644
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 141,
+          "iat_address": 1278836,
+          "iat_value": 1279662,
+          "data": 1279662
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileA",
+          "hint": 204,
+          "iat_address": 1278844,
+          "iat_value": 1279676,
+          "data": 1279676
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileMappingA",
+          "hint": 205,
+          "iat_address": 1278852,
+          "iat_value": 1279690,
+          "data": 1279690
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileMappingW",
+          "hint": 209,
+          "iat_address": 1278860,
+          "iat_value": 1279712,
+          "data": 1279712
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileW",
+          "hint": 212,
+          "iat_address": 1278868,
+          "iat_value": 1279734,
+          "data": 1279734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateMutexW",
+          "hint": 227,
+          "iat_address": 1278876,
+          "iat_value": 1279748,
+          "data": 1279748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 283,
+          "iat_address": 1278884,
+          "iat_value": 1279764,
+          "data": 1279764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteFileA",
+          "hint": 285,
+          "iat_address": 1278892,
+          "iat_value": 1279788,
+          "data": 1279788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteFileW",
+          "hint": 288,
+          "iat_address": 1278900,
+          "iat_value": 1279802,
+          "data": 1279802
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 319,
+          "iat_address": 1278908,
+          "iat_value": 1279816,
+          "data": 1279816
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlushFileBuffers",
+          "hint": 431,
+          "iat_address": 1278916,
+          "iat_value": 1279840,
+          "data": 1279840
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlushViewOfFile",
+          "hint": 434,
+          "iat_address": 1278924,
+          "iat_value": 1279860,
+          "data": 1279860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FormatMessageA",
+          "hint": 438,
+          "iat_address": 1278932,
+          "iat_value": 1279878,
+          "data": 1279878
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FormatMessageW",
+          "hint": 439,
+          "iat_address": 1278940,
+          "iat_value": 1279896,
+          "data": 1279896
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibrary",
+          "hint": 443,
+          "iat_address": 1278948,
+          "iat_value": 1279914,
+          "data": 1279914
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 553,
+          "iat_address": 1278956,
+          "iat_value": 1279928,
+          "data": 1279928
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 557,
+          "iat_address": 1278964,
+          "iat_value": 1279950,
+          "data": 1279950
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetDiskFreeSpaceA",
+          "hint": 569,
+          "iat_address": 1278972,
+          "iat_value": 1279972,
+          "data": 1279972
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetDiskFreeSpaceW",
+          "hint": 572,
+          "iat_address": 1278980,
+          "iat_value": 1279992,
+          "data": 1279992
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileAttributesA",
+          "hint": 598,
+          "iat_address": 1278988,
+          "iat_value": 1280012,
+          "data": 1280012
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileAttributesExW",
+          "hint": 600,
+          "iat_address": 1278996,
+          "iat_value": 1280034,
+          "data": 1280034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileAttributesW",
+          "hint": 603,
+          "iat_address": 1279004,
+          "iat_value": 1280058,
+          "data": 1280058
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileSize",
+          "hint": 609,
+          "iat_address": 1279012,
+          "iat_value": 1280080,
+          "data": 1280080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFullPathNameA",
+          "hint": 620,
+          "iat_address": 1279020,
+          "iat_value": 1280094,
+          "data": 1280094
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFullPathNameW",
+          "hint": 623,
+          "iat_address": 1279028,
+          "iat_value": 1280114,
+          "data": 1280114
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 630,
+          "iat_address": 1279036,
+          "iat_value": 1280134,
+          "data": 1280134
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 710,
+          "iat_address": 1279044,
+          "iat_value": 1280150,
+          "data": 1280150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcessHeap",
+          "hint": 716,
+          "iat_address": 1279052,
+          "iat_value": 1280168,
+          "data": 1280168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemInfo",
+          "hint": 763,
+          "iat_address": 1279060,
+          "iat_value": 1280186,
+          "data": 1280186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTime",
+          "hint": 767,
+          "iat_address": 1279068,
+          "iat_value": 1280202,
+          "data": 1280202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 769,
+          "iat_address": 1279076,
+          "iat_value": 1280218,
+          "data": 1280218
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTempPathA",
+          "hint": 781,
+          "iat_address": 1279084,
+          "iat_value": 1280244,
+          "data": 1280244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTempPathW",
+          "hint": 782,
+          "iat_address": 1279092,
+          "iat_value": 1280260,
+          "data": 1280260
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTickCount",
+          "hint": 799,
+          "iat_address": 1279100,
+          "iat_value": 1280276,
+          "data": 1280276
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetVersionExA",
+          "hint": 820,
+          "iat_address": 1279108,
+          "iat_value": 1280292,
+          "data": 1280292
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetVersionExW",
+          "hint": 821,
+          "iat_address": 1279116,
+          "iat_value": 1280308,
+          "data": 1280308
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapAlloc",
+          "hint": 863,
+          "iat_address": 1279124,
+          "iat_value": 1280324,
+          "data": 1280324
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapCompact",
+          "hint": 864,
+          "iat_address": 1279132,
+          "iat_value": 1280336,
+          "data": 1280336
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapCreate",
+          "hint": 865,
+          "iat_address": 1279140,
+          "iat_value": 1280350,
+          "data": 1280350
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapDestroy",
+          "hint": 867,
+          "iat_address": 1279148,
+          "iat_value": 1280364,
+          "data": 1280364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapFree",
+          "hint": 869,
+          "iat_address": 1279156,
+          "iat_value": 1280378,
+          "data": 1280378
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapReAlloc",
+          "hint": 873,
+          "iat_address": 1279164,
+          "iat_value": 1280390,
+          "data": 1280390
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapSize",
+          "hint": 875,
+          "iat_address": 1279172,
+          "iat_value": 1280404,
+          "data": 1280404
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapValidate",
+          "hint": 879,
+          "iat_address": 1279180,
+          "iat_value": 1280416,
+          "data": 1280416
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSection",
+          "hint": 892,
+          "iat_address": 1279188,
+          "iat_value": 1280432,
+          "data": 1280432
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 984,
+          "iat_address": 1279196,
+          "iat_value": 1280460,
+          "data": 1280460
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryA",
+          "hint": 988,
+          "iat_address": 1279204,
+          "iat_value": 1280484,
+          "data": 1280484
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryW",
+          "hint": 991,
+          "iat_address": 1279212,
+          "iat_value": 1280500,
+          "data": 1280500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LocalFree",
+          "hint": 1002,
+          "iat_address": 1279220,
+          "iat_value": 1280516,
+          "data": 1280516
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LockFile",
+          "hint": 1014,
+          "iat_address": 1279228,
+          "iat_value": 1280528,
+          "data": 1280528
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LockFileEx",
+          "hint": 1015,
+          "iat_address": 1279236,
+          "iat_value": 1280540,
+          "data": 1280540
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MapViewOfFile",
+          "hint": 1019,
+          "iat_address": 1279244,
+          "iat_value": 1280554,
+          "data": 1280554
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MultiByteToWideChar",
+          "hint": 1036,
+          "iat_address": 1279252,
+          "iat_value": 1280570,
+          "data": 1280570
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OutputDebugStringA",
+          "hint": 1078,
+          "iat_address": 1279260,
+          "iat_value": 1280592,
+          "data": 1280592
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OutputDebugStringW",
+          "hint": 1079,
+          "iat_address": 1279268,
+          "iat_value": 1280614,
+          "data": 1280614
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1131,
+          "iat_address": 1279276,
+          "iat_value": 1280636,
+          "data": 1280636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReadFile",
+          "hint": 1170,
+          "iat_address": 1279284,
+          "iat_value": 1280662,
+          "data": 1280662
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEndOfFile",
+          "hint": 1300,
+          "iat_address": 1279292,
+          "iat_value": 1280674,
+          "data": 1280674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetFilePointer",
+          "hint": 1319,
+          "iat_address": 1279300,
+          "iat_value": 1280690,
+          "data": 1280690
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 1410,
+          "iat_address": 1279308,
+          "iat_value": 1280708,
+          "data": 1280708
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SystemTimeToFileTime",
+          "hint": 1421,
+          "iat_address": 1279316,
+          "iat_value": 1280716,
+          "data": 1280716
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsGetValue",
+          "hint": 1445,
+          "iat_address": 1279324,
+          "iat_value": 1280740,
+          "data": 1280740
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TryEnterCriticalSection",
+          "hint": 1452,
+          "iat_address": 1279332,
+          "iat_value": 1280754,
+          "data": 1280754
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnlockFile",
+          "hint": 1460,
+          "iat_address": 1279340,
+          "iat_value": 1280780,
+          "data": 1280780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnlockFileEx",
+          "hint": 1461,
+          "iat_address": 1279348,
+          "iat_value": 1280794,
+          "data": 1280794
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnmapViewOfFile",
+          "hint": 1462,
+          "iat_address": 1279356,
+          "iat_value": 1280810,
+          "data": 1280810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualProtect",
+          "hint": 1492,
+          "iat_address": 1279364,
+          "iat_value": 1280828,
+          "data": 1280828
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualQuery",
+          "hint": 1494,
+          "iat_address": 1279372,
+          "iat_value": 1280846,
+          "data": 1280846
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObject",
+          "hint": 1503,
+          "iat_address": 1279380,
+          "iat_value": 1280862,
+          "data": 1280862
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObjectEx",
+          "hint": 1504,
+          "iat_address": 1279388,
+          "iat_value": 1280884,
+          "data": 1280884
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 1547,
+          "iat_address": 1279396,
+          "iat_value": 1280908,
+          "data": 1280908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteFile",
+          "hint": 1567,
+          "iat_address": 1279404,
+          "iat_value": 1280930,
+          "data": 1280930
+        }
+      ],
+      "function_count": 73
+    },
+    {
+      "name": "msvcrt.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 1279420,
+      "import_lookup_table_rva": 1278604,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__iob_func",
+          "hint": 84,
+          "iat_address": 1279420,
+          "iat_value": 1280942,
+          "data": 1280942
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__setusermatherr",
+          "hint": 99,
+          "iat_address": 1279428,
+          "iat_value": 1280956,
+          "data": 1280956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_amsg_exit",
+          "hint": 121,
+          "iat_address": 1279436,
+          "iat_value": 1280976,
+          "data": 1280976
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_beginthreadex",
+          "hint": 135,
+          "iat_address": 1279444,
+          "iat_value": 1280990,
+          "data": 1280990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_endthreadex",
+          "hint": 187,
+          "iat_address": 1279452,
+          "iat_value": 1281008,
+          "data": 1281008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_errno",
+          "hint": 190,
+          "iat_address": 1279460,
+          "iat_value": 1281024,
+          "data": 1281024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 285,
+          "iat_address": 1279468,
+          "iat_value": 1281034,
+          "data": 1281034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_localtime64",
+          "hint": 386,
+          "iat_address": 1279476,
+          "iat_value": 1281046,
+          "data": 1281046
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_lock",
+          "hint": 387,
+          "iat_address": 1279484,
+          "iat_value": 1281062,
+          "data": 1281062
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_unlock",
+          "hint": 714,
+          "iat_address": 1279492,
+          "iat_value": 1281070,
+          "data": 1281070
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "abort",
+          "hint": 906,
+          "iat_address": 1279500,
+          "iat_value": 1281080,
+          "data": 1281080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "calloc",
+          "hint": 923,
+          "iat_address": 1279508,
+          "iat_value": 1281088,
+          "data": 1281088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 963,
+          "iat_address": 1279516,
+          "iat_value": 1281098,
+          "data": 1281098
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fwrite",
+          "hint": 976,
+          "iat_address": 1279524,
+          "iat_value": 1281106,
+          "data": 1281106
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 1023,
+          "iat_address": 1279532,
+          "iat_value": 1281116,
+          "data": 1281116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcmp",
+          "hint": 1030,
+          "iat_address": 1279540,
+          "iat_value": 1281126,
+          "data": 1281126
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 1031,
+          "iat_address": 1279548,
+          "iat_value": 1281136,
+          "data": 1281136
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memmove",
+          "hint": 1032,
+          "iat_address": 1279556,
+          "iat_value": 1281146,
+          "data": 1281146
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 1033,
+          "iat_address": 1279564,
+          "iat_value": 1281156,
+          "data": 1281156
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "qsort",
+          "hint": 1048,
+          "iat_address": 1279572,
+          "iat_value": 1281166,
+          "data": 1281166
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "realloc",
+          "hint": 1052,
+          "iat_address": 1279580,
+          "iat_value": 1281174,
+          "data": 1281174
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcmp",
+          "hint": 1079,
+          "iat_address": 1279588,
+          "iat_value": 1281184,
+          "data": 1281184
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcspn",
+          "hint": 1083,
+          "iat_address": 1279596,
+          "iat_value": 1281194,
+          "data": 1281194
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strlen",
+          "hint": 1086,
+          "iat_address": 1279604,
+          "iat_value": 1281204,
+          "data": 1281204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strncmp",
+          "hint": 1089,
+          "iat_address": 1279612,
+          "iat_value": 1281214,
+          "data": 1281214
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strrchr",
+          "hint": 1093,
+          "iat_address": 1279620,
+          "iat_value": 1281224,
+          "data": 1281224
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vfprintf",
+          "hint": 1123,
+          "iat_address": 1279628,
+          "iat_value": 1281234,
+          "data": 1281234
+        }
+      ],
+      "function_count": 27
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "libsqlite3-0.dll",
+    "export_flags": 0,
+    "timestamp": 1782996447,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 261,
+    "entries": [
+      {
+        "name": "sqlite3_aggregate_context",
+        "ordinal": 1,
+        "address": 245468,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_aggregate_count",
+        "ordinal": 2,
+        "address": 245981,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_auto_extension",
+        "ordinal": 3,
+        "address": 491593,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_backup_finish",
+        "ordinal": 4,
+        "address": 203264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_backup_init",
+        "ordinal": 5,
+        "address": 200307,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_backup_pagecount",
+        "ordinal": 6,
+        "address": 203665,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_backup_remaining",
+        "ordinal": 7,
+        "address": 203644,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_backup_step",
+        "ordinal": 8,
+        "address": 201443,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_blob",
+        "ordinal": 9,
+        "address": 248321,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_blob64",
+        "ordinal": 10,
+        "address": 248399,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_double",
+        "ordinal": 11,
+        "address": 248515,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_int",
+        "ordinal": 12,
+        "address": 248654,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_int64",
+        "ordinal": 13,
+        "address": 248706,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_null",
+        "ordinal": 14,
+        "address": 248839,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_parameter_count",
+        "ordinal": 15,
+        "address": 250002,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_parameter_index",
+        "ordinal": 16,
+        "address": 250204,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_parameter_name",
+        "ordinal": 17,
+        "address": 250055,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_pointer",
+        "ordinal": 18,
+        "address": 248918,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_text",
+        "ordinal": 19,
+        "address": 249091,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_text16",
+        "ordinal": 20,
+        "address": 249301,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_text64",
+        "ordinal": 21,
+        "address": 249169,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_value",
+        "ordinal": 22,
+        "address": 249379,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_zeroblob",
+        "ordinal": 23,
+        "address": 249719,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_bind_zeroblob64",
+        "ordinal": 24,
+        "address": 249850,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_blob_bytes",
+        "ordinal": 25,
+        "address": 301283,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_blob_close",
+        "ordinal": 26,
+        "address": 300656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_blob_open",
+        "ordinal": 27,
+        "address": 298379,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_blob_read",
+        "ordinal": 28,
+        "address": 301133,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_blob_reopen",
+        "ordinal": 29,
+        "address": 301346,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_blob_write",
+        "ordinal": 30,
+        "address": 301208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_busy_handler",
+        "ordinal": 31,
+        "address": 729875,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_busy_timeout",
+        "ordinal": 32,
+        "address": 730172,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_cancel_auto_extension",
+        "ordinal": 33,
+        "address": 491862,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_changes",
+        "ordinal": 34,
+        "address": 727029,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_clear_bindings",
+        "ordinal": 35,
+        "address": 240823,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_close",
+        "ordinal": 36,
+        "address": 727950,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_close_v2",
+        "ordinal": 37,
+        "address": 727986,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_collation_needed",
+        "ordinal": 38,
+        "address": 739954,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_collation_needed16",
+        "ordinal": 39,
+        "address": 740066,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_blob",
+        "ordinal": 40,
+        "address": 246424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_bytes",
+        "ordinal": 41,
+        "address": 246488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_bytes16",
+        "ordinal": 42,
+        "address": 246550,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_count",
+        "ordinal": 43,
+        "address": 246006,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_decltype",
+        "ordinal": 44,
+        "address": 247500,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_decltype16",
+        "ordinal": 45,
+        "address": 247551,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_double",
+        "ordinal": 46,
+        "address": 246612,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_int",
+        "ordinal": 47,
+        "address": 246692,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_int64",
+        "ordinal": 48,
+        "address": 246754,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_name",
+        "ordinal": 49,
+        "address": 247398,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_name16",
+        "ordinal": 50,
+        "address": 247449,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_text",
+        "ordinal": 51,
+        "address": 246818,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_text16",
+        "ordinal": 52,
+        "address": 247000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_type",
+        "ordinal": 53,
+        "address": 247064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_column_value",
+        "ordinal": 54,
+        "address": 246882,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_commit_hook",
+        "ordinal": 55,
+        "address": 732802,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_compileoption_get",
+        "ordinal": 56,
+        "address": 743534,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_compileoption_used",
+        "ordinal": 57,
+        "address": 743327,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_complete",
+        "ordinal": 58,
+        "address": 721781,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_complete16",
+        "ordinal": 59,
+        "address": 722746,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_config",
+        "ordinal": 60,
+        "address": 723611,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_context_db_handle",
+        "ordinal": 61,
+        "address": 245143,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_create_collation",
+        "ordinal": 62,
+        "address": 739533,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_create_collation16",
+        "ordinal": 63,
+        "address": 739753,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_create_collation_v2",
+        "ordinal": 64,
+        "address": 739614,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_create_function",
+        "ordinal": 65,
+        "address": 731419,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_create_function16",
+        "ordinal": 66,
+        "address": 731797,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_create_function_v2",
+        "ordinal": 67,
+        "address": 731545,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_create_module",
+        "ordinal": 68,
+        "address": 593417,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_create_module_v2",
+        "ordinal": 69,
+        "address": 593490,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_create_window_function",
+        "ordinal": 70,
+        "address": 731671,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_data_count",
+        "ordinal": 71,
+        "address": 246064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_data_directory",
+        "ordinal": 72,
+        "address": 1265704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_db_cacheflush",
+        "ordinal": 73,
+        "address": 725819,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_db_config",
+        "ordinal": 74,
+        "address": 726060,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_db_filename",
+        "ordinal": 75,
+        "address": 743183,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_db_handle",
+        "ordinal": 76,
+        "address": 250612,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_db_mutex",
+        "ordinal": 77,
+        "address": 725632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_db_readonly",
+        "ordinal": 78,
+        "address": 743255,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_db_release_memory",
+        "ordinal": 79,
+        "address": 725654,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_db_status",
+        "ordinal": 80,
+        "address": 5990,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_declare_vtab",
+        "ordinal": 81,
+        "address": 598146,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_enable_load_extension",
+        "ordinal": 82,
+        "address": 491473,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_enable_shared_cache",
+        "ordinal": 83,
+        "address": 134167,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_errcode",
+        "ordinal": 84,
+        "address": 734457,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_errmsg",
+        "ordinal": 85,
+        "address": 734021,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_errmsg16",
+        "ordinal": 86,
+        "address": 734230,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_errstr",
+        "ordinal": 87,
+        "address": 734675,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_exec",
+        "ordinal": 88,
+        "address": 488824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_expanded_sql",
+        "ordinal": 89,
+        "address": 251173,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_expired",
+        "ordinal": 90,
+        "address": 240052,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_extended_errcode",
+        "ordinal": 91,
+        "address": 734553,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_extended_result_codes",
+        "ordinal": 92,
+        "address": 741372,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_file_control",
+        "ordinal": 93,
+        "address": 741459,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_finalize",
+        "ordinal": 94,
+        "address": 240467,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_free",
+        "ordinal": 95,
+        "address": 23686,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_free_table",
+        "ordinal": 96,
+        "address": 570027,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_fts3_may_be_corrupt",
+        "ordinal": 97,
+        "address": 1088552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_fts5_may_be_corrupt",
+        "ordinal": 98,
+        "address": 1089728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_get_autocommit",
+        "ordinal": 99,
+        "address": 740193,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_get_auxdata",
+        "ordinal": 100,
+        "address": 245545,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_get_table",
+        "ordinal": 101,
+        "address": 569473,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_global_recover",
+        "ordinal": 102,
+        "address": 740178,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_initialize",
+        "ordinal": 103,
+        "address": 722954,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_interrupt",
+        "ordinal": 104,
+        "address": 730274,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_keyword_check",
+        "ordinal": 105,
+        "address": 717001,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_keyword_count",
+        "ordinal": 106,
+        "address": 716986,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_keyword_name",
+        "ordinal": 107,
+        "address": 716873,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_last_insert_rowid",
+        "ordinal": 108,
+        "address": 726936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_libversion",
+        "ordinal": 109,
+        "address": 722907,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_libversion_number",
+        "ordinal": 110,
+        "address": 722924,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_limit",
+        "ordinal": 111,
+        "address": 735209,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_load_extension",
+        "ordinal": 112,
+        "address": 491239,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_log",
+        "ordinal": 113,
+        "address": 37615,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_malloc",
+        "ordinal": 114,
+        "address": 23329,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_malloc64",
+        "ordinal": 115,
+        "address": 23392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_memory_alarm",
+        "ordinal": 116,
+        "address": 22237,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_memory_highwater",
+        "ordinal": 117,
+        "address": 22855,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_memory_used",
+        "ordinal": 118,
+        "address": 22803,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_mprintf",
+        "ordinal": 119,
+        "address": 37161,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_msize",
+        "ordinal": 120,
+        "address": 23635,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_mutex_alloc",
+        "ordinal": 121,
+        "address": 21066,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_mutex_enter",
+        "ordinal": 122,
+        "address": 21236,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_mutex_free",
+        "ordinal": 123,
+        "address": 21193,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_mutex_leave",
+        "ordinal": 124,
+        "address": 21333,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_mutex_try",
+        "ordinal": 125,
+        "address": 21279,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_next_stmt",
+        "ordinal": 126,
+        "address": 250814,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_open",
+        "ordinal": 127,
+        "address": 739135,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_open16",
+        "ordinal": 128,
+        "address": 739252,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_open_v2",
+        "ordinal": 129,
+        "address": 739189,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_os_end",
+        "ordinal": 130,
+        "address": 73388,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_os_init",
+        "ordinal": 131,
+        "address": 73241,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_overload_function",
+        "ordinal": 132,
+        "address": 732126,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_prepare",
+        "ordinal": 133,
+        "address": 518860,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_prepare16",
+        "ordinal": 134,
+        "address": 519570,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_prepare16_v2",
+        "ordinal": 135,
+        "address": 519656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_prepare16_v3",
+        "ordinal": 136,
+        "address": 519742,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_prepare_v2",
+        "ordinal": 137,
+        "address": 518955,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_prepare_v3",
+        "ordinal": 138,
+        "address": 519050,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_profile",
+        "ordinal": 139,
+        "address": 732635,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_progress_handler",
+        "ordinal": 140,
+        "address": 730011,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_randomness",
+        "ordinal": 141,
+        "address": 37757,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_realloc",
+        "ordinal": 142,
+        "address": 24496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_realloc64",
+        "ordinal": 143,
+        "address": 24567,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_release_memory",
+        "ordinal": 144,
+        "address": 22202,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_reset",
+        "ordinal": 145,
+        "address": 240651,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_reset_auto_extension",
+        "ordinal": 146,
+        "address": 492053,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_blob",
+        "ordinal": 147,
+        "address": 242258,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_blob64",
+        "ordinal": 148,
+        "address": 242330,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_double",
+        "ordinal": 149,
+        "address": 242438,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_error",
+        "ordinal": 150,
+        "address": 242490,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_error16",
+        "ordinal": 151,
+        "address": 242572,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_error_code",
+        "ordinal": 152,
+        "address": 243544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_error_nomem",
+        "ordinal": 153,
+        "address": 243740,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_error_toobig",
+        "ordinal": 154,
+        "address": 243663,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_int",
+        "ordinal": 155,
+        "address": 242654,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_int64",
+        "ordinal": 156,
+        "address": 242701,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_null",
+        "ordinal": 157,
+        "address": 242747,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_pointer",
+        "ordinal": 158,
+        "address": 242785,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_subtype",
+        "ordinal": 159,
+        "address": 242883,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_text",
+        "ordinal": 160,
+        "address": 242954,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_text16",
+        "ordinal": 161,
+        "address": 243149,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_text16be",
+        "ordinal": 162,
+        "address": 243221,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_text16le",
+        "ordinal": 163,
+        "address": 243293,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_text64",
+        "ordinal": 164,
+        "address": 243026,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_value",
+        "ordinal": 165,
+        "address": 243365,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_zeroblob",
+        "ordinal": 166,
+        "address": 243411,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_result_zeroblob64",
+        "ordinal": 167,
+        "address": 243455,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_rollback_hook",
+        "ordinal": 168,
+        "address": 733024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_rtree_geometry_callback",
+        "ordinal": 169,
+        "address": 926369,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_rtree_query_callback",
+        "ordinal": 170,
+        "address": 926557,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_set_authorizer",
+        "ordinal": 171,
+        "address": 395841,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_set_auxdata",
+        "ordinal": 172,
+        "address": 245660,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_set_last_insert_rowid",
+        "ordinal": 173,
+        "address": 726958,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_shutdown",
+        "ordinal": 174,
+        "address": 723461,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_sleep",
+        "ordinal": 175,
+        "address": 741270,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_snprintf",
+        "ordinal": 176,
+        "address": 37366,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_soft_heap_limit",
+        "ordinal": 177,
+        "address": 22481,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_soft_heap_limit64",
+        "ordinal": 178,
+        "address": 22264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_sourceid",
+        "ordinal": 179,
+        "address": 1078158,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_sql",
+        "ordinal": 180,
+        "address": 251118,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_status",
+        "ordinal": 181,
+        "address": 5703,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_status64",
+        "ordinal": 182,
+        "address": 5453,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_step",
+        "ordinal": 183,
+        "address": 244713,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_stmt_busy",
+        "ordinal": 184,
+        "address": 250740,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_stmt_isexplain",
+        "ordinal": 185,
+        "address": 250692,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_stmt_readonly",
+        "ordinal": 186,
+        "address": 250647,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_stmt_status",
+        "ordinal": 187,
+        "address": 250909,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_append",
+        "ordinal": 188,
+        "address": 35804,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_appendall",
+        "ordinal": 189,
+        "address": 35955,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_appendchar",
+        "ordinal": 190,
+        "address": 35550,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_appendf",
+        "ordinal": 191,
+        "address": 37691,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_errcode",
+        "ordinal": 192,
+        "address": 36346,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_finish",
+        "ordinal": 193,
+        "address": 36268,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_length",
+        "ordinal": 194,
+        "address": 36385,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_new",
+        "ordinal": 195,
+        "address": 36705,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_reset",
+        "ordinal": 196,
+        "address": 36490,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_value",
+        "ordinal": 197,
+        "address": 36420,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_str_vappendf",
+        "ordinal": 198,
+        "address": 27039,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_strglob",
+        "ordinal": 199,
+        "address": 450552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_stricmp",
+        "ordinal": 200,
+        "address": 43723,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_strlike",
+        "ordinal": 201,
+        "address": 450607,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_strnicmp",
+        "ordinal": 202,
+        "address": 43940,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_system_errno",
+        "ordinal": 203,
+        "address": 734640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_table_column_metadata",
+        "ordinal": 204,
+        "address": 740425,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_temp_directory",
+        "ordinal": 205,
+        "address": 1265696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_test_control",
+        "ordinal": 206,
+        "address": 741774,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_thread_cleanup",
+        "ordinal": 207,
+        "address": 740414,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_threadsafe",
+        "ordinal": 208,
+        "address": 722939,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_total_changes",
+        "ordinal": 209,
+        "address": 727050,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_trace",
+        "ordinal": 210,
+        "address": 732358,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_trace_v2",
+        "ordinal": 211,
+        "address": 732495,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_transfer_bindings",
+        "ordinal": 212,
+        "address": 250452,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_update_hook",
+        "ordinal": 213,
+        "address": 732913,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_uri_boolean",
+        "ordinal": 214,
+        "address": 742902,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_uri_int64",
+        "ordinal": 215,
+        "address": 742998,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_uri_parameter",
+        "ordinal": 216,
+        "address": 742752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_user_data",
+        "ordinal": 217,
+        "address": 245117,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_blob",
+        "ordinal": 218,
+        "address": 241048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_bytes",
+        "ordinal": 219,
+        "address": 241197,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_bytes16",
+        "ordinal": 220,
+        "address": 241233,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_double",
+        "ordinal": 221,
+        "address": 241269,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_dup",
+        "ordinal": 222,
+        "address": 241812,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_free",
+        "ordinal": 223,
+        "address": 242060,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_frombind",
+        "ordinal": 224,
+        "address": 241776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_int",
+        "ordinal": 225,
+        "address": 241310,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_int64",
+        "ordinal": 226,
+        "address": 241341,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_nochange",
+        "ordinal": 227,
+        "address": 241735,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_numeric_type",
+        "ordinal": 228,
+        "address": 253688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_pointer",
+        "ordinal": 229,
+        "address": 241433,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_subtype",
+        "ordinal": 230,
+        "address": 241372,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_text",
+        "ordinal": 231,
+        "address": 241547,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_text16",
+        "ordinal": 232,
+        "address": 241583,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_text16be",
+        "ordinal": 233,
+        "address": 241619,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_text16le",
+        "ordinal": 234,
+        "address": 241655,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_value_type",
+        "ordinal": 235,
+        "address": 241691,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_version",
+        "ordinal": 236,
+        "address": 1108464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_vfs_find",
+        "ordinal": 237,
+        "address": 19657,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_vfs_register",
+        "ordinal": 238,
+        "address": 19973,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_vfs_unregister",
+        "ordinal": 239,
+        "address": 20152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_vmprintf",
+        "ordinal": 240,
+        "address": 37032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_vsnprintf",
+        "ordinal": 241,
+        "address": 37243,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_vtab_collation",
+        "ordinal": 242,
+        "address": 653236,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_vtab_config",
+        "ordinal": 243,
+        "address": 601913,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_vtab_nochange",
+        "ordinal": 244,
+        "address": 245168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_vtab_on_conflict",
+        "ordinal": 245,
+        "address": 601869,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_wal_autocheckpoint",
+        "ordinal": 246,
+        "address": 733209,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_wal_checkpoint",
+        "ordinal": 247,
+        "address": 733726,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_wal_checkpoint_v2",
+        "ordinal": 248,
+        "address": 733402,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_wal_hook",
+        "ordinal": 249,
+        "address": 733291,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_is_nt",
+        "ordinal": 250,
+        "address": 54166,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_mbcs_to_utf8",
+        "ordinal": 251,
+        "address": 55532,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_mbcs_to_utf8_v2",
+        "ordinal": 252,
+        "address": 55590,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_set_directory",
+        "ordinal": 253,
+        "address": 56067,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_set_directory16",
+        "ordinal": 254,
+        "address": 55957,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_set_directory8",
+        "ordinal": 255,
+        "address": 55758,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_sleep",
+        "ordinal": 256,
+        "address": 54070,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_unicode_to_utf8",
+        "ordinal": 257,
+        "address": 55485,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_utf8_to_mbcs",
+        "ordinal": 258,
+        "address": 55645,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_utf8_to_mbcs_v2",
+        "ordinal": 259,
+        "address": 55703,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_utf8_to_unicode",
+        "ordinal": 260,
+        "address": 55438,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "sqlite3_win32_write_debug",
+        "ordinal": 261,
+        "address": 53877,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 0,
+    "node_count": 0,
+    "nodes": null,
+    "total_size": 0,
+    "max_entropy": null
+  },
+  "digital_signature": {
+    "signature_present": 1,
+    "verification_flag": "OK",
+    "signature_count": 1,
+    "certificates": [
+      {
+        "version": 3,
+        "subject": "C=DE, ST=Nordrhein-Westfalen, L=Erkrath, O=g10 Code GmbH, CN=g10 Code GmbH, emailAddress=code@g10code.com",
+        "issuer": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R45 CodeSigning CA 2020",
+        "serial_number": "271df934504f8e383b33bce5",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2025-6-5",
+        "valid_to": "2028-6-5",
+        "is_ca": 0,
+        "key_usage": [
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign GCC R45 CodeSigning CA 2020",
+        "issuer": "C=BE, O=GlobalSign nv-sa, CN=GlobalSign Code Signing Root R45",
+        "serial_number": "77bd0e03a1b708f854ab067210d90447",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2020-7-28",
+        "valid_to": "2030-7-28",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN",
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      }
+    ]
+  },
+  "rich_header": {
+    "has_rich_header": 0,
+    "key": null,
+    "entries": null,
+    "raw_hex": null,
+    "raw_offset": null,
+    "raw_size": null,
+    "entry_count": null
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 1269760,
+      "size": 8190,
+      "section": ".edata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 1277952,
+      "size": 3724,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 1183744,
+      "size": 38580,
+      "section": ".pdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 1273760,
+      "size": 12328,
+      "section": ".edata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 1290240,
+      "size": 3132,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 1180672,
+      "size": 40,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 1278828,
+      "size": 816,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 0,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": null
+  },
+  "entrypoint_bytes": {
+    "offset": 1872,
+    "hex": "488b05e9f21100c70000000000e99efeffff66662e0f1f8400000000000f1f004889ca488d0d863c1300e9616f100090488d0d09000000e9e4ffffff0f1f4000",
+    "entropy": 4.153468
+  },
+  "load_config": {
+    "present": 0,
+    "security_cookie": null,
+    "se_handler_count": null,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 1,
+    "callback_count": 2,
+    "callbacks": [
+      1716024480,
+      1716024432
+    ],
+    "addressof_callbacks": 1716228144,
+    "addressof_index": 1716213196,
+    "addressof_raw_data_start": 1716232192,
+    "addressof_raw_data_end": 1716232200,
+    "raw_data_size": 8,
+    "sizeof_zero_fill": 0,
+    "characteristics": 0,
+    "section": ".rdata",
+    "data_template_hex": "0000000000000000",
+    "data_template_entropy": -0.0
+  },
+  "exception_dir": {
+    "rva": 1183744,
+    "size": 38580,
+    "runtime_function_count": 3215
+  },
+  "section_layout_qc": {
+    "gaps": 8,
+    "overlaps": 0,
+    "zero_raw_size": 1,
+    "raw_exceeds_virtual": 10,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 3030
+  },
+  "optional_header": {
+    "magic": "PE32_PLUS",
+    "major_linker_version": 2,
+    "minor_linker_version": 35,
+    "sizeof_code": 1079296,
+    "sizeof_initialized_data": 1268736,
+    "sizeof_uninitialized_data": 2048,
+    "addressof_entrypoint": 4944,
+    "baseof_code": 4096,
+    "baseof_data": null,
+    "imagebase": 1714946048,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 4,
+    "minor_operating_system_version": 0,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 5,
+    "minor_subsystem_version": 2,
+    "win32_version_value": 0,
+    "sizeof_image": 1294336,
+    "sizeof_headers": 1024,
+    "checksum": 1339390,
+    "subsystem": "WINDOWS_CUI",
+    "dll_characteristics_raw": 0,
+    "dll_characteristics": [],
+    "sizeof_stack_reserve": 2097152,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 64,
+    "entropy": 4.794355,
+    "is_standard_ms": 1,
+    "sha256": "7764e7022dcac1b5779d1f96fc05af5c1fee394aaff8a3a7e9a881e1a1b163a3",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a2400000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 1339390,
+    "checksum_computed": 1339390,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 4944,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 5.680051
+  },
+  "overlay": {
+    "size": 16328,
+    "offset": 1269760,
+    "entropy": 7.222274,
+    "magic_head": "00000000040000000c06000008000000",
+    "sha256": "c62e5a51dd4e9b3f2c499df502bb21fa5d5fad0d8baf6084cbcb5a0792e6a543"
+  },
+  "debug": {
+    "has_debug": 0,
+    "count": 0,
+    "types": [],
+    "pdb_path": null
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 20,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 0
+  },
+  "version_info": {
+    "present": null,
+    "company_name": null,
+    "file_description": null,
+    "original_filename": null,
+    "product_name": null,
+    "file_version": null,
+    "legal_copyright": null,
+    "internal_name": null
+  },
+  "strings": {
+    "count_ascii": 5078,
+    "count_utf16": 198,
+    "count_total": 5276,
+    "chars_total": 59288,
+    "printable_ratio": 0.046099,
+    "len_mean": 11.24,
+    "len_max": 628,
+    "urls": [
+      "http://crl.globalsign.com/root-r6.crl0G",
+      "http://crl.globalsign.com/timestamprootr45.crl0",
+      "http://ocsp.globalsign.com/codesigningrootr450F",
+      "http://ocsp.globalsign.com/timestamprootr450D",
+      "http://ocsp2.globalsign.com/rootr60;",
+      "http://secure.globalsign.com/cacert/codesigningrootr45.crt0A",
+      "http://secure.globalsign.com/cacert/gsgccr45codesignca2020.crt0=",
+      "http://secure.globalsign.com/cacert/root-r6.crt06",
+      "https://gnupg.org0/",
+      "https://www.globalsign.com/repository/0"
+    ],
+    "n_urls": 10,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "kernel32.dll",
+      "libsqlite3-0.dll",
+      "msvcrt.dll"
+    ],
+    "n_dll_names": 3,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [],
+    "n_file_paths": 0
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "libsqlite3-0.dll"
+    ],
+    "n_orphans": 1,
+    "n_imported": 2
+  }
+}

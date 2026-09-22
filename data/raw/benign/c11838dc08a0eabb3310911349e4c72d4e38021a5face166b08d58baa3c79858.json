@@ -1,0 +1,4636 @@
+{
+  "sha256": "c11838dc08a0eabb3310911349e4c72d4e38021a5face166b08d58baa3c79858",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 102400,
+    "md5": "29cf38a9e70db8a2f154b6199727f29e",
+    "sha1": "02ea638d20181348184fa612470c80a5cb8d6c25",
+    "imphash": "8f00c2745136040c2379cd809b01ab86",
+    "tlsh": "T1C5A32A42760B44F3F8B709B6D19BBFBF0A32DB0598108B68DF54EC5DE5B7600A62D609",
+    "ssdeep": "3072:bk5PNFWFOTbCSt/OptUTyMSZSgIPVMxClOrQ/:baFvLTyMvgKaxClOr",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.33154,
+    "byte_histogram_256": [
+      0.17570312,
+      0.01418945,
+      0.00392578,
+      0.00216797,
+      0.01988281,
+      0.00130859,
+      0.00148438,
+      0.0009668,
+      0.01172852,
+      0.00106445,
+      0.00102539,
+      0.00084961,
+      0.00823242,
+      0.00080078,
+      0.00165039,
+      0.00697266,
+      0.00638672,
+      0.00058594,
+      0.00040039,
+      0.00058594,
+      0.00447266,
+      0.00046875,
+      0.00071289,
+      0.00047852,
+      0.00292969,
+      0.00071289,
+      0.0005957,
+      0.00046875,
+      0.00514648,
+      0.00027344,
+      0.00040039,
+      0.00068359,
+      0.00594727,
+      0.00029297,
+      0.00039063,
+      0.00032227,
+      0.03943359,
+      0.00283203,
+      0.00290039,
+      0.0021875,
+      0.00211914,
+      0.00109375,
+      0.00039063,
+      0.00025391,
+      0.00142578,
+      0.00149414,
+      0.00151367,
+      0.00101563,
+      0.00479492,
+      0.01395508,
+      0.0012207,
+      0.00079102,
+      0.00311523,
+      0.00060547,
+      0.00077148,
+      0.00060547,
+      0.00169922,
+      0.00228516,
+      0.00099609,
+      0.00172852,
+      0.00319336,
+      0.00174805,
+      0.00148438,
+      0.00108398,
+      0.00374023,
+      0.00136719,
+      0.00167969,
+      0.00426758,
+      0.01194336,
+      0.01260742,
+      0.00291992,
+      0.00136719,
+      0.00206055,
+      0.00100586,
+      0.00069336,
+      0.00068359,
+      0.00520508,
+      0.00266602,
+      0.00128906,
+      0.00048828,
+      0.0037207,
+      0.00061523,
+      0.00102539,
+      0.00367187,
+      0.00597656,
+      0.0084668,
+      0.00298828,
+      0.00206055,
+      0.00134766,
+      0.00083008,
+      0.00087891,
+      0.00323242,
+      0.00263672,
+      0.00807617,
+      0.00251953,
+      0.01181641,
+      0.00166992,
+      0.00907227,
+      0.0037793,
+      0.00599609,
+      0.00664062,
+      0.01438477,
+      0.00293945,
+      0.00250977,
+      0.00202148,
+      0.01045898,
+      0.01026367,
+      0.00084961,
+      0.01179688,
+      0.00477539,
+      0.00526367,
+      0.00614258,
+      0.00443359,
+      0.00063477,
+      0.00606445,
+      0.00570312,
+      0.01761719,
+      0.00967773,
+      0.00642578,
+      0.00126953,
+      0.00148438,
+      0.00227539,
+      0.00055664,
+      0.00063477,
+      0.0021875,
+      0.0028418,
+      0.00185547,
+      0.00079102,
+      0.00207031,
+      0.00091797,
+      0.00056641,
+      0.01282227,
+      0.00387695,
+      0.00963867,
+      0.00060547,
+      0.00046875,
+      0.00134766,
+      0.0494043,
+      0.0012207,
+      0.03000977,
+      0.00079102,
+      0.01237305,
+      0.0009082,
+      0.00049805,
+      0.01339844,
+      0.00037109,
+      0.00045898,
+      0.00033203,
+      0.00085938,
+      0.00054688,
+      0.00020508,
+      0.00029297,
+      0.0003125,
+      0.00024414,
+      0.00027344,
+      0.00024414,
+      0.00052734,
+      0.00019531,
+      0.00045898,
+      0.00027344,
+      0.00244141,
+      0.00054688,
+      0.00044922,
+      0.00083008,
+      0.00113281,
+      0.0006543,
+      0.00060547,
+      0.00047852,
+      0.00084961,
+      0.00051758,
+      0.00055664,
+      0.00045898,
+      0.00078125,
+      0.00049805,
+      0.00074219,
+      0.00061523,
+      0.00083984,
+      0.0003125,
+      0.00045898,
+      0.00025391,
+      0.00163086,
+      0.0003125,
+      0.00204102,
+      0.00047852,
+      0.00380859,
+      0.00219727,
+      0.00277344,
+      0.00060547,
+      0.00241211,
+      0.00048828,
+      0.00119141,
+      0.00126953,
+      0.00847656,
+      0.00182617,
+      0.0015918,
+      0.00603516,
+      0.00428711,
+      0.00083984,
+      0.00195312,
+      0.0077832,
+      0.00168945,
+      0.00300781,
+      0.00043945,
+      0.00054688,
+      0.00135742,
+      0.00025391,
+      0.00036133,
+      0.00053711,
+      0.00233398,
+      0.00061523,
+      0.0028418,
+      0.00097656,
+      0.00204102,
+      0.0002832,
+      0.00057617,
+      0.00054688,
+      0.00275391,
+      0.00145508,
+      0.00071289,
+      0.00242187,
+      0.00163086,
+      0.00145508,
+      0.00056641,
+      0.00064453,
+      0.00282227,
+      0.00040039,
+      0.00058594,
+      0.00035156,
+      0.00306641,
+      0.00385742,
+      0.00042969,
+      0.00058594,
+      0.01805664,
+      0.00416992,
+      0.00057617,
+      0.00325195,
+      0.0062793,
+      0.00047852,
+      0.00054688,
+      0.00044922,
+      0.00292969,
+      0.0005957,
+      0.00089844,
+      0.00077148,
+      0.00239258,
+      0.00049805,
+      0.00277344,
+      0.00085938,
+      0.00364258,
+      0.00092773,
+      0.00104492,
+      0.00080078,
+      0.00286133,
+      0.00136719,
+      0.00192383,
+      0.0294043
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00142045,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00510969,
+      0.02483329,
+      0.0090406,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00756096,
+      8.385e-05,
+      0.00021701,
+      0.00037484,
+      0.0002762,
+      0.00139086,
+      0.00672743,
+      0.00290996,
+      1.973e-05,
+      0.0,
+      0.00059186,
+      1.48e-05,
+      9.86e-06,
+      0.0,
+      1.973e-05,
+      4.93e-06,
+      0.01179273,
+      9.86e-06,
+      0.00079407,
+      9.371e-05,
+      0.00073489,
+      0.00143525,
+      0.0112354,
+      0.00420711,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.01776555,
+      0.00011837,
+      0.00393584,
+      0.00061158,
+      0.00103082,
+      0.00092724,
+      0.01693202,
+      0.00819227,
+      1.973e-05,
+      1.48e-05,
+      0.00079407,
+      1.48e-05,
+      4.932e-05,
+      3.946e-05,
+      2.959e-05,
+      2.959e-05,
+      0.01294192,
+      0.00028113,
+      0.00023181,
+      0.0026091,
+      0.00063131,
+      0.00135634,
+      0.006032,
+      0.00290503,
+      0.00024661,
+      0.00020222,
+      0.00156842,
+      0.00025154,
+      0.00029593,
+      0.00026634,
+      0.0002614,
+      0.00022195,
+      0.01878157,
+      0.00092724,
+      0.00161774,
+      0.00160788,
+      0.00184955,
+      0.0020567,
+      0.00980508,
+      0.0053563,
+      0.00163747,
+      0.0005524,
+      0.00244634,
+      0.00045869,
+      0.00094697,
+      0.00074475,
+      0.00080394,
+      0.00091244,
+      0.01254735,
+      0.00088778,
+      0.00102588,
+      0.00798512,
+      0.0012133,
+      0.00157828,
+      0.00483842,
+      0.00290503,
+      0.00201231,
+      0.00109,
+      0.00075462,
+      0.00076941,
+      0.0006905,
+      0.00075955,
+      0.00074475,
+      0.00060172,
+      0.00734395,
+      0.0004143,
+      0.00139086,
+      0.00140566,
+      0.00078914,
+      0.00055733,
+      0.00299874,
+      0.00121824,
+      0.00061652,
+      0.00074968,
+      0.00044882,
+      0.00017756,
+      0.00046855,
+      0.00042416,
+      0.0002614,
+      0.00093711,
+      0.09391276,
+      0.01170395,
+      0.02935113,
+      0.01169902,
+      0.02823647,
+      0.02358053,
+      0.00756589,
+      0.01487532,
+      0.06944444,
+      0.00585938,
+      0.00222932,
+      0.01053011,
+      0.02195293,
+      0.00993332,
+      0.02502565,
+      0.02803918,
+      0.0592152,
+      0.0105597,
+      0.02388139,
+      0.01250296,
+      0.01900844,
+      0.02146958,
+      0.00705788,
+      0.01262133,
+      0.05259628,
+      0.00780757,
+      0.00232797,
+      0.00870522,
+      0.01617247,
+      0.00924282,
+      0.01826369,
+      0.02159781,
+      0.00232304,
+      0.00047842,
+      0.00163747,
+      0.00148457,
+      0.00064611,
+      0.0009667,
+      0.00122317,
+      0.00072996,
+      0.00218,
+      0.00290503,
+      0.00109,
+      0.00033539,
+      0.00074968,
+      0.00063625,
+      0.00094204,
+      0.00187421
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 73588,
+      "raw_size": 73728,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.258147,
+      "characteristics": 1615855712,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".data",
+      "virtual_size": 32,
+      "raw_size": 512,
+      "virtual_address": 77824,
+      "pointerto_raw_data": 74752,
+      "entropy": 2.8125,
+      "characteristics": 3224371264,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 8096,
+      "raw_size": 8192,
+      "virtual_address": 81920,
+      "pointerto_raw_data": 75264,
+      "entropy": 4.928813,
+      "characteristics": 1080033344,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".bss",
+      "virtual_size": 2624,
+      "raw_size": 0,
+      "virtual_address": 90112,
+      "pointerto_raw_data": 0,
+      "entropy": 0.0,
+      "characteristics": 3225419904,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".edata",
+      "virtual_size": 9253,
+      "raw_size": 9728,
+      "virtual_address": 94208,
+      "pointerto_raw_data": 83456,
+      "entropy": 5.04534,
+      "characteristics": 1076887616,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".idata",
+      "virtual_size": 4628,
+      "raw_size": 5120,
+      "virtual_address": 106496,
+      "pointerto_raw_data": 93184,
+      "entropy": 5.106231,
+      "characteristics": 3224371264,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 936,
+      "raw_size": 1024,
+      "virtual_address": 114688,
+      "pointerto_raw_data": 98304,
+      "entropy": 3.355465,
+      "characteristics": 3224371264,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 2072,
+      "raw_size": 2560,
+      "virtual_address": 118784,
+      "pointerto_raw_data": 99328,
+      "entropy": 6.534152,
+      "characteristics": 1110442048,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".gnu_deb",
+      "virtual_size": 20,
+      "raw_size": 512,
+      "virtual_address": 122880,
+      "pointerto_raw_data": 101888,
+      "entropy": 3.521928,
+      "characteristics": 1110441984,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 128,
+    "e_lfanew_raw": 128,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000080000000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 9,
+    "time_date_stamp": 1329261477,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8462,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LINE_NUMS_STRIPPED",
+      "LOCAL_SYMS_STRIPPED",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "libvlccore.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 107224,
+      "import_lookup_table_rva": 106596,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VLC_Compiler",
+          "hint": 24,
+          "iat_address": 107224,
+          "iat_value": 107852,
+          "data": 107852
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "aout_IsMuted",
+          "hint": 36,
+          "iat_address": 107228,
+          "iat_value": 107868,
+          "data": 107868
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "aout_SetMute",
+          "hint": 43,
+          "iat_address": 107232,
+          "iat_value": 107884,
+          "data": 107884
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "aout_ToggleMute",
+          "hint": 45,
+          "iat_address": 107236,
+          "iat_value": 107900,
+          "data": 107900
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "aout_VolumeGet",
+          "hint": 46,
+          "iat_address": 107240,
+          "iat_value": 107920,
+          "data": 107920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "aout_VolumeSet",
+          "hint": 50,
+          "iat_address": 107244,
+          "iat_value": 107940,
+          "data": 107940
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "config_FindConfig",
+          "hint": 75,
+          "iat_address": 107248,
+          "iat_value": 107960,
+          "data": 107960
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "config_GetUserDir",
+          "hint": 83,
+          "iat_address": 107252,
+          "iat_value": 107980,
+          "data": 107980
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_Close",
+          "hint": 190,
+          "iat_address": 107256,
+          "iat_value": 108000,
+          "data": 108000
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_Control",
+          "hint": 191,
+          "iat_address": 107260,
+          "iat_value": 108016,
+          "data": 108016
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_Create",
+          "hint": 192,
+          "iat_address": 107264,
+          "iat_value": 108032,
+          "data": 108032
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_Read",
+          "hint": 199,
+          "iat_address": 107268,
+          "iat_value": 108048,
+          "data": 108048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_Start",
+          "hint": 200,
+          "iat_address": 107272,
+          "iat_value": 108064,
+          "data": 108064
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_Stop",
+          "hint": 201,
+          "iat_address": 107276,
+          "iat_value": 108080,
+          "data": 108080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_item_AddOption",
+          "hint": 203,
+          "iat_address": 107280,
+          "iat_value": 108096,
+          "data": 108096
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_item_GetDuration",
+          "hint": 207,
+          "iat_address": 107284,
+          "iat_value": 108120,
+          "data": 108120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_item_GetMeta",
+          "hint": 209,
+          "iat_address": 107288,
+          "iat_value": 108148,
+          "data": 108148
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_item_GetURI",
+          "hint": 212,
+          "iat_address": 107292,
+          "iat_value": 108172,
+          "data": 108172
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_item_IsPreparsed",
+          "hint": 215,
+          "iat_address": 107296,
+          "iat_value": 108192,
+          "data": 108192
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_item_NewExt",
+          "hint": 218,
+          "iat_address": 107300,
+          "iat_value": 108220,
+          "data": 108220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_item_SetMeta",
+          "hint": 223,
+          "iat_address": 107304,
+          "iat_value": 108240,
+          "data": 108240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_item_WriteMeta",
+          "hint": 226,
+          "iat_address": 107308,
+          "iat_value": 108264,
+          "data": 108264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_resource_New",
+          "hint": 232,
+          "iat_address": 107312,
+          "iat_value": 108288,
+          "data": 108288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_resource_Release",
+          "hint": 233,
+          "iat_address": 107316,
+          "iat_value": 108312,
+          "data": 108312
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "input_resource_Terminate",
+          "hint": 234,
+          "iat_address": 107320,
+          "iat_value": 108340,
+          "data": 108340
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "libvlc_InternalAddIntf",
+          "hint": 238,
+          "iat_address": 107324,
+          "iat_value": 108368,
+          "data": 108368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "libvlc_InternalCleanup",
+          "hint": 239,
+          "iat_address": 107328,
+          "iat_value": 108396,
+          "data": 108396
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "libvlc_InternalCreate",
+          "hint": 240,
+          "iat_address": 107332,
+          "iat_value": 108424,
+          "data": 108424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "libvlc_InternalDestroy",
+          "hint": 241,
+          "iat_address": 107336,
+          "iat_value": 108448,
+          "data": 108448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "libvlc_InternalInit",
+          "hint": 242,
+          "iat_address": 107340,
+          "iat_value": 108476,
+          "data": 108476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "libvlc_InternalWait",
+          "hint": 243,
+          "iat_address": 107344,
+          "iat_value": 108500,
+          "data": 108500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "libvlc_SetExitHandler",
+          "hint": 245,
+          "iat_address": 107348,
+          "iat_value": 108524,
+          "data": 108524
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "make_URI",
+          "hint": 246,
+          "iat_address": 107352,
+          "iat_value": 108548,
+          "data": 108548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "mdate",
+          "hint": 248,
+          "iat_address": 107356,
+          "iat_value": 108560,
+          "data": 108560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "module_exists",
+          "hint": 261,
+          "iat_address": 107360,
+          "iat_value": 108568,
+          "data": 108568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "module_get_help",
+          "hint": 264,
+          "iat_address": 107364,
+          "iat_value": 108584,
+          "data": 108584
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "module_get_name",
+          "hint": 265,
+          "iat_address": 107368,
+          "iat_value": 108604,
+          "data": 108604
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "module_get_object",
+          "hint": 266,
+          "iat_address": 107372,
+          "iat_value": 108624,
+          "data": 108624
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "module_list_free",
+          "hint": 269,
+          "iat_address": 107376,
+          "iat_value": 108644,
+          "data": 108644
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "module_list_get",
+          "hint": 270,
+          "iat_address": 107380,
+          "iat_value": 108664,
+          "data": 108664
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "module_provides",
+          "hint": 272,
+          "iat_address": 107384,
+          "iat_value": 108684,
+          "data": 108684
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "playlist_AskForArtEnqueue",
+          "hint": 335,
+          "iat_address": 107388,
+          "iat_value": 108704,
+          "data": 108704
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "playlist_Control",
+          "hint": 339,
+          "iat_address": 107392,
+          "iat_value": 108732,
+          "data": 108732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "playlist_PreparseEnqueue",
+          "hint": 359,
+          "iat_address": 107396,
+          "iat_value": 108752,
+          "data": 108752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "services_discovery_EventManager",
+          "hint": 373,
+          "iat_address": 107400,
+          "iat_value": 108780,
+          "data": 108780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "services_discovery_GetLocalizedName",
+          "hint": 374,
+          "iat_address": 107404,
+          "iat_value": 108816,
+          "data": 108816
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_AddCallback",
+          "hint": 450,
+          "iat_address": 107408,
+          "iat_value": 108856,
+          "data": 108856
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_Change",
+          "hint": 451,
+          "iat_address": 107412,
+          "iat_value": 108876,
+          "data": 108876
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_Create",
+          "hint": 453,
+          "iat_address": 107416,
+          "iat_value": 108892,
+          "data": 108892
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_DelCallback",
+          "hint": 454,
+          "iat_address": 107420,
+          "iat_value": 108908,
+          "data": 108908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_FreeList",
+          "hint": 456,
+          "iat_address": 107424,
+          "iat_value": 108928,
+          "data": 108928
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_Get",
+          "hint": 457,
+          "iat_address": 107428,
+          "iat_value": 108944,
+          "data": 108944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_GetAndSet",
+          "hint": 458,
+          "iat_address": 107432,
+          "iat_value": 108956,
+          "data": 108956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_GetChecked",
+          "hint": 459,
+          "iat_address": 107436,
+          "iat_value": 108972,
+          "data": 108972
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_Set",
+          "hint": 463,
+          "iat_address": 107440,
+          "iat_value": 108992,
+          "data": 108992
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_SetChecked",
+          "hint": 464,
+          "iat_address": 107444,
+          "iat_value": 109004,
+          "data": 109004
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_TriggerCallback",
+          "hint": 465,
+          "iat_address": 107448,
+          "iat_value": 109024,
+          "data": 109024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "var_Type",
+          "hint": 466,
+          "iat_address": 107452,
+          "iat_value": 109048,
+          "data": 109048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_cancel",
+          "hint": 492,
+          "iat_address": 107456,
+          "iat_value": 109060,
+          "data": 109060
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_clone",
+          "hint": 493,
+          "iat_address": 107460,
+          "iat_value": 109076,
+          "data": 109076
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_cond_broadcast",
+          "hint": 494,
+          "iat_address": 107464,
+          "iat_value": 109088,
+          "data": 109088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_cond_destroy",
+          "hint": 495,
+          "iat_address": 107468,
+          "iat_value": 109112,
+          "data": 109112
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_cond_init",
+          "hint": 496,
+          "iat_address": 107472,
+          "iat_value": 109132,
+          "data": 109132
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_cond_signal",
+          "hint": 498,
+          "iat_address": 107476,
+          "iat_value": 109148,
+          "data": 109148
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_cond_wait",
+          "hint": 500,
+          "iat_address": 107480,
+          "iat_value": 109168,
+          "data": 109168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_control_cancel",
+          "hint": 501,
+          "iat_address": 107484,
+          "iat_value": 109184,
+          "data": 109184
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_event_attach",
+          "hint": 512,
+          "iat_address": 107488,
+          "iat_value": 109208,
+          "data": 109208
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_event_detach",
+          "hint": 513,
+          "iat_address": 107492,
+          "iat_value": 109228,
+          "data": 109228
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_gettext",
+          "hint": 533,
+          "iat_address": 107496,
+          "iat_value": 109248,
+          "data": 109248
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_hold",
+          "hint": 537,
+          "iat_address": 107500,
+          "iat_value": 109264,
+          "data": 109264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_join",
+          "hint": 543,
+          "iat_address": 107504,
+          "iat_value": 109276,
+          "data": 109276
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_mutex_destroy",
+          "hint": 568,
+          "iat_address": 107508,
+          "iat_value": 109288,
+          "data": 109288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_mutex_init",
+          "hint": 569,
+          "iat_address": 107512,
+          "iat_value": 109308,
+          "data": 109308
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_mutex_init_recursive",
+          "hint": 570,
+          "iat_address": 107516,
+          "iat_value": 109328,
+          "data": 109328
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_mutex_lock",
+          "hint": 571,
+          "iat_address": 107520,
+          "iat_value": 109356,
+          "data": 109356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_mutex_unlock",
+          "hint": 573,
+          "iat_address": 107524,
+          "iat_value": 109376,
+          "data": 109376
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_object_create",
+          "hint": 574,
+          "iat_address": 107528,
+          "iat_value": 109396,
+          "data": 109396
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_object_find_name",
+          "hint": 575,
+          "iat_address": 107532,
+          "iat_value": 109416,
+          "data": 109416
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_object_hold",
+          "hint": 577,
+          "iat_address": 107536,
+          "iat_value": 109440,
+          "data": 109440
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_object_release",
+          "hint": 579,
+          "iat_address": 107540,
+          "iat_value": 109460,
+          "data": 109460
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_release",
+          "hint": 587,
+          "iat_address": 107544,
+          "iat_value": 109484,
+          "data": 109484
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_sd_Create",
+          "hint": 598,
+          "iat_address": 107548,
+          "iat_value": 109500,
+          "data": 109500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_sd_Destroy",
+          "hint": 599,
+          "iat_address": 107552,
+          "iat_value": 109516,
+          "data": 109516
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_sd_Start",
+          "hint": 601,
+          "iat_address": 107556,
+          "iat_value": 109536,
+          "data": 109536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_sd_Stop",
+          "hint": 602,
+          "iat_address": 107560,
+          "iat_value": 109552,
+          "data": 109552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_threadvar_create",
+          "hint": 614,
+          "iat_address": 107564,
+          "iat_value": 109568,
+          "data": 109568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_threadvar_delete",
+          "hint": 615,
+          "iat_address": 107568,
+          "iat_value": 109592,
+          "data": 109592
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_threadvar_get",
+          "hint": 616,
+          "iat_address": 107572,
+          "iat_value": 109616,
+          "data": 109616
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlc_threadvar_set",
+          "hint": 617,
+          "iat_address": 107576,
+          "iat_value": 109636,
+          "data": 109636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlm_Control",
+          "hint": 627,
+          "iat_address": 107580,
+          "iat_value": 109656,
+          "data": 109656
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlm_Delete",
+          "hint": 628,
+          "iat_address": 107584,
+          "iat_value": 109672,
+          "data": 109672
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlm_ExecuteCommand",
+          "hint": 629,
+          "iat_address": 107588,
+          "iat_value": 109688,
+          "data": 109688
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vlm_New",
+          "hint": 634,
+          "iat_address": 107592,
+          "iat_value": 109712,
+          "data": 109712
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "vout_EnableFilter",
+          "hint": 638,
+          "iat_address": 107596,
+          "iat_value": 109724,
+          "data": 109724
+        }
+      ],
+      "function_count": 94
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 107608,
+      "import_lookup_table_rva": 106980,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 107,
+          "iat_address": 107608,
+          "iat_value": 109744,
+          "data": 109744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 126,
+          "iat_address": 107612,
+          "iat_value": 109768,
+          "data": 109768
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileAttributesA",
+          "hint": 308,
+          "iat_address": 107616,
+          "iat_value": 109792,
+          "data": 109792
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 325,
+          "iat_address": 107620,
+          "iat_value": 109814,
+          "data": 109814
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleA",
+          "hint": 337,
+          "iat_address": 107624,
+          "iat_value": 109830,
+          "data": 109830
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 364,
+          "iat_address": 107628,
+          "iat_value": 109850,
+          "data": 109850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSection",
+          "hint": 492,
+          "iat_address": 107632,
+          "iat_value": 109868,
+          "data": 109868
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedExchange",
+          "hint": 497,
+          "iat_address": 107636,
+          "iat_value": 109896,
+          "data": 109896
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDBCSLeadByteEx",
+          "hint": 512,
+          "iat_address": 107640,
+          "iat_value": 109918,
+          "data": 109918
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 523,
+          "iat_address": 107644,
+          "iat_value": 109938,
+          "data": 109938
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MultiByteToWideChar",
+          "hint": 560,
+          "iat_address": 107648,
+          "iat_value": 109962,
+          "data": 109962
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 751,
+          "iat_address": 107652,
+          "iat_value": 109984,
+          "data": 109984
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 814,
+          "iat_address": 107656,
+          "iat_value": 109992,
+          "data": 109992
+        }
+      ],
+      "function_count": 13
+    },
+    {
+      "name": "msvcrt.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 107668,
+      "import_lookup_table_rva": 107040,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_close",
+          "hint": 6,
+          "iat_address": 107668,
+          "iat_value": 110014,
+          "data": 110014
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_fstat",
+          "hint": 32,
+          "iat_address": 107672,
+          "iat_value": 110024,
+          "data": 110024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_putenv",
+          "hint": 62,
+          "iat_address": 107676,
+          "iat_value": 110034,
+          "data": 110034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_strdup",
+          "hint": 80,
+          "iat_address": 107680,
+          "iat_value": 110044,
+          "data": 110044
+        }
+      ],
+      "function_count": 4
+    },
+    {
+      "name": "msvcrt.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 107692,
+      "import_lookup_table_rva": 107064,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__dllonexit",
+          "hint": 52,
+          "iat_address": 107692,
+          "iat_value": 110054,
+          "data": 110054
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__lc_codepage",
+          "hint": 61,
+          "iat_address": 107696,
+          "iat_value": 110068,
+          "data": 110068
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__mb_cur_max",
+          "hint": 65,
+          "iat_address": 107700,
+          "iat_value": 110084,
+          "data": 110084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_assert",
+          "hint": 137,
+          "iat_address": 107704,
+          "iat_value": 110100,
+          "data": 110100
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_commit",
+          "hint": 158,
+          "iat_address": 107708,
+          "iat_value": 110110,
+          "data": 110110
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_errno",
+          "hint": 182,
+          "iat_address": 107712,
+          "iat_value": 110120,
+          "data": 110120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_filbuf",
+          "hint": 200,
+          "iat_address": 107716,
+          "iat_value": 110130,
+          "data": 110130
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_findclose",
+          "hint": 205,
+          "iat_address": 107720,
+          "iat_value": 110140,
+          "data": 110140
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_findfirst",
+          "hint": 206,
+          "iat_address": 107724,
+          "iat_value": 110154,
+          "data": 110154
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_findnext",
+          "hint": 209,
+          "iat_address": 107728,
+          "iat_value": 110168,
+          "data": 110168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_flsbuf",
+          "hint": 213,
+          "iat_address": 107732,
+          "iat_value": 110180,
+          "data": 110180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_fullpath",
+          "hint": 228,
+          "iat_address": 107736,
+          "iat_value": 110190,
+          "data": 110190
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_iob",
+          "hint": 266,
+          "iat_address": 107740,
+          "iat_value": 110202,
+          "data": 110202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "abort",
+          "hint": 583,
+          "iat_address": 107744,
+          "iat_value": 110210,
+          "data": 110210
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "bsearch",
+          "hint": 594,
+          "iat_address": 107748,
+          "iat_value": 110218,
+          "data": 110218
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "calloc",
+          "hint": 595,
+          "iat_address": 107752,
+          "iat_value": 110228,
+          "data": 110228
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fflush",
+          "hint": 610,
+          "iat_address": 107756,
+          "iat_value": 110238,
+          "data": 110238
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fgetc",
+          "hint": 611,
+          "iat_address": 107760,
+          "iat_value": 110248,
+          "data": 110248
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fputc",
+          "hint": 620,
+          "iat_address": 107764,
+          "iat_value": 110256,
+          "data": 110256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 625,
+          "iat_address": 107768,
+          "iat_value": 110264,
+          "data": 110264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "getenv",
+          "hint": 637,
+          "iat_address": 107772,
+          "iat_value": 110272,
+          "data": 110272
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "gmtime",
+          "hint": 641,
+          "iat_address": 107776,
+          "iat_value": 110282,
+          "data": 110282
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "localeconv",
+          "hint": 671,
+          "iat_address": 107780,
+          "iat_value": 110292,
+          "data": 110292
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "localtime",
+          "hint": 672,
+          "iat_address": 107784,
+          "iat_value": 110306,
+          "data": 110306
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 676,
+          "iat_address": 107788,
+          "iat_value": 110318,
+          "data": 110318
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memchr",
+          "hint": 680,
+          "iat_address": 107792,
+          "iat_value": 110328,
+          "data": 110328
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memmove",
+          "hint": 683,
+          "iat_address": 107796,
+          "iat_value": 110338,
+          "data": 110338
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 684,
+          "iat_address": 107800,
+          "iat_value": 110348,
+          "data": 110348
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "realloc",
+          "hint": 698,
+          "iat_address": 107804,
+          "iat_value": 110358,
+          "data": 110358
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sscanf",
+          "hint": 712,
+          "iat_address": 107808,
+          "iat_value": 110368,
+          "data": 110368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strchr",
+          "hint": 714,
+          "iat_address": 107812,
+          "iat_value": 110378,
+          "data": 110378
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcmp",
+          "hint": 715,
+          "iat_address": 107816,
+          "iat_value": 110388,
+          "data": 110388
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcpy",
+          "hint": 717,
+          "iat_address": 107820,
+          "iat_value": 110398,
+          "data": 110398
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strlen",
+          "hint": 721,
+          "iat_address": 107824,
+          "iat_value": 110408,
+          "data": 110408
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strpbrk",
+          "hint": 725,
+          "iat_address": 107828,
+          "iat_value": 110418,
+          "data": 110418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strrchr",
+          "hint": 726,
+          "iat_address": 107832,
+          "iat_value": 110428,
+          "data": 110428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strspn",
+          "hint": 727,
+          "iat_address": 107836,
+          "iat_value": 110438,
+          "data": 110438
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "toupper",
+          "hint": 743,
+          "iat_address": 107840,
+          "iat_value": 110448,
+          "data": 110448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wcslen",
+          "hint": 761,
+          "iat_address": 107844,
+          "iat_value": 110458,
+          "data": 110458
+        }
+      ],
+      "function_count": 39
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "libvlc.dll",
+    "export_flags": 0,
+    "timestamp": 1329261446,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 246,
+    "entries": [
+      {
+        "name": "libvlc_add_intf",
+        "ordinal": 1,
+        "address": 5424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_filter_list_get",
+        "ordinal": 2,
+        "address": 5152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_get_channel",
+        "ordinal": 3,
+        "address": 22672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_get_delay",
+        "ordinal": 4,
+        "address": 22272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_get_mute",
+        "ordinal": 5,
+        "address": 23808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_get_track",
+        "ordinal": 6,
+        "address": 23328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_get_track_count",
+        "ordinal": 7,
+        "address": 23008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_get_track_description",
+        "ordinal": 8,
+        "address": 23584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_get_volume",
+        "ordinal": 9,
+        "address": 23712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_output_device_count",
+        "ordinal": 10,
+        "address": 24624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_output_device_id",
+        "ordinal": 11,
+        "address": 24112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_output_device_longname",
+        "ordinal": 12,
+        "address": 24368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_output_device_set",
+        "ordinal": 13,
+        "address": 23872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_output_get_device_type",
+        "ordinal": 14,
+        "address": 22896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_output_list_get",
+        "ordinal": 15,
+        "address": 24944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_output_list_release",
+        "ordinal": 16,
+        "address": 24048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_output_set",
+        "ordinal": 17,
+        "address": 24816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_output_set_device_type",
+        "ordinal": 18,
+        "address": 22768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_set_callbacks",
+        "ordinal": 19,
+        "address": 38480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_set_channel",
+        "ordinal": 20,
+        "address": 22544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_set_delay",
+        "ordinal": 21,
+        "address": 22160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_set_format",
+        "ordinal": 22,
+        "address": 36832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_set_format_callbacks",
+        "ordinal": 23,
+        "address": 38320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_set_mute",
+        "ordinal": 24,
+        "address": 23760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_set_track",
+        "ordinal": 25,
+        "address": 23120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_set_volume",
+        "ordinal": 26,
+        "address": 23616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_set_volume_callback",
+        "ordinal": 27,
+        "address": 38416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_audio_toggle_mute",
+        "ordinal": 28,
+        "address": 23840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_clearerr",
+        "ordinal": 29,
+        "address": 6288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_clock",
+        "ordinal": 30,
+        "address": 4592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_errmsg",
+        "ordinal": 31,
+        "address": 6320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_event_attach",
+        "ordinal": 32,
+        "address": 27520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_event_detach",
+        "ordinal": 33,
+        "address": 25328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_event_manager_new",
+        "ordinal": 34,
+        "address": 26736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_event_manager_register_event_type",
+        "ordinal": 35,
+        "address": 26496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_event_manager_release",
+        "ordinal": 36,
+        "address": 26848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_event_type_name",
+        "ordinal": 37,
+        "address": 25840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_free",
+        "ordinal": 38,
+        "address": 5184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_get_changeset",
+        "ordinal": 39,
+        "address": 4576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_get_compiler",
+        "ordinal": 40,
+        "address": 5200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_get_fullscreen",
+        "ordinal": 41,
+        "address": 15200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_get_input_thread",
+        "ordinal": 42,
+        "address": 34192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_get_log_verbosity",
+        "ordinal": 43,
+        "address": 6560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_get_version",
+        "ordinal": 44,
+        "address": 4560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_log_clear",
+        "ordinal": 45,
+        "address": 6608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_log_close",
+        "ordinal": 46,
+        "address": 6672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_log_count",
+        "ordinal": 47,
+        "address": 6592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_log_get_iterator",
+        "ordinal": 48,
+        "address": 6688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_log_iterator_free",
+        "ordinal": 49,
+        "address": 6656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_log_iterator_has_next",
+        "ordinal": 50,
+        "address": 6624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_log_iterator_next",
+        "ordinal": 51,
+        "address": 6640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_log_open",
+        "ordinal": 52,
+        "address": 6736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_add_option",
+        "ordinal": 53,
+        "address": 31008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_add_option_flag",
+        "ordinal": 54,
+        "address": 30976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_discoverer_event_manager",
+        "ordinal": 55,
+        "address": 50576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_discoverer_is_running",
+        "ordinal": 56,
+        "address": 50592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_discoverer_localized_name",
+        "ordinal": 57,
+        "address": 50640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_discoverer_media_list",
+        "ordinal": 58,
+        "address": 50608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_discoverer_new_from_name",
+        "ordinal": 59,
+        "address": 50896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_discoverer_release",
+        "ordinal": 60,
+        "address": 51376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_duplicate",
+        "ordinal": 61,
+        "address": 31504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_event_manager",
+        "ordinal": 62,
+        "address": 28864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_get_duration",
+        "ordinal": 63,
+        "address": 29856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_get_meta",
+        "ordinal": 64,
+        "address": 30432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_get_mrl",
+        "ordinal": 65,
+        "address": 30528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_get_state",
+        "ordinal": 66,
+        "address": 28912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_get_stats",
+        "ordinal": 67,
+        "address": 29408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_get_tracks_info",
+        "ordinal": 68,
+        "address": 29008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_get_user_data",
+        "ordinal": 69,
+        "address": 28752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_is_parsed",
+        "ordinal": 70,
+        "address": 29344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_library_load",
+        "ordinal": 71,
+        "address": 50224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_library_media_list",
+        "ordinal": 72,
+        "address": 50176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_library_new",
+        "ordinal": 73,
+        "address": 50464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_library_release",
+        "ordinal": 74,
+        "address": 50400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_library_retain",
+        "ordinal": 75,
+        "address": 50160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_add_file_content",
+        "ordinal": 76,
+        "address": 43808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_add_media",
+        "ordinal": 77,
+        "address": 43728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_count",
+        "ordinal": 78,
+        "address": 42704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_event_manager",
+        "ordinal": 79,
+        "address": 42736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_index_of_item",
+        "ordinal": 80,
+        "address": 42832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_insert_media",
+        "ordinal": 81,
+        "address": 44640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_is_readonly",
+        "ordinal": 82,
+        "address": 42720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_item_at_index",
+        "ordinal": 83,
+        "address": 42912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_lock",
+        "ordinal": 84,
+        "address": 42768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_media",
+        "ordinal": 85,
+        "address": 42992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_new",
+        "ordinal": 86,
+        "address": 44176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_event_manager",
+        "ordinal": 87,
+        "address": 44736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_get_state",
+        "ordinal": 88,
+        "address": 45504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_is_playing",
+        "ordinal": 89,
+        "address": 45552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_new",
+        "ordinal": 90,
+        "address": 45664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_next",
+        "ordinal": 91,
+        "address": 49568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_pause",
+        "ordinal": 92,
+        "address": 49952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_play",
+        "ordinal": 93,
+        "address": 50048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_play_item",
+        "ordinal": 94,
+        "address": 46624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_play_item_at_index",
+        "ordinal": 95,
+        "address": 46832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_previous",
+        "ordinal": 96,
+        "address": 49408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_release",
+        "ordinal": 97,
+        "address": 49664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_retain",
+        "ordinal": 98,
+        "address": 47440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_set_media_list",
+        "ordinal": 99,
+        "address": 47120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_set_media_player",
+        "ordinal": 100,
+        "address": 47312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_set_playback_mode",
+        "ordinal": 101,
+        "address": 46544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_player_stop",
+        "ordinal": 102,
+        "address": 46992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_release",
+        "ordinal": 103,
+        "address": 44000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_remove_index",
+        "ordinal": 104,
+        "address": 43376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_retain",
+        "ordinal": 105,
+        "address": 42784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_set_media",
+        "ordinal": 106,
+        "address": 43056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_list_unlock",
+        "ordinal": 107,
+        "address": 42752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_new_as_node",
+        "ordinal": 108,
+        "address": 31680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_new_fd",
+        "ordinal": 109,
+        "address": 31936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_new_from_input_item",
+        "ordinal": 110,
+        "address": 31056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_new_location",
+        "ordinal": 111,
+        "address": 31808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_new_path",
+        "ordinal": 112,
+        "address": 32000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_parse",
+        "ordinal": 113,
+        "address": 29728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_parse_async",
+        "ordinal": 114,
+        "address": 29648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_can_pause",
+        "ordinal": 115,
+        "address": 34384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_event_manager",
+        "ordinal": 116,
+        "address": 32096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_agl",
+        "ordinal": 117,
+        "address": 32448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_chapter",
+        "ordinal": 118,
+        "address": 37664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_chapter_count",
+        "ordinal": 119,
+        "address": 35888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_chapter_count_for_title",
+        "ordinal": 120,
+        "address": 35744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_fps",
+        "ordinal": 121,
+        "address": 35296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_hwnd",
+        "ordinal": 122,
+        "address": 36608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_length",
+        "ordinal": 123,
+        "address": 38160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_media",
+        "ordinal": 124,
+        "address": 32864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_nsobject",
+        "ordinal": 125,
+        "address": 32496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_position",
+        "ordinal": 126,
+        "address": 36704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_rate",
+        "ordinal": 127,
+        "address": 36464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_state",
+        "ordinal": 128,
+        "address": 32208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_time",
+        "ordinal": 129,
+        "address": 38000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_title",
+        "ordinal": 130,
+        "address": 37568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_title_count",
+        "ordinal": 131,
+        "address": 35648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_get_xwindow",
+        "ordinal": 132,
+        "address": 36544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_has_vout",
+        "ordinal": 133,
+        "address": 16160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_is_playing",
+        "ordinal": 134,
+        "address": 32272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_is_seekable",
+        "ordinal": 135,
+        "address": 34944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_navigate",
+        "ordinal": 136,
+        "address": 34800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_new",
+        "ordinal": 137,
+        "address": 38800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_new_from_media",
+        "ordinal": 138,
+        "address": 41248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_next_chapter",
+        "ordinal": 139,
+        "address": 35536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_next_frame",
+        "ordinal": 140,
+        "address": 34304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_pause",
+        "ordinal": 141,
+        "address": 36400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_play",
+        "ordinal": 142,
+        "address": 33424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_previous_chapter",
+        "ordinal": 143,
+        "address": 35424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_release",
+        "ordinal": 144,
+        "address": 33936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_retain",
+        "ordinal": 145,
+        "address": 32592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_agl",
+        "ordinal": 146,
+        "address": 32112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_chapter",
+        "ordinal": 147,
+        "address": 37888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_hwnd",
+        "ordinal": 148,
+        "address": 37168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_media",
+        "ordinal": 149,
+        "address": 33216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_nsobject",
+        "ordinal": 150,
+        "address": 32544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_pause",
+        "ordinal": 151,
+        "address": 36208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_position",
+        "ordinal": 152,
+        "address": 35984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_rate",
+        "ordinal": 153,
+        "address": 35056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_time",
+        "ordinal": 154,
+        "address": 36080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_title",
+        "ordinal": 155,
+        "address": 37760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_set_xwindow",
+        "ordinal": 156,
+        "address": 37328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_stop",
+        "ordinal": 157,
+        "address": 33072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_player_will_play",
+        "ordinal": 158,
+        "address": 35232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_release",
+        "ordinal": 159,
+        "address": 30592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_retain",
+        "ordinal": 160,
+        "address": 28960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_save_meta",
+        "ordinal": 161,
+        "address": 30272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_set_meta",
+        "ordinal": 162,
+        "address": 30352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_set_state",
+        "ordinal": 163,
+        "address": 30064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_set_user_data",
+        "ordinal": 164,
+        "address": 28800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_media_subitems",
+        "ordinal": 165,
+        "address": 30016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_module_description_list_release",
+        "ordinal": 166,
+        "address": 4608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_new",
+        "ordinal": 167,
+        "address": 5792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_playlist_play",
+        "ordinal": 168,
+        "address": 6768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_printerr",
+        "ordinal": 169,
+        "address": 6256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_release",
+        "ordinal": 170,
+        "address": 5632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_retain",
+        "ordinal": 171,
+        "address": 5520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_set_exit_handler",
+        "ordinal": 172,
+        "address": 5392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_set_fullscreen",
+        "ordinal": 173,
+        "address": 18336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_set_log_verbosity",
+        "ordinal": 174,
+        "address": 6576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_set_user_agent",
+        "ordinal": 175,
+        "address": 5216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_toggle_fullscreen",
+        "ordinal": 176,
+        "address": 17840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_toggle_teletext",
+        "ordinal": 177,
+        "address": 20464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_track_description_list_release",
+        "ordinal": 178,
+        "address": 32128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_track_description_release",
+        "ordinal": 179,
+        "address": 32192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_filter_list_get",
+        "ordinal": 180,
+        "address": 5120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_adjust_float",
+        "ordinal": 181,
+        "address": 14752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_adjust_int",
+        "ordinal": 182,
+        "address": 15984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_aspect_ratio",
+        "ordinal": 183,
+        "address": 15264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_chapter_description",
+        "ordinal": 184,
+        "address": 17360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_crop_geometry",
+        "ordinal": 185,
+        "address": 21280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_cursor",
+        "ordinal": 186,
+        "address": 17424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_height",
+        "ordinal": 187,
+        "address": 17776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_logo_int",
+        "ordinal": 188,
+        "address": 16032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_marquee_int",
+        "ordinal": 189,
+        "address": 16112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_marquee_string",
+        "ordinal": 190,
+        "address": 14944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_scale",
+        "ordinal": 191,
+        "address": 15072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_size",
+        "ordinal": 192,
+        "address": 17552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_spu",
+        "ordinal": 193,
+        "address": 16928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_spu_count",
+        "ordinal": 194,
+        "address": 18752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_spu_delay",
+        "ordinal": 195,
+        "address": 15344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_spu_description",
+        "ordinal": 196,
+        "address": 17280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_teletext",
+        "ordinal": 197,
+        "address": 14880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_title_description",
+        "ordinal": 198,
+        "address": 17248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_track",
+        "ordinal": 199,
+        "address": 16672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_track_count",
+        "ordinal": 200,
+        "address": 18640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_track_description",
+        "ordinal": 201,
+        "address": 17216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_get_width",
+        "ordinal": 202,
+        "address": 17712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_adjust_float",
+        "ordinal": 203,
+        "address": 16336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_adjust_int",
+        "ordinal": 204,
+        "address": 21936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_aspect_ratio",
+        "ordinal": 205,
+        "address": 19136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_callbacks",
+        "ordinal": 206,
+        "address": 41392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_crop_geometry",
+        "ordinal": 207,
+        "address": 18864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_deinterlace",
+        "ordinal": 208,
+        "address": 19936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_format",
+        "ordinal": 209,
+        "address": 36976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_format_callbacks",
+        "ordinal": 210,
+        "address": 41296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_key_input",
+        "ordinal": 211,
+        "address": 18576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_logo_int",
+        "ordinal": 212,
+        "address": 22000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_logo_string",
+        "ordinal": 213,
+        "address": 19776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_marquee_int",
+        "ordinal": 214,
+        "address": 22096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_marquee_string",
+        "ordinal": 215,
+        "address": 19872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_mouse_input",
+        "ordinal": 216,
+        "address": 18512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_scale",
+        "ordinal": 217,
+        "address": 18016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_spu",
+        "ordinal": 218,
+        "address": 20784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_spu_delay",
+        "ordinal": 219,
+        "address": 16544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_subtitle_file",
+        "ordinal": 220,
+        "address": 16240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_teletext",
+        "ordinal": 221,
+        "address": 21360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_set_track",
+        "ordinal": 222,
+        "address": 20992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_video_take_snapshot",
+        "ordinal": 223,
+        "address": 19328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_add_broadcast",
+        "ordinal": 224,
+        "address": 12976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_add_input",
+        "ordinal": 225,
+        "address": 11984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_add_vod",
+        "ordinal": 226,
+        "address": 13664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_change_media",
+        "ordinal": 227,
+        "address": 12368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_del_media",
+        "ordinal": 228,
+        "address": 8112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_get_event_manager",
+        "ordinal": 229,
+        "address": 7280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_get_media_instance_length",
+        "ordinal": 230,
+        "address": 10496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_get_media_instance_position",
+        "ordinal": 231,
+        "address": 10336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_get_media_instance_rate",
+        "ordinal": 232,
+        "address": 10416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_get_media_instance_time",
+        "ordinal": 233,
+        "address": 10576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_pause_media",
+        "ordinal": 234,
+        "address": 7488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_play_media",
+        "ordinal": 235,
+        "address": 7808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_release",
+        "ordinal": 236,
+        "address": 8416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_seek_media",
+        "ordinal": 237,
+        "address": 7312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_set_enabled",
+        "ordinal": 238,
+        "address": 11680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_set_input",
+        "ordinal": 239,
+        "address": 10656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_set_loop",
+        "ordinal": 240,
+        "address": 11376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_set_mux",
+        "ordinal": 241,
+        "address": 11024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_set_output",
+        "ordinal": 242,
+        "address": 14336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_show_media",
+        "ordinal": 243,
+        "address": 9616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vlm_stop_media",
+        "ordinal": 244,
+        "address": 7648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_vprinterr",
+        "ordinal": 245,
+        "address": 6144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "libvlc_wait",
+        "ordinal": 246,
+        "address": 5360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 1,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 98392,
+        "size": 848,
+        "entropy": 3.346976,
+        "sha256": "19639acbb8107a91b3fad4b0df31d94f6764105bb8f17e0cdcdaee4046c66b12",
+        "magic_head": "5003340000005600"
+      }
+    ],
+    "total_size": 848,
+    "max_entropy": 3.346976
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 0,
+    "key": null,
+    "entries": null,
+    "raw_hex": null,
+    "raw_offset": null,
+    "raw_size": null,
+    "entry_count": null
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 94208,
+      "size": 9253,
+      "section": ".edata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 106496,
+      "size": 4628,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 114688,
+      "size": 936,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 118784,
+      "size": 2072,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 0,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": null
+  },
+  "entrypoint_bytes": {
+    "offset": 1216,
+    "hex": "5589e556538b5d0c83fb017433508b451050538b750856e8b4ce000085db89c659750ea10060316a85c07464e85fffffff8d65f889f05b5e5dc20c008d742600",
+    "entropy": 5.240169
+  },
+  "load_config": {
+    "present": 0,
+    "security_cookie": null,
+    "se_handler_count": null,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 6,
+    "overlaps": 0,
+    "zero_raw_size": 1,
+    "raw_exceeds_virtual": 8,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 2751
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 2,
+    "minor_linker_version": 56,
+    "sizeof_code": 73728,
+    "sizeof_initialized_data": 100864,
+    "sizeof_uninitialized_data": 3072,
+    "addressof_entrypoint": 4288,
+    "baseof_code": 4096,
+    "baseof_data": 77824,
+    "imagebase": 1781530624,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 4,
+    "minor_operating_system_version": 0,
+    "major_image_version": 1,
+    "minor_image_version": 0,
+    "major_subsystem_version": 4,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 126976,
+    "sizeof_headers": 1024,
+    "checksum": 161885,
+    "subsystem": "WINDOWS_CUI",
+    "dll_characteristics_raw": 320,
+    "dll_characteristics": [
+      "DYNAMIC_BASE",
+      "NX_COMPAT"
+    ],
+    "sizeof_stack_reserve": 2097152,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 64,
+    "entropy": 4.794355,
+    "is_standard_ms": 1,
+    "sha256": "7764e7022dcac1b5779d1f96fc05af5c1fee394aaff8a3a7e9a881e1a1b163a3",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a2400000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 161885,
+    "checksum_computed": 161885,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 4288,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.258147
+  },
+  "overlay": {
+    "size": 0,
+    "offset": 0,
+    "entropy": null,
+    "magic_head": null,
+    "sha256": null
+  },
+  "debug": {
+    "has_debug": 0,
+    "count": 0,
+    "types": [],
+    "pdb_path": null
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 21,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 0
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "VideoLAN",
+    "file_description": "VLC media player 2.0.0",
+    "original_filename": null,
+    "product_name": "VLC media player",
+    "file_version": "2.0.0",
+    "legal_copyright": "Copyright \u00a9 1996-2012 VideoLAN and VLC Authors",
+    "internal_name": null
+  },
+  "strings": {
+    "count_ascii": 1414,
+    "count_utf16": 22,
+    "count_total": 1436,
+    "chars_total": 17295,
+    "printable_ratio": 0.168896,
+    "len_mean": 12.04,
+    "len_max": 111,
+    "urls": [],
+    "n_urls": 0,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "kernel32.dll",
+      "libgcj_s.dll",
+      "libvlc.dll",
+      "libvlccore.dll",
+      "msvcrt.dll"
+    ],
+    "n_dll_names": 5,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [],
+    "n_file_paths": 0
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "libgcj_s.dll",
+      "libvlc.dll"
+    ],
+    "n_orphans": 2,
+    "n_imported": 3
+  }
+}

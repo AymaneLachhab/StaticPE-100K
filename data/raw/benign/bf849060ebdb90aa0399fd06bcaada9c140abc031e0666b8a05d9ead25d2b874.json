@@ -1,0 +1,5333 @@
+{
+  "sha256": "bf849060ebdb90aa0399fd06bcaada9c140abc031e0666b8a05d9ead25d2b874",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 3813376,
+    "md5": "ea6ae2b8e9b808a1667d325513d2022c",
+    "sha1": "83043699cbc8c27284c8c09c2594d6d40d57e634",
+    "imphash": "c55971a6075dadbf000bbf37cda75c6a",
+    "tlsh": "T1B106E503E7FA0E13F5F74BF5D9F712151633BE129B3289CB12482928E4A22D09B75766",
+    "ssdeep": "49152:+PVFgh6nz45ku4FneTLIOMjWu0Fiunz4:+cULFneTLIOMj4FiQ",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 5.552094,
+    "byte_histogram_256": [
+      0.35373118,
+      0.02417884,
+      0.01427344,
+      0.01380876,
+      0.02089461,
+      0.00795594,
+      0.01401566,
+      0.00565457,
+      0.00792867,
+      0.00582869,
+      0.00734362,
+      0.00467486,
+      0.00443649,
+      0.00395922,
+      0.01952024,
+      0.00345809,
+      0.00908985,
+      0.00217262,
+      0.0021519,
+      0.00171449,
+      0.00297663,
+      0.00241623,
+      0.00134998,
+      0.00156843,
+      0.00309122,
+      0.00226335,
+      0.00150549,
+      0.00147927,
+      0.00177874,
+      0.00099308,
+      0.00141397,
+      0.00122883,
+      0.01359032,
+      0.00186029,
+      0.00200688,
+      0.00235828,
+      0.00774511,
+      0.00177953,
+      0.00083364,
+      0.0025109,
+      0.00283843,
+      0.00177926,
+      0.00166388,
+      0.00145331,
+      0.00177559,
+      0.00290818,
+      0.00159072,
+      0.00136126,
+      0.00786075,
+      0.00340014,
+      0.00313003,
+      0.00287672,
+      0.00288301,
+      0.0026192,
+      0.00137752,
+      0.00190278,
+      0.00396683,
+      0.00261579,
+      0.00257908,
+      0.0022505,
+      0.00134422,
+      0.0016783,
+      0.00168748,
+      0.00128259,
+      0.00439374,
+      0.00427259,
+      0.00338624,
+      0.00260557,
+      0.00506611,
+      0.00306789,
+      0.00261369,
+      0.00223424,
+      0.00322575,
+      0.00200347,
+      0.00150339,
+      0.00205854,
+      0.00409768,
+      0.00371587,
+      0.00263362,
+      0.00146511,
+      0.00402714,
+      0.00175094,
+      0.00273694,
+      0.00354096,
+      0.00311351,
+      0.00191143,
+      0.00254053,
+      0.00177323,
+      0.00122595,
+      0.00137332,
+      0.00116957,
+      0.00100541,
+      0.00106703,
+      0.00099282,
+      0.00151808,
+      0.00201659,
+      0.00075183,
+      0.01587255,
+      0.00303065,
+      0.00449523,
+      0.00515449,
+      0.01130101,
+      0.0017672,
+      0.00304874,
+      0.0035677,
+      0.0105657,
+      0.00200793,
+      0.00389104,
+      0.0059939,
+      0.00443596,
+      0.0090985,
+      0.00696863,
+      0.00261946,
+      0.00059921,
+      0.00914675,
+      0.00764703,
+      0.00828138,
+      0.00636759,
+      0.00196676,
+      0.00139955,
+      0.00128679,
+      0.00242121,
+      0.00128705,
+      0.00052159,
+      0.00112892,
+      0.00073767,
+      0.00083758,
+      0.00057954,
+      0.00406044,
+      0.0006687,
+      0.00066713,
+      0.00372242,
+      0.00140033,
+      0.00154299,
+      0.00053312,
+      0.00075865,
+      0.00119028,
+      0.00272436,
+      0.00096109,
+      0.008327,
+      0.00071511,
+      0.00299472,
+      0.00041538,
+      0.00037526,
+      0.00070095,
+      0.00040358,
+      0.00038155,
+      0.00052211,
+      0.00052395,
+      0.00050454,
+      0.00048985,
+      0.0003632,
+      0.00054624,
+      0.00042613,
+      0.00049248,
+      0.00044291,
+      0.00055253,
+      0.00072823,
+      0.00053627,
+      0.00034379,
+      0.00073268,
+      0.00072534,
+      0.0004618,
+      0.00059632,
+      0.00068732,
+      0.00035874,
+      0.00040332,
+      0.00031075,
+      0.00058321,
+      0.00044685,
+      0.01509397,
+      0.0003868,
+      0.00075288,
+      0.00038968,
+      0.00095349,
+      0.00058269,
+      0.00073557,
+      0.0006902,
+      0.00048881,
+      0.0004437,
+      0.00074081,
+      0.00041931,
+      0.00061651,
+      0.00080008,
+      0.00095716,
+      0.00072324,
+      0.000493,
+      0.00048199,
+      0.00061442,
+      0.00045367,
+      0.00057429,
+      0.00067053,
+      0.00198826,
+      0.00114597,
+      0.00112866,
+      0.00146327,
+      0.00215426,
+      0.00086354,
+      0.00144072,
+      0.00152306,
+      0.00101616,
+      0.00082971,
+      0.00049877,
+      0.00054388,
+      0.00766617,
+      0.00064169,
+      0.00101301,
+      0.00053181,
+      0.00106677,
+      0.00053889,
+      0.00077674,
+      0.00053863,
+      0.00062884,
+      0.0010791,
+      0.00055594,
+      0.00042902,
+      0.00076284,
+      0.00065637,
+      0.00050428,
+      0.00052788,
+      0.00080375,
+      0.00061494,
+      0.00049038,
+      0.00036608,
+      0.00081345,
+      0.00081922,
+      0.0012034,
+      0.00041328,
+      0.00067132,
+      0.00054991,
+      0.00089107,
+      0.00046153,
+      0.00324148,
+      0.00115593,
+      0.00055279,
+      0.00106913,
+      0.00099597,
+      0.00071511,
+      0.0004041,
+      0.00037893,
+      0.00090891,
+      0.00055463,
+      0.00039309,
+      0.00077202,
+      0.00064982,
+      0.00034877,
+      0.00074317,
+      0.00053417,
+      0.00114859,
+      0.00071852,
+      0.00075865,
+      0.00045393,
+      0.00129518,
+      0.00070961,
+      0.00089632,
+      0.00835061
+    ],
+    "byte_entropy_histogram_256": [
+      0.03564374,
+      6.348e-05,
+      2.6e-07,
+      3.9e-07,
+      1.05e-06,
+      3.9e-07,
+      6.6e-07,
+      3.9e-07,
+      1.3e-07,
+      3.9e-07,
+      3.9e-07,
+      9.2e-07,
+      6.6e-07,
+      2.23e-06,
+      4.2e-06,
+      4.59e-06,
+      0.01059792,
+      0.00030624,
+      4.276e-05,
+      1.823e-05,
+      0.00022663,
+      4.59e-06,
+      1.325e-05,
+      1.403e-05,
+      3.28e-06,
+      9.2e-07,
+      3.93e-06,
+      3.8e-06,
+      4.33e-06,
+      5.64e-06,
+      1.18e-05,
+      2.387e-05,
+      0.00813579,
+      0.00039792,
+      0.00014479,
+      2.282e-05,
+      4.499e-05,
+      5.25e-06,
+      7.227e-05,
+      2.557e-05,
+      3.869e-05,
+      1.154e-05,
+      5.25e-06,
+      8.302e-05,
+      6.03e-06,
+      1.469e-05,
+      6.085e-05,
+      6.295e-05,
+      0.00610004,
+      0.00047176,
+      0.00012079,
+      4.643e-05,
+      0.00014466,
+      1.508e-05,
+      8.381e-05,
+      4.053e-05,
+      8.315e-05,
+      1.377e-05,
+      1.679e-05,
+      2.387e-05,
+      1.902e-05,
+      1.954e-05,
+      1.325e-05,
+      3.974e-05,
+      0.00837764,
+      0.00083334,
+      0.00056737,
+      0.00034375,
+      0.00051779,
+      2.846e-05,
+      0.00011843,
+      0.00012197,
+      5.102e-05,
+      1.639e-05,
+      6.702e-05,
+      6.479e-05,
+      3.633e-05,
+      9.627e-05,
+      0.00024919,
+      6.007e-05,
+      0.00952417,
+      0.00049431,
+      0.0006214,
+      0.00060842,
+      0.00050704,
+      0.0001065,
+      0.0003448,
+      0.00027057,
+      0.00010728,
+      0.00031634,
+      0.00015358,
+      6.938e-05,
+      0.00019214,
+      0.00028263,
+      0.00025942,
+      0.00010925,
+      0.03430507,
+      0.00076173,
+      0.00230527,
+      0.00230671,
+      0.00197595,
+      0.00030663,
+      0.00789408,
+      0.00326518,
+      0.00022388,
+      0.00011017,
+      0.00160832,
+      7.987e-05,
+      0.0002185,
+      0.00052173,
+      0.00061852,
+      0.00044172,
+      0.11049727,
+      0.00350991,
+      0.00638844,
+      0.00786457,
+      0.00861096,
+      0.0028729,
+      0.02901883,
+      0.01192479,
+      0.00058179,
+      0.00069458,
+      0.00561792,
+      0.00084489,
+      0.00099033,
+      0.00072593,
+      0.00121172,
+      0.00150039,
+      0.12181102,
+      0.00605794,
+      0.00967251,
+      0.00739478,
+      0.01221477,
+      0.00634844,
+      0.02600088,
+      0.01167311,
+      0.00165042,
+      0.00114522,
+      0.00552284,
+      0.00159285,
+      0.00147717,
+      0.00140294,
+      0.00174013,
+      0.00159285,
+      0.07434885,
+      0.0082297,
+      0.0104168,
+      0.00744488,
+      0.00866814,
+      0.00425971,
+      0.01259196,
+      0.00646805,
+      0.00159219,
+      0.00133199,
+      0.0032417,
+      0.00140412,
+      0.0013552,
+      0.00140346,
+      0.00145789,
+      0.00163547,
+      0.03856242,
+      0.00367713,
+      0.00430364,
+      0.00403596,
+      0.00455532,
+      0.00328157,
+      0.00643146,
+      0.00370296,
+      0.00187837,
+      0.00127559,
+      0.00245059,
+      0.00147717,
+      0.00152321,
+      0.0014878,
+      0.00137933,
+      0.00109486,
+      0.01550185,
+      0.00271473,
+      0.00205319,
+      0.00681758,
+      0.00156819,
+      0.0015135,
+      0.00284916,
+      0.00174485,
+      0.00206395,
+      0.00097499,
+      0.00190775,
+      0.00142025,
+      0.00152819,
+      0.00128359,
+      0.00102693,
+      0.000962,
+      0.00775742,
+      0.00123782,
+      0.00239419,
+      0.00107912,
+      0.00092449,
+      0.00153016,
+      0.00188335,
+      0.00117277,
+      0.0012992,
+      0.00065393,
+      0.00096069,
+      0.00046966,
+      0.00083466,
+      0.00047477,
+      0.00045798,
+      0.00050664,
+      0.01884545,
+      0.00462418,
+      0.00499495,
+      0.00292693,
+      0.0044908,
+      0.006419,
+      0.00244954,
+      0.00370323,
+      0.01267328,
+      0.0007818,
+      0.00098797,
+      0.00144281,
+      0.00966739,
+      0.00136792,
+      0.00312681,
+      0.00583852,
+      0.01147179,
+      0.0037389,
+      0.00395556,
+      0.00246633,
+      0.00380526,
+      0.004996,
+      0.00208756,
+      0.00260325,
+      0.00874316,
+      0.00055478,
+      0.00084764,
+      0.00085433,
+      0.00653979,
+      0.00118339,
+      0.00264181,
+      0.0052886,
+      9.089e-05,
+      8.25e-05,
+      8.394e-05,
+      8.394e-05,
+      9.758e-05,
+      8.25e-05,
+      0.00012919,
+      0.00010663,
+      7.463e-05,
+      7.646e-05,
+      7.974e-05,
+      7.318e-05,
+      6.19e-05,
+      6.558e-05,
+      7.804e-05,
+      7.633e-05
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 541295,
+      "raw_size": 544768,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 4096,
+      "entropy": 6.550088,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 3170581,
+      "raw_size": 3174400,
+      "virtual_address": 548864,
+      "pointerto_raw_data": 548864,
+      "entropy": 5.159038,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 20304,
+      "raw_size": 16384,
+      "virtual_address": 3723264,
+      "pointerto_raw_data": 3723264,
+      "entropy": 4.438131,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 15640,
+      "raw_size": 16384,
+      "virtual_address": 3743744,
+      "pointerto_raw_data": 3739648,
+      "entropy": 3.702284,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 55160,
+      "raw_size": 57344,
+      "virtual_address": 3760128,
+      "pointerto_raw_data": 3756032,
+      "entropy": 4.943504,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 264,
+    "e_lfanew_raw": 264,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000008010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 5,
+    "time_date_stamp": 1214263603,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8450,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "AXE8SharedExpat.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 548876,
+      "import_lookup_table_rva": 3697472,
+      "functions": [
+        {
+          "is_ordinal": 1,
+          "ordinal": 2,
+          "name": null,
+          "hint": 0,
+          "iat_address": 548876,
+          "iat_value": 2147483650,
+          "data": 2147483650
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 3,
+          "name": null,
+          "hint": 0,
+          "iat_address": 548880,
+          "iat_value": 2147483651,
+          "data": 2147483651
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 1,
+          "name": null,
+          "hint": 0,
+          "iat_address": 548884,
+          "iat_value": 2147483649,
+          "data": 2147483649
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "BIB.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 548892,
+      "import_lookup_table_rva": 3697488,
+      "functions": [
+        {
+          "is_ordinal": 1,
+          "ordinal": 11,
+          "name": null,
+          "hint": 0,
+          "iat_address": 548892,
+          "iat_value": 2147483659,
+          "data": 2147483659
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 4,
+          "name": null,
+          "hint": 0,
+          "iat_address": 548896,
+          "iat_value": 2147483652,
+          "data": 2147483652
+        }
+      ],
+      "function_count": 2
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 548904,
+      "import_lookup_table_rva": 3697500,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindClose",
+          "hint": 206,
+          "iat_address": 548904,
+          "iat_value": 3698464,
+          "data": 3698464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindNextFileW",
+          "hint": 221,
+          "iat_address": 548908,
+          "iat_value": 3698476,
+          "data": 3698476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindFirstFileW",
+          "hint": 213,
+          "iat_address": 548912,
+          "iat_value": 3698492,
+          "data": 3698492
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 52,
+          "iat_address": 548916,
+          "iat_value": 3698510,
+          "data": 3698510
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObject",
+          "hint": 912,
+          "iat_address": 548920,
+          "iat_value": 3698524,
+          "data": 3698524
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateMutexW",
+          "hint": 97,
+          "iat_address": 548924,
+          "iat_value": 3698546,
+          "data": 3698546
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseMutex",
+          "hint": 706,
+          "iat_address": 548928,
+          "iat_value": 3698562,
+          "data": 3698562
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateThread",
+          "hint": 111,
+          "iat_address": 548932,
+          "iat_value": 3698578,
+          "data": 3698578
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateMailslotW",
+          "hint": 94,
+          "iat_address": 548936,
+          "iat_value": 3698594,
+          "data": 3698594
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReadFile",
+          "hint": 693,
+          "iat_address": 548940,
+          "iat_value": 3698612,
+          "data": 3698612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteFile",
+          "hint": 932,
+          "iat_address": 548944,
+          "iat_value": 3698624,
+          "data": 3698624
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 916,
+          "iat_address": 548948,
+          "iat_value": 3698406,
+          "data": 3698406
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 152,
+          "iat_address": 548952,
+          "iat_value": 3698650,
+          "data": 3698650
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 593,
+          "iat_address": 548956,
+          "iat_value": 3698674,
+          "data": 3698674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSection",
+          "hint": 547,
+          "iat_address": 548960,
+          "iat_value": 3698698,
+          "data": 3698698
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedDecrement",
+          "hint": 552,
+          "iat_address": 548964,
+          "iat_value": 3698750,
+          "data": 3698750
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 458,
+          "iat_address": 548968,
+          "iat_value": 3698774,
+          "data": 3698774
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetThreadLocale",
+          "hint": 474,
+          "iat_address": 548972,
+          "iat_value": 3698800,
+          "data": 3698800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MapViewOfFile",
+          "hint": 616,
+          "iat_address": 548976,
+          "iat_value": 3698818,
+          "data": 3698818
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileMappingA",
+          "hint": 84,
+          "iat_address": 548980,
+          "iat_value": 3698834,
+          "data": 3698834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileA",
+          "hint": 83,
+          "iat_address": 548984,
+          "iat_value": 3698856,
+          "data": 3698856
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnmapViewOfFile",
+          "hint": 881,
+          "iat_address": 548988,
+          "iat_value": 3698870,
+          "data": 3698870
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalFree",
+          "hint": 511,
+          "iat_address": 548992,
+          "iat_value": 3698888,
+          "data": 3698888
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalLock",
+          "hint": 515,
+          "iat_address": 548996,
+          "iat_value": 3698902,
+          "data": 3698902
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalAlloc",
+          "hint": 504,
+          "iat_address": 549000,
+          "iat_value": 3698916,
+          "data": 3698916
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalUnlock",
+          "hint": 522,
+          "iat_address": 549004,
+          "iat_value": 3698930,
+          "data": 3698930
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalHandle",
+          "hint": 514,
+          "iat_address": 549008,
+          "iat_value": 3698946,
+          "data": 3698946
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MultiByteToWideChar",
+          "hint": 629,
+          "iat_address": 549012,
+          "iat_value": 3698384,
+          "data": 3698384
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 369,
+          "iat_address": 549016,
+          "iat_value": 3698368,
+          "data": 3698368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTempPathW",
+          "hint": 470,
+          "iat_address": 549020,
+          "iat_value": 3698448,
+          "data": 3698448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedIncrement",
+          "hint": 556,
+          "iat_address": 549024,
+          "iat_value": 3698726,
+          "data": 3698726
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTempFileNameW",
+          "hint": 468,
+          "iat_address": 549028,
+          "iat_value": 3698428,
+          "data": 3698428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileW",
+          "hint": 86,
+          "iat_address": 549032,
+          "iat_value": 3698636,
+          "data": 3698636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 323,
+          "iat_address": 549036,
+          "iat_value": 3706710,
+          "data": 3706710
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 326,
+          "iat_address": 549040,
+          "iat_value": 3706688,
+          "data": 3706688
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTickCount",
+          "hint": 479,
+          "iat_address": 549044,
+          "iat_value": 3706672,
+          "data": 3706672
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 675,
+          "iat_address": 549048,
+          "iat_value": 3706646,
+          "data": 3706646
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DisableThreadLibraryCalls",
+          "hint": 139,
+          "iat_address": 549052,
+          "iat_value": 3706618,
+          "data": 3706618
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 569,
+          "iat_address": 549056,
+          "iat_value": 3706598,
+          "data": 3706598
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 842,
+          "iat_address": 549060,
+          "iat_value": 3706568,
+          "data": 3706568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 878,
+          "iat_address": 549064,
+          "iat_value": 3706540,
+          "data": 3706540
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 322,
+          "iat_address": 549068,
+          "iat_value": 3706520,
+          "data": 3706520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 862,
+          "iat_address": 549072,
+          "iat_value": 3706500,
+          "data": 3706500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedCompareExchange",
+          "hint": 550,
+          "iat_address": 549076,
+          "iat_value": 3706470,
+          "data": 3706470
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 854,
+          "iat_address": 549080,
+          "iat_value": 3706462,
+          "data": 3706462
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedExchange",
+          "hint": 553,
+          "iat_address": 549084,
+          "iat_value": 3706440,
+          "data": 3706440
+        }
+      ],
+      "function_count": 46
+    },
+    {
+      "name": "ADVAPI32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 548864,
+      "import_lookup_table_rva": 3697460,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetSecurityDescriptorDacl",
+          "hint": 570,
+          "iat_address": 548864,
+          "iat_value": 3698976,
+          "data": 3698976
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeSecurityDescriptor",
+          "hint": 308,
+          "iat_address": 548868,
+          "iat_value": 3699004,
+          "data": 3699004
+        }
+      ],
+      "function_count": 2
+    },
+    {
+      "name": "SHELL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 549700,
+      "import_lookup_table_rva": 3698296,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SHGetMalloc",
+          "hint": 183,
+          "iat_address": 549700,
+          "iat_value": 3699050,
+          "data": 3699050
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SHGetSpecialFolderLocation",
+          "hint": 195,
+          "iat_address": 549704,
+          "iat_value": 3699088,
+          "data": 3699088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SHGetPathFromIDListW",
+          "hint": 189,
+          "iat_address": 549708,
+          "iat_value": 3699064,
+          "data": 3699064
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "ole32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 549716,
+      "import_lookup_table_rva": 3698312,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoCreateInstance",
+          "hint": 16,
+          "iat_address": 549716,
+          "iat_value": 3699130,
+          "data": 3699130
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoTaskMemAlloc",
+          "hint": 100,
+          "iat_address": 549720,
+          "iat_value": 3699184,
+          "data": 3699184
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoUninitialize",
+          "hint": 105,
+          "iat_address": 549724,
+          "iat_value": 3699202,
+          "data": 3699202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CLSIDFromString",
+          "hint": 8,
+          "iat_address": 549728,
+          "iat_value": 3699150,
+          "data": 3699150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoInitialize",
+          "hint": 59,
+          "iat_address": 549732,
+          "iat_value": 3699220,
+          "data": 3699220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoTaskMemFree",
+          "hint": 101,
+          "iat_address": 549736,
+          "iat_value": 3699168,
+          "data": 3699168
+        }
+      ],
+      "function_count": 6
+    },
+    {
+      "name": "OLEAUT32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 549692,
+      "import_lookup_table_rva": 3698288,
+      "functions": [
+        {
+          "is_ordinal": 1,
+          "ordinal": 6,
+          "name": null,
+          "hint": 0,
+          "iat_address": 549692,
+          "iat_value": 2147483654,
+          "data": 2147483654
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "MSVCR80.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 549376,
+      "import_lookup_table_rva": 3697972,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?terminate@@YAXXZ",
+          "hint": 67,
+          "iat_address": 549376,
+          "iat_value": 3700120,
+          "data": 3700120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_unlock",
+          "hint": 1011,
+          "iat_address": 549380,
+          "iat_value": 3700140,
+          "data": 3700140
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__dllonexit",
+          "hint": 153,
+          "iat_address": 549384,
+          "iat_value": 3700150,
+          "data": 3700150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_encode_pointer",
+          "hint": 370,
+          "iat_address": 549388,
+          "iat_value": 3700164,
+          "data": 3700164
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_lock",
+          "hint": 642,
+          "iat_address": 549392,
+          "iat_value": 3700182,
+          "data": 3700182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_onexit",
+          "hint": 808,
+          "iat_address": 549396,
+          "iat_value": 3700190,
+          "data": 3700190
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_decode_pointer",
+          "hint": 360,
+          "iat_address": 549400,
+          "iat_value": 3700200,
+          "data": 3700200
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_malloc_crt",
+          "hint": 659,
+          "iat_address": 549404,
+          "iat_value": 3700218,
+          "data": 3700218
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_encoded_null",
+          "hint": 371,
+          "iat_address": 549408,
+          "iat_value": 3700232,
+          "data": 3700232
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 528,
+          "iat_address": 549412,
+          "iat_value": 3700248,
+          "data": 3700248
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm_e",
+          "hint": 529,
+          "iat_address": 549416,
+          "iat_value": 3700260,
+          "data": 3700260
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_amsg_exit",
+          "hint": 285,
+          "iat_address": 549420,
+          "iat_value": 3700274,
+          "data": 3700274
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_adjust_fdiv",
+          "hint": 275,
+          "iat_address": 549424,
+          "iat_value": 3700288,
+          "data": 3700288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CppXcptFilter",
+          "hint": 109,
+          "iat_address": 549428,
+          "iat_value": 3700304,
+          "data": 3700304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_crt_debugger_hook",
+          "hint": 339,
+          "iat_address": 549432,
+          "iat_value": 3700322,
+          "data": 3700322
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_type_info_dtor_internal_method@type_info@@QAEXXZ",
+          "hint": 54,
+          "iat_address": 549436,
+          "iat_value": 3700344,
+          "data": 3700344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_except_handler4_common",
+          "hint": 379,
+          "iat_address": 549440,
+          "iat_value": 3700398,
+          "data": 3700398
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__clean_type_info_names_internal",
+          "hint": 143,
+          "iat_address": 549444,
+          "iat_value": 3700424,
+          "data": 3700424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memchr",
+          "hint": 1332,
+          "iat_address": 549448,
+          "iat_value": 3700098,
+          "data": 3700098
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcmp",
+          "hint": 1375,
+          "iat_address": 549452,
+          "iat_value": 3700088,
+          "data": 3700088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "qsort",
+          "hint": 1349,
+          "iat_address": 549456,
+          "iat_value": 3700080,
+          "data": 3700080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strpbrk",
+          "hint": 1390,
+          "iat_address": 549460,
+          "iat_value": 3700070,
+          "data": 3700070
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "isdigit",
+          "hint": 1294,
+          "iat_address": 549464,
+          "iat_value": 3700060,
+          "data": 3700060
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_lseek",
+          "hint": 651,
+          "iat_address": 549468,
+          "iat_value": 3700050,
+          "data": 3700050
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_write",
+          "hint": 1176,
+          "iat_address": 549472,
+          "iat_value": 3700040,
+          "data": 3700040
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_open",
+          "hint": 809,
+          "iat_address": 549476,
+          "iat_value": 3700032,
+          "data": 3700032
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_wopen",
+          "hint": 1164,
+          "iat_address": 549480,
+          "iat_value": 3700022,
+          "data": 3700022
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strtol",
+          "hint": 1397,
+          "iat_address": 549484,
+          "iat_value": 3700012,
+          "data": 3700012
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strncat",
+          "hint": 1384,
+          "iat_address": 549488,
+          "iat_value": 3700002,
+          "data": 3700002
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strtoul",
+          "hint": 1398,
+          "iat_address": 549492,
+          "iat_value": 3699992,
+          "data": 3699992
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "getenv",
+          "hint": 1284,
+          "iat_address": 549496,
+          "iat_value": 3699982,
+          "data": 3699982
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strrchr",
+          "hint": 1391,
+          "iat_address": 549500,
+          "iat_value": 3699972,
+          "data": 3699972
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strtod",
+          "hint": 1394,
+          "iat_address": 549504,
+          "iat_value": 3699962,
+          "data": 3699962
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 1268,
+          "iat_address": 549508,
+          "iat_value": 3699954,
+          "data": 3699954
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "realloc",
+          "hint": 1354,
+          "iat_address": 549512,
+          "iat_value": 3699944,
+          "data": 3699944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 1323,
+          "iat_address": 549516,
+          "iat_value": 3699934,
+          "data": 3699934
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memmove",
+          "hint": 1336,
+          "iat_address": 549520,
+          "iat_value": 3699924,
+          "data": 3699924
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "exit",
+          "hint": 1244,
+          "iat_address": 549524,
+          "iat_value": 3699916,
+          "data": 3699916
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_wopen@@YAHPB_WHH@Z",
+          "hint": 55,
+          "iat_address": 549528,
+          "iat_value": 3699892,
+          "data": 3699892
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_wstat64i32",
+          "hint": 1198,
+          "iat_address": 549532,
+          "iat_value": 3699878,
+          "data": 3699878
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_read",
+          "hint": 835,
+          "iat_address": 549536,
+          "iat_value": 3699870,
+          "data": 3699870
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_close",
+          "hint": 321,
+          "iat_address": 549540,
+          "iat_value": 3699860,
+          "data": 3699860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strncmp",
+          "hint": 1386,
+          "iat_address": 549544,
+          "iat_value": 3699850,
+          "data": 3699850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fprintf",
+          "hint": 1260,
+          "iat_address": 549548,
+          "iat_value": 3699840,
+          "data": 3699840
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__iob_func",
+          "hint": 164,
+          "iat_address": 549552,
+          "iat_value": 3699826,
+          "data": 3699826
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strchr",
+          "hint": 1374,
+          "iat_address": 549556,
+          "iat_value": 3699816,
+          "data": 3699816
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0exception@std@@QAE@ABQBDH@Z",
+          "hint": 7,
+          "iat_address": 549560,
+          "iat_value": 3699782,
+          "data": 3699782
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_swprintf",
+          "hint": 970,
+          "iat_address": 549564,
+          "iat_value": 3699770,
+          "data": 3699770
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 1338,
+          "iat_address": 549568,
+          "iat_value": 3699760,
+          "data": 3699760
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_itoa",
+          "hint": 625,
+          "iat_address": 549572,
+          "iat_value": 3699752,
+          "data": 3699752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "atoi",
+          "hint": 1231,
+          "iat_address": 549576,
+          "iat_value": 3699744,
+          "data": 3699744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_getpid",
+          "hint": 500,
+          "iat_address": 549580,
+          "iat_value": 3699734,
+          "data": 3699734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_wremove",
+          "hint": 1174,
+          "iat_address": 549584,
+          "iat_value": 3699722,
+          "data": 3699722
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_errno",
+          "hint": 376,
+          "iat_address": 549588,
+          "iat_value": 3699712,
+          "data": 3699712
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_wrmdir",
+          "hint": 1177,
+          "iat_address": 549592,
+          "iat_value": 3699702,
+          "data": 3699702
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_wmkdir",
+          "hint": 1161,
+          "iat_address": 549596,
+          "iat_value": 3699692,
+          "data": 3699692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "tolower",
+          "hint": 1410,
+          "iat_address": 549600,
+          "iat_value": 3699682,
+          "data": 3699682
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sprintf",
+          "hint": 1366,
+          "iat_address": 549604,
+          "iat_value": 3699672,
+          "data": 3699672
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strncpy",
+          "hint": 1387,
+          "iat_address": 549608,
+          "iat_value": 3699662,
+          "data": 3699662
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?unexpected@@YAXXZ",
+          "hint": 68,
+          "iat_address": 549612,
+          "iat_value": 3699640,
+          "data": 3699640
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__RTDynamicCast",
+          "hint": 126,
+          "iat_address": 549616,
+          "iat_value": 3699622,
+          "data": 3699622
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 1334,
+          "iat_address": 549620,
+          "iat_value": 3699612,
+          "data": 3699612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memmove_s",
+          "hint": 1337,
+          "iat_address": 549624,
+          "iat_value": 3699600,
+          "data": 3699600
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_invalid_parameter_noinfo",
+          "hint": 534,
+          "iat_address": 549628,
+          "iat_value": 3699572,
+          "data": 3699572
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??2@YAPAXI@Z",
+          "hint": 15,
+          "iat_address": 549632,
+          "iat_value": 3699556,
+          "data": 3699556
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_purecall",
+          "hint": 825,
+          "iat_address": 549636,
+          "iat_value": 3699544,
+          "data": 3699544
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0exception@std@@QAE@XZ",
+          "hint": 9,
+          "iat_address": 549640,
+          "iat_value": 3699516,
+          "data": 3699516
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?what@exception@std@@UBEPBDXZ",
+          "hint": 70,
+          "iat_address": 549644,
+          "iat_value": 3699484,
+          "data": 3699484
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0exception@std@@QAE@ABQBD@Z",
+          "hint": 6,
+          "iat_address": 549648,
+          "iat_value": 3699452,
+          "data": 3699452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??_U@YAPAXI@Z",
+          "hint": 31,
+          "iat_address": 549652,
+          "iat_value": 3699436,
+          "data": 3699436
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_CxxThrowException",
+          "hint": 93,
+          "iat_address": 549656,
+          "iat_value": 3699414,
+          "data": 3699414
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??_V@YAXPAX@Z",
+          "hint": 33,
+          "iat_address": 549660,
+          "iat_value": 3699398,
+          "data": 3699398
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??3@YAXPAX@Z",
+          "hint": 17,
+          "iat_address": 549664,
+          "iat_value": 3699382,
+          "data": 3699382
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4exception@std@@QAEAAV01@ABV01@@Z",
+          "hint": 21,
+          "iat_address": 549668,
+          "iat_value": 3699344,
+          "data": 3699344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CxxFrameHandler3",
+          "hint": 118,
+          "iat_address": 549672,
+          "iat_value": 3699322,
+          "data": 3699322
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0exception@std@@QAE@ABV01@@Z",
+          "hint": 8,
+          "iat_address": 549676,
+          "iat_value": 3699288,
+          "data": 3699288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1exception@std@@UAE@XZ",
+          "hint": 13,
+          "iat_address": 549680,
+          "iat_value": 3699260,
+          "data": 3699260
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_strnicmp",
+          "hint": 946,
+          "iat_address": 549684,
+          "iat_value": 3706732,
+          "data": 3706732
+        }
+      ],
+      "function_count": 78
+    },
+    {
+      "name": "MSVCP80.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 549092,
+      "import_lookup_table_rva": 3697688,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBDI@Z",
+          "hint": 1543,
+          "iat_address": 549092,
+          "iat_value": 3706212,
+          "data": 3706212
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBD@Z",
+          "hint": 1542,
+          "iat_address": 549096,
+          "iat_value": 3706126,
+          "data": 3706126
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z",
+          "hint": 1591,
+          "iat_address": 549100,
+          "iat_value": 3706066,
+          "data": 3706066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?get@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@AAD@Z",
+          "hint": 2093,
+          "iat_address": 549104,
+          "iat_value": 3705998,
+          "data": 3705998
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?seekg@?$basic_istream@DU?$char_traits@D@std@@@std@@QAEAAV12@JH@Z",
+          "hint": 2826,
+          "iat_address": 549108,
+          "iat_value": 3705930,
+          "data": 3705930
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?compare@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBEHIIPBDI@Z",
+          "hint": 1623,
+          "iat_address": 549112,
+          "iat_value": 3705844,
+          "data": 3705844
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBDI@Z",
+          "hint": 379,
+          "iat_address": 549116,
+          "iat_value": 3705766,
+          "data": 3705766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@PBDI@Z",
+          "hint": 1522,
+          "iat_address": 549120,
+          "iat_value": 3705678,
+          "data": 3705678
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAEAAV12@ABV12@@Z",
+          "hint": 1531,
+          "iat_address": 549124,
+          "iat_value": 3705586,
+          "data": 3705586
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAEAAV12@PB_W@Z",
+          "hint": 1535,
+          "iat_address": 549128,
+          "iat_value": 3705496,
+          "data": 3705496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??$?HDU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@ABV10@0@Z",
+          "hint": 101,
+          "iat_address": 549132,
+          "iat_value": 3705370,
+          "data": 3705370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?begin@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAE?AV?$_String_iterator@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@2@XZ",
+          "hint": 1579,
+          "iat_address": 549136,
+          "iat_value": 3705222,
+          "data": 3705222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?end@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAE?AV?$_String_iterator@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@2@XZ",
+          "hint": 1949,
+          "iat_address": 549140,
+          "iat_value": 3705076,
+          "data": 3705076
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??$?8_WU?$char_traits@_W@std@@V?$allocator@_W@1@@std@@YA_NABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@0@0@Z",
+          "hint": 59,
+          "iat_address": 549144,
+          "iat_value": 3704948,
+          "data": 3704948
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?find_last_of@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QBEIPB_WI@Z",
+          "hint": 2072,
+          "iat_address": 549148,
+          "iat_value": 3704856,
+          "data": 3704856
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?substr@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBE?AV12@II@Z",
+          "hint": 2964,
+          "iat_address": 549152,
+          "iat_value": 3704770,
+          "data": 3704770
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAEXXZ",
+          "hint": 1599,
+          "iat_address": 549156,
+          "iat_value": 3704690,
+          "data": 3704690
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??$?8_WU?$char_traits@_W@std@@V?$allocator@_W@1@@std@@YA_NABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@0@PB_W@Z",
+          "hint": 60,
+          "iat_address": 549160,
+          "iat_value": 3704558,
+          "data": 3704558
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?find@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QBEIPB_WI@Z",
+          "hint": 2021,
+          "iat_address": 549164,
+          "iat_value": 3704474,
+          "data": 3704474
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?substr@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QBE?AV12@II@Z",
+          "hint": 2966,
+          "iat_address": 549168,
+          "iat_value": 3704386,
+          "data": 3704386
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?npos@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@2IB",
+          "hint": 2479,
+          "iat_address": 549172,
+          "iat_value": 3704310,
+          "data": 3704310
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rfind@?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QBEI_WI@Z",
+          "hint": 2798,
+          "iat_address": 549176,
+          "iat_value": 3704226,
+          "data": 3704226
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAEAAV01@PB_W@Z",
+          "hint": 697,
+          "iat_address": 549180,
+          "iat_value": 3704140,
+          "data": 3704140
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAEAAV01@ABV01@@Z",
+          "hint": 866,
+          "iat_address": 549184,
+          "iat_value": 3704052,
+          "data": 3704052
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??Y?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAEAAV01@PB_W@Z",
+          "hint": 867,
+          "iat_address": 549188,
+          "iat_value": 3703966,
+          "data": 3703966
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??$?ODU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@0@Z",
+          "hint": 155,
+          "iat_address": 549192,
+          "iat_value": 3703844,
+          "data": 3703844
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ABV12@@Z",
+          "hint": 1538,
+          "iat_address": 549196,
+          "iat_value": 3703754,
+          "data": 3703754
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?push_back@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEXD@Z",
+          "hint": 2629,
+          "iat_address": 549200,
+          "iat_value": 3703672,
+          "data": 3703672
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ABV12@@Z",
+          "hint": 1517,
+          "iat_address": 549204,
+          "iat_value": 3703582,
+          "data": 3703582
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?find@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QBEIPBDII@Z",
+          "hint": 2015,
+          "iat_address": 549208,
+          "iat_value": 3703500,
+          "data": 3703500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?npos@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@2IB",
+          "hint": 2477,
+          "iat_address": 549212,
+          "iat_value": 3703426,
+          "data": 3703426
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?assign@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV12@ABV12@II@Z",
+          "hint": 1539,
+          "iat_address": 549216,
+          "iat_value": 3703334,
+          "data": 3703334
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEXXZ",
+          "hint": 1597,
+          "iat_address": 549220,
+          "iat_value": 3703256,
+          "data": 3703256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAE@XZ",
+          "hint": 408,
+          "iat_address": 549224,
+          "iat_value": 3703180,
+          "data": 3703180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_ofstream@DU?$char_traits@D@std@@@std@@QAE@PB_WHH@Z",
+          "hint": 337,
+          "iat_address": 549228,
+          "iat_value": 3703116,
+          "data": 3703116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??_D?$basic_ofstream@DU?$char_traits@D@std@@@std@@QAEXXZ",
+          "hint": 1028,
+          "iat_address": 549232,
+          "iat_value": 3703056,
+          "data": 3703056
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??$?6DU?$char_traits@D@std@@V?$allocator@D@1@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@@Z",
+          "hint": 22,
+          "iat_address": 549236,
+          "iat_value": 3702886,
+          "data": 3702886
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??Y?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@D@Z",
+          "hint": 861,
+          "iat_address": 549240,
+          "iat_value": 3702806,
+          "data": 3702806
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??Y?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@PBD@Z",
+          "hint": 862,
+          "iat_address": 549244,
+          "iat_value": 3702724,
+          "data": 3702724
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAE@ABV01@@Z",
+          "hint": 396,
+          "iat_address": 549248,
+          "iat_value": 3702642,
+          "data": 3702642
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??$?M_WU?$char_traits@_W@std@@V?$allocator@_W@1@@std@@YA_NABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@0@0@Z",
+          "hint": 143,
+          "iat_address": 549252,
+          "iat_value": 3702514,
+          "data": 3702514
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??Y?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@ABV01@@Z",
+          "hint": 860,
+          "iat_address": 549256,
+          "iat_value": 3702430,
+          "data": 3702430
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??$?8DU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@PBD@Z",
+          "hint": 45,
+          "iat_address": 549260,
+          "iat_value": 3702306,
+          "data": 3702306
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xlen@_String_base@std@@SAXXZ",
+          "hint": 1498,
+          "iat_address": 549264,
+          "iat_value": 3702272,
+          "data": 3702272
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xran@_String_base@std@@SAXXZ",
+          "hint": 1499,
+          "iat_address": 549268,
+          "iat_value": 3702238,
+          "data": 3702238
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z",
+          "hint": 1951,
+          "iat_address": 549272,
+          "iat_value": 3702168,
+          "data": 3702168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??$?HDU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@ABV10@PBD@Z",
+          "hint": 103,
+          "iat_address": 549276,
+          "iat_value": 3706300,
+          "data": 3706300
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAV01@AAV01@@Z@Z",
+          "hint": 795,
+          "iat_address": 549280,
+          "iat_value": 3702088,
+          "data": 3702088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHPBDH@Z",
+          "hint": 2930,
+          "iat_address": 549284,
+          "iat_value": 3702020,
+          "data": 3702020
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z",
+          "hint": 2927,
+          "iat_address": 549288,
+          "iat_value": 3701956,
+          "data": 3701956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z",
+          "hint": 2880,
+          "iat_address": 549292,
+          "iat_value": 3701892,
+          "data": 3701892
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?uncaught_exception@std@@YA_NXZ",
+          "hint": 3040,
+          "iat_address": 549296,
+          "iat_value": 3701858,
+          "data": 3701858
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ",
+          "hint": 1396,
+          "iat_address": 549300,
+          "iat_value": 3701796,
+          "data": 3701796
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ",
+          "hint": 2077,
+          "iat_address": 549304,
+          "iat_value": 3701730,
+          "data": 3701730
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Unlock@_Mutex@std@@QAEXXZ",
+          "hint": 1484,
+          "iat_address": 549308,
+          "iat_value": 3701700,
+          "data": 3701700
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Lock@_Mutex@std@@QAEXXZ",
+          "hint": 1362,
+          "iat_address": 549312,
+          "iat_value": 3701672,
+          "data": 3701672
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_ifstream@DU?$char_traits@D@std@@@std@@QAE@PB_WHH@Z",
+          "hint": 298,
+          "iat_address": 549316,
+          "iat_value": 3701608,
+          "data": 3701608
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??_D?$basic_ifstream@DU?$char_traits@D@std@@@std@@QAEXXZ",
+          "hint": 1016,
+          "iat_address": 549320,
+          "iat_value": 3701548,
+          "data": 3701548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAE@PB_W@Z",
+          "hint": 403,
+          "iat_address": 549324,
+          "iat_value": 3701468,
+          "data": 3701468
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAE@XZ",
+          "hint": 608,
+          "iat_address": 549328,
+          "iat_value": 3701392,
+          "data": 3701392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ",
+          "hint": 382,
+          "iat_address": 549332,
+          "iat_value": 3701318,
+          "data": 3701318
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?swap@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEXAAV12@@Z",
+          "hint": 2970,
+          "iat_address": 549336,
+          "iat_value": 3701236,
+          "data": 3701236
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@PBD@Z",
+          "hint": 377,
+          "iat_address": 549340,
+          "iat_value": 3701160,
+          "data": 3701160
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??$?5DU?$char_traits@D@std@@V?$allocator@D@1@@std@@YAAAV?$basic_istream@DU?$char_traits@D@std@@@0@AAV10@AAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@@Z",
+          "hint": 2,
+          "iat_address": 549344,
+          "iat_value": 3700990,
+          "data": 3700990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??$?MDU?$char_traits@D@std@@V?$allocator@D@1@@std@@YA_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@0@0@Z",
+          "hint": 137,
+          "iat_address": 549348,
+          "iat_value": 3700868,
+          "data": 3700868
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@QAEAAV01@ABV01@@Z",
+          "hint": 696,
+          "iat_address": 549352,
+          "iat_value": 3700780,
+          "data": 3700780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@XZ",
+          "hint": 606,
+          "iat_address": 549356,
+          "iat_value": 3700706,
+          "data": 3700706
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@PBD@Z",
+          "hint": 692,
+          "iat_address": 549360,
+          "iat_value": 3700624,
+          "data": 3700624
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEAAV01@ABV01@@Z",
+          "hint": 690,
+          "iat_address": 549364,
+          "iat_value": 3700540,
+          "data": 3700540
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAE@ABV01@@Z",
+          "hint": 370,
+          "iat_address": 549368,
+          "iat_value": 3700460,
+          "data": 3700460
+        }
+      ],
+      "function_count": 70
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "AdobeLinguistic.dll",
+    "export_flags": 0,
+    "timestamp": 1214263603,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 189,
+    "entries": [
+      {
+        "name": "??0?$RCPtr@UStringValue@LM_UniString@devtech@@@devtech@@QAE@ABV01@@Z",
+        "ordinal": 1,
+        "address": 168416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0?$RCPtr@UStringValue@LM_UniString@devtech@@@devtech@@QAE@PAUStringValue@LM_UniString@1@@Z",
+        "ordinal": 2,
+        "address": 168448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0HyphenedWord@devtech@@QAE@ABU01@@Z",
+        "ordinal": 3,
+        "address": 52720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0HyphenedWord@devtech@@QAE@XZ",
+        "ordinal": 4,
+        "address": 52656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IBlockBasedSpellingService@devtech@@IAE@XZ",
+        "ordinal": 5,
+        "address": 6672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IBlockBasedSpellingService@devtech@@QAE@ABV01@@Z",
+        "ordinal": 6,
+        "address": 6704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IDictionary@devtech@@QAE@ABV01@@Z",
+        "ordinal": 7,
+        "address": 5856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IDictionary@devtech@@QAE@XZ",
+        "ordinal": 8,
+        "address": 5840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IDictionarySet@devtech@@QAE@ABV01@@Z",
+        "ordinal": 9,
+        "address": 5712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IDictionarySet@devtech@@QAE@XZ",
+        "ordinal": 10,
+        "address": 5696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IHyphenService@devtech@@IAE@XZ",
+        "ordinal": 11,
+        "address": 51120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IHyphenService@devtech@@QAE@ABV01@@Z",
+        "ordinal": 12,
+        "address": 51152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IHyphenWord@devtech@@QAE@ABV01@@Z",
+        "ordinal": 13,
+        "address": 6944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IHyphenWord@devtech@@QAE@XZ",
+        "ordinal": 14,
+        "address": 6928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IProvider@devtech@@QAE@ABV01@@Z",
+        "ordinal": 15,
+        "address": 6128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IProvider@devtech@@QAE@XZ",
+        "ordinal": 16,
+        "address": 6112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ISpellCheckedWord@devtech@@QAE@ABV01@@Z",
+        "ordinal": 17,
+        "address": 6272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ISpellCheckedWord@devtech@@QAE@XZ",
+        "ordinal": 18,
+        "address": 6256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ISpellingService@devtech@@IAE@XZ",
+        "ordinal": 19,
+        "address": 6528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ISpellingService@devtech@@QAE@ABV01@@Z",
+        "ordinal": 20,
+        "address": 6560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IThesaurusWord@devtech@@QAE@ABV01@@Z",
+        "ordinal": 21,
+        "address": 7712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IThesaurusWord@devtech@@QAE@XZ",
+        "ordinal": 22,
+        "address": 7584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ITokenizer@devtech@@IAE@XZ",
+        "ordinal": 23,
+        "address": 6384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ITokenizer@devtech@@QAE@ABV01@@Z",
+        "ordinal": 24,
+        "address": 6416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IWordList@devtech@@QAE@ABV01@@Z",
+        "ordinal": 25,
+        "address": 6000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IWordList@devtech@@QAE@XZ",
+        "ordinal": 26,
+        "address": 5984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Iterator@IThesaurusWord@devtech@@IAE@PAV12@H@Z",
+        "ordinal": 27,
+        "address": 7424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Iterator@IThesaurusWord@devtech@@QAE@ABV012@@Z",
+        "ordinal": 28,
+        "address": 7680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_FileSpec@devtech@@QAE@ABV01@@Z",
+        "ordinal": 29,
+        "address": 43392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_FileSpec@devtech@@QAE@PBD@Z",
+        "ordinal": 30,
+        "address": 43456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_FileSpec@devtech@@QAE@PBG@Z",
+        "ordinal": 31,
+        "address": 43424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_FileSpec@devtech@@QAE@PB_W@Z",
+        "ordinal": 32,
+        "address": 43488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_FileSpec@devtech@@QAE@XZ",
+        "ordinal": 33,
+        "address": 43344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_HyphenPoint@devtech@@QAE@GEE@Z",
+        "ordinal": 34,
+        "address": 4192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_LinguisticService@devtech@@QAE@ABV01@@Z",
+        "ordinal": 35,
+        "address": 43216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_LinguisticService@devtech@@QAE@XZ",
+        "ordinal": 36,
+        "address": 43200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_ThesaurusEntry@devtech@@QAE@ABU01@@Z",
+        "ordinal": 37,
+        "address": 7264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_ThesaurusEntry@devtech@@QAE@XZ",
+        "ordinal": 38,
+        "address": 7056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_UniString@devtech@@QAE@ABV01@@Z",
+        "ordinal": 39,
+        "address": 168832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_UniString@devtech@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+        "ordinal": 40,
+        "address": 169168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_UniString@devtech@@QAE@PBD@Z",
+        "ordinal": 41,
+        "address": 168960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_UniString@devtech@@QAE@PBGI@Z",
+        "ordinal": 42,
+        "address": 168672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_UniString@devtech@@QAE@PB_W@Z",
+        "ordinal": 43,
+        "address": 169632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_UniString@devtech@@QAE@XZ",
+        "ordinal": 44,
+        "address": 168544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_exception@devtech@@QAE@ABV01@@Z",
+        "ordinal": 45,
+        "address": 4256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_exception@devtech@@QAE@F@Z",
+        "ordinal": 46,
+        "address": 42768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_exception@devtech@@QAE@FABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+        "ordinal": 47,
+        "address": 42992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LM_exception@devtech@@QAE@FPBD@Z",
+        "ordinal": 48,
+        "address": 42880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LinguisticManager@devtech@@QAE@PAXABVLM_FileSpec@1@@Z",
+        "ordinal": 49,
+        "address": 43696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0LinguisticManager@devtech@@QAE@XZ",
+        "ordinal": 50,
+        "address": 43568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PtAttributeElement@IHyphenWord@devtech@@QAE@EHE_N@Z",
+        "ordinal": 51,
+        "address": 6848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0RCObject@devtech@@IAE@ABV01@@Z",
+        "ordinal": 52,
+        "address": 167152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0RCObject@devtech@@IAE@XZ",
+        "ordinal": 53,
+        "address": 167120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1?$RCPtr@UStringValue@LM_UniString@devtech@@@devtech@@QAE@XZ",
+        "ordinal": 54,
+        "address": 167840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1HyphenedWord@devtech@@QAE@XZ",
+        "ordinal": 55,
+        "address": 52672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1IBlockBasedSpellingService@devtech@@MAE@XZ",
+        "ordinal": 56,
+        "address": 6688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1IDictionary@devtech@@UAE@XZ",
+        "ordinal": 57,
+        "address": 5824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1IDictionarySet@devtech@@UAE@XZ",
+        "ordinal": 58,
+        "address": 5680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1IHyphenService@devtech@@MAE@XZ",
+        "ordinal": 59,
+        "address": 51136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1IHyphenWord@devtech@@UAE@XZ",
+        "ordinal": 60,
+        "address": 6880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1IProvider@devtech@@UAE@XZ",
+        "ordinal": 61,
+        "address": 106672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1ISpellCheckedWord@devtech@@UAE@XZ",
+        "ordinal": 62,
+        "address": 6240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1ISpellingService@devtech@@MAE@XZ",
+        "ordinal": 63,
+        "address": 6544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1IThesaurusWord@devtech@@UAE@XZ",
+        "ordinal": 64,
+        "address": 7600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1ITokenizer@devtech@@MAE@XZ",
+        "ordinal": 65,
+        "address": 6400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1IWordList@devtech@@UAE@XZ",
+        "ordinal": 66,
+        "address": 5968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1Iterator@IThesaurusWord@devtech@@QAE@XZ",
+        "ordinal": 67,
+        "address": 418560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1LM_FileSpec@devtech@@UAE@XZ",
+        "ordinal": 68,
+        "address": 43376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1LM_LinguisticService@devtech@@UAE@XZ",
+        "ordinal": 69,
+        "address": 43168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1LM_ThesaurusEntry@devtech@@QAE@XZ",
+        "ordinal": 70,
+        "address": 7152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1LM_UniString@devtech@@QAE@XZ",
+        "ordinal": 71,
+        "address": 4640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1LM_exception@devtech@@UAE@XZ",
+        "ordinal": 72,
+        "address": 43104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1LinguisticManager@devtech@@QAE@XZ",
+        "ordinal": 73,
+        "address": 46640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1RCObject@devtech@@MAE@XZ",
+        "ordinal": 74,
+        "address": 167184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4?$RCPtr@UStringValue@LM_UniString@devtech@@@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 75,
+        "address": 168480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4HyphenedWord@devtech@@QAEAAU01@ABU01@@Z",
+        "ordinal": 76,
+        "address": 53104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4IBlockBasedSpellingService@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 77,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4IDictionary@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 78,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4IDictionarySet@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 79,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4IHyphenService@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 80,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4IHyphenWord@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 81,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4IProvider@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 82,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4ISpellCheckedWord@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 83,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4ISpellingService@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 84,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4IThesaurusWord@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 85,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4ITokenizer@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 86,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4IWordList@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 87,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4Iterator@IThesaurusWord@devtech@@QAEAAV012@ABV012@@Z",
+        "ordinal": 88,
+        "address": 7680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4LM_FileSpec@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 89,
+        "address": 4160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4LM_HyphenPoint@devtech@@QAEAAU01@ABU01@@Z",
+        "ordinal": 90,
+        "address": 4224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4LM_LinguisticService@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 91,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4LM_ThesaurusEntry@devtech@@QAEAAU01@ABU01@@Z",
+        "ordinal": 92,
+        "address": 7376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4LM_UniString@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 93,
+        "address": 4656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4LM_exception@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 94,
+        "address": 4368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4LinguisticManager@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 95,
+        "address": 43328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PtAttributeElement@IHyphenWord@devtech@@QAEAAU012@ABU012@@Z",
+        "ordinal": 96,
+        "address": 6896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4RCObject@devtech@@IAEAAV01@ABV01@@Z",
+        "ordinal": 97,
+        "address": 51168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??6devtech@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@ABVLM_FileSpec@0@@Z",
+        "ordinal": 98,
+        "address": 46704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??6devtech@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@ABVLM_UniString@0@@Z",
+        "ordinal": 99,
+        "address": 168288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??6devtech@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@PBVIWordList@0@@Z",
+        "ordinal": 100,
+        "address": 67664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??8LM_UniString@devtech@@QBE_NABV01@@Z",
+        "ordinal": 101,
+        "address": 4544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??ALM_UniString@devtech@@QAEAAGH@Z",
+        "ordinal": 102,
+        "address": 169392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??ALM_UniString@devtech@@QBEABGH@Z",
+        "ordinal": 103,
+        "address": 168016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BLM_FileSpec@devtech@@QBE?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ",
+        "ordinal": 104,
+        "address": 4112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BLM_FileSpec@devtech@@QBEPBDXZ",
+        "ordinal": 105,
+        "address": 4096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??C?$RCPtr@UStringValue@LM_UniString@devtech@@@devtech@@QBEPAUStringValue@LM_UniString@1@XZ",
+        "ordinal": 106,
+        "address": 167872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??CIterator@IThesaurusWord@devtech@@QAEPAULM_ThesaurusEntry@2@XZ",
+        "ordinal": 107,
+        "address": 7456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??D?$RCPtr@UStringValue@LM_UniString@devtech@@@devtech@@QBEAAUStringValue@LM_UniString@1@XZ",
+        "ordinal": 108,
+        "address": 167872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??DIterator@IThesaurusWord@devtech@@QAEAAULM_ThesaurusEntry@2@XZ",
+        "ordinal": 109,
+        "address": 7456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??EIterator@IThesaurusWord@devtech@@QAEAAV012@H@Z",
+        "ordinal": 110,
+        "address": 7488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??HLM_UniString@devtech@@QBE?BV01@ABV01@@Z",
+        "ordinal": 111,
+        "address": 169984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??MLM_UniString@devtech@@QBE_NABV01@@Z",
+        "ordinal": 112,
+        "address": 169952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??YIterator@IThesaurusWord@devtech@@QAEAAV012@H@Z",
+        "ordinal": 113,
+        "address": 7536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??YLM_FileSpec@devtech@@QAEAAV01@ABV01@@Z",
+        "ordinal": 114,
+        "address": 43536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7IBlockBasedSpellingService@devtech@@6B@",
+        "ordinal": 115,
+        "address": 550468,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7IDictionary@devtech@@6B@",
+        "ordinal": 116,
+        "address": 550204,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7IDictionarySet@devtech@@6B@",
+        "ordinal": 117,
+        "address": 550172,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7IHyphenService@devtech@@6B@",
+        "ordinal": 118,
+        "address": 551232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7IHyphenWord@devtech@@6B@",
+        "ordinal": 119,
+        "address": 550508,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7IProvider@devtech@@6B@",
+        "ordinal": 120,
+        "address": 550292,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7ISpellCheckedWord@devtech@@6B@",
+        "ordinal": 121,
+        "address": 550372,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7ISpellingService@devtech@@6B@",
+        "ordinal": 122,
+        "address": 550428,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7IThesaurusWord@devtech@@6B@",
+        "ordinal": 123,
+        "address": 550536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7ITokenizer@devtech@@6B@",
+        "ordinal": 124,
+        "address": 550396,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7IWordList@devtech@@6B@",
+        "ordinal": 125,
+        "address": 550256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7LM_FileSpec@devtech@@6B@",
+        "ordinal": 126,
+        "address": 550928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7LM_LinguisticService@devtech@@6B@",
+        "ordinal": 127,
+        "address": 550872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7LM_exception@devtech@@6B@",
+        "ordinal": 128,
+        "address": 550080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7RCObject@devtech@@6B@",
+        "ordinal": 129,
+        "address": 621052,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_F?$RCPtr@UStringValue@LM_UniString@devtech@@@devtech@@QAEXXZ",
+        "ordinal": 130,
+        "address": 4624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddWordPair@LinguisticManager@devtech@@QAEXPAVIDictionary@2@ABVLM_UniString@2@1@Z",
+        "ordinal": 131,
+        "address": 45632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CloseCustomDictionary@LinguisticManager@devtech@@QAEXPAVIDictionary@2@@Z",
+        "ordinal": 132,
+        "address": 45312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CloseUserDictionary@LinguisticManager@devtech@@QAEXPAVIDictionary@2@@Z",
+        "ordinal": 133,
+        "address": 45312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ConvertBSTR@LM_UniString@devtech@@QAEXQA_W@Z",
+        "ordinal": 134,
+        "address": 169760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CopyUniChar@LM_UniString@devtech@@QBEKPAGK@Z",
+        "ordinal": 135,
+        "address": 168032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateCustomDictionary@LinguisticManager@devtech@@QAEPAVIDictionary@2@ABVLM_UniString@2@G@Z",
+        "ordinal": 136,
+        "address": 45840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateLinguisticService@LinguisticManager@devtech@@QAEPAVLM_LinguisticService@2@PAVIProvider@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+        "ordinal": 137,
+        "address": 44512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateLinguisticService@LinguisticManager@devtech@@QAEPAVLM_LinguisticService@2@PAVIProvider@2@G@Z",
+        "ordinal": 138,
+        "address": 44096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateUnicode@LinguisticManager@devtech@@QAEPAVLM_LinguisticService@2@PAVIDictionarySet@2@PAVIProvider@2@@Z",
+        "ordinal": 139,
+        "address": 45808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateUserDictionary@LinguisticManager@devtech@@QAEPAVIDictionary@2@ABVLM_UniString@2@G_N@Z",
+        "ordinal": 140,
+        "address": 44864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?DeleteCustomDictionary@LinguisticManager@devtech@@QAEXPAVIDictionary@2@@Z",
+        "ordinal": 141,
+        "address": 45984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?DeleteUserDictionary@LinguisticManager@devtech@@QAEXPAVIDictionary@2@@Z",
+        "ordinal": 142,
+        "address": 45984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EnableAllLanguageUserDictionary@LinguisticManager@devtech@@QAEX_N@Z",
+        "ordinal": 143,
+        "address": 47712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ErrorCode@LM_exception@devtech@@QAEFXZ",
+        "ordinal": 144,
+        "address": 43152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ExportCustomDictionary@LinguisticManager@devtech@@QAEXPAVIDictionary@2@AAV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@PAVIProvider@2@@Z",
+        "ordinal": 145,
+        "address": 46256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ExportUserDictionary@LinguisticManager@devtech@@QAEXPAVIDictionary@2@AAVLM_FileSpec@2@PAVIProvider@2@@Z",
+        "ordinal": 146,
+        "address": 45344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?FindDictionarySetForLanguage@LinguisticManager@devtech@@QAEPAVIDictionarySet@2@G@Z",
+        "ordinal": 147,
+        "address": 47856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?FindUserDictionarySetForLanguage@LinguisticManager@devtech@@QAEPAVIDictionarySet@2@G@Z",
+        "ordinal": 148,
+        "address": 47424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetDefaultProvider@LinguisticManager@devtech@@QAEPAVIProvider@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@G@Z",
+        "ordinal": 149,
+        "address": 44064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetIterIndex@IThesaurusWord@devtech@@IAEHVIterator@12@@Z",
+        "ordinal": 150,
+        "address": 7664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetLanguageIndexList@LinguisticManager@devtech@@QAEABV?$map@GV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@U?$less@G@2@V?$allocator@U?$pair@$$CBGV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@@2@@std@@G@Z",
+        "ordinal": 151,
+        "address": 43984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetLanguageIndexList@LinguisticManager@devtech@@QAEXAAV?$map@GV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@U?$less@G@2@V?$allocator@U?$pair@$$CBGV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@std@@@2@@std@@G@Z",
+        "ordinal": 152,
+        "address": 47872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetLanguageName@LinguisticManager@devtech@@QAE?BVLM_UniString@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z",
+        "ordinal": 153,
+        "address": 44016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetProviderList@LinguisticManager@devtech@@QAEABV?$list@PAVIProvider@devtech@@V?$allocator@PAVIProvider@devtech@@@std@@@std@@XZ",
+        "ordinal": 154,
+        "address": 43920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetProviderList@LinguisticManager@devtech@@QAEXAAV?$list@PAVIProvider@devtech@@V?$allocator@PAVIProvider@devtech@@@std@@@std@@@Z",
+        "ordinal": 155,
+        "address": 48000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetUniCharPtr@LM_UniString@devtech@@QBEPBGXZ",
+        "ordinal": 156,
+        "address": 4608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetVersionInfo@LinguisticManager@devtech@@QBEGXZ",
+        "ordinal": 157,
+        "address": 43904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ImportCustomDictionary@LinguisticManager@devtech@@QAEPAVIDictionary@2@ABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@ABVLM_UniString@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@5@@Z",
+        "ordinal": 158,
+        "address": 46448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ImportUserDictionary@LinguisticManager@devtech@@QAEPAVIDictionary@2@ABVLM_FileSpec@2@ABVLM_UniString@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+        "ordinal": 159,
+        "address": 45376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?LMUtilLookupLangID@devtech@@YAHG@Z",
+        "ordinal": 160,
+        "address": 60752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OpenCustomDictionary@LinguisticManager@devtech@@QAEPAVIDictionary@2@ABV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@std@@ABVLM_UniString@2@PAVIProvider@2@@Z",
+        "ordinal": 161,
+        "address": 46016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OpenUserDictionary@LinguisticManager@devtech@@QAEPAVIDictionary@2@ABVLM_FileSpec@2@ABVLM_UniString@2@PAVIProvider@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z",
+        "ordinal": 162,
+        "address": 45040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Release@LinguisticManager@devtech@@QAEXPAVLM_LinguisticService@2@@Z",
+        "ordinal": 163,
+        "address": 49072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ReleaseLinguisticService@LinguisticManager@devtech@@QAEXPAVLM_LinguisticService@2@@Z",
+        "ordinal": 164,
+        "address": 49072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Result@LM_exception@devtech@@QAEFXZ",
+        "ordinal": 165,
+        "address": 43152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetBibProc@LinguisticManager@devtech@@QAEXPAX@Z",
+        "ordinal": 166,
+        "address": 43952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetToEmptyString@LM_UniString@devtech@@AAEXXZ",
+        "ordinal": 167,
+        "address": 170192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?UserDictionaryExtension@LinguisticManager@devtech@@QAE?BV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ",
+        "ordinal": 168,
+        "address": 45664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?addReference@RCObject@devtech@@QAEXXZ",
+        "ordinal": 169,
+        "address": 167200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?begin@IThesaurusWord@devtech@@UAE?AVIterator@12@XZ",
+        "ordinal": 170,
+        "address": 7616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?c_str@LM_UniString@devtech@@QBEPBGXZ",
+        "ordinal": 171,
+        "address": 4608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?clear@LM_UniString@devtech@@QAEXXZ",
+        "ordinal": 172,
+        "address": 4592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare@LM_UniString@devtech@@QBEHABV12@@Z",
+        "ordinal": 173,
+        "address": 168176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createInstance@IBlockBasedSpellingService@devtech@@SAPAV12@PAVIProvider@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+        "ordinal": 174,
+        "address": 59104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createInstance@IHyphenService@devtech@@SAPAV12@PAVIProvider@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+        "ordinal": 175,
+        "address": 51680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createInstance@ISpellingService@devtech@@SAPAV12@PAVIProvider@2@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+        "ordinal": 176,
+        "address": 56256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createInstance@ITokenizer@devtech@@SAPAV12@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z",
+        "ordinal": 177,
+        "address": 254368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?empty@LM_UniString@devtech@@QBE_NXZ",
+        "ordinal": 178,
+        "address": 5328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?end@IThesaurusWord@devtech@@UAE?AVIterator@12@XZ",
+        "ordinal": 179,
+        "address": 7632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?init@?$RCPtr@UStringValue@LM_UniString@devtech@@@devtech@@AAEXXZ",
+        "ordinal": 180,
+        "address": 167888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isShareable@RCObject@devtech@@QBE_NXZ",
+        "ordinal": 181,
+        "address": 4512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isShared@RCObject@devtech@@QBE_NXZ",
+        "ordinal": 182,
+        "address": 4528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?language@LM_LinguisticService@devtech@@QAEGXZ",
+        "ordinal": 183,
+        "address": 43184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?length@LM_UniString@devtech@@QBEKXZ",
+        "ordinal": 184,
+        "address": 4576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?markUnshareable@RCObject@devtech@@QAEXXZ",
+        "ordinal": 185,
+        "address": 167232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?removeReference@RCObject@devtech@@QAEXXZ",
+        "ordinal": 186,
+        "address": 167216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?size@LM_UniString@devtech@@QBEKXZ",
+        "ordinal": 187,
+        "address": 4576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?what@LM_exception@devtech@@UBEPBDXZ",
+        "ordinal": 188,
+        "address": 43136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "icudt36_dat",
+        "ordinal": 189,
+        "address": 885136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 50,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 3742232,
+        "size": 308,
+        "entropy": 3.026951,
+        "sha256": "fbeb3be87e80cb8e1d2af3d8140796c1bb80c6c7056f60897088ff9e355c3867",
+        "magic_head": "0200020028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 3742540,
+        "size": 180,
+        "entropy": 2.742743,
+        "sha256": "f64ccc0582bc7c66af8b40049e485e8e241335261ec95ace909293ba50b2e4a3",
+        "magic_head": "0100010028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 3,
+        "lang": 1033,
+        "offset": 3742720,
+        "size": 308,
+        "entropy": 2.340378,
+        "sha256": "652988945185cf5d604d9b48de66288d82d8ed0acdd134398e90d002d2d9fc72",
+        "magic_head": "0f00140028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 4,
+        "lang": 1033,
+        "offset": 3743028,
+        "size": 308,
+        "entropy": 2.340036,
+        "sha256": "0b0e16c38a3d5a85566e67b1d9a7e720e4dee27e163b06099d3d7dfa5dbed9ee",
+        "magic_head": "1000080028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 5,
+        "lang": 1033,
+        "offset": 3743336,
+        "size": 308,
+        "entropy": 2.51649,
+        "sha256": "368f9cb089d206a8b61251f0c85eeda97ee08a56b33be8579246e964d3af6169",
+        "magic_head": "0a000e0028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 6,
+        "lang": 1033,
+        "offset": 3743644,
+        "size": 308,
+        "entropy": 2.454009,
+        "sha256": "6440c3a38dcfb81d45bc6be31b776fdae116dd7a2933b407b67132f6cfa0e6eb",
+        "magic_head": "15000e0028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 7,
+        "lang": 1033,
+        "offset": 3743952,
+        "size": 308,
+        "entropy": 2.348637,
+        "sha256": "9882a8462ce9de3cc9a5d0ca48c8c4f7ca97f1f846f0c10e6655e33c9734b152",
+        "magic_head": "0c00120028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 8,
+        "lang": 1033,
+        "offset": 3744260,
+        "size": 308,
+        "entropy": 2.345055,
+        "sha256": "322e92d75b3fec9e16b81466f4cf111d298b80812d5b238f4ee032c025a02050",
+        "magic_head": "1400120028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 9,
+        "lang": 1033,
+        "offset": 3744568,
+        "size": 308,
+        "entropy": 2.348637,
+        "sha256": "8db6df648274a0fc3d28430367216e1c17c364ca613066cbb0e133637e92ba62",
+        "magic_head": "0c000b0028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 10,
+        "lang": 1033,
+        "offset": 3744876,
+        "size": 308,
+        "entropy": 2.311137,
+        "sha256": "f9c81ce9b4176b305c554a15f0ca2b98b11be76c1f13ef22169999aa07e9612f",
+        "magic_head": "13000a0028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 11,
+        "lang": 1033,
+        "offset": 3745184,
+        "size": 308,
+        "entropy": 3.336094,
+        "sha256": "601635482a9b1864ea0c61ce0282c5c9fe1d014aa95dbb4f60770f1c2b6df3da",
+        "magic_head": "10000f0028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 12,
+        "lang": 1033,
+        "offset": 3745492,
+        "size": 308,
+        "entropy": 2.813133,
+        "sha256": "2bf742d2beb4c56dd6eb68347dd8ee28da85bed9e6d165b36c6edb91da01d5d6",
+        "magic_head": "10000f0028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 13,
+        "lang": 1033,
+        "offset": 3745800,
+        "size": 308,
+        "entropy": 3.81491,
+        "sha256": "cfc4ff9e46fbb61f61b68f36adc6593b137233d1cbaa50fe37e5653f0cb20396",
+        "magic_head": "0f000f0028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 14,
+        "lang": 1033,
+        "offset": 3746108,
+        "size": 308,
+        "entropy": 2.100155,
+        "sha256": "c4a6e3a7a346baecb09a0c49268eb44f388382a7866a4e912b53d48fa3b34c26",
+        "magic_head": "10000f0028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 15,
+        "lang": 1033,
+        "offset": 3746416,
+        "size": 308,
+        "entropy": 1.970522,
+        "sha256": "f273e554605a89aa0994c9d42bc2569be3db5b19b2900dacb30f3218ed1174a0",
+        "magic_head": "10000f0028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 1,
+        "id_name": null,
+        "id": 16,
+        "lang": 1033,
+        "offset": 3746724,
+        "size": 308,
+        "entropy": 2.226991,
+        "sha256": "ebaf4bcc0f0d7ca9a3458ea52520d2dd10811069241940b9b2e79ac1a4c3ca5c",
+        "magic_head": "10000f0028000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 2,
+        "id_name": null,
+        "id": 30994,
+        "lang": 1033,
+        "offset": 3747032,
+        "size": 184,
+        "entropy": 2.236664,
+        "sha256": "e7c0005285d1ab59732d5f99f77a9bdd6342b01cf44437ebd7a07611a227e272",
+        "magic_head": "280000000c000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 2,
+        "id_name": null,
+        "id": 30996,
+        "lang": 1033,
+        "offset": 3747216,
+        "size": 324,
+        "entropy": 2.876207,
+        "sha256": "abdf36bde89a26349f5741c17c235dacea88d441d8662ba16a598dc50c3c4864",
+        "magic_head": "2800000021000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 5,
+        "id_name": null,
+        "id": 30721,
+        "lang": 1033,
+        "offset": 3747540,
+        "size": 232,
+        "entropy": 3.066761,
+        "sha256": "6e113fd8e9f3156ae68251c6076beb9b59fe29e589d06398e7019802521f69d3",
+        "magic_head": "c400c88000000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 5,
+        "id_name": null,
+        "id": 30734,
+        "lang": 1033,
+        "offset": 3747772,
+        "size": 52,
+        "entropy": 2.416692,
+        "sha256": "4cf716efaf68e0cb2ec45ec55d291050b5712b05653cae68edbb999f803d2a98",
+        "magic_head": "c800c88000000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3841,
+        "lang": 1033,
+        "offset": 3747824,
+        "size": 130,
+        "entropy": 2.817053,
+        "sha256": "d91dc4e26fd86def5ee907c72f32457bea07d21fa618012245f641d08501548d",
+        "magic_head": "04004f0070006500"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3842,
+        "lang": 1033,
+        "offset": 3747956,
+        "size": 42,
+        "entropy": 0.960953,
+        "sha256": "05e0d5787611ed4f643733e3e6e62d00f426422b5d3e443ceebac22e9d294bc4",
+        "magic_head": "0000050026004800"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3843,
+        "lang": 1033,
+        "offset": 3748000,
+        "size": 402,
+        "entropy": 3.085611,
+        "sha256": "66f1747ba4c17f6fca44818ed98445f01645651c120e72f558245e2df6949d35",
+        "magic_head": "1e004e006f002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3857,
+        "lang": 1033,
+        "offset": 3748404,
+        "size": 1250,
+        "entropy": 3.261389,
+        "sha256": "d036e1af5639fb867f5035330e81788bbc24eff762610e3f6bba5d78903a845a",
+        "magic_head": "110049006e007600"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3858,
+        "lang": 1033,
+        "offset": 3749656,
+        "size": 794,
+        "entropy": 3.025308,
+        "sha256": "c054645d86387fd491743027e6c2284d6a7262f6aced9321cbc1465cef2b6b1f",
+        "magic_head": "180050006c006500"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3859,
+        "lang": 1033,
+        "offset": 3750452,
+        "size": 732,
+        "entropy": 3.16997,
+        "sha256": "c1bc5318a82ea1a1809618040026851947f6aa5171d904a9e60966f4551ca1a3",
+        "magic_head": "170055006e006500"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3860,
+        "lang": 1033,
+        "offset": 3751184,
+        "size": 138,
+        "entropy": 2.710866,
+        "sha256": "35b5abb90316b4017d5531e031cbf15bae6e8dd46f6dd221701693a22a7795be",
+        "magic_head": "1f00250031003a00"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3865,
+        "lang": 1033,
+        "offset": 3751324,
+        "size": 172,
+        "entropy": 2.639025,
+        "sha256": "1b8660b0c53b94f3e029de58e56d08c8097a080244e9dc65d4155a9b603820d8",
+        "magic_head": "0000000000000000"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3866,
+        "lang": 1033,
+        "offset": 3751496,
+        "size": 222,
+        "entropy": 2.878066,
+        "sha256": "31bff9afbf08a8869318cd946a1d73a4425afefc5693c6e06671bde1e86de1dc",
+        "magic_head": "230055006e006100"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3867,
+        "lang": 1033,
+        "offset": 3751720,
+        "size": 1220,
+        "entropy": 3.23259,
+        "sha256": "36db380991291cac5c99e42332efda20210f63985544d95e8fa6ef85bf2bdf8e",
+        "magic_head": "12004e006f002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3868,
+        "lang": 1033,
+        "offset": 3752940,
+        "size": 612,
+        "entropy": 3.094657,
+        "sha256": "7f51554313c6765ba649783a942064cdfe6f5a70248a6f56840f71969f87ced0",
+        "magic_head": "12004e006f002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3869,
+        "lang": 1033,
+        "offset": 3753552,
+        "size": 44,
+        "entropy": 1.078755,
+        "sha256": "0714c554acd308b38c3d6319f7e470f76a16d712f696545eacac2bdc725dfb95",
+        "magic_head": "0600700069007800"
+      },
+      {
+        "type_name": null,
+        "type_id": 6,
+        "id_name": null,
+        "id": 3887,
+        "lang": 1033,
+        "offset": 3753596,
+        "size": 66,
+        "entropy": 1.959642,
+        "sha256": "1f1b61a7f04edc3691a6c9350132b09929d5bfa1c900f6ff500e55c5ebc63212",
+        "magic_head": "0000070055006e00"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 30977,
+        "lang": 1033,
+        "offset": 3753664,
+        "size": 34,
+        "entropy": 2.058778,
+        "sha256": "1ae3e871bb24efadc5c3ed9b87b902421883b191abb09c3d1033e38d9e538d4b",
+        "magic_head": "0000020002002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 30998,
+        "lang": 1033,
+        "offset": 3753700,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "ec26c438d10e3e84ec855c47f07a176e6c11bbfae1557d526490711b80f087fe",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 30999,
+        "lang": 1033,
+        "offset": 3753720,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "43f40dd5140804309a4c901ec3c85b54481316e67a6fe18beb9d5c0ce3a42c3a",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31000,
+        "lang": 1033,
+        "offset": 3753740,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "326c048595bbc72e3f989cb3b95fbf09dc83739ced3cb13eb6f03336f95d74f1",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31001,
+        "lang": 1033,
+        "offset": 3753760,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "6e1e7738a1b6373d8829f817915822ef415a1727bb5bb7cfe809e31b3c143ac5",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31002,
+        "lang": 1033,
+        "offset": 3753780,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "a2f0549cca7170ae03ba042464efe62365fba38c20049e439871c9e5ce0f914f",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31003,
+        "lang": 1033,
+        "offset": 3753800,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "a0adcedb82b57089f64e2857f97cefd6cf25f4d27eefc6648bda83fd5fef66bb",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31004,
+        "lang": 1033,
+        "offset": 3753820,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "a92f60b25322592e7ddd13d88e4006c097666f4d87c8cb0c21ffdccd53b31d78",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31005,
+        "lang": 1033,
+        "offset": 3753840,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "ff47a48c11c234903a7d625cb8b62101909f735ad84266c98dd4834549452c39",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31006,
+        "lang": 1033,
+        "offset": 3753860,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "9c17b4621412d6ded24a76aed74d4425ae61f86b6d4092ca1e28ca66b7c71399",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31007,
+        "lang": 1033,
+        "offset": 3753880,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "28b8110695851e5280ff55cb78507b03e8b74dd370b8e122179c82b56f7e5f37",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31008,
+        "lang": 1033,
+        "offset": 3753900,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "8a495f17bc472bfc5e6923d9efa687848fac027ad60694f9c3f10a4f7b194924",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31009,
+        "lang": 1033,
+        "offset": 3753920,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "ef309b720f166673cad840a88e7636e9161ad91415cc7c176010cebba07757e5",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31010,
+        "lang": 1033,
+        "offset": 3753940,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "4ecc7f2578fd7b137c04f85ffcbd67d6eab0bc8b1df4246cebd2a2aa517f3c60",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 12,
+        "id_name": null,
+        "id": 31011,
+        "lang": 1033,
+        "offset": 3753960,
+        "size": 20,
+        "entropy": 2.019241,
+        "sha256": "12a5b9052dd16bed260343bc4352d436167c991c54497c5af441304646549386",
+        "magic_head": "0000020001002000"
+      },
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 3753980,
+        "size": 968,
+        "entropy": 3.440279,
+        "sha256": "38c209ee93ad61e94f25f16fabb76b0c406b9042128eb3bf06415cbc205e625e",
+        "magic_head": "c803340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 3754948,
+        "size": 340,
+        "entropy": 5.085664,
+        "sha256": "4c7c973b7c4a6d704375147c6853e9031ad06434836858820a611d2032b4e85a",
+        "magic_head": "3c617373656d626c"
+      }
+    ],
+    "total_size": 13038,
+    "max_entropy": 5.085664
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 3555278845,
+    "entries": [
+      {
+        "id": 120,
+        "build_id": 50727,
+        "count": 1
+      },
+      {
+        "id": 124,
+        "build_id": 50727,
+        "count": 1
+      },
+      {
+        "id": 122,
+        "build_id": 50727,
+        "count": 1
+      },
+      {
+        "id": 110,
+        "build_id": 50727,
+        "count": 108
+      },
+      {
+        "id": 109,
+        "build_id": 50727,
+        "count": 363
+      },
+      {
+        "id": 0,
+        "build_id": 0,
+        "count": 1
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 238
+      },
+      {
+        "id": 123,
+        "build_id": 50727,
+        "count": 9
+      },
+      {
+        "id": 93,
+        "build_id": 4035,
+        "count": 10
+      },
+      {
+        "id": 95,
+        "build_id": 4035,
+        "count": 2
+      },
+      {
+        "id": 125,
+        "build_id": 50727,
+        "count": 7
+      },
+      {
+        "id": 126,
+        "build_id": 50327,
+        "count": 2
+      }
+    ],
+    "raw_hex": "b95e8780fd3fe9d3fd3fe9d3fd3fe9d36afb97d3ff3fe9d3daf994d3fa3fe9d33e30b6d3ff3fe9d33e30b4d3f73fe9d3daf992d3f43fe9d3fd3fe8d3133fe9d3fd3fe9d3fc3fe9d3daf984d3963ee9d3daf987d3913fe9d3daf993d3fc3fe9d3daf995d3fc3fe9d3daf991d3fc3fe9d352696368fd3fe9d3",
+    "raw_offset": 128,
+    "raw_size": 120,
+    "entry_count": 12
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 3706752,
+      "size": 12693,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 3697260,
+      "size": 200,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 3743744,
+      "size": 15640,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 3760128,
+      "size": 34372,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 550032,
+      "size": 28,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 3651472,
+      "size": 64,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 548864,
+      "size": 880,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": 340
+  },
+  "entrypoint_bytes": {
+    "offset": 510566,
+    "hex": "837c2408017505e8e2050000ff7424048b4c24108b54240ce8cdfeffff59c20c00cccccccccccccccccc833d341f391000742d558bec83ec0883e4f8dd1c24f2",
+    "entropy": 4.755488
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 272173052,
+    "se_handler_count": 445,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 1,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 4,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 10220
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 8,
+    "minor_linker_version": 0,
+    "sizeof_code": 544768,
+    "sizeof_initialized_data": 3264512,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 510566,
+    "baseof_code": 4096,
+    "baseof_data": 548864,
+    "imagebase": 268435456,
+    "section_alignment": 4096,
+    "file_alignment": 4096,
+    "major_operating_system_version": 4,
+    "minor_operating_system_version": 0,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 4,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 3817472,
+    "sizeof_headers": 4096,
+    "checksum": 3815292,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 0,
+    "dll_characteristics": [],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 200,
+    "entropy": 5.038343,
+    "is_standard_ms": 1,
+    "sha256": "ff5dae920bb96af86e8ec3cca0e74c628f16973501495a7a7bc9a6d594e5ddb5",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a2400000000000000b95e8780fd3fe9d3fd3fe9d3fd3fe9d36afb97d3ff3fe9d3daf994d3fa3fe9d33e30b6d3ff3fe9d33e30b4d3f73fe9d3daf992d3f43fe9d3fd3fe8d3133fe9d3fd3fe9d3fc3fe9d3daf984d3963ee9d3daf987d3913fe9d3daf993d3fc3fe9d3daf995d3fc3fe9d3daf991d3fc3fe9d352696368fd3fe9d300000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ ^ ? ? ? j ? ? >0 ? >0 ? ? ? ? ? ? > ? ? ? ? Rich ?",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 3815292,
+    "checksum_computed": 3815292,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 510566,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.550088
+  },
+  "overlay": {
+    "size": 0,
+    "offset": 0,
+    "entropy": null,
+    "magic_head": null,
+    "sha256": null
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 1,
+    "types": [
+      "CODEVIEW"
+    ],
+    "pdb_path": "c:\\BuildArea\\GT_Lilo_All\\20080623.GTLIA.139\\esg\\lilo\\4.0\\binaries\\VC.Net2005\\ReleaseStaticAGL\\AdobeLinguistic.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 177,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "Adobe Systems Incorporated",
+    "file_description": "Linguistic Library",
+    "original_filename": "AdobeLinguistic.dll",
+    "product_name": "Adobe Linguisitc Library",
+    "file_version": "4.0.0.7863",
+    "legal_copyright": "Copyright 1999-2008 Adobe Systems Incorporated. All Rights Reserved.",
+    "internal_name": "Lilo"
+  },
+  "strings": {
+    "count_ascii": 22810,
+    "count_utf16": 33330,
+    "count_total": 56140,
+    "chars_total": 561718,
+    "printable_ratio": 0.147302,
+    "len_mean": 10.01,
+    "len_max": 7121,
+    "urls": [],
+    "n_urls": 0,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "adobelinguistic.dll",
+      "advapi32.dll",
+      "axe8sharedexpat.dll",
+      "bib.dll",
+      "kernel32.dll",
+      "msvcp80.dll",
+      "msvcr80.dll",
+      "ole32.dll",
+      "oleaut32.dll",
+      "shell32.dll"
+    ],
+    "n_dll_names": 10,
+    "registry_paths": [
+      "SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Time Zones\\",
+      "SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Time Zones\\GMT",
+      "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Time Zones",
+      "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Time Zones\\",
+      "SYSTEM\\CurrentControlSet\\Control\\TimeZoneInformation\\"
+    ],
+    "n_registry_paths": 5,
+    "file_paths": [
+      "\\\\.\\mailslot\\Lilo",
+      "c:\\BuildArea\\GT_Lilo_All\\20080623.GTLIA.139\\esg\\lilo\\4.0\\binaries\\VC.Net2005\\ReleaseStaticAGL\\AdobeLinguistic.pdb"
+    ],
+    "n_file_paths": 2
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "adobelinguistic.dll"
+    ],
+    "n_orphans": 1,
+    "n_imported": 9
+  }
+}

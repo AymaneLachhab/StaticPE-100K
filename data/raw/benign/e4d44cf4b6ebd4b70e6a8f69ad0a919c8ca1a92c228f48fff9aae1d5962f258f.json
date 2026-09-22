@@ -1,0 +1,4045 @@
+{
+  "sha256": "e4d44cf4b6ebd4b70e6a8f69ad0a919c8ca1a92c228f48fff9aae1d5962f258f",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 1257984,
+    "md5": "549cedccdfb686568cf902a48b01ec5d",
+    "sha1": "94f07ea92942cf96544f9928e9e7adac4601a4dd",
+    "imphash": "28f1df409ff1921102d37ecfcc1d29f5",
+    "tlsh": "T1B6456C112616C97BC5C611BAC53B8766263E80445B65CBC3A7848A2C9F673C2EF3F397",
+    "ssdeep": "24576:2eo8BkdllJLsjuPFSkbFX7ocghPrlsNxlaoz6dhA9x1ikJKACe+gbQVcZ4z2qJKS:vo8uJLPPFSkbFX7ocghPrlsNxlaoz6ds",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.426347,
+    "byte_histogram_256": [
+      0.18003806,
+      0.0207451,
+      0.0146234,
+      0.01428794,
+      0.02091601,
+      0.00431405,
+      0.01700976,
+      0.00617257,
+      0.01268697,
+      0.00976721,
+      0.00537447,
+      0.00322421,
+      0.0049476,
+      0.00302468,
+      0.00235615,
+      0.00818611,
+      0.01797877,
+      0.01173783,
+      0.01179029,
+      0.00464871,
+      0.00209303,
+      0.00104691,
+      0.00268286,
+      0.00180924,
+      0.00214232,
+      0.00128142,
+      0.00317174,
+      0.00055247,
+      0.0015493,
+      0.00055247,
+      0.00106281,
+      0.00322659,
+      0.01128313,
+      0.00067568,
+      0.00084739,
+      0.00047775,
+      0.00275282,
+      0.00320036,
+      0.00117569,
+      0.00040541,
+      0.00682839,
+      0.00130924,
+      0.0030374,
+      0.00115661,
+      0.0032727,
+      0.00077743,
+      0.00306761,
+      0.00041177,
+      0.00586255,
+      0.00243405,
+      0.00205567,
+      0.00320115,
+      0.00250321,
+      0.0014404,
+      0.00228302,
+      0.00160336,
+      0.00261291,
+      0.00136011,
+      0.00307158,
+      0.00152069,
+      0.00458909,
+      0.00126472,
+      0.00370911,
+      0.00401674,
+      0.00978232,
+      0.00593092,
+      0.00394759,
+      0.0068888,
+      0.00275123,
+      0.00764398,
+      0.00297381,
+      0.0010016,
+      0.00299765,
+      0.00304217,
+      0.00631407,
+      0.00040541,
+      0.00147776,
+      0.00322421,
+      0.00083069,
+      0.0010024,
+      0.00589753,
+      0.00202228,
+      0.00264073,
+      0.00404695,
+      0.00522344,
+      0.00379735,
+      0.00326475,
+      0.0011892,
+      0.00634825,
+      0.00222419,
+      0.00059619,
+      0.00058427,
+      0.00068284,
+      0.00330529,
+      0.00210019,
+      0.0073578,
+      0.0012361,
+      0.01373149,
+      0.00218365,
+      0.00628625,
+      0.0076408,
+      0.02004477,
+      0.00658752,
+      0.00350879,
+      0.00344043,
+      0.00826402,
+      0.0013458,
+      0.00130208,
+      0.00680931,
+      0.00638482,
+      0.00841664,
+      0.0087052,
+      0.00537686,
+      0.00200082,
+      0.01417983,
+      0.01095006,
+      0.01907417,
+      0.00447223,
+      0.00136091,
+      0.0013156,
+      0.0017377,
+      0.00167093,
+      0.00063196,
+      0.00227745,
+      0.00111766,
+      0.00314233,
+      0.00082036,
+      0.00204057,
+      0.00349527,
+      0.00115502,
+      0.0020517,
+      0.00564316,
+      0.00146902,
+      0.00423614,
+      0.00116933,
+      0.00105884,
+      0.00143802,
+      0.00400085,
+      0.00076472,
+      0.02182858,
+      0.00088236,
+      0.00424091,
+      0.00045947,
+      0.00042051,
+      0.0015191,
+      0.00055486,
+      0.00046423,
+      0.00082036,
+      0.00128301,
+      0.00085454,
+      0.00046106,
+      0.00034818,
+      0.00096663,
+      0.00074166,
+      0.00023212,
+      0.00032115,
+      0.00067012,
+      0.00025597,
+      0.00033307,
+      0.00035295,
+      0.00098411,
+      0.00154612,
+      0.00044913,
+      0.00101432,
+      0.0007679,
+      0.00038713,
+      0.00041972,
+      0.00033943,
+      0.00096822,
+      0.00044277,
+      0.00041098,
+      0.0006423,
+      0.00067568,
+      0.00078061,
+      0.00035374,
+      0.00032353,
+      0.00129572,
+      0.00061845,
+      0.0003124,
+      0.00028299,
+      0.00070112,
+      0.00042767,
+      0.00049206,
+      0.00022655,
+      0.00127108,
+      0.00036884,
+      0.00028617,
+      0.00028617,
+      0.00064627,
+      0.00035931,
+      0.00035533,
+      0.00027186,
+      0.00414314,
+      0.001535,
+      0.00247539,
+      0.00383391,
+      0.00228779,
+      0.00071305,
+      0.00231481,
+      0.00668371,
+      0.00230687,
+      0.00285616,
+      0.00039428,
+      0.00028538,
+      0.04541155,
+      0.00022496,
+      0.00103419,
+      0.00034579,
+      0.00115502,
+      0.0010644,
+      0.0015962,
+      0.00042369,
+      0.00064786,
+      0.00044039,
+      0.00046026,
+      0.00028458,
+      0.00081003,
+      0.00033307,
+      0.00027981,
+      0.00046264,
+      0.00249685,
+      0.00039826,
+      0.003132,
+      0.00040223,
+      0.00110494,
+      0.00063355,
+      0.00037202,
+      0.00052783,
+      0.00131321,
+      0.00177268,
+      0.00158508,
+      0.00046662,
+      0.00406603,
+      0.00178142,
+      0.00052306,
+      0.00075597,
+      0.00336173,
+      0.0003291,
+      0.0002814,
+      0.00033546,
+      0.00255329,
+      0.00094675,
+      0.00028935,
+      0.00061368,
+      0.00280608,
+      0.00025994,
+      0.00112164,
+      0.000345,
+      0.00154294,
+      0.00057234,
+      0.00053021,
+      0.00040859,
+      0.00437446,
+      0.00050955,
+      0.00237284,
+      0.01834761
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00206415,
+      6.526e-05,
+      2.746e-05,
+      3.383e-05,
+      2.229e-05,
+      1.353e-05,
+      1.99e-05,
+      2.547e-05,
+      2.507e-05,
+      1.751e-05,
+      1.194e-05,
+      2.109e-05,
+      2.149e-05,
+      2.507e-05,
+      2.547e-05,
+      2.547e-05,
+      0.00198934,
+      0.00010983,
+      3.223e-05,
+      3.383e-05,
+      3.303e-05,
+      2.746e-05,
+      2.348e-05,
+      2.587e-05,
+      6.77e-06,
+      3.9e-05,
+      2.706e-05,
+      1.632e-05,
+      2.507e-05,
+      2.109e-05,
+      1.711e-05,
+      1.751e-05,
+      0.02813527,
+      0.00183772,
+      0.00096025,
+      0.00072108,
+      0.00055315,
+      0.00044252,
+      0.00057623,
+      0.00053405,
+      0.00039437,
+      0.00086633,
+      0.00065064,
+      0.00045645,
+      0.00099925,
+      0.00057066,
+      0.00037765,
+      0.00104421,
+      0.03696134,
+      0.0041689,
+      0.00198257,
+      0.00144335,
+      0.00387959,
+      0.00261093,
+      0.01680412,
+      0.00839549,
+      0.00107127,
+      0.00127303,
+      0.00091886,
+      0.00051017,
+      0.00076485,
+      0.00061244,
+      0.00051256,
+      0.0028501,
+      0.04381916,
+      0.00616818,
+      0.00727647,
+      0.00791955,
+      0.01295159,
+      0.00907161,
+      0.04328711,
+      0.02527641,
+      0.00084484,
+      0.00054917,
+      0.00053206,
+      0.00051494,
+      0.00115285,
+      0.00167735,
+      0.00067014,
+      0.00128776,
+      0.08405043,
+      0.0171169,
+      0.01257712,
+      0.01059733,
+      0.01376818,
+      0.01402127,
+      0.02667202,
+      0.01995944,
+      0.0024999,
+      0.00197143,
+      0.00147997,
+      0.0010072,
+      0.00452824,
+      0.00316169,
+      0.00159219,
+      0.00260059,
+      0.04345703,
+      0.00931555,
+      0.00650843,
+      0.00265709,
+      0.00389909,
+      0.00364878,
+      0.00643043,
+      0.00533767,
+      0.00413268,
+      0.00160452,
+      0.00137172,
+      0.00120061,
+      0.00235585,
+      0.00175654,
+      0.00151697,
+      0.00179156,
+      0.02655661,
+      0.01231965,
+      0.00784195,
+      0.01423537,
+      0.00350273,
+      0.00332525,
+      0.00647699,
+      0.00325202,
+      0.00891243,
+      0.00173226,
+      0.0017446,
+      0.00157706,
+      0.0080445,
+      0.00231645,
+      0.00269569,
+      0.00386088,
+      0.03955755,
+      0.01076646,
+      0.00173903,
+      0.00283378,
+      0.01336068,
+      0.01087152,
+      0.00346612,
+      0.00550242,
+      0.02207811,
+      0.00128338,
+      0.00212743,
+      0.00121095,
+      0.03838042,
+      0.00249593,
+      0.0061455,
+      0.01177486,
+      0.02059258,
+      0.00521908,
+      0.00167257,
+      0.00262566,
+      0.00818458,
+      0.00713241,
+      0.00214255,
+      0.00380159,
+      0.0141514,
+      0.00080226,
+      0.0015703,
+      0.00157189,
+      0.02041191,
+      0.00169605,
+      0.00553186,
+      0.01210277,
+      0.0005233,
+      0.0002909,
+      8.039e-05,
+      7.641e-05,
+      0.00010426,
+      0.00014883,
+      7.72e-05,
+      0.00011182,
+      0.00023678,
+      1.592e-05,
+      5.531e-05,
+      8.596e-05,
+      0.00022882,
+      3.979e-05,
+      0.00012098,
+      0.00024832,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 628811,
+      "raw_size": 629248,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.076196,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 576290,
+      "raw_size": 576512,
+      "virtual_address": 634880,
+      "pointerto_raw_data": 630272,
+      "entropy": 6.023411,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 18472,
+      "raw_size": 16384,
+      "virtual_address": 1212416,
+      "pointerto_raw_data": 1206784,
+      "entropy": 5.514558,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 1128,
+      "raw_size": 1536,
+      "virtual_address": 1232896,
+      "pointerto_raw_data": 1223168,
+      "entropy": 4.294577,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 33236,
+      "raw_size": 33280,
+      "virtual_address": 1236992,
+      "pointerto_raw_data": 1224704,
+      "entropy": 6.628237,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 280,
+    "e_lfanew_raw": 280,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000018010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 5,
+    "time_date_stamp": 1521787073,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8450,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 1,
+    "runtime_major": 2,
+    "runtime_minor": 5,
+    "flags": 24,
+    "entrypoint_token": 581962,
+    "has_strong_name": 1,
+    "il_only": 0,
+    "native_entrypoint": 1
+  },
+  "imports": [
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 634880,
+      "import_lookup_table_rva": 1202500,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 592,
+          "iat_address": 634880,
+          "iat_value": 1203504,
+          "data": 1203504
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetLastError",
+          "hint": 1291,
+          "iat_address": 634884,
+          "iat_value": 1203520,
+          "data": 1203520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FormatMessageA",
+          "hint": 409,
+          "iat_address": 634888,
+          "iat_value": 1203536,
+          "data": 1203536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DecodePointer",
+          "hint": 254,
+          "iat_address": 634892,
+          "iat_value": 1209800,
+          "data": 1209800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1069,
+          "iat_address": 634896,
+          "iat_value": 1209816,
+          "data": 1209816
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 522,
+          "iat_address": 634900,
+          "iat_value": 1209842,
+          "data": 1209842
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 526,
+          "iat_address": 634904,
+          "iat_value": 1209864,
+          "data": 1209864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 726,
+          "iat_address": 634908,
+          "iat_value": 1209886,
+          "data": 1209886
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DisableThreadLibraryCalls",
+          "hint": 275,
+          "iat_address": 634912,
+          "iat_value": 1209912,
+          "data": 1209912
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 871,
+          "iat_address": 634916,
+          "iat_value": 1209940,
+          "data": 1209940
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsProcessorFeaturePresent",
+          "hint": 877,
+          "iat_address": 634920,
+          "iat_value": 1209960,
+          "data": 1209960
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 1485,
+          "iat_address": 634924,
+          "iat_value": 1210086,
+          "data": 1210086
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 1362,
+          "iat_address": 634928,
+          "iat_value": 1210108,
+          "data": 1210108
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnmapViewOfFile",
+          "hint": 1413,
+          "iat_address": 634932,
+          "iat_value": 1210116,
+          "data": 1210116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 127,
+          "iat_address": 634936,
+          "iat_value": 1210134,
+          "data": 1210134
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileMappingW",
+          "hint": 191,
+          "iat_address": 634940,
+          "iat_value": 1210148,
+          "data": 1210148
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MapViewOfFile",
+          "hint": 960,
+          "iat_address": 634944,
+          "iat_value": 1210170,
+          "data": 1210170
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EncodePointer",
+          "hint": 289,
+          "iat_address": 634948,
+          "iat_value": 1209784,
+          "data": 1209784
+        }
+      ],
+      "function_count": 18
+    },
+    {
+      "name": "MSVCP120.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 634956,
+      "import_lookup_table_rva": 1202576,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ",
+          "hint": 630,
+          "iat_address": 634956,
+          "iat_value": 1204368,
+          "data": 1204368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@H@Z",
+          "hint": 254,
+          "iat_address": 634960,
+          "iat_value": 1204430,
+          "data": 1204430
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ",
+          "hint": 910,
+          "iat_address": 634964,
+          "iat_value": 1204494,
+          "data": 1204494
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ",
+          "hint": 600,
+          "iat_address": 634968,
+          "iat_value": 1204560,
+          "data": 1204560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Unlock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAEXXZ",
+          "hint": 703,
+          "iat_address": 634972,
+          "iat_value": 1204624,
+          "data": 1204624
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEXABVlocale@2@@Z",
+          "hint": 1052,
+          "iat_address": 634976,
+          "iat_value": 1204690,
+          "data": 1204690
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setbuf@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEPAV12@PAD_J@Z",
+          "hint": 1238,
+          "iat_address": 634980,
+          "iat_value": 1204766,
+          "data": 1204766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?showmanyc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JXZ",
+          "hint": 1270,
+          "iat_address": 634984,
+          "iat_value": 1204840,
+          "data": 1204840
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ",
+          "hint": 1313,
+          "iat_address": 634988,
+          "iat_value": 1204908,
+          "data": 1204908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAEHXZ",
+          "hint": 1344,
+          "iat_address": 634992,
+          "iat_value": 1204970,
+          "data": 1204970
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPAD_J@Z",
+          "hint": 1387,
+          "iat_address": 634996,
+          "iat_value": 1205034,
+          "data": 1205034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MAE_JPBD_J@Z",
+          "hint": 1390,
+          "iat_address": 635000,
+          "iat_value": 1205104,
+          "data": 1205104
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_BADOFF@std@@3_JB",
+          "hint": 423,
+          "iat_address": 635004,
+          "iat_value": 1205174,
+          "data": 1205174
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??_7ios_base@std@@6B@",
+          "hint": 345,
+          "iat_address": 635008,
+          "iat_value": 1205196,
+          "data": 1205196
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??_7?$basic_ios@DU?$char_traits@D@std@@@std@@6B@",
+          "hint": 306,
+          "iat_address": 635012,
+          "iat_value": 1205220,
+          "data": 1205220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEDD@Z",
+          "hint": 1369,
+          "iat_address": 635016,
+          "iat_value": 1205272,
+          "data": 1205272
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_ios@DU?$char_traits@D@std@@@std@@IAE@XZ",
+          "hint": 7,
+          "iat_address": 635020,
+          "iat_value": 1205330,
+          "data": 1205330
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAV01@AAV01@@Z@Z",
+          "hint": 261,
+          "iat_address": 635024,
+          "iat_value": 1205384,
+          "data": 1205384
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAVios_base@1@AAV21@@Z@Z",
+          "hint": 263,
+          "iat_address": 635028,
+          "iat_value": 1205464,
+          "data": 1205464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@K@Z",
+          "hint": 257,
+          "iat_address": 635032,
+          "iat_value": 1205552,
+          "data": 1205552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@D@Z",
+          "hint": 1154,
+          "iat_address": 635036,
+          "iat_value": 1205616,
+          "data": 1205616
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_iostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@@Z",
+          "hint": 14,
+          "iat_address": 635040,
+          "iat_value": 1205682,
+          "data": 1205682
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1?$basic_iostream@DU?$char_traits@D@std@@@std@@UAE@XZ",
+          "hint": 126,
+          "iat_address": 635044,
+          "iat_value": 1205788,
+          "data": 1205788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xlength_error@std@@YAXPBD@Z",
+          "hint": 716,
+          "iat_address": 635048,
+          "iat_value": 1203594,
+          "data": 1203594
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xout_of_range@std@@YAXPBD@Z",
+          "hint": 717,
+          "iat_address": 635052,
+          "iat_value": 1203626,
+          "data": 1203626
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Syserror_map@std@@YAPBDH@Z",
+          "hint": 688,
+          "iat_address": 635056,
+          "iat_value": 1203658,
+          "data": 1203658
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Winerror_map@std@@YAPBDH@Z",
+          "hint": 709,
+          "iat_address": 635060,
+          "iat_value": 1203690,
+          "data": 1203690
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Ios_base_dtor@ios_base@std@@CAXPAV12@@Z",
+          "hint": 579,
+          "iat_address": 635064,
+          "iat_value": 1203722,
+          "data": 1203722
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAE@XZ",
+          "hint": 42,
+          "iat_address": 635068,
+          "iat_value": 1203766,
+          "data": 1203766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1?$basic_streambuf@DU?$char_traits@D@std@@@std@@UAE@XZ",
+          "hint": 135,
+          "iat_address": 635072,
+          "iat_value": 1203826,
+          "data": 1203826
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z",
+          "hint": 1279,
+          "iat_address": 635076,
+          "iat_value": 1203886,
+          "data": 1203886
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z",
+          "hint": 1282,
+          "iat_address": 635080,
+          "iat_value": 1203950,
+          "data": 1203950
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Pninc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAEPADXZ",
+          "hint": 636,
+          "iat_address": 635084,
+          "iat_value": 1204020,
+          "data": 1204020
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1?$basic_ios@DU?$char_traits@D@std@@@std@@UAE@XZ",
+          "hint": 123,
+          "iat_address": 635088,
+          "iat_value": 1204086,
+          "data": 1204086
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z",
+          "hint": 1254,
+          "iat_address": 635092,
+          "iat_value": 1204140,
+          "data": 1204140
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1?$basic_ostream@DU?$char_traits@D@std@@@std@@UAE@XZ",
+          "hint": 132,
+          "iat_address": 635096,
+          "iat_value": 1204310,
+          "data": 1204310
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@PAV?$basic_streambuf@DU?$char_traits@D@std@@@1@_N@Z",
+          "hint": 32,
+          "iat_address": 635100,
+          "iat_value": 1204204,
+          "data": 1204204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Swap_all@_Container_base0@std@@QAEXAAU12@@Z",
+          "hint": 683,
+          "iat_address": 635104,
+          "iat_value": 1210296,
+          "data": 1210296
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ",
+          "hint": 1192,
+          "iat_address": 635108,
+          "iat_value": 1210344,
+          "data": 1210344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?good@ios_base@std@@QBE_NXZ",
+          "hint": 1003,
+          "iat_address": 635112,
+          "iat_value": 1210448,
+          "data": 1210448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ",
+          "hint": 1326,
+          "iat_address": 635116,
+          "iat_value": 1210478,
+          "data": 1210478
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?uncaught_exception@std@@YA_NXZ",
+          "hint": 1347,
+          "iat_address": 635120,
+          "iat_value": 1210578,
+          "data": 1210578
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?width@ios_base@std@@QBE_JXZ",
+          "hint": 1379,
+          "iat_address": 635124,
+          "iat_value": 1210612,
+          "data": 1210612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?flags@ios_base@std@@QBEHXZ",
+          "hint": 909,
+          "iat_address": 635128,
+          "iat_value": 1210644,
+          "data": 1210644
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xbad_alloc@std@@YAXXZ",
+          "hint": 713,
+          "iat_address": 635132,
+          "iat_value": 1203568,
+          "data": 1203568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEDXZ",
+          "hint": 903,
+          "iat_address": 635136,
+          "iat_value": 1210674,
+          "data": 1210674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?width@ios_base@std@@QAE_J_J@Z",
+          "hint": 1378,
+          "iat_address": 635140,
+          "iat_value": 1210730,
+          "data": 1210730
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Orphan_all@_Container_base0@std@@QAEXXZ",
+          "hint": 628,
+          "iat_address": 635144,
+          "iat_value": 1210764,
+          "data": 1210764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0id@locale@std@@QAE@I@Z",
+          "hint": 118,
+          "iat_address": 635148,
+          "iat_value": 1210808,
+          "data": 1210808
+        }
+      ],
+      "function_count": 49
+    },
+    {
+      "name": "MSVCR120.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 635156,
+      "import_lookup_table_rva": 1202776,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__clean_type_info_names_internal",
+          "hint": 396,
+          "iat_address": 635156,
+          "iat_value": 1206226,
+          "data": 1206226
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_except_handler4_common",
+          "hint": 634,
+          "iat_address": 635160,
+          "iat_value": 1206262,
+          "data": 1206262
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_crt_debugger_hook",
+          "hint": 592,
+          "iat_address": 635164,
+          "iat_value": 1206288,
+          "data": 1206288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__crtUnhandledException",
+          "hint": 428,
+          "iat_address": 635168,
+          "iat_value": 1206310,
+          "data": 1206310
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__crtTerminateProcess",
+          "hint": 427,
+          "iat_address": 635172,
+          "iat_value": 1206336,
+          "data": 1206336
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_cexit",
+          "hint": 559,
+          "iat_address": 635176,
+          "iat_value": 1211112,
+          "data": 1211112
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?__ExceptionPtrCopy@@YAXPAXPBX@Z",
+          "hint": 262,
+          "iat_address": 635180,
+          "iat_value": 1211076,
+          "data": 1211076
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__RTDynamicCast",
+          "hint": 381,
+          "iat_address": 635184,
+          "iat_value": 1211058,
+          "data": 1211058
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_CxxThrowException",
+          "hint": 344,
+          "iat_address": 635188,
+          "iat_value": 1211036,
+          "data": 1211036
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CxxUnregisterExceptionObject",
+          "hint": 376,
+          "iat_address": 635192,
+          "iat_value": 1211002,
+          "data": 1211002
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CxxDetectRethrow",
+          "hint": 368,
+          "iat_address": 635196,
+          "iat_value": 1210980,
+          "data": 1210980
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CxxRegisterExceptionObject",
+          "hint": 375,
+          "iat_address": 635200,
+          "iat_value": 1210948,
+          "data": 1210948
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CxxExceptionFilter",
+          "hint": 369,
+          "iat_address": 635204,
+          "iat_value": 1210924,
+          "data": 1210924
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CxxQueryExceptionSize",
+          "hint": 374,
+          "iat_address": 635208,
+          "iat_value": 1210898,
+          "data": 1210898
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0exception@std@@QAE@ABV01@@Z",
+          "hint": 44,
+          "iat_address": 635212,
+          "iat_value": 1210864,
+          "data": 1210864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1exception@std@@UAE@XZ",
+          "hint": 106,
+          "iat_address": 635216,
+          "iat_value": 1210836,
+          "data": 1210836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?terminate@@YAXXZ",
+          "hint": 309,
+          "iat_address": 635220,
+          "iat_value": 1206206,
+          "data": 1206206
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_onexit",
+          "hint": 1082,
+          "iat_address": 635224,
+          "iat_value": 1206196,
+          "data": 1206196
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__dllonexit",
+          "hint": 430,
+          "iat_address": 635228,
+          "iat_value": 1206182,
+          "data": 1206182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_unlock",
+          "hint": 1284,
+          "iat_address": 635232,
+          "iat_value": 1206158,
+          "data": 1206158
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_lock",
+          "hint": 916,
+          "iat_address": 635236,
+          "iat_value": 1206150,
+          "data": 1206150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm_e",
+          "hint": 781,
+          "iat_address": 635240,
+          "iat_value": 1206136,
+          "data": 1206136
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 780,
+          "iat_address": 635244,
+          "iat_value": 1206124,
+          "data": 1206124
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_malloc_crt",
+          "hint": 933,
+          "iat_address": 635248,
+          "iat_value": 1206110,
+          "data": 1206110
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 1667,
+          "iat_address": 635252,
+          "iat_value": 1206102,
+          "data": 1206102
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_amsg_exit",
+          "hint": 535,
+          "iat_address": 635256,
+          "iat_value": 1206088,
+          "data": 1206088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CppXcptFilter",
+          "hint": 367,
+          "iat_address": 635260,
+          "iat_value": 1206070,
+          "data": 1206070
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "isspace",
+          "hint": 1705,
+          "iat_address": 635264,
+          "iat_value": 1206022,
+          "data": 1206022
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 1770,
+          "iat_address": 635268,
+          "iat_value": 1206012,
+          "data": 1206012
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??_V@YAXPAX@Z",
+          "hint": 137,
+          "iat_address": 635272,
+          "iat_value": 1205996,
+          "data": 1205996
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "abort",
+          "hint": 1500,
+          "iat_address": 635276,
+          "iat_value": 1205988,
+          "data": 1205988
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 1766,
+          "iat_address": 635280,
+          "iat_value": 1205978,
+          "data": 1205978
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CxxFrameHandler3",
+          "hint": 372,
+          "iat_address": 635284,
+          "iat_value": 1205956,
+          "data": 1205956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memmove",
+          "hint": 1768,
+          "iat_address": 635288,
+          "iat_value": 1205946,
+          "data": 1205946
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_hypot",
+          "hint": 773,
+          "iat_address": 635292,
+          "iat_value": 1205936,
+          "data": 1205936
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??3@YAXPAX@Z",
+          "hint": 114,
+          "iat_address": 635296,
+          "iat_value": 1205920,
+          "data": 1205920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??2@YAPAXI@Z",
+          "hint": 112,
+          "iat_address": 635300,
+          "iat_value": 1205904,
+          "data": 1205904
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?what@exception@std@@UBEPBDXZ",
+          "hint": 323,
+          "iat_address": 635304,
+          "iat_value": 1205872,
+          "data": 1205872
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_purecall",
+          "hint": 1097,
+          "iat_address": 635308,
+          "iat_value": 1205860,
+          "data": 1205860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_calloc_crt",
+          "hint": 558,
+          "iat_address": 635312,
+          "iat_value": 1206168,
+          "data": 1206168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1type_info@@UAE@XZ",
+          "hint": 111,
+          "iat_address": 635316,
+          "iat_value": 1206032,
+          "data": 1206032
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__FrameUnwindFilter",
+          "hint": 378,
+          "iat_address": 635320,
+          "iat_value": 1211122,
+          "data": 1211122
+        }
+      ],
+      "function_count": 42
+    },
+    {
+      "name": "libcef.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 635360,
+      "import_lookup_table_rva": 1202980,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_uriencode",
+          "hint": 173,
+          "iat_address": 635360,
+          "iat_value": 1207596,
+          "data": 1207596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_uridecode",
+          "hint": 172,
+          "iat_address": 635364,
+          "iat_value": 1207612,
+          "data": 1207612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_parse_json",
+          "hint": 64,
+          "iat_address": 635368,
+          "iat_value": 1207628,
+          "data": 1207628
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_parse_jsonand_return_error",
+          "hint": 65,
+          "iat_address": 635372,
+          "iat_value": 1207646,
+          "data": 1207646
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_remove_cross_origin_whitelist_entry",
+          "hint": 79,
+          "iat_address": 635376,
+          "iat_value": 1207350,
+          "data": 1207350
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_get_path",
+          "hint": 47,
+          "iat_address": 635380,
+          "iat_value": 1207698,
+          "data": 1207698
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_launch_process",
+          "hint": 56,
+          "iat_address": 635384,
+          "iat_value": 1207714,
+          "data": 1207714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_is_cert_status_error",
+          "hint": 52,
+          "iat_address": 635388,
+          "iat_value": 1207736,
+          "data": 1207736
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_is_cert_status_minor_error",
+          "hint": 53,
+          "iat_address": 635392,
+          "iat_value": 1207764,
+          "data": 1207764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_begin_tracing",
+          "hint": 7,
+          "iat_address": 635396,
+          "iat_value": 1207798,
+          "data": 1207798
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_end_tracing",
+          "hint": 37,
+          "iat_address": 635400,
+          "iat_value": 1207818,
+          "data": 1207818
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_now_from_system_trace_time",
+          "hint": 62,
+          "iat_address": 635404,
+          "iat_value": 1207836,
+          "data": 1207836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_execute_java_script_with_user_gesture_for_tests",
+          "hint": 38,
+          "iat_address": 635408,
+          "iat_value": 1207870,
+          "data": 1207870
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_api_hash",
+          "hint": 4,
+          "iat_address": 635412,
+          "iat_value": 1207924,
+          "data": 1207924
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_utf8_to_utf16",
+          "hint": 138,
+          "iat_address": 635416,
+          "iat_value": 1207940,
+          "data": 1207940
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_binary_value_create",
+          "hint": 8,
+          "iat_address": 635420,
+          "iat_value": 1207968,
+          "data": 1207968
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_map_alloc",
+          "hint": 105,
+          "iat_address": 635424,
+          "iat_value": 1207994,
+          "data": 1207994
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_map_free",
+          "hint": 109,
+          "iat_address": 635428,
+          "iat_value": 1208018,
+          "data": 1208018
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_command_line_create",
+          "hint": 15,
+          "iat_address": 635432,
+          "iat_value": 1208040,
+          "data": 1208040
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_command_line_get_global",
+          "hint": 16,
+          "iat_address": 635436,
+          "iat_value": 1208066,
+          "data": 1208066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_value_create",
+          "hint": 190,
+          "iat_address": 635440,
+          "iat_value": 1208096,
+          "data": 1208096
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_utf16_cmp",
+          "hint": 129,
+          "iat_address": 635444,
+          "iat_value": 1208116,
+          "data": 1208116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_list_size",
+          "hint": 103,
+          "iat_address": 635448,
+          "iat_value": 1208140,
+          "data": 1208140
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_list_value",
+          "hint": 104,
+          "iat_address": 635452,
+          "iat_value": 1208164,
+          "data": 1208164
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_list_append",
+          "hint": 99,
+          "iat_address": 635456,
+          "iat_value": 1208188,
+          "data": 1208188
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_map_size",
+          "hint": 111,
+          "iat_address": 635460,
+          "iat_value": 1208214,
+          "data": 1208214
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_map_key",
+          "hint": 110,
+          "iat_address": 635464,
+          "iat_value": 1208236,
+          "data": 1208236
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_map_value",
+          "hint": 112,
+          "iat_address": 635468,
+          "iat_value": 1208258,
+          "data": 1208258
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_map_append",
+          "hint": 106,
+          "iat_address": 635472,
+          "iat_value": 1208282,
+          "data": 1208282
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_multimap_size",
+          "hint": 120,
+          "iat_address": 635476,
+          "iat_value": 1208306,
+          "data": 1208306
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_multimap_key",
+          "hint": 119,
+          "iat_address": 635480,
+          "iat_value": 1208334,
+          "data": 1208334
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_multimap_value",
+          "hint": 121,
+          "iat_address": 635484,
+          "iat_value": 1208360,
+          "data": 1208360
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_multimap_append",
+          "hint": 114,
+          "iat_address": 635488,
+          "iat_value": 1208388,
+          "data": 1208388
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_log",
+          "hint": 59,
+          "iat_address": 635492,
+          "iat_value": 1208418,
+          "data": 1208418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_utf8_clear",
+          "hint": 135,
+          "iat_address": 635496,
+          "iat_value": 1208428,
+          "data": 1208428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_wide_to_utf8",
+          "hint": 144,
+          "iat_address": 635500,
+          "iat_value": 1208452,
+          "data": 1208452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_multimap_alloc",
+          "hint": 113,
+          "iat_address": 635504,
+          "iat_value": 1208478,
+          "data": 1208478
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_multimap_free",
+          "hint": 118,
+          "iat_address": 635508,
+          "iat_value": 1208506,
+          "data": 1208506
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_request_create",
+          "hint": 82,
+          "iat_address": 635512,
+          "iat_value": 1208534,
+          "data": 1208534
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_undefined",
+          "hint": 189,
+          "iat_address": 635516,
+          "iat_value": 1208556,
+          "data": 1208556
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_null",
+          "hint": 185,
+          "iat_address": 635520,
+          "iat_value": 1208588,
+          "data": 1208588
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_bool",
+          "hint": 180,
+          "iat_address": 635524,
+          "iat_value": 1208614,
+          "data": 1208614
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_int",
+          "hint": 184,
+          "iat_address": 635528,
+          "iat_value": 1208640,
+          "data": 1208640
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_uint",
+          "hint": 188,
+          "iat_address": 635532,
+          "iat_value": 1208666,
+          "data": 1208666
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_double",
+          "hint": 182,
+          "iat_address": 635536,
+          "iat_value": 1208692,
+          "data": 1208692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_date",
+          "hint": 181,
+          "iat_address": 635540,
+          "iat_value": 1208720,
+          "data": 1208720
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_string",
+          "hint": 187,
+          "iat_address": 635544,
+          "iat_value": 1208746,
+          "data": 1208746
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_object",
+          "hint": 186,
+          "iat_address": 635548,
+          "iat_value": 1208774,
+          "data": 1208774
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_base64decode",
+          "hint": 5,
+          "iat_address": 635552,
+          "iat_value": 1207576,
+          "data": 1207576
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_function",
+          "hint": 183,
+          "iat_address": 635556,
+          "iat_value": 1208830,
+          "data": 1208830
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8context_get_current_context",
+          "hint": 175,
+          "iat_address": 635560,
+          "iat_value": 1208860,
+          "data": 1208860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8context_get_entered_context",
+          "hint": 176,
+          "iat_address": 635564,
+          "iat_value": 1208896,
+          "data": 1208896
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8context_in_context",
+          "hint": 177,
+          "iat_address": 635568,
+          "iat_value": 1208932,
+          "data": 1208932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_dictionary_value_create",
+          "hint": 27,
+          "iat_address": 635572,
+          "iat_value": 1208960,
+          "data": 1208960
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_list_value_create",
+          "hint": 57,
+          "iat_address": 635576,
+          "iat_value": 1208990,
+          "data": 1208990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_process_message_create",
+          "hint": 72,
+          "iat_address": 635580,
+          "iat_value": 1209014,
+          "data": 1209014
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8stack_trace_get_current",
+          "hint": 178,
+          "iat_address": 635584,
+          "iat_value": 1209044,
+          "data": 1209044
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_response_create",
+          "hint": 84,
+          "iat_address": 635588,
+          "iat_value": 1209076,
+          "data": 1209076
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_browser_host_create_browser",
+          "hint": 9,
+          "iat_address": 635592,
+          "iat_value": 1209098,
+          "data": 1209098
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_browser_host_create_browser_sync",
+          "hint": 10,
+          "iat_address": 635596,
+          "iat_value": 1209132,
+          "data": 1209132
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_post_data_create",
+          "hint": 67,
+          "iat_address": 635600,
+          "iat_value": 1209172,
+          "data": 1209172
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_task_runner_get_for_current_thread",
+          "hint": 145,
+          "iat_address": 635604,
+          "iat_value": 1209196,
+          "data": 1209196
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_task_runner_get_for_thread",
+          "hint": 146,
+          "iat_address": 635608,
+          "iat_value": 1209238,
+          "data": 1209238
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_print_settings_create",
+          "hint": 71,
+          "iat_address": 635612,
+          "iat_value": 1209272,
+          "data": 1209272
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_drag_data_create",
+          "hint": 35,
+          "iat_address": 635616,
+          "iat_value": 1209300,
+          "data": 1209300
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_request_context_get_global_context",
+          "hint": 81,
+          "iat_address": 635620,
+          "iat_value": 1209324,
+          "data": 1209324
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_request_context_create_context",
+          "hint": 80,
+          "iat_address": 635624,
+          "iat_value": 1209366,
+          "data": 1209366
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_create_context_shared",
+          "hint": 20,
+          "iat_address": 635628,
+          "iat_value": 1209404,
+          "data": 1209404
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_post_data_element_create",
+          "hint": 68,
+          "iat_address": 635632,
+          "iat_value": 1209432,
+          "data": 1209432
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_image_create",
+          "hint": 50,
+          "iat_address": 635636,
+          "iat_value": 1209464,
+          "data": 1209464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_stream_writer_create_for_file",
+          "hint": 94,
+          "iat_address": 635640,
+          "iat_value": 1209484,
+          "data": 1209484
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_stream_writer_create_for_handler",
+          "hint": 95,
+          "iat_address": 635644,
+          "iat_value": 1209520,
+          "data": 1209520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_cookie_manager_get_global_manager",
+          "hint": 18,
+          "iat_address": 635648,
+          "iat_value": 1209560,
+          "data": 1209560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_cookie_manager_create_manager",
+          "hint": 17,
+          "iat_address": 635652,
+          "iat_value": 1209600,
+          "data": 1209600
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_menu_model_create",
+          "hint": 61,
+          "iat_address": 635656,
+          "iat_value": 1209636,
+          "data": 1209636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_stream_reader_create_for_file",
+          "hint": 92,
+          "iat_address": 635660,
+          "iat_value": 1209660,
+          "data": 1209660
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_stream_reader_create_for_data",
+          "hint": 91,
+          "iat_address": 635664,
+          "iat_value": 1209696,
+          "data": 1209696
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_stream_reader_create_for_handler",
+          "hint": 93,
+          "iat_address": 635668,
+          "iat_value": 1209732,
+          "data": 1209732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_add_cross_origin_whitelist_entry",
+          "hint": 3,
+          "iat_address": 635672,
+          "iat_value": 1207310,
+          "data": 1207310
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_get_geolocation",
+          "hint": 44,
+          "iat_address": 635676,
+          "iat_value": 1207288,
+          "data": 1207288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_load_crlsets_file",
+          "hint": 58,
+          "iat_address": 635680,
+          "iat_value": 1207264,
+          "data": 1207264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_zip_directory",
+          "hint": 197,
+          "iat_address": 635684,
+          "iat_value": 1207244,
+          "data": 1207244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_delete_file",
+          "hint": 26,
+          "iat_address": 635688,
+          "iat_value": 1207226,
+          "data": 1207226
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_directory_exists",
+          "hint": 28,
+          "iat_address": 635692,
+          "iat_value": 1207202,
+          "data": 1207202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_create_temp_directory_in_directory",
+          "hint": 23,
+          "iat_address": 635696,
+          "iat_value": 1207160,
+          "data": 1207160
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_create_new_temp_directory",
+          "hint": 22,
+          "iat_address": 635700,
+          "iat_value": 1207128,
+          "data": 1207128
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_get_temp_directory",
+          "hint": 48,
+          "iat_address": 635704,
+          "iat_value": 1207102,
+          "data": 1207102
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_get_min_log_level",
+          "hint": 46,
+          "iat_address": 635708,
+          "iat_value": 1209988,
+          "data": 1209988
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_time_from_doublet",
+          "hint": 150,
+          "iat_address": 635712,
+          "iat_value": 1210012,
+          "data": 1210012
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_time_to_doublet",
+          "hint": 153,
+          "iat_address": 635716,
+          "iat_value": 1210036,
+          "data": 1210036
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_utf16_to_utf8",
+          "hint": 133,
+          "iat_address": 635720,
+          "iat_value": 1210058,
+          "data": 1210058
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_create_directory",
+          "hint": 21,
+          "iat_address": 635724,
+          "iat_value": 1207078,
+          "data": 1207078
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_set_crash_key_value",
+          "hint": 88,
+          "iat_address": 635728,
+          "iat_value": 1207052,
+          "data": 1207052
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_crash_reporting_enabled",
+          "hint": 19,
+          "iat_address": 635732,
+          "iat_value": 1207022,
+          "data": 1207022
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_enable_highdpi_support",
+          "hint": 36,
+          "iat_address": 635736,
+          "iat_value": 1206992,
+          "data": 1206992
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_set_osmodal_loop",
+          "hint": 89,
+          "iat_address": 635740,
+          "iat_value": 1206968,
+          "data": 1206968
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_quit_message_loop",
+          "hint": 73,
+          "iat_address": 635744,
+          "iat_value": 1206944,
+          "data": 1206944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_base64encode",
+          "hint": 6,
+          "iat_address": 635748,
+          "iat_value": 1207556,
+          "data": 1207556
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_get_extensions_for_mime_type",
+          "hint": 43,
+          "iat_address": 635752,
+          "iat_value": 1207520,
+          "data": 1207520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_get_mime_type",
+          "hint": 45,
+          "iat_address": 635756,
+          "iat_value": 1207500,
+          "data": 1207500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_format_url_for_security_display",
+          "hint": 40,
+          "iat_address": 635760,
+          "iat_value": 1207462,
+          "data": 1207462
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_create_url",
+          "hint": 24,
+          "iat_address": 635764,
+          "iat_value": 1207444,
+          "data": 1207444
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_parse_url",
+          "hint": 66,
+          "iat_address": 635768,
+          "iat_value": 1207428,
+          "data": 1207428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_v8value_create_array",
+          "hint": 179,
+          "iat_address": 635772,
+          "iat_value": 1208802,
+          "data": 1208802
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_clear_cross_origin_whitelist",
+          "hint": 13,
+          "iat_address": 635776,
+          "iat_value": 1207392,
+          "data": 1207392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_run_message_loop",
+          "hint": 85,
+          "iat_address": 635780,
+          "iat_value": 1206920,
+          "data": 1206920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_do_message_loop_work",
+          "hint": 34,
+          "iat_address": 635784,
+          "iat_value": 1206892,
+          "data": 1206892
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_shutdown",
+          "hint": 90,
+          "iat_address": 635788,
+          "iat_value": 1206876,
+          "data": 1206876
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_initialize",
+          "hint": 51,
+          "iat_address": 635792,
+          "iat_value": 1206858,
+          "data": 1206858
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_execute_process",
+          "hint": 39,
+          "iat_address": 635796,
+          "iat_value": 1206836,
+          "data": 1206836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_clear_scheme_handler_factories",
+          "hint": 14,
+          "iat_address": 635800,
+          "iat_value": 1206798,
+          "data": 1206798
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_register_scheme_handler_factory",
+          "hint": 76,
+          "iat_address": 635804,
+          "iat_value": 1206760,
+          "data": 1206760
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_register_extension",
+          "hint": 75,
+          "iat_address": 635808,
+          "iat_value": 1206734,
+          "data": 1206734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_post_delayed_task",
+          "hint": 69,
+          "iat_address": 635812,
+          "iat_value": 1206710,
+          "data": 1206710
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_post_task",
+          "hint": 70,
+          "iat_address": 635816,
+          "iat_value": 1206694,
+          "data": 1206694
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_currently_on",
+          "hint": 25,
+          "iat_address": 635820,
+          "iat_value": 1206674,
+          "data": 1206674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_register_widevine_cdm",
+          "hint": 78,
+          "iat_address": 635824,
+          "iat_value": 1206646,
+          "data": 1206646
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_is_web_plugin_unstable",
+          "hint": 54,
+          "iat_address": 635828,
+          "iat_value": 1206616,
+          "data": 1206616
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_register_web_plugin_crash",
+          "hint": 77,
+          "iat_address": 635832,
+          "iat_value": 1206584,
+          "data": 1206584
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_unregister_internal_web_plugin",
+          "hint": 171,
+          "iat_address": 635836,
+          "iat_value": 1206546,
+          "data": 1206546
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_refresh_web_plugins",
+          "hint": 74,
+          "iat_address": 635840,
+          "iat_value": 1206520,
+          "data": 1206520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_visit_web_plugin_info",
+          "hint": 192,
+          "iat_address": 635844,
+          "iat_value": 1206492,
+          "data": 1206492
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_list_free",
+          "hint": 102,
+          "iat_address": 635848,
+          "iat_value": 1206468,
+          "data": 1206468
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_list_alloc",
+          "hint": 98,
+          "iat_address": 635852,
+          "iat_value": 1206444,
+          "data": 1206444
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_userfree_utf16_free",
+          "hint": 123,
+          "iat_address": 635856,
+          "iat_value": 1206410,
+          "data": 1206410
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_utf16_clear",
+          "hint": 128,
+          "iat_address": 635860,
+          "iat_value": 1206384,
+          "data": 1206384
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_string_utf16_set",
+          "hint": 130,
+          "iat_address": 635864,
+          "iat_value": 1206360,
+          "data": 1206360
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "cef_write_json",
+          "hint": 195,
+          "iat_address": 635868,
+          "iat_value": 1207680,
+          "data": 1207680
+        }
+      ],
+      "function_count": 128
+    },
+    {
+      "name": "USER32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 635328,
+      "import_lookup_table_rva": 1202948,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsChild",
+          "hint": 506,
+          "iat_address": 635328,
+          "iat_value": 1210262,
+          "data": 1210262
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFocus",
+          "hint": 322,
+          "iat_address": 635332,
+          "iat_value": 1210250,
+          "data": 1210250
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetClientRect",
+          "hint": 293,
+          "iat_address": 635336,
+          "iat_value": 1210234,
+          "data": 1210234
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetWindowPos",
+          "hint": 783,
+          "iat_address": 635340,
+          "iat_value": 1210218,
+          "data": 1210218
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetWindowTextW",
+          "hint": 788,
+          "iat_address": 635344,
+          "iat_value": 1210200,
+          "data": 1210200
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetKeyState",
+          "hint": 339,
+          "iat_address": 635348,
+          "iat_value": 1210186,
+          "data": 1210186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetParent",
+          "hint": 745,
+          "iat_address": 635352,
+          "iat_value": 1210272,
+          "data": 1210272
+        }
+      ],
+      "function_count": 7
+    },
+    {
+      "name": "mscoree.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 635876,
+      "import_lookup_table_rva": 1203496,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_CorDllMain",
+          "hint": 118,
+          "iat_address": 635876,
+          "iat_value": 1211144,
+          "data": 1211144
+        }
+      ],
+      "function_count": 1
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "CefSharp.Core.dll",
+    "export_flags": 0,
+    "timestamp": 1521787072,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 78,
+    "entries": [
+      {
+        "name": "?DoClose@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@@Z",
+        "ordinal": 1,
+        "address": 175108,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetAuthCredentials@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@_NABV?$CefStringBase@UCefStringTraitsUTF16@@@@H33V?$scoped_refptr@VCefAuthCallback@@@@@Z",
+        "ordinal": 2,
+        "address": 213084,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetContextMenuHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefContextMenuHandler@@@@XZ",
+        "ordinal": 3,
+        "address": 145072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetDialogHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefDialogHandler@@@@XZ",
+        "ordinal": 4,
+        "address": 145552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetDisplayHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefDisplayHandler@@@@XZ",
+        "ordinal": 5,
+        "address": 144832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetDownloadHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefDownloadHandler@@@@XZ",
+        "ordinal": 6,
+        "address": 144952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetDragHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefDragHandler@@@@XZ",
+        "ordinal": 7,
+        "address": 145672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetFindHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefFindHandler@@@@XZ",
+        "ordinal": 8,
+        "address": 145912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetFocusHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefFocusHandler@@@@XZ",
+        "ordinal": 9,
+        "address": 145192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetGeolocationHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefGeolocationHandler@@@@XZ",
+        "ordinal": 10,
+        "address": 145792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetJSDialogHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefJSDialogHandler@@@@XZ",
+        "ordinal": 11,
+        "address": 145432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetKeyboardHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefKeyboardHandler@@@@XZ",
+        "ordinal": 12,
+        "address": 145312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetLifeSpanHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefLifeSpanHandler@@@@XZ",
+        "ordinal": 13,
+        "address": 144472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetLoadHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefLoadHandler@@@@XZ",
+        "ordinal": 14,
+        "address": 144592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetRenderHandler@RenderClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefRenderHandler@@@@XZ",
+        "ordinal": 15,
+        "address": 166728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetRequestHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefRequestHandler@@@@XZ",
+        "ordinal": 16,
+        "address": 144712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetResourceHandler@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefResourceHandler@@@@V?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@V?$scoped_refptr@VCefRequest@@@@@Z",
+        "ordinal": 17,
+        "address": 217916,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetResourceResponseFilter@ClientAdapter@Internals@CefSharp@@UAE?AV?$scoped_refptr@VCefResponseFilter@@@@V?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@V?$scoped_refptr@VCefRequest@@@@V?$scoped_refptr@VCefResponse@@@@@Z",
+        "ordinal": 18,
+        "address": 195412,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetScreenInfo@RenderClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@AAVCefScreenInfo@@@Z",
+        "ordinal": 19,
+        "address": 166952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetScreenPoint@RenderClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@HHAAH1@Z",
+        "ordinal": 20,
+        "address": 167044,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetViewRect@RenderClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@AAVCefRect@@@Z",
+        "ordinal": 21,
+        "address": 202244,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnAddressChange@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z",
+        "ordinal": 22,
+        "address": 188344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnAfterCreated@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@@Z",
+        "ordinal": 23,
+        "address": 187412,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnAutoResize@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@ABVCefSize@@@Z",
+        "ordinal": 24,
+        "address": 188572,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnBeforeBrowse@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@V?$scoped_refptr@VCefRequest@@@@_N@Z",
+        "ordinal": 25,
+        "address": 191428,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnBeforeClose@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@@Z",
+        "ordinal": 26,
+        "address": 187872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnBeforeContextMenu@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@V?$scoped_refptr@VCefContextMenuParams@@@@V?$scoped_refptr@VCefMenuModel@@@@@Z",
+        "ordinal": 27,
+        "address": 197720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnBeforeDownload@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefDownloadItem@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@V?$scoped_refptr@VCefBeforeDownloadCallback@@@@@Z",
+        "ordinal": 28,
+        "address": 204648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnBeforePopup@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@2W4cef_window_open_disposition_t@@_NABV?$CefStructBase@UCefPopupFeaturesTraits@@@@AAVCefWindowInfo@@AAV?$scoped_refptr@VCefClient@@@@AAV?$CefStructBase@UCefBrowserSettingsTraits@@@@PA_N@Z",
+        "ordinal": 29,
+        "address": 187016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnBeforeResourceLoad@ClientAdapter@Internals@CefSharp@@UAE?AW4cef_return_value_t@@V?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@V?$scoped_refptr@VCefRequest@@@@V?$scoped_refptr@VCefRequestCallback@@@@@Z",
+        "ordinal": 30,
+        "address": 196580,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnBeforeUnloadDialog@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@_NV?$scoped_refptr@VCefJSDialogCallback@@@@@Z",
+        "ordinal": 31,
+        "address": 200452,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnCancelGeolocationPermission@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@H@Z",
+        "ordinal": 32,
+        "address": 201628,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnCertificateError@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@W4cef_errorcode_t@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@V?$scoped_refptr@VCefSSLInfo@@@@V?$scoped_refptr@VCefRequestCallback@@@@@Z",
+        "ordinal": 33,
+        "address": 192268,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnConsoleMessage@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@1H@Z",
+        "ordinal": 34,
+        "address": 189192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnContextMenuCommand@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@V?$scoped_refptr@VCefContextMenuParams@@@@HW4cef_event_flags_t@@@Z",
+        "ordinal": 35,
+        "address": 198188,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnContextMenuDismissed@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@@Z",
+        "ordinal": 36,
+        "address": 198448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnCursorChange@RenderClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@PAUHICON__@@W4cef_cursor_type_t@@ABV?$CefStructBase@UCefCursorInfoTraits@@@@@Z",
+        "ordinal": 37,
+        "address": 167332,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnDialogClosed@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@@Z",
+        "ordinal": 38,
+        "address": 200772,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnDownloadUpdated@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefDownloadItem@@@@V?$scoped_refptr@VCefDownloadItemCallback@@@@@Z",
+        "ordinal": 39,
+        "address": 204944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnDragEnter@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefDragData@@@@W4cef_drag_operations_mask_t@@@Z",
+        "ordinal": 40,
+        "address": 201128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnDraggableRegionsChanged@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@ABV?$vector@VCefDraggableRegion@@V?$allocator@VCefDraggableRegion@@@std@@@std@@@Z",
+        "ordinal": 41,
+        "address": 204312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnFaviconURLChange@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@ABV?$vector@V?$CefStringBase@UCefStringTraitsUTF16@@@@V?$allocator@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@@std@@@Z",
+        "ordinal": 42,
+        "address": 202408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnFileDialog@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@W4cef_file_dialog_mode_t@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@2ABV?$vector@V?$CefStringBase@UCefStringTraitsUTF16@@@@V?$allocator@V?$CefStringBase@UCefStringTraitsUTF16@@@@@std@@@std@@HV?$scoped_refptr@VCefFileDialogCallback@@@@@Z",
+        "ordinal": 43,
+        "address": 202888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnFindResult@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@HHABVCefRect@@H_N@Z",
+        "ordinal": 44,
+        "address": 201828,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnFullscreenModeChange@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@_N@Z",
+        "ordinal": 45,
+        "address": 188732,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnGotFocus@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@@Z",
+        "ordinal": 46,
+        "address": 199372,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnImeCompositionRangeChanged@RenderClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@ABVCefRange@@ABV?$vector@VCefRect@@V?$allocator@VCefRect@@@std@@@std@@@Z",
+        "ordinal": 47,
+        "address": 184004,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnJSDialog@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@W4cef_jsdialog_type_t@@11V?$scoped_refptr@VCefJSDialogCallback@@@@AA_N@Z",
+        "ordinal": 48,
+        "address": 200112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnKeyEvent@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStructBase@UCefKeyEventTraits@@@@PAUtagMSG@@@Z",
+        "ordinal": 49,
+        "address": 189656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnLoadEnd@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@H@Z",
+        "ordinal": 50,
+        "address": 190516,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnLoadError@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@W4cef_errorcode_t@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@3@Z",
+        "ordinal": 51,
+        "address": 190924,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnLoadStart@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@W4cef_transition_type_t@@@Z",
+        "ordinal": 52,
+        "address": 190208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnLoadingStateChange@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@_N11@Z",
+        "ordinal": 53,
+        "address": 188076,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnOpenURLFromTab@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@W4cef_window_open_disposition_t@@_N@Z",
+        "ordinal": 54,
+        "address": 191812,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnPaint@RenderClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@W4cef_paint_element_type_t@@ABV?$vector@VCefRect@@V?$allocator@VCefRect@@@std@@@std@@PBXHH@Z",
+        "ordinal": 55,
+        "address": 204136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnPluginCrashed@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z",
+        "ordinal": 56,
+        "address": 192792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnPopupShow@RenderClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@_N@Z",
+        "ordinal": 57,
+        "address": 167132,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnPopupSize@RenderClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@ABVCefRect@@@Z",
+        "ordinal": 58,
+        "address": 167236,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnPreKeyEvent@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStructBase@UCefKeyEventTraits@@@@PAUtagMSG@@PA_N@Z",
+        "ordinal": 59,
+        "address": 189900,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnProcessMessageReceived@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@W4cef_process_id_t@@V?$scoped_refptr@VCefProcessMessage@@@@@Z",
+        "ordinal": 60,
+        "address": 209260,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnProtocolExecution@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@AA_N@Z",
+        "ordinal": 61,
+        "address": 196064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnQuotaRequest@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@_JV?$scoped_refptr@VCefRequestCallback@@@@@Z",
+        "ordinal": 62,
+        "address": 192608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnRenderProcessTerminated@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@W4cef_termination_status_t@@@Z",
+        "ordinal": 63,
+        "address": 193620,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnRenderViewReady@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@@Z",
+        "ordinal": 64,
+        "address": 193460,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnRequestGeolocationPermission@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@HV?$scoped_refptr@VCefGeolocationCallback@@@@@Z",
+        "ordinal": 65,
+        "address": 201468,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnResetDialogState@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@@Z",
+        "ordinal": 66,
+        "address": 200612,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnResourceLoadComplete@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@V?$scoped_refptr@VCefRequest@@@@V?$scoped_refptr@VCefResponse@@@@W4cef_urlrequest_status_t@@_J@Z",
+        "ordinal": 67,
+        "address": 195880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnResourceRedirect@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@V?$scoped_refptr@VCefRequest@@@@V?$scoped_refptr@VCefResponse@@@@AAV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z",
+        "ordinal": 68,
+        "address": 212196,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnResourceResponse@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@V?$scoped_refptr@VCefRequest@@@@V?$scoped_refptr@VCefResponse@@@@@Z",
+        "ordinal": 69,
+        "address": 194272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnSelectClientCertificate@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@_NABV?$CefStringBase@UCefStringTraitsUTF16@@@@HABV?$vector@V?$scoped_refptr@VCefX509Certificate@@@@V?$allocator@V?$scoped_refptr@VCefX509Certificate@@@@@std@@@std@@V?$scoped_refptr@VCefSelectClientCertificateCallback@@@@@Z",
+        "ordinal": 70,
+        "address": 197256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnSetFocus@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@W4cef_focus_source_t@@@Z",
+        "ordinal": 71,
+        "address": 199552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnStatusMessage@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z",
+        "ordinal": 72,
+        "address": 189416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnTakeFocus@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@_N@Z",
+        "ordinal": 73,
+        "address": 199720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnTitleChange@ClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@ABV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z",
+        "ordinal": 74,
+        "address": 214824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?OnTooltip@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@AAV?$CefStringBase@UCefStringTraitsUTF16@@@@@Z",
+        "ordinal": 75,
+        "address": 188944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?RunContextMenu@ClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefFrame@@@@V?$scoped_refptr@VCefContextMenuParams@@@@V?$scoped_refptr@VCefMenuModel@@@@V?$scoped_refptr@VCefRunContextMenuCallback@@@@@Z",
+        "ordinal": 76,
+        "address": 199204,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?StartDragging@RenderClientAdapter@Internals@CefSharp@@UAE_NV?$scoped_refptr@VCefBrowser@@@@V?$scoped_refptr@VCefDragData@@@@W4cef_drag_operations_mask_t@@HH@Z",
+        "ordinal": 77,
+        "address": 183792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?UpdateDragCursor@RenderClientAdapter@Internals@CefSharp@@UAEXV?$scoped_refptr@VCefBrowser@@@@W4cef_drag_operations_mask_t@@@Z",
+        "ordinal": 78,
+        "address": 167420,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 2,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": "\u00ef\u00bb\u00bf1",
+        "id": null,
+        "lang": 1033,
+        "offset": 1223344,
+        "size": 564,
+        "entropy": 3.330231,
+        "sha256": "ca040fc52bf33fe4c961b8f3c1ad6644ee4cb6d2301187b488913f4894ccf823",
+        "magic_head": "3402340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 1223912,
+        "size": 381,
+        "entropy": 4.911615,
+        "sha256": "4bb79dcea0a901f7d9eac5aa05728ae92acb42e0cb22e5dd14134f4421a3d8df",
+        "magic_head": "3c3f786d6c207665"
+      }
+    ],
+    "total_size": 945,
+    "max_entropy": 4.911615
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 4278717375,
+    "entries": [
+      {
+        "id": 222,
+        "build_id": 40629,
+        "count": 1
+      },
+      {
+        "id": 151,
+        "build_id": 0,
+        "count": 1
+      },
+      {
+        "id": 219,
+        "build_id": 21005,
+        "count": 1
+      },
+      {
+        "id": 220,
+        "build_id": 40629,
+        "count": 1
+      },
+      {
+        "id": 225,
+        "build_id": 40629,
+        "count": 129
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 245
+      },
+      {
+        "id": 257,
+        "build_id": 25831,
+        "count": 2
+      },
+      {
+        "id": 203,
+        "build_id": 65501,
+        "count": 5
+      },
+      {
+        "id": 225,
+        "build_id": 21005,
+        "count": 5
+      },
+      {
+        "id": 221,
+        "build_id": 21005,
+        "count": 4
+      },
+      {
+        "id": 224,
+        "build_id": 21005,
+        "count": 12
+      },
+      {
+        "id": 223,
+        "build_id": 21005,
+        "count": 2
+      },
+      {
+        "id": 225,
+        "build_id": 20806,
+        "count": 5
+      },
+      {
+        "id": 147,
+        "build_id": 21022,
+        "count": 2
+      }
+    ],
+    "raw_hex": "fb6a66acbf0b08ffbf0b08ffbf0b08ffa1599bffbd0b08fff95ae9ffba0b08ffb259d7ffbd0b08ffb259e8ffb30b08ffb259d5ffbb0b08ffb259e9ffba0b08ff62f4c3ffba0b08ff586f09febd0b08ffbf0b09ff4a0b08ff0a95e9ff3e0b08ff0a95d4ffbe0b08ffb259d3ffbe0b08ffbf0b9fffbe0b08ff0a95d6ffbe0b08ff52696368bf0b08ff",
+    "raw_offset": 128,
+    "raw_size": 136,
+    "entry_count": 14
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 1189952,
+      "size": 12406,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 1202360,
+      "size": 140,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 1232896,
+      "size": 1128,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 1236992,
+      "size": 33236,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 636144,
+      "size": 56,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 651272,
+      "size": 64,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 634880,
+      "size": 1004,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 651196,
+      "size": 72,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": 381
+  },
+  "entrypoint_bytes": {
+    "offset": 588304,
+    "hex": "ff25e4b30910cccccccccccccccccccc8d4de8e958fffaff8d4de8e990fffaff8b5424088d420c8b4ae433c8e871ddffffb878a21110e977ddffffcccccccccc",
+    "entropy": 4.228166
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 269659456,
+    "se_handler_count": 583,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 4,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 4,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 1111
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 12,
+    "minor_linker_version": 0,
+    "sizeof_code": 629248,
+    "sizeof_initialized_data": 630272,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 591376,
+    "baseof_code": 4096,
+    "baseof_data": 634880,
+    "imagebase": 268435456,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 6,
+    "minor_operating_system_version": 0,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 6,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 1273856,
+    "sizeof_headers": 1024,
+    "checksum": 1321960,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 320,
+    "dll_characteristics": [
+      "DYNAMIC_BASE",
+      "NX_COMPAT"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 216,
+    "entropy": 5.088562,
+    "is_standard_ms": 1,
+    "sha256": "8dddfa71d4abe1aebc8f80969fad75704f258d65056d07b02b3cd86f326a66f9",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a2400000000000000fb6a66acbf0b08ffbf0b08ffbf0b08ffa1599bffbd0b08fff95ae9ffba0b08ffb259d7ffbd0b08ffb259e8ffb30b08ffb259d5ffbb0b08ffb259e9ffba0b08ff62f4c3ffba0b08ff586f09febd0b08ffbf0b09ff4a0b08ff0a95e9ff3e0b08ff0a95d4ffbe0b08ffb259d3ffbe0b08ffbf0b9fffbe0b08ff0a95d6ffbe0b08ff52696368bf0b08ff00000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ jf Y Z Y Y Y Y b Xo J > Y Rich",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 1321960,
+    "checksum_computed": 1321960,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 591376,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.076196
+  },
+  "overlay": {
+    "size": 0,
+    "offset": 0,
+    "entropy": null,
+    "magic_head": null,
+    "sha256": null
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 2,
+    "types": [
+      "CODEVIEW",
+      "VC_FEATURE"
+    ],
+    "pdb_path": "C:\\projects\\cefsharp\\CefSharp.Core\\bin\\Win32\\Release\\CefSharp.Core.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 168,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": null,
+    "file_description": "CefSharp.Core",
+    "original_filename": null,
+    "product_name": "CefSharp",
+    "file_version": "63.0.3",
+    "legal_copyright": "Copyright \u00c2\u00a9 2010-2017 The CefSharp Authors",
+    "internal_name": null
+  },
+  "strings": {
+    "count_ascii": 11368,
+    "count_utf16": 82,
+    "count_total": 11450,
+    "chars_total": 284139,
+    "printable_ratio": 0.225869,
+    "len_mean": 24.82,
+    "len_max": 559,
+    "urls": [],
+    "n_urls": 0,
+    "ipv4": [
+      "4.0.0.0"
+    ],
+    "n_ipv4": 1,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "cefsharp.core.dll",
+      "kernel32.dll",
+      "libcef.dll",
+      "mscoree.dll",
+      "msvcp120.dll",
+      "msvcr120.dll",
+      "user32.dll"
+    ],
+    "n_dll_names": 7,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [
+      "C:\\projects\\cefsharp\\CefSharp.Core\\bin\\Win32\\Release\\CefSharp.Core.pdb",
+      "C:\\projects\\cefsharp\\packages\\cef.sdk.3.3239.1723\\CEF\\include",
+      "c:\\projects\\cefsharp\\cefsharp.core\\Internals",
+      "c:\\projects\\cefsharp\\cefsharp.core\\Internals\\ReportUnhandledExceptions.h",
+      "c:\\projects\\cefsharp\\cefsharp.core\\SchemeHandlerFactoryWrapper.h",
+      "c:\\projects\\cefsharp\\cefsharp.core\\internals\\ReportUnhandledExceptions.h"
+    ],
+    "n_file_paths": 6
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "cefsharp.core.dll"
+    ],
+    "n_orphans": 1,
+    "n_imported": 6
+  }
+}

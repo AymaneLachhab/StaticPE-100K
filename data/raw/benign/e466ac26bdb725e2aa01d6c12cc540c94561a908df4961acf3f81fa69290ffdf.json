@@ -1,0 +1,5953 @@
+{
+  "sha256": "e466ac26bdb725e2aa01d6c12cc540c94561a908df4961acf3f81fa69290ffdf",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 9610664,
+    "md5": "df46274d88db5cfcc9836db849fd9cc4",
+    "sha1": "b1a2bda161829a4ef556b1988463431f1db4fe8a",
+    "imphash": "6d621b6feac57eddb6b8574d4d71460d",
+    "tlsh": "T1ABA68C96E1B26198C87B8074857FAB07FA713C0517205AF753D1EA786E37BC02977B22",
+    "ssdeep": "49152:QccdCWSn2HvvUTuVE5EUuSi9JZLZZBsiEGw86mKYp3Ou3IgJWzAye0NAVWQS+U9q:H20qgsvhAuyVv9gayzOiLiAUz1q12DUv",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.648951,
+    "byte_histogram_256": [
+      0.16906969,
+      0.01269548,
+      0.00617273,
+      0.00661109,
+      0.00672597,
+      0.00382065,
+      0.00265216,
+      0.00268483,
+      0.00721012,
+      0.00159625,
+      0.00299324,
+      0.00169936,
+      0.0027792,
+      0.00210266,
+      0.00116204,
+      0.04484966,
+      0.00895578,
+      0.00312268,
+      0.0012791,
+      0.00094759,
+      0.00217279,
+      0.0016978,
+      0.00108359,
+      0.0009605,
+      0.00243001,
+      0.00142404,
+      0.00084115,
+      0.00093906,
+      0.00191069,
+      0.00103645,
+      0.00069392,
+      0.00494232,
+      0.01284688,
+      0.00136567,
+      0.00091232,
+      0.00132291,
+      0.02044385,
+      0.00121188,
+      0.00081763,
+      0.00076373,
+      0.00563416,
+      0.00240618,
+      0.00180924,
+      0.00309625,
+      0.00228288,
+      0.00146171,
+      0.00147316,
+      0.00097163,
+      0.00468636,
+      0.00138482,
+      0.00142456,
+      0.0040223,
+      0.00193358,
+      0.00101658,
+      0.0009066,
+      0.00082107,
+      0.0030539,
+      0.00146618,
+      0.00142519,
+      0.00587826,
+      0.00425205,
+      0.00236466,
+      0.00157356,
+      0.00580876,
+      0.00690868,
+      0.0171008,
+      0.00296941,
+      0.00310124,
+      0.01318213,
+      0.00808987,
+      0.00194825,
+      0.00176325,
+      0.03291812,
+      0.00803472,
+      0.00121823,
+      0.00142103,
+      0.0109931,
+      0.00488645,
+      0.00144329,
+      0.00158106,
+      0.00384625,
+      0.00105175,
+      0.00177834,
+      0.00188218,
+      0.00396559,
+      0.00239422,
+      0.00158595,
+      0.002643,
+      0.00447326,
+      0.00329436,
+      0.00117515,
+      0.00204492,
+      0.00365282,
+      0.00225645,
+      0.0017569,
+      0.0039401,
+      0.0037423,
+      0.00290604,
+      0.00139439,
+      0.00498634,
+      0.0031619,
+      0.00371951,
+      0.01846626,
+      0.0010453,
+      0.0022809,
+      0.00321643,
+      0.00069766,
+      0.00100773,
+      0.00341537,
+      0.00163256,
+      0.00302705,
+      0.00608782,
+      0.00368986,
+      0.0011867,
+      0.00352431,
+      0.00355896,
+      0.00761789,
+      0.00327803,
+      0.00142061,
+      0.00098391,
+      0.00298148,
+      0.00165597,
+      0.00102251,
+      0.00193077,
+      0.00316284,
+      0.00161997,
+      0.00199227,
+      0.00261345,
+      0.00706705,
+      0.00203087,
+      0.00092116,
+      0.01233505,
+      0.00525635,
+      0.00555279,
+      0.00149313,
+      0.00103916,
+      0.00312736,
+      0.01528448,
+      0.00158605,
+      0.02064186,
+      0.00256257,
+      0.00937167,
+      0.00118015,
+      0.00062805,
+      0.00241451,
+      0.0004802,
+      0.00051786,
+      0.00071004,
+      0.00175503,
+      0.00059507,
+      0.00043264,
+      0.00050881,
+      0.0012817,
+      0.00064793,
+      0.00046074,
+      0.00041995,
+      0.00156878,
+      0.00053638,
+      0.00043649,
+      0.00042214,
+      0.00257703,
+      0.0006011,
+      0.00051817,
+      0.00049705,
+      0.00096882,
+      0.0005009,
+      0.00043649,
+      0.00046136,
+      0.00136973,
+      0.0006369,
+      0.00065126,
+      0.00052629,
+      0.0012868,
+      0.00055605,
+      0.00053565,
+      0.00108588,
+      0.00146702,
+      0.00051152,
+      0.00045668,
+      0.00045044,
+      0.00133123,
+      0.00050923,
+      0.001934,
+      0.00167699,
+      0.00226301,
+      0.00118389,
+      0.00109909,
+      0.00081878,
+      0.00190205,
+      0.00100992,
+      0.00154048,
+      0.00202317,
+      0.00882301,
+      0.00629946,
+      0.00359351,
+      0.00439793,
+      0.00690337,
+      0.00605796,
+      0.00291947,
+      0.00347739,
+      0.00343702,
+      0.00294891,
+      0.00159219,
+      0.00187323,
+      0.00843126,
+      0.00123581,
+      0.00131958,
+      0.00155858,
+      0.00336949,
+      0.00208362,
+      0.00269253,
+      0.00180581,
+      0.00181184,
+      0.00160207,
+      0.00144704,
+      0.00119045,
+      0.00246476,
+      0.00165379,
+      0.0013382,
+      0.00271407,
+      0.00100191,
+      0.00113135,
+      0.00105289,
+      0.0010838,
+      0.00402927,
+      0.00135995,
+      0.00177126,
+      0.00152227,
+      0.00147544,
+      0.00110752,
+      0.00111865,
+      0.0010761,
+      0.00643192,
+      0.00327688,
+      0.00174109,
+      0.0033339,
+      0.00231639,
+      0.00167834,
+      0.00123113,
+      0.00178541,
+      0.0033828,
+      0.00139543,
+      0.00416173,
+      0.00630716,
+      0.00115975,
+      0.00134777,
+      0.0019777,
+      0.00239078,
+      0.00341787,
+      0.0021396,
+      0.00197052,
+      0.0016464,
+      0.00180081,
+      0.00224313,
+      0.00369569,
+      0.02331296
+    ],
+    "byte_entropy_histogram_256": [
+      0.01553462,
+      9.99e-06,
+      3.64e-06,
+      3.69e-06,
+      2.45e-06,
+      0.0,
+      0.0,
+      0.0,
+      2.19e-06,
+      0.0,
+      0.0,
+      0.0,
+      1.72e-06,
+      0.0,
+      0.0,
+      1e-07,
+      0.003342,
+      5.411e-05,
+      2.622e-05,
+      3.58e-05,
+      2.014e-05,
+      0.0,
+      0.0,
+      0.0,
+      2.57e-05,
+      0.0,
+      0.0,
+      0.0,
+      1.264e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.00076302,
+      1.09e-06,
+      1.82e-06,
+      1.51e-06,
+      1.51e-06,
+      1.14e-06,
+      1.4e-06,
+      1.92e-05,
+      3.59e-06,
+      9.4e-07,
+      1.6e-07,
+      4.7e-07,
+      2.1e-07,
+      3.6e-07,
+      6.2e-07,
+      5.547e-05,
+      0.00083586,
+      5.88e-06,
+      4.21e-06,
+      4.412e-05,
+      0.0,
+      0.0,
+      0.0,
+      2.191e-05,
+      1.29e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00014075,
+      0.00357339,
+      1.837e-05,
+      2.357e-05,
+      0.00222531,
+      3.96e-05,
+      1.025e-05,
+      4.84e-06,
+      0.00095898,
+      8.128e-05,
+      8.95e-06,
+      6.14e-06,
+      4.74e-06,
+      7.91e-06,
+      1.634e-05,
+      9.31e-06,
+      0.00153618,
+      0.00707435,
+      0.00020969,
+      0.00014033,
+      0.00056883,
+      0.00013019,
+      9.47e-05,
+      8.159e-05,
+      0.00014439,
+      0.0005054,
+      7.181e-05,
+      5.458e-05,
+      3.663e-05,
+      5.495e-05,
+      6.639e-05,
+      0.00017025,
+      0.00071952,
+      0.00719299,
+      0.00017181,
+      0.00022723,
+      0.00032927,
+      0.00015719,
+      0.00010636,
+      0.00016073,
+      0.00022062,
+      0.00050014,
+      0.00011073,
+      5.651e-05,
+      7.274e-05,
+      0.00012098,
+      0.00012197,
+      0.0001829,
+      0.0008177,
+      0.00589013,
+      0.0001344,
+      0.00022416,
+      0.00064017,
+      0.00027193,
+      0.00034051,
+      0.00052621,
+      0.00050779,
+      0.0003108,
+      9.98e-05,
+      9.09e-05,
+      8.029e-05,
+      0.00010277,
+      6.088e-05,
+      0.00035461,
+      0.00048828,
+      0.00442211,
+      0.00019944,
+      0.0009545,
+      0.00073466,
+      0.00029284,
+      0.00044936,
+      0.00195307,
+      0.00112881,
+      0.00043115,
+      0.00011728,
+      8.752e-05,
+      7.243e-05,
+      9.595e-05,
+      0.00018311,
+      9.116e-05,
+      0.00040211,
+      0.0088617,
+      0.00045826,
+      0.00778961,
+      0.00341391,
+      0.00212411,
+      0.00349664,
+      0.01136669,
+      0.00657182,
+      0.00064225,
+      0.00020642,
+      0.00034337,
+      0.00021386,
+      0.0002611,
+      0.00043411,
+      0.00026371,
+      0.0006539,
+      0.01679747,
+      0.00123647,
+      0.00403384,
+      0.00305051,
+      0.00381821,
+      0.00314001,
+      0.00578346,
+      0.00322477,
+      0.00170092,
+      0.00052637,
+      0.00101137,
+      0.00108859,
+      0.00248829,
+      0.00108235,
+      0.00114016,
+      0.00188064,
+      0.02321225,
+      0.00229623,
+      0.00264215,
+      0.00450588,
+      0.00408353,
+      0.00206474,
+      0.00329475,
+      0.00203638,
+      0.00297589,
+      0.00112964,
+      0.00245353,
+      0.0023594,
+      0.00339357,
+      0.00164072,
+      0.00237366,
+      0.00358286,
+      0.02659265,
+      0.00320271,
+      0.00479175,
+      0.00288343,
+      0.01028903,
+      0.00362381,
+      0.00638481,
+      0.00276302,
+      0.00861283,
+      0.00144798,
+      0.0011604,
+      0.00159581,
+      0.00524616,
+      0.00318325,
+      0.0032781,
+      0.00531084,
+      0.12555416,
+      0.01950279,
+      0.02972449,
+      0.01628889,
+      0.08083849,
+      0.02178997,
+      0.02502811,
+      0.01795766,
+      0.06179224,
+      0.00657109,
+      0.00514402,
+      0.01001617,
+      0.03863234,
+      0.0160895,
+      0.02065205,
+      0.03574797,
+      0.02351961,
+      0.00552157,
+      0.00685066,
+      0.00466417,
+      0.01437183,
+      0.00553073,
+      0.00512836,
+      0.00560733,
+      0.01103123,
+      0.00174915,
+      0.00174785,
+      0.00275106,
+      0.01295147,
+      0.00431768,
+      0.00554988,
+      0.00869889,
+      0.00165331,
+      0.00141224,
+      0.00138211,
+      0.00262586,
+      0.00112876,
+      0.00109281,
+      0.00107126,
+      0.00107511,
+      0.00145626,
+      0.0011438,
+      0.00105071,
+      0.00188345,
+      0.00150111,
+      0.0012474,
+      0.00119052,
+      0.00231632
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 5825202,
+      "raw_size": 5825536,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1536,
+      "entropy": 6.601811,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": "IPPCODE",
+      "virtual_size": 790765,
+      "raw_size": 791040,
+      "virtual_address": 5832704,
+      "pointerto_raw_data": 5827072,
+      "entropy": 6.175519,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 2508522,
+      "raw_size": 2508800,
+      "virtual_address": 6627328,
+      "pointerto_raw_data": 6618112,
+      "entropy": 6.074536,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 852876,
+      "raw_size": 170496,
+      "virtual_address": 9138176,
+      "pointerto_raw_data": 9126912,
+      "entropy": 5.750956,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".pdata",
+      "virtual_size": 241896,
+      "raw_size": 242176,
+      "virtual_address": 9994240,
+      "pointerto_raw_data": 9297408,
+      "entropy": 6.466761,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".gfids",
+      "virtual_size": 2588,
+      "raw_size": 3072,
+      "virtual_address": 10240000,
+      "pointerto_raw_data": 9539584,
+      "entropy": 3.931358,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".tls",
+      "virtual_size": 9,
+      "raw_size": 512,
+      "virtual_address": 10244096,
+      "pointerto_raw_data": 9542656,
+      "entropy": 0.503258,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": "_RDATA",
+      "virtual_size": 13312,
+      "raw_size": 13312,
+      "virtual_address": 10248192,
+      "pointerto_raw_data": 9543168,
+      "entropy": 5.177849,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": "IPPDATA",
+      "virtual_size": 21792,
+      "raw_size": 22016,
+      "virtual_address": 10264576,
+      "pointerto_raw_data": 9556480,
+      "entropy": 1.883525,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 1424,
+      "raw_size": 1536,
+      "virtual_address": 10289152,
+      "pointerto_raw_data": 9578496,
+      "entropy": 4.150068,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 24568,
+      "raw_size": 24576,
+      "virtual_address": 10293248,
+      "pointerto_raw_data": 9580032,
+      "entropy": 5.444182,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 352,
+    "e_lfanew_raw": 352,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000060010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "AMD64",
+    "numberof_sections": 11,
+    "time_date_stamp": 1498725570,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 240,
+    "characteristics_raw": 8226,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LARGE_ADDRESS_AWARE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 6627432,
+      "import_lookup_table_rva": 9130656,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteFile",
+          "hint": 1521,
+          "iat_address": 6627432,
+          "iat_value": 9132466,
+          "data": 9132466
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DuplicateHandle",
+          "hint": 291,
+          "iat_address": 6627440,
+          "iat_value": 9132478,
+          "data": 9132478
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetNamedPipeHandleState",
+          "hint": 1314,
+          "iat_address": 6627448,
+          "iat_value": 9132496,
+          "data": 9132496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TransactNamedPipe",
+          "hint": 1415,
+          "iat_address": 6627456,
+          "iat_value": 9132522,
+          "data": 9132522
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitNamedPipeW",
+          "hint": 1474,
+          "iat_address": 6627464,
+          "iat_value": 9132542,
+          "data": 9132542
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEvent",
+          "hint": 1279,
+          "iat_address": 6627472,
+          "iat_value": 9132560,
+          "data": 9132560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ResetEvent",
+          "hint": 1190,
+          "iat_address": 6627480,
+          "iat_value": 9132572,
+          "data": 9132572
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForMultipleObjects",
+          "hint": 1465,
+          "iat_address": 6627488,
+          "iat_value": 9132586,
+          "data": 9132586
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 528,
+          "iat_address": 6627496,
+          "iat_value": 9132612,
+          "data": 9132612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 532,
+          "iat_address": 6627504,
+          "iat_value": 9132634,
+          "data": 9132634
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlCaptureContext",
+          "hint": 1198,
+          "iat_address": 6627512,
+          "iat_value": 9132656,
+          "data": 9132656
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1362,
+          "iat_address": 6627520,
+          "iat_value": 9132676,
+          "data": 9132676
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSection",
+          "hint": 848,
+          "iat_address": 6627528,
+          "iat_value": 9132706,
+          "data": 9132706
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 1501,
+          "iat_address": 6627536,
+          "iat_value": 9132444,
+          "data": 9132444
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 933,
+          "iat_address": 6627544,
+          "iat_value": 9132758,
+          "data": 9132758
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 262,
+          "iat_address": 6627552,
+          "iat_value": 9132782,
+          "data": 9132782
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseSemaphore",
+          "hint": 1172,
+          "iat_address": 6627560,
+          "iat_value": 9132806,
+          "data": 9132806
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateSemaphoreW",
+          "hint": 225,
+          "iat_address": 6627568,
+          "iat_value": 9132826,
+          "data": 9132826
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateThread",
+          "hint": 231,
+          "iat_address": 6627576,
+          "iat_value": 9132846,
+          "data": 9132846
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ResumeThread",
+          "hint": 1196,
+          "iat_address": 6627584,
+          "iat_value": 9132862,
+          "data": 9132862
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcessId",
+          "hint": 683,
+          "iat_address": 6627592,
+          "iat_value": 9132878,
+          "data": 9132878
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualQueryEx",
+          "hint": 1460,
+          "iat_address": 6627600,
+          "iat_value": 9132894,
+          "data": 9132894
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MultiByteToWideChar",
+          "hint": 980,
+          "iat_address": 6627608,
+          "iat_value": 9132422,
+          "data": 9132422
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OpenEventW",
+          "hint": 997,
+          "iat_address": 6627616,
+          "iat_value": 9132408,
+          "data": 9132408
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObject",
+          "hint": 1467,
+          "iat_address": 6627624,
+          "iat_value": 9132386,
+          "data": 9132386
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryW",
+          "hint": 939,
+          "iat_address": 6627632,
+          "iat_value": 9132370,
+          "data": 9132370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 676,
+          "iat_address": 6627640,
+          "iat_value": 9132352,
+          "data": 9132352
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibrary",
+          "hint": 420,
+          "iat_address": 6627648,
+          "iat_value": 9132338,
+          "data": 9132338
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 127,
+          "iat_address": 6627656,
+          "iat_value": 9132324,
+          "data": 9132324
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFullPathNameW",
+          "hint": 592,
+          "iat_address": 6627664,
+          "iat_value": 9132304,
+          "data": 9132304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileW",
+          "hint": 194,
+          "iat_address": 6627672,
+          "iat_value": 9132290,
+          "data": 9132290
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SearchPathW",
+          "hint": 1217,
+          "iat_address": 6627680,
+          "iat_value": 9132276,
+          "data": 9132276
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LocalFree",
+          "hint": 949,
+          "iat_address": 6627688,
+          "iat_value": 9132264,
+          "data": 9132264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameA",
+          "hint": 616,
+          "iat_address": 6627696,
+          "iat_value": 9132242,
+          "data": 9132242
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1392,
+          "iat_address": 6627704,
+          "iat_value": 9132222,
+          "data": 9132222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 527,
+          "iat_address": 6627712,
+          "iat_value": 9132202,
+          "data": 9132202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateMutexW",
+          "hint": 209,
+          "iat_address": 6627720,
+          "iat_value": 9132186,
+          "data": 9132186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 598,
+          "iat_address": 6627728,
+          "iat_value": 9132170,
+          "data": 9132170
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 297,
+          "iat_address": 6627736,
+          "iat_value": 9132734,
+          "data": 9132734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCommandLineW",
+          "hint": 463,
+          "iat_address": 6627744,
+          "iat_value": 9132152,
+          "data": 9132152
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 1377,
+          "iat_address": 6627752,
+          "iat_value": 9133038,
+          "data": 9133038
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LocalAlloc",
+          "hint": 945,
+          "iat_address": 6627760,
+          "iat_value": 9133046,
+          "data": 9133046
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemDirectoryW",
+          "hint": 724,
+          "iat_address": 6627768,
+          "iat_value": 9133060,
+          "data": 9133060
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleW",
+          "hint": 621,
+          "iat_address": 6627776,
+          "iat_value": 9133082,
+          "data": 9133082
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetLastError",
+          "hint": 1305,
+          "iat_address": 6627784,
+          "iat_value": 9133102,
+          "data": 9133102
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryExW",
+          "hint": 938,
+          "iat_address": 6627792,
+          "iat_value": 9133118,
+          "data": 9133118
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteFileA",
+          "hint": 264,
+          "iat_address": 6627800,
+          "iat_value": 9133136,
+          "data": 9133136
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTempPathA",
+          "hint": 745,
+          "iat_address": 6627808,
+          "iat_value": 9133150,
+          "data": 9133150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTempFileNameA",
+          "hint": 743,
+          "iat_address": 6627816,
+          "iat_value": 9133166,
+          "data": 9133166
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1072,
+          "iat_address": 6627824,
+          "iat_value": 9133186,
+          "data": 9133186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TryEnterCriticalSection",
+          "hint": 1419,
+          "iat_address": 6627832,
+          "iat_value": 9133212,
+          "data": 9133212
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsAlloc",
+          "hint": 1410,
+          "iat_address": 6627840,
+          "iat_value": 9133238,
+          "data": 9133238
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsGetValue",
+          "hint": 1412,
+          "iat_address": 6627848,
+          "iat_value": 9133250,
+          "data": 9133250
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsSetValue",
+          "hint": 1413,
+          "iat_address": 6627856,
+          "iat_value": 9133264,
+          "data": 9133264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsFree",
+          "hint": 1411,
+          "iat_address": 6627864,
+          "iat_value": 9133278,
+          "data": 9133278
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameW",
+          "hint": 617,
+          "iat_address": 6627872,
+          "iat_value": 9133288,
+          "data": 9133288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleExA",
+          "hint": 619,
+          "iat_address": 6627880,
+          "iat_value": 9133310,
+          "data": 9133310
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateEventA",
+          "hint": 179,
+          "iat_address": 6627888,
+          "iat_value": 9133332,
+          "data": 9133332
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleA",
+          "hint": 618,
+          "iat_address": 6627896,
+          "iat_value": 9133348,
+          "data": 9133348
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryA",
+          "hint": 936,
+          "iat_address": 6627904,
+          "iat_value": 9133368,
+          "data": 9133368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ExitProcess",
+          "hint": 343,
+          "iat_address": 6627912,
+          "iat_value": 9133384,
+          "data": 9133384
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetThreadPriority",
+          "hint": 1347,
+          "iat_address": 6627920,
+          "iat_value": 9133398,
+          "data": 9133398
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateSemaphoreA",
+          "hint": 222,
+          "iat_address": 6627928,
+          "iat_value": 9133418,
+          "data": 9133418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FormatMessageA",
+          "hint": 415,
+          "iat_address": 6627936,
+          "iat_value": 9133438,
+          "data": 9133438
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileA",
+          "hint": 186,
+          "iat_address": 6627944,
+          "iat_value": 9133456,
+          "data": 9133456
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileSize",
+          "hint": 578,
+          "iat_address": 6627952,
+          "iat_value": 9133470,
+          "data": 9133470
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReadFile",
+          "hint": 1108,
+          "iat_address": 6627960,
+          "iat_value": 9133484,
+          "data": 9133484
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetFilePointer",
+          "hint": 1291,
+          "iat_address": 6627968,
+          "iat_value": 9133496,
+          "data": 9133496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MapViewOfFile",
+          "hint": 963,
+          "iat_address": 6627976,
+          "iat_value": 9133514,
+          "data": 9133514
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnmapViewOfFile",
+          "hint": 1429,
+          "iat_address": 6627984,
+          "iat_value": 9133530,
+          "data": 9133530
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileMappingA",
+          "hint": 187,
+          "iat_address": 6627992,
+          "iat_value": 9133548,
+          "data": 9133548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObjectEx",
+          "hint": 1468,
+          "iat_address": 6628000,
+          "iat_value": 9133570,
+          "data": 9133570
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThread",
+          "hint": 531,
+          "iat_address": 6628008,
+          "iat_value": 9133594,
+          "data": 9133594
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetExitCodeThread",
+          "hint": 564,
+          "iat_address": 6628016,
+          "iat_value": 9133614,
+          "data": 9133614
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSectionAndSpinCount",
+          "hint": 849,
+          "iat_address": 6628024,
+          "iat_value": 9133634,
+          "data": 9133634
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateEventW",
+          "hint": 182,
+          "iat_address": 6628032,
+          "iat_value": 9133674,
+          "data": 9133674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 733,
+          "iat_address": 6628040,
+          "iat_value": 9133690,
+          "data": 9133690
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTickCount",
+          "hint": 761,
+          "iat_address": 6628048,
+          "iat_value": 9133716,
+          "data": 9133716
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EncodePointer",
+          "hint": 293,
+          "iat_address": 6628056,
+          "iat_value": 9133732,
+          "data": 9133732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DecodePointer",
+          "hint": 255,
+          "iat_address": 6628064,
+          "iat_value": 9133748,
+          "data": 9133748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CompareStringW",
+          "hint": 147,
+          "iat_address": 6628072,
+          "iat_value": 9133764,
+          "data": 9133764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LCMapStringW",
+          "hint": 921,
+          "iat_address": 6628080,
+          "iat_value": 9133782,
+          "data": 9133782
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLocaleInfoW",
+          "hint": 602,
+          "iat_address": 6628088,
+          "iat_value": 9133798,
+          "data": 9133798
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStringTypeW",
+          "hint": 716,
+          "iat_address": 6628096,
+          "iat_value": 9133816,
+          "data": 9133816
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCPInfo",
+          "hint": 441,
+          "iat_address": 6628104,
+          "iat_value": 9133834,
+          "data": 9133834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlLookupFunctionEntry",
+          "hint": 1205,
+          "iat_address": 6628112,
+          "iat_value": 9133846,
+          "data": 9133846
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlVirtualUnwind",
+          "hint": 1212,
+          "iat_address": 6628120,
+          "iat_value": 9133872,
+          "data": 9133872
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1426,
+          "iat_address": 6628128,
+          "iat_value": 9133892,
+          "data": 9133892
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsProcessorFeaturePresent",
+          "hint": 880,
+          "iat_address": 6628136,
+          "iat_value": 9133920,
+          "data": 9133920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 874,
+          "iat_address": 6628144,
+          "iat_value": 9133948,
+          "data": 9133948
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStartupInfoW",
+          "hint": 709,
+          "iat_address": 6628152,
+          "iat_value": 9133968,
+          "data": 9133968
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeSListHead",
+          "hint": 852,
+          "iat_address": 6628160,
+          "iat_value": 9133986,
+          "data": 9133986
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetThreadTimes",
+          "hint": 759,
+          "iat_address": 6628168,
+          "iat_value": 9134008,
+          "data": 9134008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibraryAndExitThread",
+          "hint": 421,
+          "iat_address": 6628176,
+          "iat_value": 9134026,
+          "data": 9134026
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedPopEntrySList",
+          "hint": 857,
+          "iat_address": 6628184,
+          "iat_value": 9134054,
+          "data": 9134054
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedPushEntrySList",
+          "hint": 858,
+          "iat_address": 6628192,
+          "iat_value": 9134082,
+          "data": 9134082
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedFlushSList",
+          "hint": 856,
+          "iat_address": 6628200,
+          "iat_value": 9134110,
+          "data": 9134110
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryDepthSList",
+          "hint": 1063,
+          "iat_address": 6628208,
+          "iat_value": 9134134,
+          "data": 9134134
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnregisterWaitEx",
+          "hint": 1436,
+          "iat_address": 6628216,
+          "iat_value": 9134152,
+          "data": 9134152
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RegisterWaitForSingleObject",
+          "hint": 1161,
+          "iat_address": 6628224,
+          "iat_value": 9134172,
+          "data": 9134172
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateTimerQueue",
+          "hint": 238,
+          "iat_address": 6628232,
+          "iat_value": 9134202,
+          "data": 9134202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SignalObjectAndWait",
+          "hint": 1375,
+          "iat_address": 6628240,
+          "iat_value": 9134222,
+          "data": 9134222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SwitchToThread",
+          "hint": 1387,
+          "iat_address": 6628248,
+          "iat_value": 9134244,
+          "data": 9134244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetThreadPriority",
+          "hint": 756,
+          "iat_address": 6628256,
+          "iat_value": 9134262,
+          "data": 9134262
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLogicalProcessorInformation",
+          "hint": 606,
+          "iat_address": 6628264,
+          "iat_value": 9134282,
+          "data": 9134282
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateTimerQueueTimer",
+          "hint": 239,
+          "iat_address": 6628272,
+          "iat_value": 9134316,
+          "data": 9134316
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ChangeTimerQueueTimer",
+          "hint": 113,
+          "iat_address": 6628280,
+          "iat_value": 9134340,
+          "data": 9134340
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteTimerQueueTimer",
+          "hint": 272,
+          "iat_address": 6628288,
+          "iat_value": 9134364,
+          "data": 9134364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetNumaHighestNodeNumber",
+          "hint": 639,
+          "iat_address": 6628296,
+          "iat_value": 9134388,
+          "data": 9134388
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcessAffinityMask",
+          "hint": 677,
+          "iat_address": 6628304,
+          "iat_value": 9134416,
+          "data": 9134416
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetThreadAffinityMask",
+          "hint": 1337,
+          "iat_address": 6628312,
+          "iat_value": 9134442,
+          "data": 9134442
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnregisterWait",
+          "hint": 1435,
+          "iat_address": 6628320,
+          "iat_value": 9134466,
+          "data": 9134466
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetVersionExW",
+          "hint": 782,
+          "iat_address": 6628328,
+          "iat_value": 9134484,
+          "data": 9134484
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualAlloc",
+          "hint": 1451,
+          "iat_address": 6628336,
+          "iat_value": 9134500,
+          "data": 9134500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualFree",
+          "hint": 1454,
+          "iat_address": 6628344,
+          "iat_value": 9134516,
+          "data": 9134516
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualProtect",
+          "hint": 1457,
+          "iat_address": 6628352,
+          "iat_value": 9134530,
+          "data": 9134530
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlPcToFileHeader",
+          "hint": 1207,
+          "iat_address": 6628360,
+          "iat_value": 9134548,
+          "data": 9134548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RaiseException",
+          "hint": 1092,
+          "iat_address": 6628368,
+          "iat_value": 9134568,
+          "data": 9134568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlUnwindEx",
+          "hint": 1211,
+          "iat_address": 6628376,
+          "iat_value": 9134586,
+          "data": 9134586
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleExW",
+          "hint": 620,
+          "iat_address": 6628384,
+          "iat_value": 9134600,
+          "data": 9134600
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetDriveTypeW",
+          "hint": 550,
+          "iat_address": 6628392,
+          "iat_value": 9134622,
+          "data": 9134622
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileType",
+          "hint": 581,
+          "iat_address": 6628400,
+          "iat_value": 9134638,
+          "data": 9134638
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "PeekNamedPipe",
+          "hint": 1030,
+          "iat_address": 6628408,
+          "iat_value": 9134652,
+          "data": 9134652
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SystemTimeToTzSpecificLocalTime",
+          "hint": 1389,
+          "iat_address": 6628416,
+          "iat_value": 9134668,
+          "data": 9134668
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FileTimeToSystemTime",
+          "hint": 355,
+          "iat_address": 6628424,
+          "iat_value": 9134702,
+          "data": 9134702
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ExitThread",
+          "hint": 344,
+          "iat_address": 6628432,
+          "iat_value": 9134726,
+          "data": 9134726
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTempPathW",
+          "hint": 746,
+          "iat_address": 6628440,
+          "iat_value": 9134740,
+          "data": 9134740
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetFilePointerEx",
+          "hint": 1292,
+          "iat_address": 6628448,
+          "iat_value": 9134756,
+          "data": 9134756
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapAlloc",
+          "hint": 824,
+          "iat_address": 6628456,
+          "iat_value": 9134776,
+          "data": 9134776
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapFree",
+          "hint": 828,
+          "iat_address": 6628464,
+          "iat_value": 9134788,
+          "data": 9134788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapReAlloc",
+          "hint": 831,
+          "iat_address": 6628472,
+          "iat_value": 9134800,
+          "data": 9134800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetConsoleCP",
+          "hint": 482,
+          "iat_address": 6628480,
+          "iat_value": 9134814,
+          "data": 9134814
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetConsoleMode",
+          "hint": 500,
+          "iat_address": 6628488,
+          "iat_value": 9134830,
+          "data": 9134830
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReadConsoleW",
+          "hint": 1106,
+          "iat_address": 6628496,
+          "iat_value": 9134848,
+          "data": 9134848
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetACP",
+          "hint": 426,
+          "iat_address": 6628504,
+          "iat_value": 9134864,
+          "data": 9134864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStdHandle",
+          "hint": 711,
+          "iat_address": 6628512,
+          "iat_value": 9134874,
+          "data": 9134874
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsValidLocale",
+          "hint": 887,
+          "iat_address": 6628520,
+          "iat_value": 9134890,
+          "data": 9134890
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetUserDefaultLCID",
+          "hint": 773,
+          "iat_address": 6628528,
+          "iat_value": 9134906,
+          "data": 9134906
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnumSystemLocalesW",
+          "hint": 332,
+          "iat_address": 6628536,
+          "iat_value": 9134928,
+          "data": 9134928
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlushFileBuffers",
+          "hint": 408,
+          "iat_address": 6628544,
+          "iat_value": 9134950,
+          "data": 9134950
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentDirectoryW",
+          "hint": 521,
+          "iat_address": 6628552,
+          "iat_value": 9134970,
+          "data": 9134970
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetStdHandle",
+          "hint": 1328,
+          "iat_address": 6628560,
+          "iat_value": 9134994,
+          "data": 9134994
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteFileW",
+          "hint": 267,
+          "iat_address": 6628568,
+          "iat_value": 9135010,
+          "data": 9135010
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileAttributesExW",
+          "hint": 569,
+          "iat_address": 6628576,
+          "iat_value": 9135024,
+          "data": 9135024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEndOfFile",
+          "hint": 1273,
+          "iat_address": 6628584,
+          "iat_value": 9135048,
+          "data": 9135048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcessHeap",
+          "hint": 681,
+          "iat_address": 6628592,
+          "iat_value": 9135064,
+          "data": 9135064
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTimeZoneInformation",
+          "hint": 768,
+          "iat_address": 6628600,
+          "iat_value": 9135082,
+          "data": 9135082
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindClose",
+          "hint": 366,
+          "iat_address": 6628608,
+          "iat_value": 9135108,
+          "data": 9135108
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindFirstFileExA",
+          "hint": 371,
+          "iat_address": 6628616,
+          "iat_value": 9135120,
+          "data": 9135120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindNextFileA",
+          "hint": 387,
+          "iat_address": 6628624,
+          "iat_value": 9135140,
+          "data": 9135140
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsValidCodePage",
+          "hint": 885,
+          "iat_address": 6628632,
+          "iat_value": 9135156,
+          "data": 9135156
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetOEMCP",
+          "hint": 653,
+          "iat_address": 6628640,
+          "iat_value": 9135174,
+          "data": 9135174
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCommandLineA",
+          "hint": 462,
+          "iat_address": 6628648,
+          "iat_value": 9135186,
+          "data": 9135186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetEnvironmentStringsW",
+          "hint": 558,
+          "iat_address": 6628656,
+          "iat_value": 9135204,
+          "data": 9135204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeEnvironmentStringsW",
+          "hint": 419,
+          "iat_address": 6628664,
+          "iat_value": 9135230,
+          "data": 9135230
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEnvironmentVariableA",
+          "hint": 1276,
+          "iat_address": 6628672,
+          "iat_value": 9135256,
+          "data": 9135256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEnvironmentVariableW",
+          "hint": 1277,
+          "iat_address": 6628680,
+          "iat_value": 9135282,
+          "data": 9135282
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteConsoleW",
+          "hint": 1520,
+          "iat_address": 6628688,
+          "iat_value": 9135308,
+          "data": 9135308
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapSize",
+          "hint": 833,
+          "iat_address": 6628696,
+          "iat_value": 9135324,
+          "data": 9135324
+        }
+      ],
+      "function_count": 159
+    },
+    {
+      "name": "SHELL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 6628784,
+      "import_lookup_table_rva": 9132008,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CommandLineToArgvW",
+          "hint": 6,
+          "iat_address": 6628784,
+          "iat_value": 9132926,
+          "data": 9132926
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "VERSION.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 6628856,
+      "import_lookup_table_rva": 9132080,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileVersionInfoSizeA",
+          "hint": 4,
+          "iat_address": 6628856,
+          "iat_value": 9132960,
+          "data": 9132960
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VerQueryValueA",
+          "hint": 15,
+          "iat_address": 6628864,
+          "iat_value": 9133008,
+          "data": 9133008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileVersionInfoA",
+          "hint": 0,
+          "iat_address": 6628872,
+          "iat_value": 9132986,
+          "data": 9132986
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "USER32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 6628800,
+      "import_lookup_table_rva": 9132024,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetWindowPos",
+          "hint": 791,
+          "iat_address": 6628800,
+          "iat_value": 9135380,
+          "data": 9135380
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsWindow",
+          "hint": 533,
+          "iat_address": 6628808,
+          "iat_value": 9135352,
+          "data": 9135352
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DestroyWindow",
+          "hint": 173,
+          "iat_address": 6628816,
+          "iat_value": 9135364,
+          "data": 9135364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SendMessageA",
+          "hint": 699,
+          "iat_address": 6628824,
+          "iat_value": 9135336,
+          "data": 9135336
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MessageBoxA",
+          "hint": 586,
+          "iat_address": 6628832,
+          "iat_value": 9135408,
+          "data": 9135408
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFocus",
+          "hint": 324,
+          "iat_address": 6628840,
+          "iat_value": 9135396,
+          "data": 9135396
+        }
+      ],
+      "function_count": 6
+    },
+    {
+      "name": "ole32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 6628888,
+      "import_lookup_table_rva": 9132112,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoCreateInstance",
+          "hint": 30,
+          "iat_address": 6628888,
+          "iat_value": 9135468,
+          "data": 9135468
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoInitialize",
+          "hint": 83,
+          "iat_address": 6628896,
+          "iat_value": 9135452,
+          "data": 9135452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoUninitialize",
+          "hint": 131,
+          "iat_address": 6628904,
+          "iat_value": 9135434,
+          "data": 9135434
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoTaskMemFree",
+          "hint": 127,
+          "iat_address": 6628912,
+          "iat_value": 9135488,
+          "data": 9135488
+        }
+      ],
+      "function_count": 4
+    },
+    {
+      "name": "OLEAUT32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 6628752,
+      "import_lookup_table_rva": 9131976,
+      "functions": [
+        {
+          "is_ordinal": 1,
+          "ordinal": 9,
+          "name": null,
+          "hint": 0,
+          "iat_address": 6628752,
+          "iat_value": 9223372036854775817,
+          "data": 9223372036854775817
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 8,
+          "name": null,
+          "hint": 0,
+          "iat_address": 6628760,
+          "iat_value": 9223372036854775816,
+          "data": 9223372036854775816
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 417,
+          "name": null,
+          "hint": 0,
+          "iat_address": 6628768,
+          "iat_value": 9223372036854776225,
+          "data": 9223372036854776225
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "MSVFW32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 6628712,
+      "import_lookup_table_rva": 9131936,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ICDecompress",
+          "hint": 23,
+          "iat_address": 6628712,
+          "iat_value": 9135564,
+          "data": 9135564
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ICSendMessage",
+          "hint": 37,
+          "iat_address": 6628720,
+          "iat_value": 9135548,
+          "data": 9135548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ICClose",
+          "hint": 19,
+          "iat_address": 6628728,
+          "iat_value": 9135538,
+          "data": 9135538
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ICOpen",
+          "hint": 34,
+          "iat_address": 6628736,
+          "iat_value": 9135528,
+          "data": 9135528
+        }
+      ],
+      "function_count": 4
+    },
+    {
+      "name": "AVIFIL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 6627352,
+      "import_lookup_table_rva": 9130576,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AVIStreamRelease",
+          "hint": 52,
+          "iat_address": 6627352,
+          "iat_value": 9135648,
+          "data": 9135648
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AVIStreamInfoA",
+          "hint": 43,
+          "iat_address": 6627360,
+          "iat_value": 9135668,
+          "data": 9135668
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AVIFileGetStream",
+          "hint": 10,
+          "iat_address": 6627368,
+          "iat_value": 9135628,
+          "data": 9135628
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AVIStreamGetFrameOpen",
+          "hint": 41,
+          "iat_address": 6627376,
+          "iat_value": 9135686,
+          "data": 9135686
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AVIStreamGetFrame",
+          "hint": 39,
+          "iat_address": 6627384,
+          "iat_value": 9135710,
+          "data": 9135710
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AVIStreamGetFrameClose",
+          "hint": 40,
+          "iat_address": 6627392,
+          "iat_value": 9135730,
+          "data": 9135730
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AVIFileOpenA",
+          "hint": 16,
+          "iat_address": 6627400,
+          "iat_value": 9135612,
+          "data": 9135612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AVIFileInit",
+          "hint": 14,
+          "iat_address": 6627408,
+          "iat_value": 9135580,
+          "data": 9135580
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AVIFileRelease",
+          "hint": 19,
+          "iat_address": 6627416,
+          "iat_value": 9135594,
+          "data": 9135594
+        }
+      ],
+      "function_count": 9
+    },
+    {
+      "name": "AVICAP32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 6627328,
+      "import_lookup_table_rva": 9130552,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "capCreateCaptureWindowA",
+          "hint": 1,
+          "iat_address": 6627328,
+          "iat_value": 9135756,
+          "data": 9135756
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "capGetDriverDescriptionA",
+          "hint": 3,
+          "iat_address": 6627336,
+          "iat_value": 9135782,
+          "data": 9135782
+        }
+      ],
+      "function_count": 2
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "OVRPlugin.dll",
+    "export_flags": 0,
+    "timestamp": 1498725569,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 315,
+    "entries": [
+      {
+        "name": "ovrp_BeginFrame",
+        "ordinal": 1,
+        "address": 3069392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_BeginFrame2",
+        "ordinal": 2,
+        "address": 3069424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_BeginFrame3",
+        "ordinal": 3,
+        "address": 3069440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_BeginFrame4",
+        "ordinal": 4,
+        "address": 3055376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_CalculateEyeLayerDesc",
+        "ordinal": 5,
+        "address": 3055520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_CalculateEyePreviewRect",
+        "ordinal": 6,
+        "address": 3055776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_CalculateEyeViewportRect",
+        "ordinal": 7,
+        "address": 3055904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_CalculateLayerDesc",
+        "ordinal": 8,
+        "address": 3056048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_CloseCameraDevice",
+        "ordinal": 9,
+        "address": 3066080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_DestroyDistortionWindow",
+        "ordinal": 10,
+        "address": 3069456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_DestroyDistortionWindow2",
+        "ordinal": 11,
+        "address": 3056304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_DestroyEyeTexture",
+        "ordinal": 12,
+        "address": 3069488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_DestroyLayer",
+        "ordinal": 13,
+        "address": 3056384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_DestroyMirrorTexture",
+        "ordinal": 14,
+        "address": 3069568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_DestroyMirrorTexture2",
+        "ordinal": 15,
+        "address": 3056448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_DismissHSW",
+        "ordinal": 16,
+        "address": 3069600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_DoesCameraDeviceSupportDepthSensor",
+        "ordinal": 17,
+        "address": 3066208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_EndEye",
+        "ordinal": 18,
+        "address": 3069616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_EndFrame",
+        "ordinal": 19,
+        "address": 3069648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_EndFrame2",
+        "ordinal": 20,
+        "address": 3069696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_EndFrame3",
+        "ordinal": 21,
+        "address": 3069712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_EndFrame4",
+        "ordinal": 22,
+        "address": 3056544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_EnqueueDestroyLayer",
+        "ordinal": 23,
+        "address": 3069728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_EnqueueSetupLayer",
+        "ordinal": 24,
+        "address": 3069776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_EnqueueSubmitLayer",
+        "ordinal": 25,
+        "address": 3069824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_EnumerateAllCameraDevices",
+        "ordinal": 26,
+        "address": 3066288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_EnumerateAvailableCameraDevices",
+        "ordinal": 27,
+        "address": 3066512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetActiveController",
+        "ordinal": 28,
+        "address": 3069984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetActiveController2",
+        "ordinal": 29,
+        "address": 3056720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAdapterId",
+        "ordinal": 30,
+        "address": 3070016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAdaptiveGpuPerformanceScale",
+        "ordinal": 31,
+        "address": 3070032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAdaptiveGpuPerformanceScale2",
+        "ordinal": 32,
+        "address": 3056800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppCPUPriority",
+        "ordinal": 33,
+        "address": 3070080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppCPUPriority2",
+        "ordinal": 34,
+        "address": 3056880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppChromaticCorrection",
+        "ordinal": 35,
+        "address": 3070112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppCpuStartToGpuEndTime",
+        "ordinal": 36,
+        "address": 3070160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppCpuStartToGpuEndTime2",
+        "ordinal": 37,
+        "address": 3056960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppFramerate",
+        "ordinal": 38,
+        "address": 3070208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppFramerate2",
+        "ordinal": 39,
+        "address": 3057040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppHasVrFocus",
+        "ordinal": 40,
+        "address": 3070256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppHasVrFocus2",
+        "ordinal": 41,
+        "address": 3057120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppLatencyTimings",
+        "ordinal": 42,
+        "address": 3070288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppLatencyTimings2",
+        "ordinal": 43,
+        "address": 3057200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppMonoscopic",
+        "ordinal": 44,
+        "address": 3070336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppPerfStats",
+        "ordinal": 45,
+        "address": 3070384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppPerfStats2",
+        "ordinal": 46,
+        "address": 3057344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppSRGB",
+        "ordinal": 47,
+        "address": 3070736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppShouldQuit",
+        "ordinal": 48,
+        "address": 3070784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppShouldQuit2",
+        "ordinal": 49,
+        "address": 3057584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppShouldRecenter",
+        "ordinal": 50,
+        "address": 3070816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppShouldRecenter2",
+        "ordinal": 51,
+        "address": 3057664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppShouldRecreateDistortionWindow",
+        "ordinal": 52,
+        "address": 3070848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAppShouldRecreateDistortionWindow2",
+        "ordinal": 53,
+        "address": 3057744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAudioInDeviceId",
+        "ordinal": 54,
+        "address": 3070880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAudioInDeviceId2",
+        "ordinal": 55,
+        "address": 3057824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAudioInId",
+        "ordinal": 56,
+        "address": 3070928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAudioInId2",
+        "ordinal": 57,
+        "address": 3057888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAudioOutDeviceId",
+        "ordinal": 58,
+        "address": 3070976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAudioOutDeviceId2",
+        "ordinal": 59,
+        "address": 3057952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAudioOutId",
+        "ordinal": 60,
+        "address": 3071024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetAudioOutId2",
+        "ordinal": 61,
+        "address": 3058016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBatteryStatus",
+        "ordinal": 62,
+        "address": 3071072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBoundaryConfigured",
+        "ordinal": 63,
+        "address": 3071120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBoundaryConfigured2",
+        "ordinal": 64,
+        "address": 3058080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBoundaryDimensions",
+        "ordinal": 65,
+        "address": 3071152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBoundaryDimensions2",
+        "ordinal": 66,
+        "address": 3058160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBoundaryGeometry",
+        "ordinal": 67,
+        "address": 3071264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBoundaryGeometry2",
+        "ordinal": 68,
+        "address": 3071616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBoundaryGeometry3",
+        "ordinal": 69,
+        "address": 3058288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBoundaryVisible",
+        "ordinal": 70,
+        "address": 3071648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBoundaryVisible2",
+        "ordinal": 71,
+        "address": 3058432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetBufferCount",
+        "ordinal": 72,
+        "address": 3073840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetCameraDeviceColorFrameBgraPixels",
+        "ordinal": 73,
+        "address": 3066736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetCameraDeviceColorFrameSize",
+        "ordinal": 74,
+        "address": 3066944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetCameraDeviceColorFrameToDepthFrameMapping",
+        "ordinal": 75,
+        "address": 3067104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetCameraDeviceDepthFramePixels",
+        "ordinal": 76,
+        "address": 3067264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetCameraDeviceDepthFrameSize",
+        "ordinal": 77,
+        "address": 3067424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetCaps",
+        "ordinal": 78,
+        "address": 3071680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetCaps2",
+        "ordinal": 79,
+        "address": 3071712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetConnectedControllers",
+        "ordinal": 80,
+        "address": 3072000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetConnectedControllers2",
+        "ordinal": 81,
+        "address": 3058512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetControllerHapticsDesc",
+        "ordinal": 82,
+        "address": 3072032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetControllerHapticsDesc2",
+        "ordinal": 83,
+        "address": 3058592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetControllerHapticsState",
+        "ordinal": 84,
+        "address": 3072144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetControllerHapticsState2",
+        "ordinal": 85,
+        "address": 3058720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetControllerState",
+        "ordinal": 86,
+        "address": 3072192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetControllerState2",
+        "ordinal": 87,
+        "address": 3072352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetControllerState3",
+        "ordinal": 88,
+        "address": 3072512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetControllerState4",
+        "ordinal": 89,
+        "address": 3058832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetDesiredEyeTextureFormat",
+        "ordinal": 90,
+        "address": 3072672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetDisplayAdapterId",
+        "ordinal": 91,
+        "address": 3072720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetDisplayAdapterId2",
+        "ordinal": 92,
+        "address": 3059008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetExternalCameraCount",
+        "ordinal": 93,
+        "address": 3067584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetExternalCameraExtrinsics",
+        "ordinal": 94,
+        "address": 3067664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetExternalCameraIntrinsics",
+        "ordinal": 95,
+        "address": 3067904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetExternalCameraName",
+        "ordinal": 96,
+        "address": 3068096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeAcceleration",
+        "ordinal": 97,
+        "address": 3072768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeFrustum",
+        "ordinal": 98,
+        "address": 3072944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeOcclusionMesh",
+        "ordinal": 99,
+        "address": 3073072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeOcclusionMeshEnabled",
+        "ordinal": 100,
+        "address": 3073168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyePixelsPerTanAngleAtCenter",
+        "ordinal": 101,
+        "address": 3073216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyePixelsPerTanAngleAtCenter2",
+        "ordinal": 102,
+        "address": 3059072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyePose",
+        "ordinal": 103,
+        "address": 3073264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyePreviewRect",
+        "ordinal": 104,
+        "address": 3073424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeRecommendedResolutionScale",
+        "ordinal": 105,
+        "address": 3073504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeTextureArrayEnabled",
+        "ordinal": 106,
+        "address": 3073552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeTextureArraySupported",
+        "ordinal": 107,
+        "address": 3073600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeTextureArraySupported2",
+        "ordinal": 108,
+        "address": 3059184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeTextureFlippedY",
+        "ordinal": 109,
+        "address": 3073632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeTextureScale",
+        "ordinal": 110,
+        "address": 3073680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeTextureShared",
+        "ordinal": 111,
+        "address": 3073728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeTextureSize",
+        "ordinal": 112,
+        "address": 3073776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeTextureStageCount",
+        "ordinal": 113,
+        "address": 3073840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeVelocity",
+        "ordinal": 114,
+        "address": 3073888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetEyeViewportScale",
+        "ordinal": 115,
+        "address": 3074064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetFloat",
+        "ordinal": 116,
+        "address": 3074112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetHeadphonesPresent",
+        "ordinal": 117,
+        "address": 3074512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetHmdToEyeOffset",
+        "ordinal": 118,
+        "address": 3074560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetHmdToEyeOffset2",
+        "ordinal": 119,
+        "address": 3059264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetInitialized",
+        "ordinal": 120,
+        "address": 3059392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetInputState",
+        "ordinal": 121,
+        "address": 3074672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetLayerOcclusionMesh",
+        "ordinal": 122,
+        "address": 3059408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetLayerTexture",
+        "ordinal": 123,
+        "address": 3059584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetLayerTexturePtr",
+        "ordinal": 124,
+        "address": 3074736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetLayerTextureStageCount",
+        "ordinal": 125,
+        "address": 3059712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetMixedRealityInitialized",
+        "ordinal": 126,
+        "address": 3068224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNativePointer",
+        "ordinal": 127,
+        "address": 3074800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNativeSDKPointer",
+        "ordinal": 128,
+        "address": 3074848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNativeSDKPointer2",
+        "ordinal": 129,
+        "address": 3059808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNativeSDKVersion",
+        "ordinal": 130,
+        "address": 3074896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNativeSDKVersion2",
+        "ordinal": 131,
+        "address": 3059888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodeAcceleration",
+        "ordinal": 132,
+        "address": 3074944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodeAcceleration2",
+        "ordinal": 133,
+        "address": 3075008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodeFrustum",
+        "ordinal": 134,
+        "address": 3075200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodeFrustum2",
+        "ordinal": 135,
+        "address": 3059968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodeOrientationTracked",
+        "ordinal": 136,
+        "address": 3075360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodeOrientationTracked2",
+        "ordinal": 137,
+        "address": 3060112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodePose",
+        "ordinal": 138,
+        "address": 3075392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodePose2",
+        "ordinal": 139,
+        "address": 3075456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodePoseState",
+        "ordinal": 140,
+        "address": 3075520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodePoseState2",
+        "ordinal": 141,
+        "address": 3060208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodePositionTracked",
+        "ordinal": 142,
+        "address": 3075728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodePositionTracked2",
+        "ordinal": 143,
+        "address": 3060400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodePresent",
+        "ordinal": 144,
+        "address": 3075760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodePresent2",
+        "ordinal": 145,
+        "address": 3060496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodeVelocity",
+        "ordinal": 146,
+        "address": 3075792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetNodeVelocity2",
+        "ordinal": 147,
+        "address": 3075856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetStatus",
+        "ordinal": 148,
+        "address": 3076048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetStatus2",
+        "ordinal": 149,
+        "address": 3076080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetString",
+        "ordinal": 150,
+        "address": 3076448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemBatteryLevel",
+        "ordinal": 151,
+        "address": 3076560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemBatteryLevel2",
+        "ordinal": 152,
+        "address": 3060592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemBatteryStatus",
+        "ordinal": 153,
+        "address": 3076608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemBatteryStatus2",
+        "ordinal": 154,
+        "address": 3060672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemBatteryTemperature",
+        "ordinal": 155,
+        "address": 3076656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemBatteryTemperature2",
+        "ordinal": 156,
+        "address": 3060752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemCpuLevel",
+        "ordinal": 157,
+        "address": 3076704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemCpuLevel2",
+        "ordinal": 158,
+        "address": 3060832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemDisplayFrequency",
+        "ordinal": 159,
+        "address": 3076736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemDisplayFrequency2",
+        "ordinal": 160,
+        "address": 3060912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemGpuLevel",
+        "ordinal": 161,
+        "address": 3076784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemGpuLevel2",
+        "ordinal": 162,
+        "address": 3060992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemHeadphonesPresent",
+        "ordinal": 163,
+        "address": 3076816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemHeadphonesPresent2",
+        "ordinal": 164,
+        "address": 3061072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemHeadsetType",
+        "ordinal": 165,
+        "address": 3076848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemHeadsetType2",
+        "ordinal": 166,
+        "address": 3061152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemMultiViewSupported",
+        "ordinal": 167,
+        "address": 3076880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemMultiViewSupported2",
+        "ordinal": 168,
+        "address": 3061232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemPowerSavingMode",
+        "ordinal": 169,
+        "address": 3076912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemPowerSavingMode2",
+        "ordinal": 170,
+        "address": 3061312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemProductName",
+        "ordinal": 171,
+        "address": 3076944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemProductName2",
+        "ordinal": 172,
+        "address": 3061392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemRecommendedMSAALevel",
+        "ordinal": 173,
+        "address": 3076992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemRecommendedMSAALevel2",
+        "ordinal": 174,
+        "address": 3061472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemRegion",
+        "ordinal": 175,
+        "address": 3077040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemRegion2",
+        "ordinal": 176,
+        "address": 3061552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemVSyncCount",
+        "ordinal": 177,
+        "address": 3077072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemVSyncCount2",
+        "ordinal": 178,
+        "address": 3061632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemVolume",
+        "ordinal": 179,
+        "address": 3077104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetSystemVolume2",
+        "ordinal": 180,
+        "address": 3061712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackerFrustum",
+        "ordinal": 181,
+        "address": 3077152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackerPose",
+        "ordinal": 182,
+        "address": 3077312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingCalibratedOrigin",
+        "ordinal": 183,
+        "address": 3077456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingCalibratedOrigin2",
+        "ordinal": 184,
+        "address": 3061792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingIPDEnabled",
+        "ordinal": 185,
+        "address": 3077568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingIPDEnabled2",
+        "ordinal": 186,
+        "address": 3061952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingOrientationEnabled",
+        "ordinal": 187,
+        "address": 3077600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingOrientationEnabled2",
+        "ordinal": 188,
+        "address": 3062032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingOrientationSupported",
+        "ordinal": 189,
+        "address": 3077632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingOrientationSupported2",
+        "ordinal": 190,
+        "address": 3062112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingOriginType",
+        "ordinal": 191,
+        "address": 3077664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingOriginType2",
+        "ordinal": 192,
+        "address": 3062192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingPositionEnabled",
+        "ordinal": 193,
+        "address": 3077696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingPositionEnabled2",
+        "ordinal": 194,
+        "address": 3062272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingPositionSupported",
+        "ordinal": 195,
+        "address": 3077728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetTrackingPositionSupported2",
+        "ordinal": 196,
+        "address": 3062352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetUserEyeDepth",
+        "ordinal": 197,
+        "address": 3077760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetUserEyeHeight",
+        "ordinal": 198,
+        "address": 3077808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetUserEyeHeight2",
+        "ordinal": 199,
+        "address": 3062432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetUserIPD",
+        "ordinal": 200,
+        "address": 3077856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetUserIPD2",
+        "ordinal": 201,
+        "address": 3062512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetUserNeckEyeDistance",
+        "ordinal": 202,
+        "address": 3077904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetUserNeckEyeDistance2",
+        "ordinal": 203,
+        "address": 3062592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetUserPresent",
+        "ordinal": 204,
+        "address": 3077952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetUserPresent2",
+        "ordinal": 205,
+        "address": 3062688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetVersion",
+        "ordinal": 206,
+        "address": 3077984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_GetVersion2",
+        "ordinal": 207,
+        "address": 3062768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_HasCameraDeviceOpened",
+        "ordinal": 208,
+        "address": 3081424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_HasCameraDeviceOpened2",
+        "ordinal": 209,
+        "address": 3068240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_Initialize",
+        "ordinal": 210,
+        "address": 3078032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_Initialize2",
+        "ordinal": 211,
+        "address": 3078048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_Initialize3",
+        "ordinal": 212,
+        "address": 3078160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_Initialize4",
+        "ordinal": 213,
+        "address": 3062800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_InitializeMixedReality",
+        "ordinal": 214,
+        "address": 3068384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_IsCameraDeviceAvailable",
+        "ordinal": 215,
+        "address": 3081472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_IsCameraDeviceAvailable2",
+        "ordinal": 216,
+        "address": 3068496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_IsCameraDeviceColorFrameAvailable",
+        "ordinal": 217,
+        "address": 3081520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_IsCameraDeviceColorFrameAvailable2",
+        "ordinal": 218,
+        "address": 3068608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_IsCameraDeviceColorFrameToDepthFrameMappingAvailable",
+        "ordinal": 219,
+        "address": 3068752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_IsCameraDeviceDepthFrameAvailable",
+        "ordinal": 220,
+        "address": 3068832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_OpenCameraDevice",
+        "ordinal": 221,
+        "address": 3068928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_PreInitialize",
+        "ordinal": 222,
+        "address": 3078192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_PreInitialize2",
+        "ordinal": 223,
+        "address": 3062976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_RecenterPose",
+        "ordinal": 224,
+        "address": 3078224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_RecenterTrackingOrigin",
+        "ordinal": 225,
+        "address": 3078272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_RecenterTrackingOrigin2",
+        "ordinal": 226,
+        "address": 3063040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_RecreateEyeTexture",
+        "ordinal": 227,
+        "address": 3078304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_ReleaseEyeTexture",
+        "ordinal": 228,
+        "address": 3078320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_ResetAppPerfStats",
+        "ordinal": 229,
+        "address": 3078384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_ResetAppPerfStats2",
+        "ordinal": 230,
+        "address": 3063120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_ResetBoundaryLookAndFeel",
+        "ordinal": 231,
+        "address": 3078416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_ResetBoundaryLookAndFeel2",
+        "ordinal": 232,
+        "address": 3063184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetAppCPUPriority",
+        "ordinal": 233,
+        "address": 3078448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetAppCPUPriority2",
+        "ordinal": 234,
+        "address": 3063248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetAppChromaticCorrection",
+        "ordinal": 235,
+        "address": 3078480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetAppEngineInfo",
+        "ordinal": 236,
+        "address": 3078544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetAppEngineInfo2",
+        "ordinal": 237,
+        "address": 3063328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetAppIgnoreVrFocus",
+        "ordinal": 238,
+        "address": 3069616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetAppMonoscopic",
+        "ordinal": 239,
+        "address": 3078576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetAppSRGB",
+        "ordinal": 240,
+        "address": 3078640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetBoundaryLookAndFeel",
+        "ordinal": 241,
+        "address": 3078704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetBoundaryLookAndFeel2",
+        "ordinal": 242,
+        "address": 3063392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetBoundaryVisible",
+        "ordinal": 243,
+        "address": 3078752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetBoundaryVisible2",
+        "ordinal": 244,
+        "address": 3063472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetCameraDevicePreferredColorFrameSize",
+        "ordinal": 245,
+        "address": 3069072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetCaps",
+        "ordinal": 246,
+        "address": 3078784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetControllerHaptics",
+        "ordinal": 247,
+        "address": 3079040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetControllerHaptics2",
+        "ordinal": 248,
+        "address": 3063552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetControllerVibration",
+        "ordinal": 249,
+        "address": 3079088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetControllerVibration2",
+        "ordinal": 250,
+        "address": 3063648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetDesiredEyeTextureFormat",
+        "ordinal": 251,
+        "address": 3079120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetEyeOcclusionMeshEnabled",
+        "ordinal": 252,
+        "address": 3079168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetEyeTexture",
+        "ordinal": 253,
+        "address": 3079232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetEyeTextureArrayEnabled",
+        "ordinal": 254,
+        "address": 3079328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetEyeTextureFlippedY",
+        "ordinal": 255,
+        "address": 3079392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetEyeTextureScale",
+        "ordinal": 256,
+        "address": 3079456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetEyeTextureShared",
+        "ordinal": 257,
+        "address": 3079520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetEyeViewportScale",
+        "ordinal": 258,
+        "address": 3079584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetFloat",
+        "ordinal": 259,
+        "address": 3079648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetFunctionPointer",
+        "ordinal": 260,
+        "address": 3063760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetInhibitSystemUX",
+        "ordinal": 261,
+        "address": 3080032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetInhibitSystemUX2",
+        "ordinal": 262,
+        "address": 3063856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetNodePositionTracked",
+        "ordinal": 263,
+        "address": 3080064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetNodePositionTracked2",
+        "ordinal": 264,
+        "address": 3063920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetOverlayQuad",
+        "ordinal": 265,
+        "address": 3080096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetOverlayQuad2",
+        "ordinal": 266,
+        "address": 3080192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetOverlayQuad3",
+        "ordinal": 267,
+        "address": 5468096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetSystemCpuLevel",
+        "ordinal": 268,
+        "address": 3080272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetSystemCpuLevel2",
+        "ordinal": 269,
+        "address": 3064000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetSystemGpuLevel",
+        "ordinal": 270,
+        "address": 3080304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetSystemGpuLevel2",
+        "ordinal": 271,
+        "address": 3064080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetSystemVSyncCount",
+        "ordinal": 272,
+        "address": 3080336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetSystemVSyncCount2",
+        "ordinal": 273,
+        "address": 3064160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetTrackingCalibratedOrigin2",
+        "ordinal": 274,
+        "address": 3064240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetTrackingIPDEnabled",
+        "ordinal": 275,
+        "address": 3080368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetTrackingIPDEnabled2",
+        "ordinal": 276,
+        "address": 3064304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetTrackingOrientationEnabled",
+        "ordinal": 277,
+        "address": 3080400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetTrackingOrientationEnabled2",
+        "ordinal": 278,
+        "address": 3064384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetTrackingOriginType",
+        "ordinal": 279,
+        "address": 3080432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetTrackingOriginType2",
+        "ordinal": 280,
+        "address": 3064464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetTrackingPositionEnabled",
+        "ordinal": 281,
+        "address": 3080464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetTrackingPositionEnabled2",
+        "ordinal": 282,
+        "address": 3064544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetUserEyeDepth",
+        "ordinal": 283,
+        "address": 3080496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetUserEyeHeight",
+        "ordinal": 284,
+        "address": 3080560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetUserEyeHeight2",
+        "ordinal": 285,
+        "address": 3064624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetUserIPD",
+        "ordinal": 286,
+        "address": 3080592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetUserIPD2",
+        "ordinal": 287,
+        "address": 3064704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetUserNeckEyeDistance",
+        "ordinal": 288,
+        "address": 3080624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetUserNeckEyeDistance2",
+        "ordinal": 289,
+        "address": 3064784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetupDisplayObjects",
+        "ordinal": 290,
+        "address": 3080656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetupDisplayObjects2",
+        "ordinal": 291,
+        "address": 3064880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetupDistortionWindow",
+        "ordinal": 292,
+        "address": 3080688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetupDistortionWindow2",
+        "ordinal": 293,
+        "address": 3080704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetupDistortionWindow3",
+        "ordinal": 294,
+        "address": 3064992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetupEyeTexture",
+        "ordinal": 295,
+        "address": 3080736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetupEyeTexture2",
+        "ordinal": 296,
+        "address": 3080768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetupLayer",
+        "ordinal": 297,
+        "address": 3065104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetupMirrorTexture",
+        "ordinal": 298,
+        "address": 3080912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_SetupMirrorTexture2",
+        "ordinal": 299,
+        "address": 3065248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_ShowSystemUI",
+        "ordinal": 300,
+        "address": 3080960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_ShowSystemUI2",
+        "ordinal": 301,
+        "address": 3065424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_ShowUI",
+        "ordinal": 302,
+        "address": 3080992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_Shutdown",
+        "ordinal": 303,
+        "address": 3081056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_Shutdown2",
+        "ordinal": 304,
+        "address": 3065504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_ShutdownMixedReality",
+        "ordinal": 305,
+        "address": 3069200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_TestBoundaryNode",
+        "ordinal": 306,
+        "address": 3081088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_TestBoundaryNode2",
+        "ordinal": 307,
+        "address": 3065568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_TestBoundaryPoint",
+        "ordinal": 308,
+        "address": 3081200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_TestBoundaryPoint2",
+        "ordinal": 309,
+        "address": 3065696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_Update",
+        "ordinal": 310,
+        "address": 3081328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_Update2",
+        "ordinal": 311,
+        "address": 3081344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_Update3",
+        "ordinal": 312,
+        "address": 3065840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_UpdateCameraDevices",
+        "ordinal": 313,
+        "address": 3069264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrp_UpdateExternalCamera",
+        "ordinal": 314,
+        "address": 3069312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "ovrpi_SetTrackingCalibratedOrigin",
+        "ordinal": 315,
+        "address": 3081376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 2,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 9578656,
+        "size": 880,
+        "entropy": 3.426267,
+        "sha256": "42452c7080551b7d2c142408cbd212c466a305f1fa0a1dff8eb6846645b2a7fe",
+        "magic_head": "7003340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 9579536,
+        "size": 381,
+        "entropy": 4.911615,
+        "sha256": "4bb79dcea0a901f7d9eac5aa05728ae92acb42e0cb22e5dd14134f4421a3d8df",
+        "magic_head": "3c3f786d6c207665"
+      }
+    ],
+    "total_size": 1261,
+    "max_entropy": 4.911615
+  },
+  "digital_signature": {
+    "signature_present": 1,
+    "verification_flag": "OK",
+    "signature_count": 1,
+    "certificates": [
+      {
+        "version": 3,
+        "subject": "C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services CA - G2",
+        "issuer": "C=ZA, ST=Western Cape, L=Durbanville, O=Thawte, OU=Thawte Certification, CN=Thawte Timestamping CA",
+        "serial_number": "7e93ebfb7cc64e59ea4b9a77d406fc3b",
+        "signature_algorithm": "1.2.840.113549.1.1.5",
+        "valid_from": "2012-12-21",
+        "valid_to": "2020-12-30",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services Signer - G4",
+        "issuer": "C=US, O=Symantec Corporation, CN=Symantec Time Stamping Services CA - G2",
+        "serial_number": "0ecff438c8febf356e04d86a981b1a50",
+        "signature_algorithm": "1.2.840.113549.1.1.5",
+        "valid_from": "2012-10-18",
+        "valid_to": "2020-12-29",
+        "is_ca": 0,
+        "key_usage": [
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=US, ST=California, L=Menlo Park, O=Oculus VR\\, LLC, CN=Oculus VR\\, LLC",
+        "issuer": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Assured ID Code Signing CA",
+        "serial_number": "04176fd7b052e62f80eb9a520409c401",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2015-5-21",
+        "valid_to": "2018-3-7",
+        "is_ca": 0,
+        "key_usage": [
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Assured ID Code Signing CA",
+        "issuer": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA",
+        "serial_number": "0409181b5fd5bb66755343b56f955008",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2013-10-22",
+        "valid_to": "2028-10-22",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN",
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      }
+    ]
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 4123694974,
+    "entries": [
+      {
+        "id": 258,
+        "build_id": 24210,
+        "count": 1
+      },
+      {
+        "id": 151,
+        "build_id": 0,
+        "count": 1
+      },
+      {
+        "id": 255,
+        "build_id": 24210,
+        "count": 1
+      },
+      {
+        "id": 256,
+        "build_id": 24210,
+        "count": 1
+      },
+      {
+        "id": 261,
+        "build_id": 24210,
+        "count": 23
+      },
+      {
+        "id": 260,
+        "build_id": 24210,
+        "count": 2
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 233
+      },
+      {
+        "id": 203,
+        "build_id": 65501,
+        "count": 21
+      },
+      {
+        "id": 206,
+        "build_id": 65501,
+        "count": 5
+      },
+      {
+        "id": 0,
+        "build_id": 0,
+        "count": 2485
+      },
+      {
+        "id": 205,
+        "build_id": 50522,
+        "count": 546
+      },
+      {
+        "id": 132,
+        "build_id": 30729,
+        "count": 1
+      },
+      {
+        "id": 131,
+        "build_id": 30729,
+        "count": 1
+      },
+      {
+        "id": 261,
+        "build_id": 24215,
+        "count": 116
+      },
+      {
+        "id": 260,
+        "build_id": 24215,
+        "count": 184
+      },
+      {
+        "id": 260,
+        "build_id": 24123,
+        "count": 40
+      },
+      {
+        "id": 261,
+        "build_id": 24123,
+        "count": 112
+      },
+      {
+        "id": 259,
+        "build_id": 24123,
+        "count": 20
+      },
+      {
+        "id": 199,
+        "build_id": 41118,
+        "count": 10
+      },
+      {
+        "id": 242,
+        "build_id": 40116,
+        "count": 36
+      },
+      {
+        "id": 243,
+        "build_id": 40116,
+        "count": 187
+      },
+      {
+        "id": 241,
+        "build_id": 40116,
+        "count": 25
+      }
+    ],
+    "raw_hex": "3af6a4a67e97caf57e97caf57e97caf5ca0b3bf56797caf5ca0b39f5c597caf5ca0b38f55a97caf5e0370df57497caf545c9c9f46a97caf545c9cff40e97caf545c9cef45697caf5e9c9cef4c697caf5e9c9cff40a97caf577ef49f57f97caf577ef4ef57f97caf5245207f55c95caf57e97caf5cb9ecaf5a36804f57b97caf5a36801f56b97caf57e97cbf59797caf5ecc9cef47c97caf5ecc9cff46997caf5ecc9caf47f97caf5ecc935f57f97caf57e975df57f97caf5ecc9c8f47f97caf5526963687e97caf5",
+    "raw_offset": 128,
+    "raw_size": 200,
+    "entry_count": 22
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 9119072,
+      "size": 11280,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 9130352,
+      "size": 200,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 10289152,
+      "size": 1424,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 9994240,
+      "size": 241896,
+      "section": ".pdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 9604608,
+      "size": 6056,
+      "section": ".data",
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 10293248,
+      "size": 24568,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 8583280,
+      "size": 84,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 8583528,
+      "size": 40,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 8583376,
+      "size": 148,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 6627328,
+      "size": 1600,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": 381
+  },
+  "entrypoint_bytes": {
+    "offset": 5419252,
+    "hex": "48895c24084889742410574883ec20498bf88bda488bf183fa017505e8370700004c8bc78bd3488bce488b5c2430488b7424384883c4205fe977feffffcccccc",
+    "entropy": 4.78891
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 6451623776,
+    "se_handler_count": 0,
+    "guard_cf_function_count": 0,
+    "guard_flags": 256
+  },
+  "tls": {
+    "has_tls": 1,
+    "callback_count": 0,
+    "callbacks": [],
+    "addressof_callbacks": 6449081256,
+    "addressof_index": 6452406456,
+    "addressof_raw_data_start": 6452695040,
+    "addressof_raw_data_end": 6452695048,
+    "raw_data_size": 8,
+    "sizeof_zero_fill": 0,
+    "characteristics": 3145728,
+    "section": ".rdata",
+    "data_template_hex": "0000000000000080",
+    "data_template_entropy": 0.543564
+  },
+  "exception_dir": {
+    "rva": 9994240,
+    "size": 241896,
+    "runtime_function_count": 20158
+  },
+  "section_layout_qc": {
+    "gaps": 10,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 9,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 2498
+  },
+  "optional_header": {
+    "magic": "PE32_PLUS",
+    "major_linker_version": 14,
+    "minor_linker_version": 0,
+    "sizeof_code": 6616576,
+    "sizeof_initialized_data": 3668992,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 5421812,
+    "baseof_code": 4096,
+    "baseof_data": null,
+    "imagebase": 6442450944,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 6,
+    "minor_operating_system_version": 0,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 6,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 10317824,
+    "sizeof_headers": 1536,
+    "checksum": 9659511,
+    "subsystem": "WINDOWS_CUI",
+    "dll_characteristics_raw": 352,
+    "dll_characteristics": [
+      "HIGH_ENTROPY_VA",
+      "DYNAMIC_BASE",
+      "NX_COMPAT"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 288,
+    "entropy": 5.102698,
+    "is_standard_ms": 1,
+    "sha256": "779630689ed3665dab2cb6d49085a74db870555bce97cad7df86738b90434bec",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a24000000000000003af6a4a67e97caf57e97caf57e97caf5ca0b3bf56797caf5ca0b39f5c597caf5ca0b38f55a97caf5e0370df57497caf545c9c9f46a97caf545c9cff40e97caf545c9cef45697caf5e9c9cef4c697caf5e9c9cff40a97caf577ef49f57f97caf577ef4ef57f97caf5245207f55c95caf57e97caf5cb9ecaf5a36804f57b97caf5a36801f56b97caf57e97cbf59797caf5ecc9cef47c97caf5ecc9cff46997caf5ecc9caf47f97caf5ecc935f57f97caf57e975df57f97caf5ecc9c8f47f97caf5526963687e97caf5000000000000000000000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ : ~ ~ ~ ; g 9 8 Z 7 t E j E E V w I w N $R \\ ~ h { h k ~ | i 5 ~ ] Rich~",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 9659511,
+    "checksum_computed": 9659511,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 5421812,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.601811
+  },
+  "overlay": {
+    "size": 6056,
+    "offset": 9604608,
+    "entropy": 7.339097,
+    "magic_head": "a8170000000202003082179b06092a86",
+    "sha256": "b70b9a056019ddbf3fda6f0751f5de88ba0265fcbfe798e19436aa0c6ed18a6d"
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 3,
+    "types": [
+      "CODEVIEW",
+      "VC_FEATURE",
+      "POGO"
+    ],
+    "pdb_path": "E:\\tw\\bf3b2f63c3775285\\Software\\OculusSDK\\Integrations\\Unity\\Releases\\1.16.0\\OVRPlugin\\CMake\\PC\\win64\\RelWithDebInfo\\OVRPlugin.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 99,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "Oculus VR",
+    "file_description": "Oculus VR Plugin TCID:2146283",
+    "original_filename": "OVRPlugin.dll",
+    "product_name": "OVRPlugin",
+    "file_version": "1.16.0",
+    "legal_copyright": "Copyright 2016 Oculus VR, LLC. All Rights reserved.",
+    "internal_name": "OVRPlugin.dll"
+  },
+  "strings": {
+    "count_ascii": 109745,
+    "count_utf16": 605,
+    "count_total": 110350,
+    "chars_total": 1015146,
+    "printable_ratio": 0.105627,
+    "len_mean": 9.2,
+    "len_max": 7167,
+    "urls": [
+      "http://crl.thawte.com/ThawteTimestampingCA.crl0",
+      "http://crl3.digicert.com/sha2-assured-cs-g1.crl05",
+      "http://crl4.digicert.com/sha2-assured-cs-g1.crl0B",
+      "http://ocsp.digicert.com0C",
+      "http://ocsp.digicert.com0N",
+      "http://ocsp.thawte.com0",
+      "http://ts-aia.ws.symantec.com/tss-ca-g2.cer0",
+      "http://ts-crl.ws.symantec.com/tss-ca-g2.crl0(",
+      "http://ts-ocsp.ws.symantec.com07",
+      "http://www.iec.ch",
+      "https://www.digicert.com/CPS0"
+    ],
+    "n_urls": 11,
+    "ipv4": [
+      "2.5.4.3",
+      "9.9.9.9"
+    ],
+    "n_ipv4": 2,
+    "ipv4_plausible": [
+      "2.5.4.3",
+      "9.9.9.9"
+    ],
+    "n_ipv4_plausible": 2,
+    "dll_names": [
+      "advapi32.dll",
+      "avicap32.dll",
+      "avifil32.dll",
+      "combase.dll",
+      "d.dll",
+      "dbghelp.dll",
+      "kernel32.dll",
+      "mscoree.dll",
+      "msvfw32.dll",
+      "nvapi64.dll",
+      "nvpowerapi.dll",
+      "ole32.dll",
+      "oleaut32.dll",
+      "opencl.dll",
+      "opencv_ffmpeg320_64.dll",
+      "ovrplugin.dll",
+      "rpcrt4.dll",
+      "shell32.dll",
+      "user32.dll",
+      "version.dll"
+    ],
+    "n_dll_names": 20,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\include\\opencv2",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\alloc.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\arithm.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\array.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\convert.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\copy.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\datastructs.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\lapack.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\matmul.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\matop.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\matrix.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\ocl.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\opencl\\runtime\\opencl_core.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\opengl.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\persistence.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\system.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\core\\src\\umatrix.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\imgcodecs\\src\\bitstrm.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\imgcodecs\\src\\grfmt_base.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\imgcodecs\\src\\grfmt_hdr.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\imgcodecs\\src\\grfmt_png.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\imgcodecs\\src\\loadsave.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\imgcodecs\\src\\rgbe.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\imgproc\\src\\color.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\imgproc\\src\\demosaicing.cpp",
+      "D:\\projects\\opencv-3.2.0\\modules\\imgproc\\src\\imgwarp.cpp",
+      "E:\\tw\\bf3b2f63c3775285\\Software\\OculusSDK\\Integrations\\Unity\\Releases\\1.16.0\\OVRPlugin\\CMake\\PC\\win64\\RelWithDebInfo\\OVRPlugin.pdb",
+      "\\\\.\\pipe\\Oculus Crash Service"
+    ],
+    "n_file_paths": 28
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "advapi32.dll",
+      "combase.dll",
+      "d.dll",
+      "dbghelp.dll",
+      "mscoree.dll",
+      "nvapi64.dll",
+      "nvpowerapi.dll",
+      "opencl.dll",
+      "opencv_ffmpeg320_64.dll",
+      "ovrplugin.dll",
+      "rpcrt4.dll"
+    ],
+    "n_orphans": 11,
+    "n_imported": 9
+  }
+}

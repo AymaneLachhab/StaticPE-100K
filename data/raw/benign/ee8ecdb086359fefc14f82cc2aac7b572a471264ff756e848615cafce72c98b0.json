@@ -1,0 +1,5207 @@
+{
+  "sha256": "ee8ecdb086359fefc14f82cc2aac7b572a471264ff756e848615cafce72c98b0",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 68592,
+    "md5": "0c1210b83e965e391ec725811f4c233f",
+    "sha1": "156b414ee4d78df6efc37717434dd4428cc5f9d0",
+    "imphash": "43287f32e985e3ffba23e9da46811e56",
+    "tlsh": "T1BD633B61B65900E1C25AD23456194B778279F5F05BDA86C3CF2FED112CA23F32DB938A",
+    "ssdeep": "1536:1b32hJ44pc5UJPkKRKQHiEPWuCivyMGIj/zRUCqr26dZUfS:1bm74SqdKRhHiOWuCUfGIzzRUCqr2qb",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.463737,
+    "byte_histogram_256": [
+      0.17143399,
+      0.01417075,
+      0.00363016,
+      0.00328027,
+      0.0092139,
+      0.00246384,
+      0.00418416,
+      0.00186611,
+      0.00863074,
+      0.00208479,
+      0.00195358,
+      0.00132669,
+      0.00365932,
+      0.00218684,
+      0.00113716,
+      0.00555458,
+      0.02611092,
+      0.00104969,
+      0.00084558,
+      0.00131211,
+      0.00271169,
+      0.00791638,
+      0.00056858,
+      0.00078726,
+      0.00291579,
+      0.00072895,
+      0.00069979,
+      0.00064147,
+      0.0020119,
+      0.00122463,
+      0.00040821,
+      0.00068521,
+      0.00650222,
+      0.00053942,
+      0.000831,
+      0.00065605,
+      0.01236296,
+      0.00259505,
+      0.00046653,
+      0.0006269,
+      0.00195358,
+      0.00058316,
+      0.00091847,
+      0.00113716,
+      0.0031199,
+      0.00125379,
+      0.00300327,
+      0.00148705,
+      0.00841206,
+      0.00462153,
+      0.00253674,
+      0.0028429,
+      0.00354269,
+      0.00196816,
+      0.00190984,
+      0.002216,
+      0.00319279,
+      0.00182237,
+      0.00239095,
+      0.00253674,
+      0.00348437,
+      0.00277,
+      0.00268253,
+      0.00952006,
+      0.03574761,
+      0.0117798,
+      0.00451948,
+      0.00399463,
+      0.0067938,
+      0.0094909,
+      0.00252216,
+      0.00177863,
+      0.00297411,
+      0.00231805,
+      0.00049568,
+      0.00061232,
+      0.00507348,
+      0.00307616,
+      0.00157453,
+      0.00344063,
+      0.01054059,
+      0.01889433,
+      0.00209937,
+      0.00462153,
+      0.00259505,
+      0.0045049,
+      0.00816422,
+      0.00676464,
+      0.00744985,
+      0.00123921,
+      0.00660427,
+      0.00126837,
+      0.00161826,
+      0.00163284,
+      0.00259505,
+      0.00336774,
+      0.00141416,
+      0.01163401,
+      0.00346979,
+      0.01138617,
+      0.00908269,
+      0.02905587,
+      0.0047819,
+      0.00688127,
+      0.00446116,
+      0.01736354,
+      0.00485479,
+      0.00328027,
+      0.00708537,
+      0.00568579,
+      0.01465185,
+      0.01160485,
+      0.00731864,
+      0.00307616,
+      0.01511838,
+      0.00985538,
+      0.0302805,
+      0.0117798,
+      0.00425706,
+      0.00293037,
+      0.00233263,
+      0.00199732,
+      0.00134126,
+      0.00046653,
+      0.00116632,
+      0.00069979,
+      0.00061232,
+      0.00053942,
+      0.0017349,
+      0.00094763,
+      0.00153079,
+      0.00654595,
+      0.0025659,
+      0.00444658,
+      0.00294495,
+      0.0009039,
+      0.001385,
+      0.00348437,
+      0.00069979,
+      0.01667833,
+      0.00137042,
+      0.00653137,
+      0.00144332,
+      0.00116632,
+      0.00094763,
+      0.000277,
+      0.00093305,
+      0.00042279,
+      0.00097679,
+      0.000554,
+      0.00053942,
+      0.00033532,
+      0.00084558,
+      0.00037905,
+      0.00040821,
+      0.00042279,
+      0.00088932,
+      0.00040821,
+      0.00053942,
+      0.00036447,
+      0.00123921,
+      0.0011809,
+      0.00053942,
+      0.00056858,
+      0.00087474,
+      0.00049568,
+      0.00046653,
+      0.00046653,
+      0.00112258,
+      0.00046653,
+      0.00042279,
+      0.00033532,
+      0.00129753,
+      0.00033532,
+      0.0006269,
+      0.00058316,
+      0.00161826,
+      0.00048111,
+      0.00067063,
+      0.00067063,
+      0.00103511,
+      0.00058316,
+      0.00072895,
+      0.00084558,
+      0.00099137,
+      0.00051026,
+      0.00051026,
+      0.00078726,
+      0.00096221,
+      0.00069979,
+      0.00100595,
+      0.00077268,
+      0.00530674,
+      0.00121005,
+      0.00198274,
+      0.002493,
+      0.00364474,
+      0.00071437,
+      0.00167658,
+      0.00319279,
+      0.00260963,
+      0.00172032,
+      0.00056858,
+      0.00093305,
+      0.01271285,
+      0.000831,
+      0.00183695,
+      0.00097679,
+      0.0014579,
+      0.00042279,
+      0.0006269,
+      0.00064147,
+      0.00100595,
+      0.00067063,
+      0.00104969,
+      0.00065605,
+      0.00109342,
+      0.00049568,
+      0.00061232,
+      0.00053942,
+      0.00081642,
+      0.0006269,
+      0.00053942,
+      0.000554,
+      0.00161826,
+      0.00058316,
+      0.00049568,
+      0.00051026,
+      0.00121005,
+      0.00056858,
+      0.00084558,
+      0.00058316,
+      0.00453406,
+      0.00135584,
+      0.00068521,
+      0.0011809,
+      0.00179321,
+      0.00033532,
+      0.00056858,
+      0.00048111,
+      0.00259505,
+      0.00107884,
+      0.00198274,
+      0.00179321,
+      0.00100595,
+      0.00046653,
+      0.00094763,
+      0.00128295,
+      0.00137042,
+      0.00064147,
+      0.00036447,
+      0.00033532,
+      0.00121005,
+      0.00071437,
+      0.00104969,
+      0.02157686
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.01028395,
+      0.00144231,
+      0.00011268,
+      0.00013522,
+      0.00028546,
+      7.512e-05,
+      0.00010517,
+      7.512e-05,
+      0.00103666,
+      7.512e-05,
+      7.512e-05,
+      7.512e-05,
+      0.00013522,
+      5.258e-05,
+      6.01e-05,
+      0.00135968,
+      0.00830078,
+      0.00019531,
+      0.00085637,
+      0.00107422,
+      0.00422175,
+      0.00329026,
+      0.00860877,
+      0.00403395,
+      0.00012019,
+      1.502e-05,
+      7.51e-06,
+      1.502e-05,
+      0.0,
+      0.0,
+      7.51e-06,
+      2.254e-05,
+      0.02335487,
+      0.00254657,
+      0.00189303,
+      0.00827825,
+      0.04507212,
+      0.03284255,
+      0.06479868,
+      0.03223407,
+      0.00123948,
+      0.00032302,
+      0.00036809,
+      0.00036809,
+      0.00035306,
+      0.00020282,
+      0.00033053,
+      0.00117939,
+      0.0408128,
+      0.00476262,
+      0.00348558,
+      0.0042518,
+      0.0183744,
+      0.01493389,
+      0.03627554,
+      0.01832181,
+      0.002186,
+      0.00055589,
+      0.00102163,
+      0.00140475,
+      0.00245643,
+      0.00063852,
+      0.00104417,
+      0.00332031,
+      0.02565355,
+      0.00403395,
+      0.00314754,
+      0.01728516,
+      0.00467248,
+      0.00584435,
+      0.00929237,
+      0.00541617,
+      0.00150992,
+      0.00210337,
+      0.00197566,
+      0.00234375,
+      0.00251653,
+      0.00211839,
+      0.00209585,
+      0.00229868,
+      0.03496845,
+      0.00480769,
+      0.0041241,
+      0.00655048,
+      0.00675331,
+      0.00648287,
+      0.0097506,
+      0.00721905,
+      0.00693359,
+      0.00135968,
+      0.00149489,
+      0.00197566,
+      0.0064378,
+      0.00240385,
+      0.00251653,
+      0.00391376,
+      0.07836538,
+      0.02944712,
+      0.01893029,
+      0.01263522,
+      0.01442308,
+      0.0191857,
+      0.01136569,
+      0.02198768,
+      0.03847656,
+      0.00295222,
+      0.0033128,
+      0.00434195,
+      0.02916166,
+      0.00466496,
+      0.00932993,
+      0.02449669,
+      0.01284555,
+      0.00341046,
+      0.00471004,
+      0.0058744,
+      0.00353065,
+      0.00260667,
+      0.00797025,
+      0.00522837,
+      0.00324519,
+      0.00144982,
+      0.00219351,
+      0.00169772,
+      0.00161508,
+      0.00140475,
+      0.00164513,
+      0.00211088,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 22909,
+      "raw_size": 23040,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.148716,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 31616,
+      "raw_size": 31744,
+      "virtual_address": 28672,
+      "pointerto_raw_data": 24064,
+      "entropy": 5.626997,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 1836,
+      "raw_size": 1024,
+      "virtual_address": 61440,
+      "pointerto_raw_data": 55808,
+      "entropy": 4.244724,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 1296,
+      "raw_size": 1536,
+      "virtual_address": 65536,
+      "pointerto_raw_data": 56832,
+      "entropy": 4.23213,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 2968,
+      "raw_size": 3072,
+      "virtual_address": 69632,
+      "pointerto_raw_data": 58368,
+      "entropy": 6.670417,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 264,
+    "e_lfanew_raw": 264,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000008010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 5,
+    "time_date_stamp": 1604651774,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8450,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "Qt5Quick.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 29644,
+      "import_lookup_table_rva": 42412,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?invalidate@QQuickRenderControl@@QAEXXZ",
+          "hint": 2763,
+          "iat_address": 29644,
+          "iat_value": 44496,
+          "data": 44496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?polishItems@QQuickRenderControl@@QAEXXZ",
+          "hint": 3664,
+          "iat_address": 29648,
+          "iat_value": 44538,
+          "data": 44538
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?render@QQuickRenderControl@@QAEXXZ",
+          "hint": 4401,
+          "iat_address": 29652,
+          "iat_value": 44582,
+          "data": 44582
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sync@QQuickRenderControl@@QAE_NXZ",
+          "hint": 5857,
+          "iat_address": 29656,
+          "iat_value": 44620,
+          "data": 44620
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?grab@QQuickRenderControl@@QAE?AVQImage@@XZ",
+          "hint": 2490,
+          "iat_address": 29660,
+          "iat_value": 44658,
+          "data": 44658
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?markDirty@QSGAbstractSoftwareRenderer@@QAEXXZ",
+          "hint": 3117,
+          "iat_address": 29664,
+          "iat_value": 44704,
+          "data": 44704
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setCurrentPaintDevice@QSGSoftwareRenderer@@QAEXPAVQPaintDevice@@@Z",
+          "hint": 4888,
+          "iat_address": 29668,
+          "iat_value": 44754,
+          "data": 44754
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?flushRegion@QSGSoftwareRenderer@@QBE?AVQRegion@@XZ",
+          "hint": 2315,
+          "iat_address": 29672,
+          "iat_value": 44824,
+          "data": 44824
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?processMessage@QQuickProfiler@@IAEXABUQQuickProfilerData@@@Z",
+          "hint": 3770,
+          "iat_address": 29676,
+          "iat_value": 44878,
+          "data": 44878
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?accessibleRoot@QQuickWindow@@UBEPAVQAccessibleInterface@@XZ",
+          "hint": 1105,
+          "iat_address": 29680,
+          "iat_value": 44942,
+          "data": 44942
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clearFocusObject@QQuickWindowPrivate@@UAEXXZ",
+          "hint": 1488,
+          "iat_address": 29684,
+          "iat_value": 45006,
+          "data": 45006
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?event@QQuickWindow@@MAE_NPAVQEvent@@@Z",
+          "hint": 2234,
+          "iat_address": 29688,
+          "iat_value": 45054,
+          "data": 45054
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?exposeEvent@QQuickWindow@@MAEXPAVQExposeEvent@@@Z",
+          "hint": 2243,
+          "iat_address": 29692,
+          "iat_value": 45096,
+          "data": 45096
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?focusInEvent@QQuickWindow@@MAEXPAVQFocusEvent@@@Z",
+          "hint": 2320,
+          "iat_address": 29696,
+          "iat_value": 45150,
+          "data": 45150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?focusObject@QQuickWindow@@UBEPAVQObject@@XZ",
+          "hint": 2322,
+          "iat_address": 29700,
+          "iat_value": 45204,
+          "data": 45204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?focusOutEvent@QQuickWindow@@MAEXPAVQFocusEvent@@@Z",
+          "hint": 2328,
+          "iat_address": 29704,
+          "iat_value": 45252,
+          "data": 45252
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?hideEvent@QQuickWindow@@MAEXPAVQHideEvent@@@Z",
+          "hint": 2602,
+          "iat_address": 29708,
+          "iat_value": 45306,
+          "data": 45306
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?keyPressEvent@QQuickWindow@@MAEXPAVQKeyEvent@@@Z",
+          "hint": 2980,
+          "iat_address": 29712,
+          "iat_value": 45356,
+          "data": 45356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?keyReleaseEvent@QQuickWindow@@MAEXPAVQKeyEvent@@@Z",
+          "hint": 2985,
+          "iat_address": 29716,
+          "iat_value": 45408,
+          "data": 45408
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QQuickRenderControl@@UBEPBUQMetaObject@@XZ",
+          "hint": 3259,
+          "iat_address": 29720,
+          "iat_value": 45462,
+          "data": 45462
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QQuickWindow@@UBEPBUQMetaObject@@XZ",
+          "hint": 3296,
+          "iat_address": 29724,
+          "iat_value": 45520,
+          "data": 45520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mouseDoubleClickEvent@QQuickWindow@@MAEXPAVQMouseEvent@@@Z",
+          "hint": 3385,
+          "iat_address": 29728,
+          "iat_value": 45570,
+          "data": 45570
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mouseMoveEvent@QQuickWindow@@MAEXPAVQMouseEvent@@@Z",
+          "hint": 3394,
+          "iat_address": 29732,
+          "iat_value": 45632,
+          "data": 45632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mousePressEvent@QQuickWindow@@MAEXPAVQMouseEvent@@@Z",
+          "hint": 3403,
+          "iat_address": 29736,
+          "iat_value": 45688,
+          "data": 45688
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mouseReleaseEvent@QQuickWindow@@MAEXPAVQMouseEvent@@@Z",
+          "hint": 3412,
+          "iat_address": 29740,
+          "iat_value": 45744,
+          "data": 45744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QQuickRenderControl@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3949,
+          "iat_address": 29744,
+          "iat_value": 45802,
+          "data": 45802
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QQuickWindow@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3986,
+          "iat_address": 29748,
+          "iat_value": 45872,
+          "data": 45872
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QQuickRenderControl@@UAEPAXPBD@Z",
+          "hint": 4083,
+          "iat_address": 29752,
+          "iat_value": 45934,
+          "data": 45934
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QQuickWindow@@UAEPAXPBD@Z",
+          "hint": 4120,
+          "iat_address": 29756,
+          "iat_value": 45982,
+          "data": 45982
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resizeEvent@QQuickWindow@@MAEXPAVQResizeEvent@@@Z",
+          "hint": 4551,
+          "iat_address": 29760,
+          "iat_value": 46024,
+          "data": 46024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?showEvent@QQuickWindow@@MAEXPAVQShowEvent@@@Z",
+          "hint": 5572,
+          "iat_address": 29764,
+          "iat_value": 46078,
+          "data": 46078
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?tabletEvent@QQuickWindow@@MAEXPAVQTabletEvent@@@Z",
+          "hint": 5888,
+          "iat_address": 29768,
+          "iat_value": 46128,
+          "data": 46128
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?wheelEvent@QQuickWindow@@MAEXPAVQWheelEvent@@@Z",
+          "hint": 6654,
+          "iat_address": 29772,
+          "iat_value": 46182,
+          "data": 46182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QQuickItem@@2UQMetaObject@@B",
+          "hint": 5717,
+          "iat_address": 29776,
+          "iat_value": 46234,
+          "data": 46234
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?featuresEnabled@QQuickProfiler@@2_KA",
+          "hint": 2247,
+          "iat_address": 29780,
+          "iat_value": 46284,
+          "data": 46284
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?s_instance@QQuickProfiler@@1PAV1@A",
+          "hint": 4642,
+          "iat_address": 29784,
+          "iat_value": 46324,
+          "data": 46324
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?initialize@QQuickRenderControl@@QAEXPAVQOpenGLContext@@@Z",
+          "hint": 2717,
+          "iat_address": 29788,
+          "iat_value": 44434,
+          "data": 44434
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QQuickRenderControl@@UAE@XZ",
+          "hint": 442,
+          "iat_address": 29792,
+          "iat_value": 44400,
+          "data": 44400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QQuickRenderControl@@QAE@PAVQObject@@@Z",
+          "hint": 137,
+          "iat_address": 29796,
+          "iat_value": 44354,
+          "data": 44354
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?removeItemChangeListener@QQuickItemPrivate@@QAEXPAVQQuickItemChangeListener@@V?$QFlags@W4ChangeType@QQuickItemPrivate@@@@@Z",
+          "hint": 4386,
+          "iat_address": 29800,
+          "iat_value": 44226,
+          "data": 44226
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?addItemChangeListener@QQuickItemPrivate@@QAEXPAVQQuickItemChangeListener@@V?$QFlags@W4ChangeType@QQuickItemPrivate@@@@@Z",
+          "hint": 1144,
+          "iat_address": 29804,
+          "iat_value": 44102,
+          "data": 44102
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?get@QQuickItemPrivate@@SAPAV1@PAVQQuickItem@@@Z",
+          "hint": 2433,
+          "iat_address": 29808,
+          "iat_value": 44050,
+          "data": 44050
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?contextCreationFailureMessage@QQuickWindowPrivate@@SAXABVQSurfaceFormat@@PAVQString@@1@Z",
+          "hint": 1643,
+          "iat_address": 29812,
+          "iat_value": 43958,
+          "data": 43958
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QQuickWindowPrivate@@UAE@XZ",
+          "hint": 494,
+          "iat_address": 29816,
+          "iat_value": 43924,
+          "data": 43924
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QQuickWindowPrivate@@QAE@XZ",
+          "hint": 209,
+          "iat_address": 29820,
+          "iat_value": 43890,
+          "data": 43890
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?get@QQuickWindowPrivate@@SAPAV1@PAVQQuickWindow@@@Z",
+          "hint": 2453,
+          "iat_address": 29824,
+          "iat_value": 43834,
+          "data": 43834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mapRectToScene@QQuickItem@@QBE?AVQRectF@@ABV2@@Z",
+          "hint": 3107,
+          "iat_address": 29828,
+          "iat_value": 43782,
+          "data": 43782
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mapToScene@QQuickItem@@QBE?AVQPointF@@ABV2@@Z",
+          "hint": 3112,
+          "iat_address": 29832,
+          "iat_value": 43732,
+          "data": 43732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setSize@QQuickItem@@QAEXABVQSizeF@@@Z",
+          "hint": 5377,
+          "iat_address": 29836,
+          "iat_value": 43690,
+          "data": 43690
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setHeight@QQuickItem@@QAEXN@Z",
+          "hint": 5046,
+          "iat_address": 29840,
+          "iat_value": 43656,
+          "data": 43656
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?height@QQuickItem@@QBENXZ",
+          "hint": 2593,
+          "iat_address": 29844,
+          "iat_value": 43626,
+          "data": 43626
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setWidth@QQuickItem@@QAEXN@Z",
+          "hint": 5524,
+          "iat_address": 29848,
+          "iat_value": 43594,
+          "data": 43594
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?width@QQuickItem@@QBENXZ",
+          "hint": 6656,
+          "iat_address": 29852,
+          "iat_value": 43566,
+          "data": 43566
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setParentItem@QQuickItem@@QAEXPAV1@@Z",
+          "hint": 5218,
+          "iat_address": 29856,
+          "iat_value": 43524,
+          "data": 43524
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QQuickWindow@@IAE@AAVQQuickWindowPrivate@@PAVQQuickRenderControl@@@Z",
+          "hint": 204,
+          "iat_address": 29860,
+          "iat_value": 43450,
+          "data": 43450
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rendererInterface@QQuickWindow@@QBEPAVQSGRendererInterface@@XZ",
+          "hint": 4443,
+          "iat_address": 29864,
+          "iat_value": 43384,
+          "data": 43384
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?openglContext@QQuickWindow@@QBEPAVQOpenGLContext@@XZ",
+          "hint": 3541,
+          "iat_address": 29868,
+          "iat_value": 43328,
+          "data": 43328
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isPersistentSceneGraph@QQuickWindow@@QBE_NXZ",
+          "hint": 2874,
+          "iat_address": 29872,
+          "iat_value": 43280,
+          "data": 43280
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setColor@QQuickWindow@@QAEXABVQColor@@@Z",
+          "hint": 4846,
+          "iat_address": 29876,
+          "iat_value": 43236,
+          "data": 43236
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?incubationController@QQuickWindow@@QBEPAVQQmlIncubationController@@XZ",
+          "hint": 2685,
+          "iat_address": 29880,
+          "iat_value": 43162,
+          "data": 43162
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setRenderTarget@QQuickWindow@@QAEXPAVQOpenGLFramebufferObject@@@Z",
+          "hint": 5317,
+          "iat_address": 29884,
+          "iat_value": 43092,
+          "data": 43092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?contentItem@QQuickWindow@@QBEPAVQQuickItem@@XZ",
+          "hint": 1619,
+          "iat_address": 29888,
+          "iat_value": 43042,
+          "data": 43042
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QQuickWindow@@UAE@XZ",
+          "hint": 492,
+          "iat_address": 29892,
+          "iat_value": 43016,
+          "data": 43016
+        }
+      ],
+      "function_count": 63
+    },
+    {
+      "name": "Qt5Qml.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 29520,
+      "import_lookup_table_rva": 42288,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QQmlError@@QAE@ABV0@@Z",
+          "hint": 262,
+          "iat_address": 29520,
+          "iat_value": 46400,
+          "data": 46400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QQmlError@@QAE@XZ",
+          "hint": 605,
+          "iat_address": 29524,
+          "iat_value": 46428,
+          "data": 46428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?url@QQmlError@@QBE?AVQUrl@@XZ",
+          "hint": 4950,
+          "iat_address": 29528,
+          "iat_value": 46452,
+          "data": 46452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setDescription@QQmlError@@QAEXABVQString@@@Z",
+          "hint": 4277,
+          "iat_address": 29532,
+          "iat_value": 46486,
+          "data": 46486
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?line@QQmlError@@QBEHXZ",
+          "hint": 3313,
+          "iat_address": 29536,
+          "iat_value": 46534,
+          "data": 46534
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6@YA?AVQDebug@@V0@ABVQQmlError@@@Z",
+          "hint": 1067,
+          "iat_address": 29540,
+          "iat_value": 46560,
+          "data": 46560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QQmlEngine@@QAE@PAVQObject@@@Z",
+          "hint": 255,
+          "iat_address": 29544,
+          "iat_value": 46600,
+          "data": 46600
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QQmlEngine@@UAE@XZ",
+          "hint": 599,
+          "iat_address": 29548,
+          "iat_value": 46636,
+          "data": 46636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rootContext@QQmlEngine@@QBEPAVQQmlContext@@XZ",
+          "hint": 4173,
+          "iat_address": 29552,
+          "iat_value": 46660,
+          "data": 46660
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setIncubationController@QQmlEngine@@QAEXPAVQQmlIncubationController@@@Z",
+          "hint": 4307,
+          "iat_address": 29556,
+          "iat_value": 46710,
+          "data": 46710
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?incubationController@QQmlEngine@@QBEPAVQQmlIncubationController@@XZ",
+          "hint": 2919,
+          "iat_address": 29560,
+          "iat_value": 46786,
+          "data": 46786
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QQmlComponent@@QAE@PAVQQmlEngine@@ABVQUrl@@PAVQObject@@@Z",
+          "hint": 222,
+          "iat_address": 29564,
+          "iat_value": 46858,
+          "data": 46858
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QQmlError@@QAE@XZ",
+          "hint": 263,
+          "iat_address": 29568,
+          "iat_value": 46376,
+          "data": 46376
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?status@QQmlComponent@@QBE?AW4Status@1@XZ",
+          "hint": 4595,
+          "iat_address": 29572,
+          "iat_value": 46950,
+          "data": 46950
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isError@QQmlComponent@@QBE_NXZ",
+          "hint": 3057,
+          "iat_address": 29576,
+          "iat_value": 46994,
+          "data": 46994
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isLoading@QQmlComponent@@QBE_NXZ",
+          "hint": 3079,
+          "iat_address": 29580,
+          "iat_value": 47028,
+          "data": 47028
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?errors@QQmlComponent@@QBE?AV?$QList@VQQmlError@@@@XZ",
+          "hint": 2447,
+          "iat_address": 29584,
+          "iat_value": 47064,
+          "data": 47064
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?instance@QQmlDebugConnector@@SAPAV1@XZ",
+          "hint": 2995,
+          "iat_address": 29588,
+          "iat_value": 47120,
+          "data": 47120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?beginCreate@QQmlComponent@@UAEPAVQObject@@PAVQQmlContext@@@Z",
+          "hint": 1675,
+          "iat_address": 29592,
+          "iat_value": 47162,
+          "data": 47162
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?completeCreate@QQmlComponent@@UAEXXZ",
+          "hint": 1908,
+          "iat_address": 29596,
+          "iat_value": 47226,
+          "data": 47226
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?create@QQmlComponent@@UAEPAVQObject@@PAVQQmlContext@@@Z",
+          "hint": 1980,
+          "iat_address": 29600,
+          "iat_value": 47266,
+          "data": 47266
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?event@QQmlEngine@@MAE_NPAVQEvent@@@Z",
+          "hint": 2469,
+          "iat_address": 29604,
+          "iat_value": 47326,
+          "data": 47326
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QQmlComponent@@UBEPBUQMetaObject@@XZ",
+          "hint": 3416,
+          "iat_address": 29608,
+          "iat_value": 47366,
+          "data": 47366
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QQmlEngine@@UBEPBUQMetaObject@@XZ",
+          "hint": 3427,
+          "iat_address": 29612,
+          "iat_value": 47418,
+          "data": 47418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QQmlComponent@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3887,
+          "iat_address": 29616,
+          "iat_value": 47466,
+          "data": 47466
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QQmlEngine@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 3898,
+          "iat_address": 29620,
+          "iat_value": 47530,
+          "data": 47530
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QQmlComponent@@UAE@XZ",
+          "hint": 581,
+          "iat_address": 29624,
+          "iat_value": 46922,
+          "data": 46922
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?s_key@QQmlInspectorService@@2VQString@@B",
+          "hint": 4193,
+          "iat_address": 29628,
+          "iat_value": 47672,
+          "data": 47672
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QQmlEngine@@UAEPAXPBD@Z",
+          "hint": 3934,
+          "iat_address": 29632,
+          "iat_value": 47632,
+          "data": 47632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QQmlComponent@@UAEPAXPBD@Z",
+          "hint": 3923,
+          "iat_address": 29636,
+          "iat_value": 47590,
+          "data": 47590
+        }
+      ],
+      "function_count": 30
+    },
+    {
+      "name": "Qt5Widgets.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 29900,
+      "import_lookup_table_rva": 42668,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?tabletEvent@QWidget@@MAEXPAVQTabletEvent@@@Z",
+          "hint": 8108,
+          "iat_address": 29900,
+          "iat_value": 50788,
+          "data": 50788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sharedPainter@QWidget@@MBEPAVQPainter@@XZ",
+          "hint": 7554,
+          "iat_address": 29904,
+          "iat_value": 50742,
+          "data": 50742
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setWindowFlags@QWidgetPrivate@@UAEXV?$QFlags@W4WindowType@Qt@@@@@Z",
+          "hint": 7491,
+          "iat_address": 29908,
+          "iat_value": 50672,
+          "data": 50672
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setVisible@QWidget@@UAEX_N@Z",
+          "hint": 7457,
+          "iat_address": 29912,
+          "iat_value": 50640,
+          "data": 50640
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resolveSamples@QWidgetPrivate@@UAEXXZ",
+          "hint": 5832,
+          "iat_address": 29916,
+          "iat_value": 50598,
+          "data": 50598
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resizeViewportFramebuffer@QWidgetPrivate@@UAEXXZ",
+          "hint": 5822,
+          "iat_address": 29920,
+          "iat_value": 50546,
+          "data": 50546
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?redirected@QWidget@@MBEPAVQPaintDevice@@PAVQPoint@@@Z",
+          "hint": 5627,
+          "iat_address": 29924,
+          "iat_value": 50488,
+          "data": 50488
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?paintEngine@QWidget@@UBEPAVQPaintEngine@@XZ",
+          "hint": 4896,
+          "iat_address": 29928,
+          "iat_value": 50440,
+          "data": 50440
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?nativeEvent@QWidget@@MAE_NABVQByteArray@@PAXPAJ@Z",
+          "hint": 4756,
+          "iat_address": 29932,
+          "iat_value": 50386,
+          "data": 50386
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?moveEvent@QWidget@@MAEXPAVQMoveEvent@@@Z",
+          "hint": 4740,
+          "iat_address": 29936,
+          "iat_value": 50342,
+          "data": 50342
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?minimumSizeHint@QWidget@@UBE?AVQSize@@XZ",
+          "hint": 4578,
+          "iat_address": 29940,
+          "iat_value": 50298,
+          "data": 50298
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metric@QWidget@@MBEHW4PaintDeviceMetric@QPaintDevice@@@Z",
+          "hint": 4512,
+          "iat_address": 29944,
+          "iat_value": 50238,
+          "data": 50238
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?leaveEvent@QWidget@@MAEXPAVQEvent@@@Z",
+          "hint": 4180,
+          "iat_address": 29948,
+          "iat_value": 50196,
+          "data": 50196
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?inputMethodQuery@QWidget@@UBE?AVQVariant@@W4InputMethodQuery@Qt@@@Z",
+          "hint": 3624,
+          "iat_address": 29952,
+          "iat_value": 50124,
+          "data": 50124
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?inputMethodEvent@QWidget@@MAEXPAVQInputMethodEvent@@@Z",
+          "hint": 3606,
+          "iat_address": 29956,
+          "iat_value": 50066,
+          "data": 50066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?initializeViewportFramebuffer@QWidgetPrivate@@UAEXXZ",
+          "hint": 3591,
+          "iat_address": 29960,
+          "iat_value": 50010,
+          "data": 50010
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?initPainter@QWidget@@MBEXPAVQPainter@@@Z",
+          "hint": 3551,
+          "iat_address": 29964,
+          "iat_value": 49966,
+          "data": 49966
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?heightForWidth@QWidget@@UBEHH@Z",
+          "hint": 3347,
+          "iat_address": 29968,
+          "iat_value": 49930,
+          "data": 49930
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?hasHeightForWidth@QWidget@@UBE_NXZ",
+          "hint": 3311,
+          "iat_address": 29972,
+          "iat_value": 49892,
+          "data": 49892
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?focusObject@QWidgetPrivate@@UAEPAVQObject@@XZ",
+          "hint": 3110,
+          "iat_address": 29976,
+          "iat_value": 49842,
+          "data": 49842
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?enterEvent@QWidget@@MAEXPAVQEvent@@@Z",
+          "hint": 2857,
+          "iat_address": 29980,
+          "iat_value": 49800,
+          "data": 49800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?endCompose@QWidgetPrivate@@UAEXXZ",
+          "hint": 2832,
+          "iat_address": 29984,
+          "iat_value": 49762,
+          "data": 49762
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?endBackingStorePainting@QWidgetPrivate@@UAEXXZ",
+          "hint": 2831,
+          "iat_address": 29988,
+          "iat_value": 49712,
+          "data": 49712
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?devType@QWidget@@UBEHXZ",
+          "hint": 2580,
+          "iat_address": 29992,
+          "iat_value": 49684,
+          "data": 49684
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?contextMenuEvent@QWidget@@MAEXPAVQContextMenuEvent@@@Z",
+          "hint": 2007,
+          "iat_address": 29996,
+          "iat_value": 49626,
+          "data": 49626
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?closeEvent@QWidget@@MAEXPAVQCloseEvent@@@Z",
+          "hint": 1877,
+          "iat_address": 30000,
+          "iat_value": 49580,
+          "data": 49580
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?changeEvent@QWidget@@MAEXPAVQEvent@@@Z",
+          "hint": 1741,
+          "iat_address": 30004,
+          "iat_value": 49538,
+          "data": 49538
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?beginCompose@QWidgetPrivate@@UAEXXZ",
+          "hint": 1578,
+          "iat_address": 30008,
+          "iat_value": 49498,
+          "data": 49498
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?beginBackingStorePainting@QWidgetPrivate@@UAEXXZ",
+          "hint": 1577,
+          "iat_address": 30012,
+          "iat_value": 49446,
+          "data": 49446
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?actionEvent@QWidget@@MAEXPAVQActionEvent@@@Z",
+          "hint": 1278,
+          "iat_address": 30016,
+          "iat_value": 49398,
+          "data": 49398
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?aboutToDestroy@QWidgetPrivate@@UAEXXZ",
+          "hint": 1241,
+          "iat_address": 30020,
+          "iat_value": 49356,
+          "data": 49356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?critical@QMessageBox@@SA?AW4StandardButton@1@PAVQWidget@@ABVQString@@1V?$QFlags@W4StandardButton@QMessageBox@@@@W421@@Z",
+          "hint": 2090,
+          "iat_address": 30024,
+          "iat_value": 49232,
+          "data": 49232
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setRenderToTexture@QWidgetPrivate@@QAEXXZ",
+          "hint": 7052,
+          "iat_address": 30028,
+          "iat_value": 49186,
+          "data": 49186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?textureListFlags@QWidgetPrivate@@UAE?AV?$QFlags@W4Flag@QPlatformTextureList@@@@XZ",
+          "hint": 8210,
+          "iat_address": 30032,
+          "iat_value": 49100,
+          "data": 49100
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shareContext@QWidgetPrivate@@QBEPAVQOpenGLContext@@XZ",
+          "hint": 7553,
+          "iat_address": 30036,
+          "iat_value": 49042,
+          "data": 49042
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?nearestGraphicsProxyWidget@QWidgetPrivate@@SAPAVQGraphicsProxyWidget@@PBVQWidget@@@Z",
+          "hint": 4766,
+          "iat_address": 30040,
+          "iat_value": 48954,
+          "data": 48954
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?windowHandle@QWidgetPrivate@@QBEPAVQWindow@@W4WindowHandleMode@1@@Z",
+          "hint": 8994,
+          "iat_address": 30044,
+          "iat_value": 48882,
+          "data": 48882
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?get@QWidgetPrivate@@SAPAV1@PAVQWidget@@@Z",
+          "hint": 3212,
+          "iat_address": 30048,
+          "iat_value": 48836,
+          "data": 48836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QWidgetPrivate@@UAE@XZ",
+          "hint": 658,
+          "iat_address": 30052,
+          "iat_value": 48808,
+          "data": 48808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QWidgetPrivate@@QAE@H@Z",
+          "hint": 421,
+          "iat_address": 30056,
+          "iat_value": 48778,
+          "data": 48778
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?update@QGraphicsItem@@QAEXABVQRectF@@@Z",
+          "hint": 8707,
+          "iat_address": 30060,
+          "iat_value": 48734,
+          "data": 48734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?testAttribute_helper@QWidget@@ABE_NW4WidgetAttribute@Qt@@@Z",
+          "hint": 8135,
+          "iat_address": 30064,
+          "iat_value": 48670,
+          "data": 48670
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QWidget@@IAE@AAVQWidgetPrivate@@PAV0@V?$QFlags@W4WindowType@Qt@@@@@Z",
+          "hint": 415,
+          "iat_address": 30068,
+          "iat_value": 48596,
+          "data": 48596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?event@QWidget@@MAE_NPAVQEvent@@@Z",
+          "hint": 2928,
+          "iat_address": 30072,
+          "iat_value": 48558,
+          "data": 48558
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?windowHandle@QWidget@@QBEPAVQWindow@@XZ",
+          "hint": 8993,
+          "iat_address": 30076,
+          "iat_value": 48514,
+          "data": 48514
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QWidget@@2UQMetaObject@@B",
+          "hint": 7960,
+          "iat_address": 30080,
+          "iat_value": 47728,
+          "data": 47728
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setAcceptDrops@QWidget@@QAEX_N@Z",
+          "hint": 6118,
+          "iat_address": 30084,
+          "iat_value": 48422,
+          "data": 48422
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?updateGeometry@QWidget@@QAEXXZ",
+          "hint": 8753,
+          "iat_address": 30088,
+          "iat_value": 48388,
+          "data": 48388
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?windowState@QWidget@@QBE?AV?$QFlags@W4WindowState@Qt@@@@XZ",
+          "hint": 9003,
+          "iat_address": 30092,
+          "iat_value": 48326,
+          "data": 48326
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resize@QWidget@@QAEXABVQSize@@@Z",
+          "hint": 5772,
+          "iat_address": 30096,
+          "iat_value": 48290,
+          "data": 48290
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?update@QWidget@@QAEXABVQRegion@@@Z",
+          "hint": 8714,
+          "iat_address": 30100,
+          "iat_value": 48252,
+          "data": 48252
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?update@QWidget@@QAEXXZ",
+          "hint": 8716,
+          "iat_address": 30104,
+          "iat_value": 48226,
+          "data": 48226
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?graphicsProxyWidget@QWidget@@QBEPAVQGraphicsProxyWidget@@XZ",
+          "hint": 3276,
+          "iat_address": 30108,
+          "iat_value": 48162,
+          "data": 48162
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setFocusPolicy@QWidget@@QAEXW4FocusPolicy@Qt@@@Z",
+          "hint": 6546,
+          "iat_address": 30112,
+          "iat_value": 48110,
+          "data": 48110
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?window@QWidget@@QBEPAV1@XZ",
+          "hint": 8984,
+          "iat_address": 30116,
+          "iat_value": 48080,
+          "data": 48080
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mapTo@QWidget@@QBE?AVQPoint@@PBV1@ABV2@@Z",
+          "hint": 4262,
+          "iat_address": 30120,
+          "iat_value": 48034,
+          "data": 48034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mapToGlobal@QWidget@@QBE?AVQPoint@@ABV2@@Z",
+          "hint": 4263,
+          "iat_address": 30124,
+          "iat_value": 47988,
+          "data": 47988
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?rect@QWidget@@QBE?AVQRect@@XZ",
+          "hint": 5623,
+          "iat_address": 30128,
+          "iat_value": 47954,
+          "data": 47954
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?size@QWidget@@QBE?AVQSize@@XZ",
+          "hint": 7640,
+          "iat_address": 30132,
+          "iat_value": 47920,
+          "data": 47920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isWindow@QWidget@@QBE_NXZ",
+          "hint": 3957,
+          "iat_address": 30136,
+          "iat_value": 47890,
+          "data": 47890
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QWidget@@UAE@XZ",
+          "hint": 653,
+          "iat_address": 30140,
+          "iat_value": 47868,
+          "data": 47868
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QWidget@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 5295,
+          "iat_address": 30144,
+          "iat_value": 47810,
+          "data": 47810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QWidget@@UAEPAXPBD@Z",
+          "hint": 5442,
+          "iat_address": 30148,
+          "iat_value": 47774,
+          "data": 47774
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setAttribute@QWidget@@QAEXW4WidgetAttribute@Qt@@_N@Z",
+          "hint": 6168,
+          "iat_address": 30152,
+          "iat_value": 48458,
+          "data": 48458
+        }
+      ],
+      "function_count": 64
+    },
+    {
+      "name": "Qt5Gui.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 29036,
+      "import_lookup_table_rva": 41804,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?handle@QOpenGLFramebufferObject@@QBEIXZ",
+          "hint": 20070,
+          "iat_address": 29036,
+          "iat_value": 54388,
+          "data": 54388
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?size@QOpenGLFramebufferObject@@QBE?AVQSize@@XZ",
+          "hint": 23976,
+          "iat_address": 29040,
+          "iat_value": 54338,
+          "data": 54338
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?texture@QOpenGLFramebufferObject@@QBEIXZ",
+          "hint": 24471,
+          "iat_address": 29044,
+          "iat_value": 54294,
+          "data": 54294
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QOpenGLFramebufferObject@@UAE@XZ",
+          "hint": 1159,
+          "iat_address": 29048,
+          "iat_value": 54256,
+          "data": 54256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QOpenGLFramebufferObject@@QAE@ABVQSize@@ABVQOpenGLFramebufferObjectFormat@@@Z",
+          "hint": 421,
+          "iat_address": 29052,
+          "iat_value": 54172,
+          "data": 54172
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QOpenGLFramebufferObject@@QAE@ABVQSize@@I@Z",
+          "hint": 422,
+          "iat_address": 29056,
+          "iat_value": 54122,
+          "data": 54122
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_gl_global_share_context@@YAPAVQOpenGLContext@@XZ",
+          "hint": 21940,
+          "iat_address": 29060,
+          "iat_value": 54066,
+          "data": 54066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?get@QOpenGLContextPrivate@@SAPAV1@PAVQOpenGLContext@@@Z",
+          "hint": 4562,
+          "iat_address": 29064,
+          "iat_value": 54006,
+          "data": 54006
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?functions@QOpenGLContext@@QBEPAVQOpenGLFunctions@@XZ",
+          "hint": 4536,
+          "iat_address": 29068,
+          "iat_value": 53950,
+          "data": 53950
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?currentContext@QOpenGLContext@@SAPAV1@XZ",
+          "hint": 3343,
+          "iat_address": 29072,
+          "iat_value": 53906,
+          "data": 53906
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?makeCurrent@QOpenGLContext@@QAE_NPAVQSurface@@@Z",
+          "hint": 21042,
+          "iat_address": 29076,
+          "iat_value": 53854,
+          "data": 53854
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?screen@QOpenGLContext@@QBEPAVQScreen@@XZ",
+          "hint": 22576,
+          "iat_address": 29080,
+          "iat_value": 53810,
+          "data": 53810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shareContext@QOpenGLContext@@QBEPAV1@XZ",
+          "hint": 23925,
+          "iat_address": 29084,
+          "iat_value": 53766,
+          "data": 53766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?format@QOpenGLContext@@QBE?AVQSurfaceFormat@@XZ",
+          "hint": 4402,
+          "iat_address": 29088,
+          "iat_value": 53714,
+          "data": 53714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isValid@QOpenGLContext@@QBE_NXZ",
+          "hint": 20712,
+          "iat_address": 29092,
+          "iat_value": 53678,
+          "data": 53678
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?create@QOpenGLContext@@QAE_NXZ",
+          "hint": 3253,
+          "iat_address": 29096,
+          "iat_value": 53644,
+          "data": 53644
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setScreen@QOpenGLContext@@QAEXPAVQScreen@@@Z",
+          "hint": 23525,
+          "iat_address": 29100,
+          "iat_value": 53596,
+          "data": 53596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setShareContext@QOpenGLContext@@QAEXPAV1@@Z",
+          "hint": 23545,
+          "iat_address": 29104,
+          "iat_value": 53548,
+          "data": 53548
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setFormat@QOpenGLContext@@QAEXABVQSurfaceFormat@@@Z",
+          "hint": 23076,
+          "iat_address": 29108,
+          "iat_value": 53492,
+          "data": 53492
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QOpenGLContext@@UAE@XZ",
+          "hint": 1147,
+          "iat_address": 29112,
+          "iat_value": 53464,
+          "data": 53464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QOpenGLContext@@QAE@PAVQObject@@@Z",
+          "hint": 403,
+          "iat_address": 29116,
+          "iat_value": 53424,
+          "data": 53424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?drawImage@QPainter@@QAEXABVQRect@@ABVQImage@@@Z",
+          "hint": 3848,
+          "iat_address": 29120,
+          "iat_value": 53372,
+          "data": 53372
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?drawImage@QPainter@@QAEXABVQRectF@@ABVQImage@@0V?$QFlags@W4ImageConversionFlag@Qt@@@@@Z",
+          "hint": 3849,
+          "iat_address": 29124,
+          "iat_value": 53280,
+          "data": 53280
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QPainter@@QAE@XZ",
+          "hint": 1217,
+          "iat_address": 29128,
+          "iat_value": 53258,
+          "data": 53258
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QPainter@@QAE@PAVQPaintDevice@@@Z",
+          "hint": 513,
+          "iat_address": 29132,
+          "iat_value": 53218,
+          "data": 53218
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?focusObject@QGuiApplication@@SAPAVQObject@@XZ",
+          "hint": 4335,
+          "iat_address": 29136,
+          "iat_value": 53168,
+          "data": 53168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?value@QInputMethodQueryEvent@@QBE?AVQVariant@@W4InputMethodQuery@Qt@@@Z",
+          "hint": 24948,
+          "iat_address": 29140,
+          "iat_value": 53092,
+          "data": 53092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setValue@QInputMethodQueryEvent@@QAEXW4InputMethodQuery@Qt@@ABVQVariant@@@Z",
+          "hint": 23812,
+          "iat_address": 29144,
+          "iat_value": 53012,
+          "data": 53012
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setVisible@QWindow@@QAEX_N@Z",
+          "hint": 23841,
+          "iat_address": 29148,
+          "iat_value": 52256,
+          "data": 52256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?modifiers@QKeyEvent@@QBE?AV?$QFlags@W4KeyboardModifier@Qt@@@@XZ",
+          "hint": 21314,
+          "iat_address": 29152,
+          "iat_value": 52944,
+          "data": 52944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QKeyEvent@@UAE@XZ",
+          "hint": 1134,
+          "iat_address": 29156,
+          "iat_value": 52920,
+          "data": 52920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?staticMetaObject@QWindow@@2UQMetaObject@@B",
+          "hint": 24181,
+          "iat_address": 29160,
+          "iat_value": 56420,
+          "data": 56420
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?touchEvent@QWindow@@MAEXPAVQTouchEvent@@@Z",
+          "hint": 24598,
+          "iat_address": 29164,
+          "iat_value": 56374,
+          "data": 56374
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?surfaceType@QWindow@@UBE?AW4SurfaceType@QSurface@@XZ",
+          "hint": 24308,
+          "iat_address": 29168,
+          "iat_value": 56318,
+          "data": 56318
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?surfaceType@QOffscreenSurface@@UBE?AW4SurfaceType@QSurface@@XZ",
+          "hint": 24307,
+          "iat_address": 29172,
+          "iat_value": 56252,
+          "data": 56252
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?surfaceHandle@QWindow@@EBEPAVQPlatformSurface@@XZ",
+          "hint": 24306,
+          "iat_address": 29176,
+          "iat_value": 56198,
+          "data": 56198
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?surfaceHandle@QOffscreenSurface@@EBEPAVQPlatformSurface@@XZ",
+          "hint": 24305,
+          "iat_address": 29180,
+          "iat_value": 56134,
+          "data": 56134
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?size@QWindow@@UBE?AVQSize@@XZ",
+          "hint": 23990,
+          "iat_address": 29184,
+          "iat_value": 56100,
+          "data": 56100
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?size@QOffscreenSurface@@UBE?AVQSize@@XZ",
+          "hint": 23974,
+          "iat_address": 29188,
+          "iat_value": 56056,
+          "data": 56056
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shareContext@QWindowPrivate@@UBEPAVQOpenGLContext@@XZ",
+          "hint": 23927,
+          "iat_address": 29192,
+          "iat_value": 55998,
+          "data": 55998
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QOpenGLContext@@UAEPAXPBD@Z",
+          "hint": 22060,
+          "iat_address": 29196,
+          "iat_value": 55954,
+          "data": 55954
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacast@QOffscreenSurface@@UAEPAXPBD@Z",
+          "hint": 22059,
+          "iat_address": 29200,
+          "iat_value": 55908,
+          "data": 55908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QOpenGLContext@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 21991,
+          "iat_address": 29204,
+          "iat_value": 55844,
+          "data": 55844
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_metacall@QOffscreenSurface@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+          "hint": 21990,
+          "iat_address": 29208,
+          "iat_value": 55776,
+          "data": 55776
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?processSafeAreaMarginsChanged@QWindowPrivate@@UAEXXZ",
+          "hint": 21818,
+          "iat_address": 29212,
+          "iat_value": 55720,
+          "data": 55720
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?nativeEvent@QWindow@@MAE_NABVQByteArray@@PAXPAJ@Z",
+          "hint": 21362,
+          "iat_address": 29216,
+          "iat_value": 55666,
+          "data": 55666
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?moveEvent@QWindow@@MAEXPAVQMoveEvent@@@Z",
+          "hint": 21339,
+          "iat_address": 29220,
+          "iat_value": 55622,
+          "data": 55622
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QOpenGLContext@@UBEPBUQMetaObject@@XZ",
+          "hint": 21189,
+          "iat_address": 29224,
+          "iat_value": 55570,
+          "data": 55570
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?metaObject@QOffscreenSurface@@UBEPBUQMetaObject@@XZ",
+          "hint": 21188,
+          "iat_address": 29228,
+          "iat_value": 55514,
+          "data": 55514
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?format@QWindow@@UBE?AVQSurfaceFormat@@XZ",
+          "hint": 4421,
+          "iat_address": 29232,
+          "iat_value": 55470,
+          "data": 55470
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?format@QOffscreenSurface@@UBE?AVQSurfaceFormat@@XZ",
+          "hint": 4401,
+          "iat_address": 29236,
+          "iat_value": 55416,
+          "data": 55416
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?eventReceiver@QWindowPrivate@@UAEPAVQWindow@@XZ",
+          "hint": 4143,
+          "iat_address": 29240,
+          "iat_value": 55364,
+          "data": 55364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?closestAcceptableGeometry@QWindowPrivate@@UBE?AVQRectF@@ABV2@@Z",
+          "hint": 3094,
+          "iat_address": 29244,
+          "iat_value": 55296,
+          "data": 55296
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?allowClickThrough@QWindowPrivate@@UBE_NABVQPoint@@@Z",
+          "hint": 2543,
+          "iat_address": 29248,
+          "iat_value": 55240,
+          "data": 55240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?flushShared@QOpenGLExtensions@@QAEXXZ",
+          "hint": 4328,
+          "iat_address": 29252,
+          "iat_value": 55198,
+          "data": 55198
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?hasOpenGLExtension@QOpenGLExtensions@@QBE_NW4OpenGLExtension@1@@Z",
+          "hint": 20155,
+          "iat_address": 29256,
+          "iat_value": 55128,
+          "data": 55128
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QOpenGLExtensions@@QAE@PAVQOpenGLContext@@@Z",
+          "hint": 417,
+          "iat_address": 29260,
+          "iat_value": 55078,
+          "data": 55078
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?platformIntegration@QGuiApplicationPrivate@@SAPAVQPlatformIntegration@@XZ",
+          "hint": 21698,
+          "iat_address": 29264,
+          "iat_value": 55000,
+          "data": 55000
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setScreen@QOffscreenSurface@@QAEXPAVQScreen@@@Z",
+          "hint": 23524,
+          "iat_address": 29268,
+          "iat_value": 54948,
+          "data": 54948
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setFormat@QOffscreenSurface@@QAEXABVQSurfaceFormat@@@Z",
+          "hint": 23075,
+          "iat_address": 29272,
+          "iat_value": 54890,
+          "data": 54890
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?destroy@QOffscreenSurface@@QAEXXZ",
+          "hint": 3657,
+          "iat_address": 29276,
+          "iat_value": 54852,
+          "data": 54852
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?create@QOffscreenSurface@@QAEXXZ",
+          "hint": 3251,
+          "iat_address": 29280,
+          "iat_value": 54816,
+          "data": 54816
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QOffscreenSurface@@UAE@XZ",
+          "hint": 1143,
+          "iat_address": 29284,
+          "iat_value": 54784,
+          "data": 54784
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QOffscreenSurface@@QAE@PAVQScreen@@@Z",
+          "hint": 396,
+          "iat_address": 29288,
+          "iat_value": 54740,
+          "data": 54740
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setAttachment@QOpenGLFramebufferObjectFormat@@QAEXW4Attachment@QOpenGLFramebufferObject@@@Z",
+          "hint": 22683,
+          "iat_address": 29292,
+          "iat_value": 54644,
+          "data": 54644
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setSamples@QOpenGLFramebufferObjectFormat@@QAEXH@Z",
+          "hint": 23512,
+          "iat_address": 29296,
+          "iat_value": 54590,
+          "data": 54590
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QOpenGLFramebufferObjectFormat@@QAE@XZ",
+          "hint": 1160,
+          "iat_address": 29300,
+          "iat_value": 54546,
+          "data": 54546
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QOpenGLFramebufferObjectFormat@@QAE@XZ",
+          "hint": 428,
+          "iat_address": 29304,
+          "iat_value": 54502,
+          "data": 54502
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?devicePixelRatioF@QPaintDevice@@QBENXZ",
+          "hint": 3731,
+          "iat_address": 29308,
+          "iat_value": 50852,
+          "data": 50852
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QRegion@@QAE@XZ",
+          "hint": 658,
+          "iat_address": 29312,
+          "iat_value": 50894,
+          "data": 50894
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QRegion@@QAE@XZ",
+          "hint": 1279,
+          "iat_address": 29316,
+          "iat_value": 50916,
+          "data": 50916
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QRegion@@QAEAAV0@$$QAV0@@Z",
+          "hint": 1579,
+          "iat_address": 29320,
+          "iat_value": 50938,
+          "data": 50938
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?swap@QRegion@@QAEXAAV1@@Z",
+          "hint": 24334,
+          "iat_address": 29324,
+          "iat_value": 50970,
+          "data": 50970
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isEmpty@QRegion@@QBE_NXZ",
+          "hint": 20580,
+          "iat_address": 29328,
+          "iat_value": 51000,
+          "data": 51000
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isNull@QRegion@@QBE_NXZ",
+          "hint": 20646,
+          "iat_address": 29332,
+          "iat_value": 51028,
+          "data": 51028
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?begin@QRegion@@QBEPBVQRect@@XZ",
+          "hint": 2707,
+          "iat_address": 29336,
+          "iat_value": 51056,
+          "data": 51056
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?end@QRegion@@QBEPBVQRect@@XZ",
+          "hint": 4069,
+          "iat_address": 29340,
+          "iat_value": 51090,
+          "data": 51090
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?united@QRegion@@QBE?AV1@ABV1@@Z",
+          "hint": 24865,
+          "iat_address": 29344,
+          "iat_value": 51122,
+          "data": 51122
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??YQRegion@@QAEAAV0@ABV0@@Z",
+          "hint": 2054,
+          "iat_address": 29348,
+          "iat_value": 51158,
+          "data": 51158
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QTransform@@QAE@XZ",
+          "hint": 936,
+          "iat_address": 29352,
+          "iat_value": 51188,
+          "data": 51188
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?scale@QTransform@@QAEAAV1@NN@Z",
+          "hint": 22550,
+          "iat_address": 29356,
+          "iat_value": 51212,
+          "data": 51212
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mapRect@QTransform@@QBE?AVQRectF@@ABV2@@Z",
+          "hint": 21091,
+          "iat_address": 29360,
+          "iat_value": 51246,
+          "data": 51246
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QImage@@QAE@XZ",
+          "hint": 319,
+          "iat_address": 29364,
+          "iat_value": 51292,
+          "data": 51292
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QImage@@QAE@ABVQSize@@W4Format@0@@Z",
+          "hint": 311,
+          "iat_address": 29368,
+          "iat_value": 51312,
+          "data": 51312
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QImage@@UAE@XZ",
+          "hint": 1117,
+          "iat_address": 29372,
+          "iat_value": 51354,
+          "data": 51354
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QImage@@QAEAAV0@$$QAV0@@Z",
+          "hint": 1487,
+          "iat_address": 29376,
+          "iat_value": 51374,
+          "data": 51374
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isNull@QImage@@QBE_NXZ",
+          "hint": 20641,
+          "iat_address": 29380,
+          "iat_value": 51406,
+          "data": 51406
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?size@QImage@@QBE?AVQSize@@XZ",
+          "hint": 23972,
+          "iat_address": 29384,
+          "iat_value": 51432,
+          "data": 51432
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setDevicePixelRatio@QImage@@QAEXN@Z",
+          "hint": 22959,
+          "iat_address": 29388,
+          "iat_value": 51464,
+          "data": 51464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QSurfaceFormat@@QAE@ABV0@@Z",
+          "hint": 808,
+          "iat_address": 29392,
+          "iat_value": 51504,
+          "data": 51504
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QSurfaceFormat@@QAE@XZ",
+          "hint": 1334,
+          "iat_address": 29396,
+          "iat_value": 51538,
+          "data": 51538
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setDepthBufferSize@QSurfaceFormat@@QAEXH@Z",
+          "hint": 22924,
+          "iat_address": 29400,
+          "iat_value": 51566,
+          "data": 51566
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?depthBufferSize@QSurfaceFormat@@QBEHXZ",
+          "hint": 3624,
+          "iat_address": 29404,
+          "iat_value": 51612,
+          "data": 51612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setStencilBufferSize@QSurfaceFormat@@QAEXH@Z",
+          "hint": 23595,
+          "iat_address": 29408,
+          "iat_value": 51654,
+          "data": 51654
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?stencilBufferSize@QSurfaceFormat@@QBEHXZ",
+          "hint": 24190,
+          "iat_address": 29412,
+          "iat_value": 51702,
+          "data": 51702
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setAlphaBufferSize@QSurfaceFormat@@QAEXH@Z",
+          "hint": 22667,
+          "iat_address": 29416,
+          "iat_value": 51746,
+          "data": 51746
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?alphaBufferSize@QSurfaceFormat@@QBEHXZ",
+          "hint": 2549,
+          "iat_address": 29420,
+          "iat_value": 51792,
+          "data": 51792
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setSamples@QSurfaceFormat@@QAEXH@Z",
+          "hint": 23514,
+          "iat_address": 29424,
+          "iat_value": 51834,
+          "data": 51834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?samples@QSurfaceFormat@@QBEHXZ",
+          "hint": 22530,
+          "iat_address": 29428,
+          "iat_value": 51872,
+          "data": 51872
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setFormat@QWindow@@QAEXABVQSurfaceFormat@@@Z",
+          "hint": 23088,
+          "iat_address": 29432,
+          "iat_value": 51906,
+          "data": 51906
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?requestedFormat@QWindow@@QBE?AVQSurfaceFormat@@XZ",
+          "hint": 22389,
+          "iat_address": 29436,
+          "iat_value": 51954,
+          "data": 51954
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setWindowState@QWindow@@QAEXW4WindowState@Qt@@@Z",
+          "hint": 23871,
+          "iat_address": 29440,
+          "iat_value": 52008,
+          "data": 52008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?geometry@QWindow@@QBE?AVQRect@@XZ",
+          "hint": 4554,
+          "iat_address": 29444,
+          "iat_value": 52060,
+          "data": 52060
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setPosition@QWindow@@QAEXABVQPoint@@@Z",
+          "hint": 23422,
+          "iat_address": 29448,
+          "iat_value": 52098,
+          "data": 52098
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resize@QWindow@@QAEXABVQSize@@@Z",
+          "hint": 22409,
+          "iat_address": 29452,
+          "iat_value": 52140,
+          "data": 52140
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?screen@QWindow@@QBEPAVQScreen@@XZ",
+          "hint": 22581,
+          "iat_address": 29456,
+          "iat_value": 52176,
+          "data": 52176
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setScreen@QWindow@@QAEXPAVQScreen@@@Z",
+          "hint": 23526,
+          "iat_address": 29460,
+          "iat_value": 52214,
+          "data": 52214
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QKeyEvent@@QAE@W4Type@QEvent@@HV?$QFlags@W4KeyboardModifier@Qt@@@@ABVQString@@_NG@Z",
+          "hint": 352,
+          "iat_address": 29464,
+          "iat_value": 52830,
+          "data": 52830
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setTitle@QWindow@@QAEXABVQString@@@Z",
+          "hint": 23676,
+          "iat_address": 29468,
+          "iat_value": 52288,
+          "data": 52288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setWidth@QWindow@@QAEXH@Z",
+          "hint": 23857,
+          "iat_address": 29472,
+          "iat_value": 52328,
+          "data": 52328
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setHeight@QWindow@@QAEXH@Z",
+          "hint": 23124,
+          "iat_address": 29476,
+          "iat_value": 52358,
+          "data": 52358
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setGeometry@QWindow@@QAEXHHHH@Z",
+          "hint": 23106,
+          "iat_address": 29480,
+          "iat_value": 52388,
+          "data": 52388
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?visibilityChanged@QWindow@@QAEXW4Visibility@1@@Z",
+          "hint": 25015,
+          "iat_address": 29484,
+          "iat_value": 52424,
+          "data": 52424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?focusObjectChanged@QWindow@@QAEXPAVQObject@@@Z",
+          "hint": 4338,
+          "iat_address": 29488,
+          "iat_value": 52476,
+          "data": 52476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QEnterEvent@@QAE@ABVQPointF@@00@Z",
+          "hint": 241,
+          "iat_address": 29492,
+          "iat_value": 52526,
+          "data": 52526
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QEnterEvent@@UAE@XZ",
+          "hint": 1086,
+          "iat_address": 29496,
+          "iat_value": 52566,
+          "data": 52566
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QMouseEvent@@QAE@W4Type@QEvent@@ABVQPointF@@11W4MouseButton@Qt@@V?$QFlags@W4MouseButton@Qt@@@@V?$QFlags@W4KeyboardModifier@Qt@@@@W4MouseEventSource@5@@Z",
+          "hint": 385,
+          "iat_address": 29500,
+          "iat_value": 52592,
+          "data": 52592
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QMouseEvent@@UAE@XZ",
+          "hint": 1139,
+          "iat_address": 29504,
+          "iat_value": 52750,
+          "data": 52750
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?source@QMouseEvent@@QBE?AW4MouseEventSource@Qt@@XZ",
+          "hint": 24021,
+          "iat_address": 29508,
+          "iat_value": 52776,
+          "data": 52776
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?blitFramebuffer@QOpenGLFramebufferObject@@SAXPAV1@ABVQRect@@01II@Z",
+          "hint": 2764,
+          "iat_address": 29512,
+          "iat_value": 54432,
+          "data": 54432
+        }
+      ],
+      "function_count": 120
+    },
+    {
+      "name": "Qt5Core.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 28772,
+      "import_lookup_table_rva": 41540,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toSize@QSizeF@@QBE?AVQSize@@XZ",
+          "hint": 7614,
+          "iat_address": 28772,
+          "iat_value": 57632,
+          "data": 57632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QRect@@QAE@ABVQPoint@@ABVQSize@@@Z",
+          "hint": 447,
+          "iat_address": 28776,
+          "iat_value": 57666,
+          "data": 57666
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QRectF@@QAE@ABVQRect@@@Z",
+          "hint": 452,
+          "iat_address": 28780,
+          "iat_value": 57706,
+          "data": 57706
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?getAndRef@ExternalRefCountData@QtSharedPointer@@SAPAU12@PBVQObject@@@Z",
+          "hint": 3871,
+          "iat_address": 28784,
+          "iat_value": 57736,
+          "data": 57736
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QVariant@@QAE@XZ",
+          "hint": 892,
+          "iat_address": 28788,
+          "iat_value": 57810,
+          "data": 57810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QVariant@@QAE@ABVQPointF@@@Z",
+          "hint": 626,
+          "iat_address": 28792,
+          "iat_value": 57832,
+          "data": 57832
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?connectImpl@QObject@@CA?AVConnection@QMetaObject@@PBV1@PAPAX01PAVQSlotObjectBase@QtPrivate@@W4ConnectionType@Qt@@PBHPBU3@@Z",
+          "hint": 2679,
+          "iat_address": 28796,
+          "iat_value": 57504,
+          "data": 57504
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?canConvert@QVariant@@QBE_NH@Z",
+          "hint": 2379,
+          "iat_address": 28800,
+          "iat_value": 57900,
+          "data": 57900
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toPointF@QVariant@@QBE?AVQPointF@@XZ",
+          "hint": 7591,
+          "iat_address": 28804,
+          "iat_value": 57934,
+          "data": 57934
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toRectF@QVariant@@QBE?AVQRectF@@XZ",
+          "hint": 7597,
+          "iat_address": 28808,
+          "iat_value": 57974,
+          "data": 57974
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?endl@Qt@@YAAAVQTextStream@@AAV2@@Z",
+          "hint": 3391,
+          "iat_address": 28812,
+          "iat_value": 58012,
+          "data": 58012
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QDebug@@QAE@XZ",
+          "hint": 768,
+          "iat_address": 28816,
+          "iat_value": 58050,
+          "data": 58050
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@PBD@Z",
+          "hint": 1366,
+          "iat_address": 28820,
+          "iat_value": 58070,
+          "data": 58070
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@P6AAAVQTextStream@@AAV1@@Z@Z",
+          "hint": 1365,
+          "iat_address": 28824,
+          "iat_value": 58098,
+          "data": 58098
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QUrl@@QAE@XZ",
+          "hint": 592,
+          "iat_address": 28828,
+          "iat_value": 58148,
+          "data": 58148
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QUrl@@QAE@ABV0@@Z",
+          "hint": 590,
+          "iat_address": 28832,
+          "iat_value": 58166,
+          "data": 58166
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QUrl@@QAEAAV0@ABV0@@Z",
+          "hint": 1145,
+          "iat_address": 28836,
+          "iat_value": 58190,
+          "data": 58190
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QUrl@@QAEAAV0@$$QAV0@@Z",
+          "hint": 1144,
+          "iat_address": 28840,
+          "iat_value": 58218,
+          "data": 58218
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QUrl@@QAE@XZ",
+          "hint": 890,
+          "iat_address": 28844,
+          "iat_value": 58248,
+          "data": 58248
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?warning@QMessageLogger@@QBAXPBDZZ",
+          "hint": 8186,
+          "iat_address": 28848,
+          "iat_value": 56512,
+          "data": 56512
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isEmpty@QUrl@@QBE_NXZ",
+          "hint": 4313,
+          "iat_address": 28852,
+          "iat_value": 58378,
+          "data": 58378
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromSignalImpl@QMetaMethod@@CA?AV1@PBUQMetaObject@@PAPAX@Z",
+          "hint": 3787,
+          "iat_address": 28856,
+          "iat_value": 58404,
+          "data": 58404
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?testAttribute@QCoreApplication@@SA_NW4ApplicationAttribute@Qt@@@Z",
+          "hint": 7366,
+          "iat_address": 28860,
+          "iat_value": 58466,
+          "data": 58466
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?applicationName@QCoreApplication@@SA?AVQString@@XZ",
+          "hint": 2178,
+          "iat_address": 28864,
+          "iat_value": 58536,
+          "data": 58536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?instance@QCoreApplication@@SAPAV1@XZ",
+          "hint": 4159,
+          "iat_address": 28868,
+          "iat_value": 58590,
+          "data": 58590
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sendEvent@QCoreApplication@@SA_NPAVQObject@@PAVQEvent@@@Z",
+          "hint": 6416,
+          "iat_address": 28872,
+          "iat_value": 58630,
+          "data": 58630
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?nsecsElapsed@QElapsedTimer@@QBE_JXZ",
+          "hint": 5202,
+          "iat_address": 28876,
+          "iat_value": 58692,
+          "data": 58692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?start@QBasicTimer@@QAEXHPAVQObject@@@Z",
+          "hint": 7063,
+          "iat_address": 28880,
+          "iat_value": 58732,
+          "data": 58732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?start@QBasicTimer@@QAEXHW4TimerType@Qt@@PAVQObject@@@Z",
+          "hint": 7064,
+          "iat_address": 28884,
+          "iat_value": 58774,
+          "data": 58774
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?stop@QBasicTimer@@QAEXXZ",
+          "hint": 7227,
+          "iat_address": 28888,
+          "iat_value": 58832,
+          "data": 58832
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isDebugBuild@QLibraryInfo@@SA_NXZ",
+          "hint": 4259,
+          "iat_address": 28892,
+          "iat_value": 58860,
+          "data": 58860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?childEvent@QObject@@MAEXPAVQChildEvent@@@Z",
+          "hint": 2494,
+          "iat_address": 28896,
+          "iat_value": 58898,
+          "data": 58898
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?connectNotify@QObject@@MAEXABVQMetaMethod@@@Z",
+          "hint": 2683,
+          "iat_address": 28900,
+          "iat_value": 58944,
+          "data": 58944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?customEvent@QObject@@MAEXPAVQEvent@@@Z",
+          "hint": 2938,
+          "iat_address": 28904,
+          "iat_value": 58994,
+          "data": 58994
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?disconnectNotify@QObject@@MAEXABVQMetaMethod@@@Z",
+          "hint": 3252,
+          "iat_address": 28908,
+          "iat_value": 59036,
+          "data": 59036
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?event@QObject@@UAE_NPAVQEvent@@@Z",
+          "hint": 3495,
+          "iat_address": 28912,
+          "iat_value": 59088,
+          "data": 59088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?eventFilter@QObject@@UAE_NPAV1@PAVQEvent@@@Z",
+          "hint": 3513,
+          "iat_address": 28916,
+          "iat_value": 59126,
+          "data": 59126
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QMessageLogger@@QAE@PBDH0@Z",
+          "hint": 373,
+          "iat_address": 28920,
+          "iat_value": 56478,
+          "data": 56478
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?timerEvent@QObject@@MAEXPAVQTimerEvent@@@Z",
+          "hint": 7382,
+          "iat_address": 28924,
+          "iat_value": 59174,
+          "data": 59174
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shared_null@QListData@@2UData@1@B",
+          "hint": 6898,
+          "iat_address": 28928,
+          "iat_value": 59220,
+          "data": 59220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fatal@QMessageLogger@@QBAXPBDZZ",
+          "hint": 3569,
+          "iat_address": 28932,
+          "iat_value": 56550,
+          "data": 56550
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?warning@QMessageLogger@@QBE?AVQDebug@@XZ",
+          "hint": 8189,
+          "iat_address": 28936,
+          "iat_value": 56586,
+          "data": 56586
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?cast@QMetaObject@@QBEPAVQObject@@PAV2@@Z",
+          "hint": 2441,
+          "iat_address": 28940,
+          "iat_value": 56630,
+          "data": 56630
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?tr@QMetaObject@@QBE?AVQString@@PBD0H@Z",
+          "hint": 7822,
+          "iat_address": 28944,
+          "iat_value": 56674,
+          "data": 56674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?activate@QMetaObject@@SAXPAVQObject@@PBU1@HPAPAX@Z",
+          "hint": 1992,
+          "iat_address": 28948,
+          "iat_value": 56716,
+          "data": 56716
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1Connection@QMetaObject@@QAE@XZ",
+          "hint": 717,
+          "iat_address": 28952,
+          "iat_value": 56770,
+          "data": 56770
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QByteArray@@QAE@XZ",
+          "hint": 747,
+          "iat_address": 28956,
+          "iat_value": 56806,
+          "data": 56806
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?constData@QByteArray@@QBEPBDXZ",
+          "hint": 2701,
+          "iat_address": 28960,
+          "iat_value": 56830,
+          "data": 56830
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@XZ",
+          "hint": 525,
+          "iat_address": 28964,
+          "iat_value": 56864,
+          "data": 56864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@VQLatin1String@@@Z",
+          "hint": 524,
+          "iat_address": 28968,
+          "iat_value": 56886,
+          "data": 56886
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QString@@QAE@XZ",
+          "hint": 865,
+          "iat_address": 28972,
+          "iat_value": 56924,
+          "data": 56924
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLatin1@QString@@QHAE?AVQByteArray@@XZ",
+          "hint": 7524,
+          "iat_address": 28976,
+          "iat_value": 56946,
+          "data": 56946
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLocal8Bit@QString@@QGBE?AVQByteArray@@XZ",
+          "hint": 7537,
+          "iat_address": 28980,
+          "iat_value": 56990,
+          "data": 56990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromLatin1@QString@@SA?AV1@PBDH@Z",
+          "hint": 3759,
+          "iat_address": 28984,
+          "iat_value": 57036,
+          "data": 57036
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?detach_grow@QListData@@QAEPAUData@1@PAHH@Z",
+          "hint": 3215,
+          "iat_address": 28988,
+          "iat_value": 57074,
+          "data": 57074
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?dispose@QListData@@SAXPAUData@1@@Z",
+          "hint": 3263,
+          "iat_address": 28992,
+          "iat_value": 57120,
+          "data": 57120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QListData@@QAEPAPAXXZ",
+          "hint": 2155,
+          "iat_address": 28996,
+          "iat_value": 57158,
+          "data": 57158
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?dynamicMetaObject@QObjectData@@QBEPAUQMetaObject@@XZ",
+          "hint": 3302,
+          "iat_address": 29000,
+          "iat_value": 57190,
+          "data": 57190
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setObjectName@QObject@@QAEXABVQString@@@Z",
+          "hint": 6697,
+          "iat_address": 29004,
+          "iat_value": 57246,
+          "data": 57246
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isWindowType@QObject@@QBE_NXZ",
+          "hint": 4643,
+          "iat_address": 29008,
+          "iat_value": 57292,
+          "data": 57292
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?connect@QObject@@SA?AVConnection@QMetaObject@@PBV1@PBD01W4ConnectionType@Qt@@@Z",
+          "hint": 2677,
+          "iat_address": 29012,
+          "iat_value": 57326,
+          "data": 57326
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?disconnect@QObject@@SA_NPBV1@PBD01@Z",
+          "hint": 3247,
+          "iat_address": 29016,
+          "iat_value": 57410,
+          "data": 57410
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isSignalConnected@QObject@@IBE_NABVQMetaMethod@@@Z",
+          "hint": 4529,
+          "iat_address": 29020,
+          "iat_value": 57450,
+          "data": 57450
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toString@QUrl@@QBE?AVQString@@V?$QUrlTwoFlags@W4UrlFormattingOption@QUrl@@W4ComponentFormattingOption@2@@@@Z",
+          "hint": 7677,
+          "iat_address": 29024,
+          "iat_value": 58266,
+          "data": 58266
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QVariant@@QAE@ABVQRectF@@@Z",
+          "hint": 628,
+          "iat_address": 29028,
+          "iat_value": 57866,
+          "data": 57866
+        }
+      ],
+      "function_count": 65
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 28672,
+      "import_lookup_table_rva": 41440,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeSListHead",
+          "hint": 869,
+          "iat_address": 28672,
+          "iat_value": 59790,
+          "data": 59790
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 747,
+          "iat_address": 28676,
+          "iat_value": 59736,
+          "data": 59736
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 542,
+          "iat_address": 28680,
+          "iat_value": 59714,
+          "data": 59714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 538,
+          "iat_address": 28684,
+          "iat_value": 59692,
+          "data": 59692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1102,
+          "iat_address": 28688,
+          "iat_value": 59666,
+          "data": 59666
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1422,
+          "iat_address": 28692,
+          "iat_value": 59646,
+          "data": 59646
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 537,
+          "iat_address": 28696,
+          "iat_value": 59626,
+          "data": 59626
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsProcessorFeaturePresent",
+          "hint": 904,
+          "iat_address": 28700,
+          "iat_value": 59598,
+          "data": 59598
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1391,
+          "iat_address": 28704,
+          "iat_value": 59568,
+          "data": 59568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1455,
+          "iat_address": 28708,
+          "iat_value": 59540,
+          "data": 59540
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 897,
+          "iat_address": 28712,
+          "iat_value": 59520,
+          "data": 59520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 688,
+          "iat_address": 28716,
+          "iat_value": 59502,
+          "data": 59502
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleW",
+          "hint": 634,
+          "iat_address": 28720,
+          "iat_value": 59482,
+          "data": 59482
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateEventW",
+          "hint": 193,
+          "iat_address": 28724,
+          "iat_value": 59466,
+          "data": 59466
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObjectEx",
+          "hint": 1498,
+          "iat_address": 28728,
+          "iat_value": 59442,
+          "data": 59442
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ResetEvent",
+          "hint": 1223,
+          "iat_address": 28732,
+          "iat_value": 59428,
+          "data": 59428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEvent",
+          "hint": 1303,
+          "iat_address": 28736,
+          "iat_value": 59416,
+          "data": 59416
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 274,
+          "iat_address": 28740,
+          "iat_value": 59392,
+          "data": 59392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSectionAndSpinCount",
+          "hint": 865,
+          "iat_address": 28744,
+          "iat_value": 59352,
+          "data": 59352
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 960,
+          "iat_address": 28748,
+          "iat_value": 59328,
+          "data": 59328
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 307,
+          "iat_address": 28752,
+          "iat_value": 59304,
+          "data": 59304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 136,
+          "iat_address": 28756,
+          "iat_value": 59290,
+          "data": 59290
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetConsoleWindow",
+          "hint": 521,
+          "iat_address": 28760,
+          "iat_value": 59270,
+          "data": 59270
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DisableThreadLibraryCalls",
+          "hint": 288,
+          "iat_address": 28764,
+          "iat_value": 59762,
+          "data": 59762
+        }
+      ],
+      "function_count": 24
+    },
+    {
+      "name": "VCRUNTIME140.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 30160,
+      "import_lookup_table_rva": 42928,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 72,
+          "iat_address": 30160,
+          "iat_value": 59826,
+          "data": 59826
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_exception_copy",
+          "hint": 33,
+          "iat_address": 30164,
+          "iat_value": 59836,
+          "data": 59836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_exception_destroy",
+          "hint": 34,
+          "iat_address": 30168,
+          "iat_value": 59860,
+          "data": 59860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_CxxThrowException",
+          "hint": 1,
+          "iat_address": 30172,
+          "iat_value": 59886,
+          "data": 59886
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_type_info_destroy_list",
+          "hint": 37,
+          "iat_address": 30176,
+          "iat_value": 59908,
+          "data": 59908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_except_handler4_common",
+          "hint": 53,
+          "iat_address": 30180,
+          "iat_value": 59940,
+          "data": 59940
+        }
+      ],
+      "function_count": 6
+    },
+    {
+      "name": "api-ms-win-crt-heap-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 30188,
+      "import_lookup_table_rva": 42956,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 25,
+          "iat_address": 30188,
+          "iat_value": 59996,
+          "data": 59996
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 24,
+          "iat_address": 30192,
+          "iat_value": 60006,
+          "data": 60006
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_callnewh",
+          "hint": 8,
+          "iat_address": 30196,
+          "iat_value": 59984,
+          "data": 59984
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "api-ms-win-crt-runtime-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 30204,
+      "import_lookup_table_rva": 42972,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm_e",
+          "hint": 57,
+          "iat_address": 30204,
+          "iat_value": 60026,
+          "data": 60026
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_seh_filter_dll",
+          "hint": 65,
+          "iat_address": 30208,
+          "iat_value": 60040,
+          "data": 60040
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_configure_narrow_argv",
+          "hint": 25,
+          "iat_address": 30212,
+          "iat_value": 60058,
+          "data": 60058
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_narrow_environment",
+          "hint": 53,
+          "iat_address": 30216,
+          "iat_value": 60084,
+          "data": 60084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_onexit_table",
+          "hint": 54,
+          "iat_address": 30220,
+          "iat_value": 60118,
+          "data": 60118
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_register_onexit_function",
+          "hint": 62,
+          "iat_address": 30224,
+          "iat_value": 60146,
+          "data": 60146
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_execute_onexit_table",
+          "hint": 36,
+          "iat_address": 30228,
+          "iat_value": 60174,
+          "data": 60174
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_crt_atexit",
+          "hint": 31,
+          "iat_address": 30232,
+          "iat_value": 60198,
+          "data": 60198
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_cexit",
+          "hint": 23,
+          "iat_address": 30236,
+          "iat_value": 60212,
+          "data": 60212
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 56,
+          "iat_address": 30240,
+          "iat_value": 60014,
+          "data": 60014
+        }
+      ],
+      "function_count": 10
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "Qt5QuickWidgets.dll",
+    "export_flags": 0,
+    "timestamp": 4294967295,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 60,
+    "entries": [
+      {
+        "name": "??0QQuickWidget@@QAE@ABVQUrl@@PAVQWidget@@@Z",
+        "ordinal": 1,
+        "address": 4336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QQuickWidget@@QAE@PAVQQmlEngine@@PAVQWidget@@@Z",
+        "ordinal": 2,
+        "address": 4400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QQuickWidget@@QAE@PAVQWidget@@@Z",
+        "ordinal": 3,
+        "address": 4512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QQuickWidget@@UAE@XZ",
+        "ordinal": 4,
+        "address": 4928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QQuickWidget@@6BQObject@@@",
+        "ordinal": 5,
+        "address": 31832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QQuickWidget@@6BQPaintDevice@@@",
+        "ordinal": 6,
+        "address": 32016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_FQQuickWidget@@QAEXXZ",
+        "ordinal": 7,
+        "address": 6240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?continueExecute@QQuickWidget@@AAEXXZ",
+        "ordinal": 8,
+        "address": 6832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createFramebufferObject@QQuickWidget@@AAEXXZ",
+        "ordinal": 9,
+        "address": 8720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?d_func@QQuickWidget@@AAEPAVQQuickWidgetPrivate@@XZ",
+        "ordinal": 10,
+        "address": 9744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?d_func@QQuickWidget@@ABEPBVQQuickWidgetPrivate@@XZ",
+        "ordinal": 11,
+        "address": 9744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?destroyFramebufferObject@QQuickWidget@@AAEXXZ",
+        "ordinal": 12,
+        "address": 9840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?dragEnterEvent@QQuickWidget@@MAEXPAVQDragEnterEvent@@@Z",
+        "ordinal": 13,
+        "address": 9952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?dragLeaveEvent@QQuickWidget@@MAEXPAVQDragLeaveEvent@@@Z",
+        "ordinal": 14,
+        "address": 9984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?dragMoveEvent@QQuickWidget@@MAEXPAVQDragMoveEvent@@@Z",
+        "ordinal": 15,
+        "address": 9984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?dropEvent@QQuickWidget@@MAEXPAVQDropEvent@@@Z",
+        "ordinal": 16,
+        "address": 9984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?engine@QQuickWidget@@QBEPAVQQmlEngine@@XZ",
+        "ordinal": 17,
+        "address": 10000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?errors@QQuickWidget@@QBE?AV?$QList@VQQmlError@@@@XZ",
+        "ordinal": 18,
+        "address": 10224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?event@QQuickWidget@@MAE_NPAVQEvent@@@Z",
+        "ordinal": 19,
+        "address": 10720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?focusInEvent@QQuickWidget@@MAEXPAVQFocusEvent@@@Z",
+        "ordinal": 20,
+        "address": 12352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?focusNextPrevChild@QQuickWidget@@MAE_N_N@Z",
+        "ordinal": 21,
+        "address": 12368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?focusOutEvent@QQuickWidget@@MAEXPAVQFocusEvent@@@Z",
+        "ordinal": 22,
+        "address": 12624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?format@QQuickWidget@@QBE?AVQSurfaceFormat@@XZ",
+        "ordinal": 23,
+        "address": 12640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?grabFramebuffer@QQuickWidget@@QBE?AVQImage@@XZ",
+        "ordinal": 24,
+        "address": 12672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hideEvent@QQuickWidget@@MAEXPAVQHideEvent@@@Z",
+        "ordinal": 25,
+        "address": 12800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?initialSize@QQuickWidget@@QBE?AVQSize@@XZ",
+        "ordinal": 26,
+        "address": 13936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?keyPressEvent@QQuickWidget@@MAEXPAVQKeyEvent@@@Z",
+        "ordinal": 27,
+        "address": 14256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?keyReleaseEvent@QQuickWidget@@MAEXPAVQKeyEvent@@@Z",
+        "ordinal": 28,
+        "address": 14336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?metaObject@QQuickWidget@@UBEPBUQMetaObject@@XZ",
+        "ordinal": 29,
+        "address": 14416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?mouseDoubleClickEvent@QQuickWidget@@MAEXPAVQMouseEvent@@@Z",
+        "ordinal": 30,
+        "address": 14448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?mouseMoveEvent@QQuickWidget@@MAEXPAVQMouseEvent@@@Z",
+        "ordinal": 31,
+        "address": 14816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?mousePressEvent@QQuickWidget@@MAEXPAVQMouseEvent@@@Z",
+        "ordinal": 32,
+        "address": 15104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?mouseReleaseEvent@QQuickWidget@@MAEXPAVQMouseEvent@@@Z",
+        "ordinal": 33,
+        "address": 15376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?paintEvent@QQuickWidget@@MAEXPAVQPaintEvent@@@Z",
+        "ordinal": 34,
+        "address": 15648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?propagateFocusObjectChanged@QQuickWidget@@AAEXPAVQObject@@@Z",
+        "ordinal": 35,
+        "address": 16064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?qt_metacall@QQuickWidget@@UAEHW4Call@QMetaObject@@HPAPAX@Z",
+        "ordinal": 36,
+        "address": 16112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?qt_metacast@QQuickWidget@@UAEPAXPBD@Z",
+        "ordinal": 37,
+        "address": 16304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?qt_static_metacall@QQuickWidget@@CAXPAVQObject@@W4Call@QMetaObject@@HPAPAX@Z",
+        "ordinal": 38,
+        "address": 16400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?quickWindow@QQuickWidget@@QBEPAVQQuickWindow@@XZ",
+        "ordinal": 39,
+        "address": 16816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?resizeEvent@QQuickWidget@@MAEXPAVQResizeEvent@@@Z",
+        "ordinal": 40,
+        "address": 17552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?resizeMode@QQuickWidget@@QBE?AW4ResizeMode@1@XZ",
+        "ordinal": 41,
+        "address": 18112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?rootContext@QQuickWidget@@QBEPAVQQmlContext@@XZ",
+        "ordinal": 42,
+        "address": 18128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?rootObject@QQuickWidget@@QBEPAVQQuickItem@@XZ",
+        "ordinal": 43,
+        "address": 18176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?sceneGraphError@QQuickWidget@@QAEXW4SceneGraphError@QQuickWindow@@ABVQString@@@Z",
+        "ordinal": 44,
+        "address": 18384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setClearColor@QQuickWidget@@QAEXABVQColor@@@Z",
+        "ordinal": 45,
+        "address": 18464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContent@QQuickWidget@@QAEXABVQUrl@@PAVQQmlComponent@@PAVQObject@@@Z",
+        "ordinal": 46,
+        "address": 18480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setFormat@QQuickWidget@@QAEXABVQSurfaceFormat@@@Z",
+        "ordinal": 47,
+        "address": 18960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setResizeMode@QQuickWidget@@QAEXW4ResizeMode@1@@Z",
+        "ordinal": 48,
+        "address": 19184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setSource@QQuickWidget@@QAEXABVQUrl@@@Z",
+        "ordinal": 49,
+        "address": 19920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?showEvent@QQuickWidget@@MAEXPAVQShowEvent@@@Z",
+        "ordinal": 50,
+        "address": 19984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?sizeHint@QQuickWidget@@UBE?AVQSize@@XZ",
+        "ordinal": 51,
+        "address": 20208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?source@QQuickWidget@@QBE?AVQUrl@@XZ",
+        "ordinal": 52,
+        "address": 20288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?staticMetaObject@QQuickWidget@@2UQMetaObject@@B",
+        "ordinal": 53,
+        "address": 61440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?status@QQuickWidget@@QBE?AW4Status@1@XZ",
+        "ordinal": 54,
+        "address": 20320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?statusChanged@QQuickWidget@@QAEXW4Status@1@@Z",
+        "ordinal": 55,
+        "address": 20448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?timerEvent@QQuickWidget@@MAEXPAVQTimerEvent@@@Z",
+        "ordinal": 56,
+        "address": 20688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?tr@QQuickWidget@@SA?AVQString@@PBD0H@Z",
+        "ordinal": 57,
+        "address": 21040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?trUtf8@QQuickWidget@@SA?AVQString@@PBD0H@Z",
+        "ordinal": 58,
+        "address": 21040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?triggerUpdate@QQuickWidget@@AAEXXZ",
+        "ordinal": 59,
+        "address": 21072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?wheelEvent@QQuickWidget@@MAEXPAVQWheelEvent@@@Z",
+        "ordinal": 60,
+        "address": 21920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 2,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 56992,
+        "size": 752,
+        "entropy": 3.452843,
+        "sha256": "b83bf1883b2198895068ee1b1568fd4bdcd49af98359614caa6b818e80cff0c4",
+        "magic_head": "f002340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 57744,
+        "size": 381,
+        "entropy": 4.911615,
+        "sha256": "4bb79dcea0a901f7d9eac5aa05728ae92acb42e0cb22e5dd14134f4421a3d8df",
+        "magic_head": "3c3f786d6c207665"
+      }
+    ],
+    "total_size": 1133,
+    "max_entropy": 4.911615
+  },
+  "digital_signature": {
+    "signature_present": 1,
+    "verification_flag": "OK",
+    "signature_count": 1,
+    "certificates": [
+      {
+        "version": 3,
+        "subject": "C=FI, L=Oulu, O=The Qt Company Oy, CN=The Qt Company Oy",
+        "issuer": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Assured ID Code Signing CA",
+        "serial_number": "07e2ef843d0d6f58cbbb06e3e8b3d320",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2020-10-6",
+        "valid_to": "2023-12-31",
+        "is_ca": 0,
+        "key_usage": [
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert SHA2 Assured ID Code Signing CA",
+        "issuer": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Assured ID Root CA",
+        "serial_number": "0409181b5fd5bb66755343b56f955008",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2013-10-22",
+        "valid_to": "2028-10-22",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN",
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      }
+    ]
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 3183534146,
+    "entries": [
+      {
+        "id": 258,
+        "build_id": 28806,
+        "count": 1
+      },
+      {
+        "id": 151,
+        "build_id": 0,
+        "count": 1
+      },
+      {
+        "id": 255,
+        "build_id": 28806,
+        "count": 1
+      },
+      {
+        "id": 256,
+        "build_id": 28806,
+        "count": 1
+      },
+      {
+        "id": 261,
+        "build_id": 28806,
+        "count": 1
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 390
+      },
+      {
+        "id": 257,
+        "build_id": 28806,
+        "count": 11
+      },
+      {
+        "id": 259,
+        "build_id": 28619,
+        "count": 2
+      },
+      {
+        "id": 260,
+        "build_id": 28619,
+        "count": 10
+      },
+      {
+        "id": 261,
+        "build_id": 28619,
+        "count": 21
+      },
+      {
+        "id": 257,
+        "build_id": 27412,
+        "count": 2
+      },
+      {
+        "id": 257,
+        "build_id": 28619,
+        "count": 2
+      },
+      {
+        "id": 147,
+        "build_id": 30729,
+        "count": 4
+      }
+    ],
+    "raw_hex": "0681aeee42e0c0bd42e0c0bd42e0c0bd4b9853bd46e0c0bd898fc1bc40e0c0bd568bc1bc40e0c0bd898fc5bc57e0c0bd898fc4bc48e0c0bd898fc3bc40e0c0bdc490c1bc49e0c0bd42e0c1bdc4e1c0bdc490c5bc43e0c0bdc490c0bc43e0c0bdc4903fbd43e0c0bd42e057bd43e0c0bdc490c2bc43e0c0bd5269636842e0c0bd",
+    "raw_offset": 128,
+    "raw_size": 128,
+    "entry_count": 13
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 37680,
+      "size": 3560,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 41240,
+      "size": 200,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 65536,
+      "size": 1296,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 61440,
+      "size": 7152,
+      "section": ".data",
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 69632,
+      "size": 2968,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 34188,
+      "size": 84,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 34456,
+      "size": 24,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 34272,
+      "size": 64,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 28672,
+      "size": 1576,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": 381
+  },
+  "entrypoint_bytes": {
+    "offset": 21021,
+    "hex": "558bec837d0c017505e8dc060000ff7510ff750cff7508e8aefeffff83c40c5dc20c00558bec56ff75088bf1e858000000c706488500108bc65e5dc204008361",
+    "entropy": 4.583919
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 268496928,
+    "se_handler_count": 1,
+    "guard_cf_function_count": 0,
+    "guard_flags": 256
+  },
+  "tls": {
+    "has_tls": 1,
+    "callback_count": 0,
+    "callbacks": [],
+    "addressof_callbacks": 268465736,
+    "addressof_index": 268497844,
+    "addressof_raw_data_start": 268472844,
+    "addressof_raw_data_end": 268472852,
+    "raw_data_size": 8,
+    "sizeof_zero_fill": 0,
+    "characteristics": 3145728,
+    "section": ".rdata",
+    "data_template_hex": "0000000000000080",
+    "data_template_entropy": 0.543564
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 4,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 4,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 603
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 14,
+    "minor_linker_version": 26,
+    "sizeof_code": 23040,
+    "sizeof_initialized_data": 38400,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 24093,
+    "baseof_code": 4096,
+    "baseof_data": 28672,
+    "imagebase": 268435456,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 6,
+    "minor_operating_system_version": 0,
+    "major_image_version": 5,
+    "minor_image_version": 15,
+    "major_subsystem_version": 6,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 73728,
+    "sizeof_headers": 1024,
+    "checksum": 131082,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 320,
+    "dll_characteristics": [
+      "DYNAMIC_BASE",
+      "NX_COMPAT"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 200,
+    "entropy": 5.204172,
+    "is_standard_ms": 1,
+    "sha256": "0a082c100ae23b7fbb4b50dbbc94ce7507e454a2553d6f46abf3755582931330",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a24000000000000000681aeee42e0c0bd42e0c0bd42e0c0bd4b9853bd46e0c0bd898fc1bc40e0c0bd568bc1bc40e0c0bd898fc5bc57e0c0bd898fc4bc48e0c0bd898fc3bc40e0c0bdc490c1bc49e0c0bd42e0c1bdc4e1c0bdc490c5bc43e0c0bdc490c0bc43e0c0bdc4903fbd43e0c0bd42e057bd43e0c0bdc490c2bc43e0c0bd5269636842e0c0bd0000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ B B B K S F @ V @ W H @ I B C C ? C B W C C RichB",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 131082,
+    "checksum_computed": 131082,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 24093,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.148716
+  },
+  "overlay": {
+    "size": 7152,
+    "offset": 61440,
+    "entropy": 7.249931,
+    "magic_head": "f01b00000002020030821be406092a86",
+    "sha256": "608490ac80fcf6bd5d9dd181021525bea8413b4609bbe9e444cea37d5778885d"
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 3,
+    "types": [
+      "CODEVIEW",
+      "VC_FEATURE",
+      "POGO"
+    ],
+    "pdb_path": "C:\\Users\\qt\\work\\qt\\qtdeclarative\\lib\\Qt5QuickWidgets.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 10,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "The Qt Company Ltd.",
+    "file_description": "C++ Application Development Framework",
+    "original_filename": "Qt5QuickWidgets.dll",
+    "product_name": "Qt5",
+    "file_version": "5.15.2.0",
+    "legal_copyright": "Copyright (C) 2020 The Qt Company Ltd.",
+    "internal_name": null
+  },
+  "strings": {
+    "count_ascii": 911,
+    "count_utf16": 22,
+    "count_total": 933,
+    "chars_total": 25958,
+    "printable_ratio": 0.378441,
+    "len_mean": 27.82,
+    "len_max": 169,
+    "urls": [
+      "http://crl3.digicert.com/sha2-assured-cs-g1.crl05",
+      "http://crl3.digicert.com/sha2-assured-ts.crl02",
+      "http://crl4.digicert.com/sha2-assured-cs-g1.crl0L",
+      "http://crl4.digicert.com/sha2-assured-ts.crl0",
+      "http://ocsp.digicert.com0C",
+      "http://ocsp.digicert.com0N",
+      "http://ocsp.digicert.com0O",
+      "https://www.digicert.com/CPS0"
+    ],
+    "n_urls": 8,
+    "ipv4": [
+      "5.15.2.0"
+    ],
+    "n_ipv4": 1,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "api-ms-win-core-synch-l1-2-0.dll",
+      "api-ms-win-crt-heap-l1-1-0.dll",
+      "api-ms-win-crt-runtime-l1-1-0.dll",
+      "kernel32.dll",
+      "qt5core.dll",
+      "qt5gui.dll",
+      "qt5qml.dll",
+      "qt5quick.dll",
+      "qt5quickwidgets.dll",
+      "qt5widgets.dll",
+      "vcruntime140.dll"
+    ],
+    "n_dll_names": 11,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [
+      "C:\\Users\\qt\\work\\qt\\qtdeclarative\\lib\\Qt5QuickWidgets.pdb"
+    ],
+    "n_file_paths": 1
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "api-ms-win-core-synch-l1-2-0.dll",
+      "qt5quickwidgets.dll"
+    ],
+    "n_orphans": 2,
+    "n_imported": 9
+  }
+}

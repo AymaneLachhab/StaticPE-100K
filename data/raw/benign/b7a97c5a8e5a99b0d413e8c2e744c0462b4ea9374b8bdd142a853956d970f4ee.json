@@ -1,0 +1,4383 @@
+{
+  "sha256": "b7a97c5a8e5a99b0d413e8c2e744c0462b4ea9374b8bdd142a853956d970f4ee",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 51712,
+    "md5": "65a10248ed7150b8d39181300c7eaec5",
+    "sha1": "0ff0fb224d1119d05b620ff244443d3ac5cca25c",
+    "imphash": "37116756fa2592087527a021c94ce039",
+    "tlsh": "T1183329007847CDABDE0BD3371D85186190D7A7048B95F7D1B98BC2E3EAB636B2C6A417",
+    "ssdeep": "768:H+tdUQRHhxL7gFgGsr1bKiaUXk+6O7od86nzeDpNGobftALwegU6RPlmnDwQZ2EY:etySjIFgVQUJHod86zeDpUoHUwQ0",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 7.302079,
+    "byte_histogram_256": [
+      0.07783493,
+      0.00883741,
+      0.01127398,
+      0.00346148,
+      0.0049505,
+      0.00297803,
+      0.00408029,
+      0.0043897,
+      0.00549196,
+      0.0023979,
+      0.00386757,
+      0.00317141,
+      0.0052599,
+      0.00261061,
+      0.00278465,
+      0.00319075,
+      0.00585938,
+      0.00328744,
+      0.00253326,
+      0.00292002,
+      0.00460241,
+      0.00288134,
+      0.00218518,
+      0.00259127,
+      0.00452506,
+      0.00206915,
+      0.00268796,
+      0.00195312,
+      0.0039836,
+      0.00259127,
+      0.00301671,
+      0.00346148,
+      0.00584004,
+      0.00284267,
+      0.0018371,
+      0.00220452,
+      0.00396426,
+      0.00288134,
+      0.00228187,
+      0.00292002,
+      0.00350015,
+      0.00222386,
+      0.00235922,
+      0.0021465,
+      0.00344214,
+      0.00251392,
+      0.00355817,
+      0.00237856,
+      0.00703899,
+      0.00309406,
+      0.00479579,
+      0.0034228,
+      0.00309406,
+      0.00235922,
+      0.00206915,
+      0.00220452,
+      0.0032681,
+      0.00195312,
+      0.00193379,
+      0.00266863,
+      0.00305538,
+      0.00187577,
+      0.00241723,
+      0.01079053,
+      0.04103496,
+      0.02622215,
+      0.00404162,
+      0.00607209,
+      0.00928218,
+      0.01224087,
+      0.00539527,
+      0.00421566,
+      0.00727104,
+      0.00715501,
+      0.00230121,
+      0.00305538,
+      0.00570467,
+      0.00473778,
+      0.00421566,
+      0.00698097,
+      0.0239983,
+      0.00464109,
+      0.00777382,
+      0.00951423,
+      0.00790919,
+      0.01173809,
+      0.00584004,
+      0.00719369,
+      0.00564666,
+      0.00506652,
+      0.00808323,
+      0.00203048,
+      0.00373221,
+      0.0021465,
+      0.00232054,
+      0.01369121,
+      0.00338413,
+      0.00562732,
+      0.00858601,
+      0.01150603,
+      0.00522123,
+      0.01862237,
+      0.00301671,
+      0.00305538,
+      0.00421566,
+      0.00846999,
+      0.00777382,
+      0.00203048,
+      0.00587871,
+      0.00508586,
+      0.00711634,
+      0.01075186,
+      0.00562732,
+      0.00137299,
+      0.00928218,
+      0.00584004,
+      0.01512222,
+      0.00599474,
+      0.002862,
+      0.00272664,
+      0.00272664,
+      0.01139001,
+      0.00156637,
+      0.00166306,
+      0.00226253,
+      0.00146968,
+      0.00170173,
+      0.00251392,
+      0.00390625,
+      0.00245591,
+      0.00154703,
+      0.00350015,
+      0.00237856,
+      0.00245591,
+      0.00206915,
+      0.00226253,
+      0.00174041,
+      0.00301671,
+      0.00216584,
+      0.00448639,
+      0.00193379,
+      0.00245591,
+      0.00145034,
+      0.00172107,
+      0.00350015,
+      0.00168239,
+      0.00243657,
+      0.00156637,
+      0.00162438,
+      0.00172107,
+      0.00137299,
+      0.00232054,
+      0.00179842,
+      0.00145034,
+      0.00146968,
+      0.00121829,
+      0.00201114,
+      0.00135365,
+      0.00201114,
+      0.00228187,
+      0.00278465,
+      0.00179842,
+      0.00125696,
+      0.00129564,
+      0.00206915,
+      0.00139233,
+      0.00164372,
+      0.00148902,
+      0.00220452,
+      0.00168239,
+      0.00139233,
+      0.00145034,
+      0.00187577,
+      0.00154703,
+      0.00121829,
+      0.00139233,
+      0.00334545,
+      0.00162438,
+      0.00102491,
+      0.00108292,
+      0.0018371,
+      0.00175975,
+      0.00164372,
+      0.00197246,
+      0.00237856,
+      0.00187577,
+      0.00106358,
+      0.00146968,
+      0.00185644,
+      0.00154703,
+      0.00170173,
+      0.00218518,
+      0.00340347,
+      0.00305538,
+      0.00197246,
+      0.00305538,
+      0.00204981,
+      0.00154703,
+      0.00174041,
+      0.0019918,
+      0.00290068,
+      0.00174041,
+      0.00131498,
+      0.00145034,
+      0.00187577,
+      0.00123762,
+      0.00131498,
+      0.00164372,
+      0.00262995,
+      0.00168239,
+      0.00152769,
+      0.00150835,
+      0.00197246,
+      0.00139233,
+      0.00150835,
+      0.00152769,
+      0.00230121,
+      0.00131498,
+      0.00175975,
+      0.00247525,
+      0.00191445,
+      0.00141166,
+      0.001431,
+      0.00218518,
+      0.00317141,
+      0.00164372,
+      0.00152769,
+      0.00108292,
+      0.00230121,
+      0.00181776,
+      0.00135365,
+      0.00133431,
+      0.00222386,
+      0.00145034,
+      0.00106358,
+      0.0027073,
+      0.00195312,
+      0.00189511,
+      0.00123762,
+      0.00150835,
+      0.00353883,
+      0.00141166,
+      0.00174041,
+      0.00104425,
+      0.00146968,
+      0.00104425,
+      0.00232054,
+      0.00174041,
+      0.00226253,
+      0.00121829,
+      0.00116027,
+      0.00156637,
+      0.00203048,
+      0.00088954,
+      0.00139233,
+      0.00545328
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.01912269,
+      0.00054807,
+      0.00035874,
+      0.01145966,
+      0.0907107,
+      0.06425383,
+      0.06704401,
+      0.03136958,
+      0.0001993,
+      0.00010961,
+      5.979e-05,
+      8.968e-05,
+      3.986e-05,
+      5.979e-05,
+      0.00014947,
+      0.00013951,
+      0.00221221,
+      0.00015944,
+      0.0001694,
+      0.00231186,
+      0.0082111,
+      0.00488281,
+      0.00081712,
+      0.00118583,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00013951,
+      0.00015944,
+      0.00015944,
+      0.02132494,
+      0.00135523,
+      0.00189334,
+      0.00212253,
+      0.00244141,
+      0.00206274,
+      0.002272,
+      0.00167411,
+      0.00103635,
+      0.0011659,
+      0.00084702,
+      0.00080716,
+      0.00051818,
+      0.00038863,
+      0.00046835,
+      0.00043846,
+      0.02800143,
+      0.00215242,
+      0.0025012,
+      0.00328842,
+      0.00622808,
+      0.00451411,
+      0.00211256,
+      0.00215242,
+      0.0019332,
+      0.00135523,
+      0.00110611,
+      0.00115593,
+      0.00107621,
+      0.00120576,
+      0.001136,
+      0.0013054,
+      0.00891861,
+      0.00108618,
+      0.00066765,
+      0.00071747,
+      0.00088688,
+      0.00104632,
+      0.00092674,
+      0.0007374,
+      0.00119579,
+      0.00054807,
+      0.00065768,
+      0.00047832,
+      0.00087691,
+      0.00044842,
+      0.00047832,
+      0.0007374,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00413544,
+      0.0030393,
+      0.00182358,
+      0.00127551,
+      0.00112604,
+      0.00086695,
+      0.00070751,
+      0.00103635,
+      0.00109614,
+      0.00047832,
+      0.00054807,
+      0.0005979,
+      0.00079719,
+      0.00092674,
+      0.00078723,
+      0.0011659,
+      0.05482701,
+      0.04410475,
+      0.04071668,
+      0.0356246,
+      0.03960061,
+      0.04399514,
+      0.0354552,
+      0.03579401,
+      0.03496692,
+      0.02677575,
+      0.02385603,
+      0.02602838,
+      0.0299147,
+      0.02622768,
+      0.02589884,
+      0.02723414
+    ]
+  },
+  "sections": [
+    {
+      "name": "UPX0",
+      "virtual_size": 98304,
+      "raw_size": 0,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 0.0,
+      "characteristics": 3758096512,
+      "readable": 1,
+      "writable": 1,
+      "executable": 1
+    },
+    {
+      "name": "UPX1",
+      "virtual_size": 32768,
+      "raw_size": 30208,
+      "virtual_address": 102400,
+      "pointerto_raw_data": 1024,
+      "entropy": 7.867603,
+      "characteristics": 3758096448,
+      "readable": 1,
+      "writable": 1,
+      "executable": 1
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 20480,
+      "raw_size": 20480,
+      "virtual_address": 135168,
+      "pointerto_raw_data": 31232,
+      "entropy": 5.579919,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 264,
+    "e_lfanew_raw": 264,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000008010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 3,
+    "time_date_stamp": 1234770144,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8462,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LINE_NUMS_STRIPPED",
+      "LOCAL_SYMS_STRIPPED",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "KERNEL32.DLL",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 136192,
+      "import_lookup_table_rva": 0,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryA",
+          "hint": 0,
+          "iat_address": 136192,
+          "iat_value": 136348,
+          "data": 136348
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 0,
+          "iat_address": 136196,
+          "iat_value": 136362,
+          "data": 136362
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualProtect",
+          "hint": 0,
+          "iat_address": 136200,
+          "iat_value": 136378,
+          "data": 136378
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualAlloc",
+          "hint": 0,
+          "iat_address": 136204,
+          "iat_value": 136394,
+          "data": 136394
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualFree",
+          "hint": 0,
+          "iat_address": 136208,
+          "iat_value": 136408,
+          "data": 136408
+        }
+      ],
+      "function_count": 5
+    },
+    {
+      "name": "ADVAPI32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 136216,
+      "import_lookup_table_rva": 0,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AddAce",
+          "hint": 0,
+          "iat_address": 136216,
+          "iat_value": 136422,
+          "data": 136422
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "MSVCR71.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 136224,
+      "import_lookup_table_rva": 0,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_iob",
+          "hint": 0,
+          "iat_address": 136224,
+          "iat_value": 136430,
+          "data": 136430
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "ole32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 136232,
+      "import_lookup_table_rva": 0,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoCreateGuid",
+          "hint": 0,
+          "iat_address": 136232,
+          "iat_value": 136436,
+          "data": 136436
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "OLEAUT32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 136240,
+      "import_lookup_table_rva": 0,
+      "functions": [
+        {
+          "is_ordinal": 1,
+          "ordinal": 7,
+          "name": null,
+          "hint": 0,
+          "iat_address": 136240,
+          "iat_value": 2147483655,
+          "data": 2147483655
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "python25.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 136248,
+      "import_lookup_table_rva": 0,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "PyMem_Free",
+          "hint": 0,
+          "iat_address": 136248,
+          "iat_value": 136450,
+          "data": 136450
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "USER32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 136256,
+      "import_lookup_table_rva": 0,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wsprintfA",
+          "hint": 0,
+          "iat_address": 136256,
+          "iat_value": 136462,
+          "data": 136462
+        }
+      ],
+      "function_count": 1
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "pywintypes25.dll",
+    "export_flags": 0,
+    "timestamp": 1234770144,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 355,
+    "entries": [
+      {
+        "name": "??0PyACL@@QAE@HH@Z",
+        "ordinal": 1,
+        "address": 12784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyACL@@QAE@PAU_ACL@@@Z",
+        "ordinal": 2,
+        "address": 12864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyDEVMODEA@@QAE@G@Z",
+        "ordinal": 3,
+        "address": 14224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyDEVMODEA@@QAE@PAU_devicemodeA@@@Z",
+        "ordinal": 4,
+        "address": 13920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyDEVMODEA@@QAE@XZ",
+        "ordinal": 5,
+        "address": 14096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyDEVMODEW@@QAE@G@Z",
+        "ordinal": 6,
+        "address": 15984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyDEVMODEW@@QAE@PAU_devicemodeW@@@Z",
+        "ordinal": 7,
+        "address": 15680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyDEVMODEW@@QAE@XZ",
+        "ordinal": 8,
+        "address": 15856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyHANDLE@@QAE@ABV0@@Z",
+        "ordinal": 9,
+        "address": 4400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyHANDLE@@QAE@PAX@Z",
+        "ordinal": 10,
+        "address": 17264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyHKEY@@QAE@ABV0@@Z",
+        "ordinal": 11,
+        "address": 4688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyHKEY@@QAE@PAX@Z",
+        "ordinal": 12,
+        "address": 4624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyIID@@QAE@ABU_GUID@@@Z",
+        "ordinal": 13,
+        "address": 19360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyOVERLAPPED@@QAE@PBVsMyOverlapped@0@@Z",
+        "ordinal": 14,
+        "address": 21280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyOVERLAPPED@@QAE@XZ",
+        "ordinal": 15,
+        "address": 21216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PySECURITY_ATTRIBUTES@@QAE@ABU_SECURITY_ATTRIBUTES@@@Z",
+        "ordinal": 16,
+        "address": 22960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PySECURITY_ATTRIBUTES@@QAE@XZ",
+        "ordinal": 17,
+        "address": 22784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PySECURITY_DESCRIPTOR@@QAE@H@Z",
+        "ordinal": 18,
+        "address": 28496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PySECURITY_DESCRIPTOR@@QAE@PAX@Z",
+        "ordinal": 19,
+        "address": 28592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PySID@@QAE@HPAX@Z",
+        "ordinal": 20,
+        "address": 30192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PySID@@QAE@PAX@Z",
+        "ordinal": 21,
+        "address": 30288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyTime@@QAE@ABU_FILETIME@@@Z",
+        "ordinal": 22,
+        "address": 32528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyTime@@QAE@ABU_SYSTEMTIME@@@Z",
+        "ordinal": 23,
+        "address": 32432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyTime@@QAE@J@Z",
+        "ordinal": 24,
+        "address": 32272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyTime@@QAE@N@Z",
+        "ordinal": 25,
+        "address": 32240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyWAVEFORMATEX@@QAE@ABUtWAVEFORMATEX@@@Z",
+        "ordinal": 26,
+        "address": 39776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyWAVEFORMATEX@@QAE@XZ",
+        "ordinal": 27,
+        "address": 39728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0PyWin_AutoFreeBstr@@QAE@PAG@Z",
+        "ordinal": 28,
+        "address": 36704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0sMyOverlapped@PyOVERLAPPED@@QAE@ABU_OVERLAPPED@@@Z",
+        "ordinal": 29,
+        "address": 4224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0sMyOverlapped@PyOVERLAPPED@@QAE@XZ",
+        "ordinal": 30,
+        "address": 4208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PyACL@@QAE@XZ",
+        "ordinal": 31,
+        "address": 12944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PyDEVMODEA@@IAE@XZ",
+        "ordinal": 32,
+        "address": 14384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PyDEVMODEW@@IAE@XZ",
+        "ordinal": 33,
+        "address": 16144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PyHANDLE@@UAE@XZ",
+        "ordinal": 34,
+        "address": 17296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PyHKEY@@UAE@XZ",
+        "ordinal": 35,
+        "address": 4672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PyOVERLAPPED@@QAE@XZ",
+        "ordinal": 36,
+        "address": 21344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PySECURITY_ATTRIBUTES@@QAE@XZ",
+        "ordinal": 37,
+        "address": 23152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PySECURITY_DESCRIPTOR@@QAE@XZ",
+        "ordinal": 38,
+        "address": 28640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PySID@@QAE@XZ",
+        "ordinal": 39,
+        "address": 30352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PyWAVEFORMATEX@@QAE@XZ",
+        "ordinal": 40,
+        "address": 39840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1PyWin_AutoFreeBstr@@QAE@XZ",
+        "ordinal": 41,
+        "address": 36720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PyACL@@QAEAAV0@ABV0@@Z",
+        "ordinal": 42,
+        "address": 5424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PyDEVMODEA@@QAEAAV0@ABV0@@Z",
+        "ordinal": 43,
+        "address": 4960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PyDEVMODEW@@QAEAAV0@ABV0@@Z",
+        "ordinal": 44,
+        "address": 5024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PyHANDLE@@QAEAAV0@ABV0@@Z",
+        "ordinal": 45,
+        "address": 4448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PyHKEY@@QAEAAV0@ABV0@@Z",
+        "ordinal": 46,
+        "address": 4752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PyIID@@QAEAAV0@ABV0@@Z",
+        "ordinal": 47,
+        "address": 4096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PyOVERLAPPED@@QAEAAV0@ABV0@@Z",
+        "ordinal": 48,
+        "address": 4336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PySECURITY_ATTRIBUTES@@QAEAAV0@ABV0@@Z",
+        "ordinal": 49,
+        "address": 5072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PySECURITY_DESCRIPTOR@@QAEAAV0@ABV0@@Z",
+        "ordinal": 50,
+        "address": 5136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PySID@@QAEAAV0@ABV0@@Z",
+        "ordinal": 51,
+        "address": 5200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PyTime@@QAEAAV0@ABV0@@Z",
+        "ordinal": 52,
+        "address": 4160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PyWAVEFORMATEX@@QAEAAV0@ABV0@@Z",
+        "ordinal": 53,
+        "address": 39600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4PyWin_AutoFreeBstr@@QAEAAV0@ABV0@@Z",
+        "ordinal": 54,
+        "address": 13104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4sMyOverlapped@PyOVERLAPPED@@QAEAAV01@ABV01@@Z",
+        "ordinal": 55,
+        "address": 4304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BPyHANDLE@@QAEPAXXZ",
+        "ordinal": 56,
+        "address": 4368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BPyWin_AutoFreeBstr@@QAEPAGXZ",
+        "ordinal": 57,
+        "address": 13088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7PyHANDLE@@6B@",
+        "ordinal": 58,
+        "address": 57268,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7PyHKEY@@6B@",
+        "ordinal": 59,
+        "address": 57280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_FPyIID@@QAEXXZ",
+        "ordinal": 60,
+        "address": 4144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_FPySECURITY_DESCRIPTOR@@QAEXXZ",
+        "ordinal": 61,
+        "address": 5168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_FPyWin_AutoFreeBstr@@QAEXXZ",
+        "ordinal": 62,
+        "address": 13120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddAccessAllowedAce@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 63,
+        "address": 8032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddAccessAllowedAceEx@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 64,
+        "address": 8720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddAccessAllowedObjectAce@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 65,
+        "address": 9568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddAccessDeniedAce@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 66,
+        "address": 8176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddAccessDeniedAceEx@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 67,
+        "address": 8832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddAccessDeniedObjectAce@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 68,
+        "address": 9696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddAuditAccessAce@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 69,
+        "address": 9824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddAuditAccessAceEx@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 70,
+        "address": 10224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddAuditAccessObjectAce@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 71,
+        "address": 10688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AddMandatoryAce@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 72,
+        "address": 8944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Clear@PyDEVMODEA@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 73,
+        "address": 14464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Clear@PyDEVMODEW@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 74,
+        "address": 16224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Close@PyHANDLE@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 75,
+        "address": 17072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Close@PyHANDLE@@UAEHXZ",
+        "ordinal": 76,
+        "address": 17312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Close@PyHKEY@@UAEHXZ",
+        "ordinal": 77,
+        "address": 18352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?DeleteAce@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 78,
+        "address": 11888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Detach@PyHANDLE@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 79,
+        "address": 17136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Format@PyTime@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 80,
+        "address": 31808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?FreeAbsoluteSD@@YAXPAX@Z",
+        "ordinal": 81,
+        "address": 24016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetACL@PyACL@@QAEPAU_ACL@@XZ",
+        "ordinal": 82,
+        "address": 5232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetAce@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 83,
+        "address": 11456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetAceCount@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 84,
+        "address": 11392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetAclRevision@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 85,
+        "address": 11328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetAclSize@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 86,
+        "address": 11264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetDEVMODE@PyDEVMODEA@@QAEPAU_devicemodeA@@XZ",
+        "ordinal": 87,
+        "address": 14448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetDEVMODE@PyDEVMODEW@@QAEPAU_devicemodeW@@XZ",
+        "ordinal": 88,
+        "address": 16208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetLength@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 89,
+        "address": 28336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetLength@PySID@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 90,
+        "address": 29712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetOverlapped@PyOVERLAPPED@@QAEPAU_OVERLAPPED@@XZ",
+        "ordinal": 91,
+        "address": 4288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetPythonTraceback@@YAPADPAU_object@@00@Z",
+        "ordinal": 92,
+        "address": 44560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSA@PySECURITY_ATTRIBUTES@@QAEPAU_SECURITY_ATTRIBUTES@@XZ",
+        "ordinal": 93,
+        "address": 5056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSD@PySECURITY_DESCRIPTOR@@QAEPAXXZ",
+        "ordinal": 94,
+        "address": 5120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSID@PySID@@QAEPAXXZ",
+        "ordinal": 95,
+        "address": 5184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSecurityDescriptorControl@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 96,
+        "address": 27968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSecurityDescriptorDacl@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 97,
+        "address": 27392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSecurityDescriptorGroup@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 98,
+        "address": 27120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSecurityDescriptorOwner@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 99,
+        "address": 26304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSecurityDescriptorSacl@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 100,
+        "address": 27680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSidIdentifierAuthority@PySID@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 101,
+        "address": 29984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSubAuthority@PySID@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 102,
+        "address": 29600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSubAuthorityCount@PySID@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 103,
+        "address": 29776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetTime@PyTime@@QAEHPAN@Z",
+        "ordinal": 104,
+        "address": 32608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetTime@PyTime@@QAEHPAU_FILETIME@@@Z",
+        "ordinal": 105,
+        "address": 32640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetTime@PyTime@@QAEHPAU_SYSTEMTIME@@@Z",
+        "ordinal": 106,
+        "address": 32752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetTypeName@PyHANDLE@@UAEPBDXZ",
+        "ordinal": 107,
+        "address": 4384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetTypeName@PyHKEY@@UAEPBDXZ",
+        "ordinal": 108,
+        "address": 4656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Initialize@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 109,
+        "address": 5552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Initialize@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 110,
+        "address": 25600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Initialize@PySID@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 111,
+        "address": 29408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IsEqual@PyIID@@QAEHAAV1@@Z",
+        "ordinal": 112,
+        "address": 19904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IsEqual@PyIID@@QAEHABU_GUID@@@Z",
+        "ordinal": 113,
+        "address": 19824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IsEqual@PyIID@@QAEHPAU_object@@@Z",
+        "ordinal": 114,
+        "address": 19856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IsSelfRelative@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 115,
+        "address": 24416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IsValid@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 116,
+        "address": 5648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IsValid@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 117,
+        "address": 28272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IsValid@PySID@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 118,
+        "address": 29536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyACLType@@3U_typeobject@@A",
+        "ordinal": 119,
+        "address": 102816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyDEVMODEAType@@3U_typeobject@@A",
+        "ordinal": 120,
+        "address": 104808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyDEVMODEWType@@3U_typeobject@@A",
+        "ordinal": 121,
+        "address": 105000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyGetAuditedPermissionsFromAcl@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 122,
+        "address": 12592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyGetEffectiveRightsFromAcl@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 123,
+        "address": 12416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyGetExplicitEntriesFromAcl@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 124,
+        "address": 7392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyHANDLEType@@3U_typeobject@@A",
+        "ordinal": 125,
+        "address": 105496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyIIDType@@3U_typeobject@@A",
+        "ordinal": 126,
+        "address": 105704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyOVERLAPPEDType@@3U_typeobject@@A",
+        "ordinal": 127,
+        "address": 106056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyObject_FromWIN32_FIND_DATAA@@YAPAU_object@@PAU_WIN32_FIND_DATAA@@@Z",
+        "ordinal": 128,
+        "address": 41488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyObject_FromWIN32_FIND_DATAW@@YAPAU_object@@PAU_WIN32_FIND_DATAW@@@Z",
+        "ordinal": 129,
+        "address": 41616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PySECURITY_ATTRIBUTESType@@3U_typeobject@@A",
+        "ordinal": 130,
+        "address": 106312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PySECURITY_DESCRIPTORType@@3U_typeobject@@A",
+        "ordinal": 131,
+        "address": 106776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PySIDType@@3U_typeobject@@A",
+        "ordinal": 132,
+        "address": 107112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PySetEntriesInAcl@PyACL@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 133,
+        "address": 11984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PySocket_AsSOCKET@@YAHPAU_object@@PAI@Z",
+        "ordinal": 134,
+        "address": 45168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyTimeType@@3U_typeobject@@A",
+        "ordinal": 135,
+        "address": 107552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWAVEFORMATEXType@@3U_typeobject@@A",
+        "ordinal": 136,
+        "address": 107888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinCoreString_FromIID@@YAPAU_object@@ABU_GUID@@@Z",
+        "ordinal": 137,
+        "address": 19168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinCoreString_FromString@@YAPAU_object@@PBDH@Z",
+        "ordinal": 138,
+        "address": 36112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinCoreString_FromString@@YAPAU_object@@PBGH@Z",
+        "ordinal": 139,
+        "address": 36160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinExc_ApiError@@3PAU_object@@A",
+        "ordinal": 140,
+        "address": 108568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinExc_COMError@@3PAU_object@@A",
+        "ordinal": 141,
+        "address": 108572,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinGlobals_Ensure@@YAHXZ",
+        "ordinal": 142,
+        "address": 42912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinGlobals_Free@@YAXXZ",
+        "ordinal": 143,
+        "address": 46112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinInterpreterLock_Acquire@@YAXXZ",
+        "ordinal": 144,
+        "address": 40400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinInterpreterLock_Release@@YAXXZ",
+        "ordinal": 145,
+        "address": 40432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinLong_AsVoidPtr@@YAHPAU_object@@PAPAX@Z",
+        "ordinal": 146,
+        "address": 41984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinLong_FromHANDLE@@YAPAU_object@@PAX@Z",
+        "ordinal": 147,
+        "address": 16960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinLong_FromVoidPtr@@YAPAU_object@@PBX@Z",
+        "ordinal": 148,
+        "address": 42112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinMethod_NewACL@@YAPAU_object@@PAU1@0@Z",
+        "ordinal": 149,
+        "address": 12960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinMethod_NewHANDLE@@YAPAU_object@@PAU1@0@Z",
+        "ordinal": 150,
+        "address": 18416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinMethod_NewIID@@YAPAU_object@@PAU1@0@Z",
+        "ordinal": 151,
+        "address": 20080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinMethod_NewOVERLAPPED@@YAPAU_object@@PAU1@0@Z",
+        "ordinal": 152,
+        "address": 21552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinMethod_NewSECURITY_ATTRIBUTES@@YAPAU_object@@PAU1@0@Z",
+        "ordinal": 153,
+        "address": 23440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinMethod_NewSECURITY_DESCRIPTOR@@YAPAU_object@@PAU1@0@Z",
+        "ordinal": 154,
+        "address": 28656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinMethod_NewSID@@YAPAU_object@@PAU1@0@Z",
+        "ordinal": 155,
+        "address": 30992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinMethod_NewTime@@YAPAU_object@@PAU1@0@Z",
+        "ordinal": 156,
+        "address": 35296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinMethod_NewWAVEFORMATEX@@YAPAU_object@@PAU1@0@Z",
+        "ordinal": 157,
+        "address": 39856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsACL@@YAHPAU_object@@PAPAU_ACL@@H@Z",
+        "ordinal": 158,
+        "address": 5456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsBstr@@YAHPAU_object@@PAPAGHPAK@Z",
+        "ordinal": 159,
+        "address": 36928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsCharArray@@YAHPAU_object@@PAPAPADPAKH@Z",
+        "ordinal": 160,
+        "address": 38576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsDATE@@YAHPAU_object@@PAN@Z",
+        "ordinal": 161,
+        "address": 35344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsDEVMODE@@YAHPAU_object@@PAPAU_devicemodeA@@H@Z",
+        "ordinal": 162,
+        "address": 14672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsDEVMODE@@YAHPAU_object@@PAPAU_devicemodeW@@H@Z",
+        "ordinal": 163,
+        "address": 16432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsDWORDArray@@YAHPAU_object@@PAPAKPAKH@Z",
+        "ordinal": 164,
+        "address": 45552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsFILETIME@@YAHPAU_object@@PAU_FILETIME@@@Z",
+        "ordinal": 165,
+        "address": 35424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsHANDLE@@YAHPAU_object@@PAPAX@Z",
+        "ordinal": 166,
+        "address": 16864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsHKEY@@YAHPAU_object@@PAPAUHKEY__@@@Z",
+        "ordinal": 167,
+        "address": 18192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsIID@@YAHPAU_object@@PAU_GUID@@@Z",
+        "ordinal": 168,
+        "address": 18992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsLARGE_INTEGER@@YAHPAU_object@@PAT_LARGE_INTEGER@@@Z",
+        "ordinal": 169,
+        "address": 20480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsMSG@@YAHPAU_object@@PAUtagMSG@@@Z",
+        "ordinal": 170,
+        "address": 46256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsMultipleString@@YAHPAU_object@@PAPADHPAK@Z",
+        "ordinal": 171,
+        "address": 38976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsMultipleString@@YAHPAU_object@@PAPAGHPAK@Z",
+        "ordinal": 172,
+        "address": 39296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsOVERLAPPED@@YAHPAU_object@@PAPAU_OVERLAPPED@@H@Z",
+        "ordinal": 173,
+        "address": 21664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsPARAM@@YAHPAU_object@@PAI@Z",
+        "ordinal": 174,
+        "address": 45856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsPOINT@@YAHPAU_object@@PAUtagPOINT@@@Z",
+        "ordinal": 175,
+        "address": 41744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsPfnAllocatedWCHAR@@YAHPAU_object@@P6APAXK@ZPAPAGHPAK@Z",
+        "ordinal": 176,
+        "address": 35616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsPyOVERLAPPED@@YAHPAU_object@@PAPAVPyOVERLAPPED@@H@Z",
+        "ordinal": 177,
+        "address": 21120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsRECT@@YAHPAU_object@@PAUtagRECT@@@Z",
+        "ordinal": 178,
+        "address": 42416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsReadBuffer@@YAHPAU_object@@PAPAXPAKH@Z",
+        "ordinal": 179,
+        "address": 42576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsResourceIdA@@YAHPAU_object@@PAPADH@Z",
+        "ordinal": 180,
+        "address": 42128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsResourceIdW@@YAHPAU_object@@PAPAGH@Z",
+        "ordinal": 181,
+        "address": 42240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsSECURITY_ATTRIBUTES@@YAHPAU_object@@PAPAU_SECURITY_ATTRIBUTES@@H@Z",
+        "ordinal": 182,
+        "address": 22656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsSECURITY_DESCRIPTOR@@YAHPAU_object@@PAPAXH@Z",
+        "ordinal": 183,
+        "address": 24320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsSID@@YAHPAU_object@@PAPAXH@Z",
+        "ordinal": 184,
+        "address": 29312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsSYSTEMTIME@@YAHPAU_object@@PAU_SYSTEMTIME@@@Z",
+        "ordinal": 185,
+        "address": 35504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsString@@YAHPAU_object@@PAPADHPAK@Z",
+        "ordinal": 186,
+        "address": 36208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsTaskAllocatedWCHAR@@YAHPAU_object@@PAPAGHPAK@Z",
+        "ordinal": 187,
+        "address": 35984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsULARGE_INTEGER@@YAHPAU_object@@PAT_ULARGE_INTEGER@@@Z",
+        "ordinal": 188,
+        "address": 20768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsWAVEFORMATEX@@YAHPAU_object@@PAPAUtWAVEFORMATEX@@H@Z",
+        "ordinal": 189,
+        "address": 39632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsWCHAR@@YAHPAU_object@@PAPAGHPAK@Z",
+        "ordinal": 190,
+        "address": 37264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsWCHARArray@@YAHPAU_object@@PAPAPAGPAKH@Z",
+        "ordinal": 191,
+        "address": 38240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_AsWriteBuffer@@YAHPAU_object@@PAPAXPAKH@Z",
+        "ordinal": 192,
+        "address": 42704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_CloseHANDLE@@YAHPAU_object@@@Z",
+        "ordinal": 193,
+        "address": 16976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_CloseHKEY@@YAHPAU_object@@@Z",
+        "ordinal": 194,
+        "address": 18208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeBstr@@YAXPAG@Z",
+        "ordinal": 195,
+        "address": 37248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeCharArray@@YAXPAPADK@Z",
+        "ordinal": 196,
+        "address": 38512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeMultipleString@@YAXPAD@Z",
+        "ordinal": 197,
+        "address": 38144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeMultipleString@@YAXPAG@Z",
+        "ordinal": 198,
+        "address": 38112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeResourceId@@YAXPAD@Z",
+        "ordinal": 199,
+        "address": 42352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeResourceId@@YAXPAG@Z",
+        "ordinal": 200,
+        "address": 42384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeString@@YAXPAD@Z",
+        "ordinal": 201,
+        "address": 36528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeString@@YAXPAG@Z",
+        "ordinal": 202,
+        "address": 36544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeTaskAllocatedWCHAR@@YAXPAG@Z",
+        "ordinal": 203,
+        "address": 36032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeWCHAR@@YAXPAG@Z",
+        "ordinal": 204,
+        "address": 37680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FreeWCHARArray@@YAXPAPAGK@Z",
+        "ordinal": 205,
+        "address": 38176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromBstr@@YAPAU_object@@QAGH@Z",
+        "ordinal": 206,
+        "address": 36640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromDATE@@YAPAU_object@@N@Z",
+        "ordinal": 207,
+        "address": 34592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromDEVMODE@@YAPAU_object@@PAU_devicemodeA@@@Z",
+        "ordinal": 208,
+        "address": 14784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromDEVMODE@@YAPAU_object@@PAU_devicemodeW@@@Z",
+        "ordinal": 209,
+        "address": 16544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromFILETIME@@YAPAU_object@@ABU_FILETIME@@@Z",
+        "ordinal": 210,
+        "address": 34560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromHANDLE@@YAPAU_object@@PAX@Z",
+        "ordinal": 211,
+        "address": 18544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromHKEY@@YAPAU_object@@PAUHKEY__@@@Z",
+        "ordinal": 212,
+        "address": 18768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromIID@@YAPAU_object@@ABU_GUID@@@Z",
+        "ordinal": 213,
+        "address": 19728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromIO_COUNTERS@@YAPAU_object@@PAU_IO_COUNTERS@@@Z",
+        "ordinal": 214,
+        "address": 41840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromLARGE_INTEGER@@YAPAU_object@@AAT_LARGE_INTEGER@@@Z",
+        "ordinal": 215,
+        "address": 21056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromMSG@@YAPAU_object@@PBUtagMSG@@@Z",
+        "ordinal": 216,
+        "address": 46032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromMultipleString@@YAPAU_object@@PAD@Z",
+        "ordinal": 217,
+        "address": 37904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromMultipleString@@YAPAU_object@@PAG@Z",
+        "ordinal": 218,
+        "address": 37696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromOLECHAR@@YAPAU_object@@PBG@Z",
+        "ordinal": 219,
+        "address": 36592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromOLECHAR@@YAPAU_object@@PBGH@Z",
+        "ordinal": 220,
+        "address": 36560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromOVERLAPPED@@YAPAU_object@@PBU_OVERLAPPED@@@Z",
+        "ordinal": 221,
+        "address": 21760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromRECT@@YAPAU_object@@PAUtagRECT@@@Z",
+        "ordinal": 222,
+        "address": 42512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromSECURITY_ATTRIBUTES@@YAPAU_object@@ABU_SECURITY_ATTRIBUTES@@@Z",
+        "ordinal": 223,
+        "address": 23552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromSECURITY_DESCRIPTOR@@YAPAU_object@@PAX@Z",
+        "ordinal": 224,
+        "address": 29056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromSID@@YAPAU_object@@PAX@Z",
+        "ordinal": 225,
+        "address": 31488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromSYSTEMTIME@@YAPAU_object@@ABU_SYSTEMTIME@@@Z",
+        "ordinal": 226,
+        "address": 34528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromTCHAR@@YAPAU_object@@PBDH@Z",
+        "ordinal": 227,
+        "address": 36048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromTimeStamp@@YAPAU_object@@ABT_LARGE_INTEGER@@@Z",
+        "ordinal": 228,
+        "address": 34672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinObject_FromULARGE_INTEGER@@YAPAU_object@@AAT_ULARGE_INTEGER@@@Z",
+        "ordinal": 229,
+        "address": 21088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinSequence_Tuple@@YAPAU_object@@PAU1@PAK@Z",
+        "ordinal": 230,
+        "address": 42832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinThreadState_Clear@@YAXXZ",
+        "ordinal": 231,
+        "address": 40528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinThreadState_Ensure@@YAHXZ",
+        "ordinal": 232,
+        "address": 40272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinThreadState_Free@@YAXXZ",
+        "ordinal": 233,
+        "address": 40464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinTimeObject_Fromtime_t@@YAPAU_object@@J@Z",
+        "ordinal": 234,
+        "address": 34640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWinTime_Check@@YAHPAU_object@@@Z",
+        "ordinal": 235,
+        "address": 31648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_AcquireGlobalLock@@YAXXZ",
+        "ordinal": 236,
+        "address": 43472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_CopyString@@YAPADPBD@Z",
+        "ordinal": 237,
+        "address": 38912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_CopyString@@YAPAGPBG@Z",
+        "ordinal": 238,
+        "address": 38848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_GetErrorMessageModule@@YAPAUHINSTANCE__@@K@Z",
+        "ordinal": 239,
+        "address": 40624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_InterpreterState@@3PAU_is@@A",
+        "ordinal": 240,
+        "address": 108416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_MakePendingCalls@@YAXXZ",
+        "ordinal": 241,
+        "address": 40080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_NewUnicode@@YAPAU_object@@PAU1@0@Z",
+        "ordinal": 242,
+        "address": 41152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_RegisterErrorMessageModule@@YAHKKPAUHINSTANCE__@@@Z",
+        "ordinal": 243,
+        "address": 40560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_ReleaseGlobalLock@@YAXXZ",
+        "ordinal": 244,
+        "address": 43488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_SetAPIError@@YAPAU_object@@PADJ@Z",
+        "ordinal": 245,
+        "address": 40688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PyWin_SetBasicCOMError@@YAPAU_object@@J@Z",
+        "ordinal": 246,
+        "address": 40960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetACL@PyACL@@QAEHPAU_ACL@@@Z",
+        "ordinal": 247,
+        "address": 5248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetBstr@PyWin_AutoFreeBstr@@QAEXPAG@Z",
+        "ordinal": 248,
+        "address": 36736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetSD@PySECURITY_DESCRIPTOR@@QAEHPAX@Z",
+        "ordinal": 249,
+        "address": 25440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetSecurityDescriptorControl@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 250,
+        "address": 28128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetSecurityDescriptorDacl@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 251,
+        "address": 25744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetSecurityDescriptorGroup@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 252,
+        "address": 26816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetSecurityDescriptorOwner@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 253,
+        "address": 26528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetSecurityDescriptorSacl@PySECURITY_DESCRIPTOR@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 254,
+        "address": 26032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetSubAuthority@PySID@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 255,
+        "address": 29840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_MakeAbsoluteSD@@YAHPAXPAPAX@Z",
+        "ordinal": 256,
+        "address": 24800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?asLong@PyTime@@QAEJXZ",
+        "ordinal": 257,
+        "address": 33184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?asStr@PyHANDLE@@QAEPAU_object@@XZ",
+        "ordinal": 258,
+        "address": 17936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?binaryFailureFunc@PyHANDLE@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 259,
+        "address": 18032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?binaryFailureFunc@PyTime@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 260,
+        "address": 34112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare@PyTime@@QAEHPAU_object@@@Z",
+        "ordinal": 261,
+        "address": 32880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compareFunc@PyTime@@SAHPAU_object@@0@Z",
+        "ordinal": 262,
+        "address": 34256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PyACL@@SAXPAU_object@@@Z",
+        "ordinal": 263,
+        "address": 13056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PyDEVMODEA@@SAXPAU_object@@@Z",
+        "ordinal": 264,
+        "address": 16672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PyDEVMODEW@@SAXPAU_object@@@Z",
+        "ordinal": 265,
+        "address": 16720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PyHANDLE@@SAXPAU_object@@@Z",
+        "ordinal": 266,
+        "address": 18096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PyIID@@SAXPAU_object@@@Z",
+        "ordinal": 267,
+        "address": 19568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PyOVERLAPPED@@SAXPAU_object@@@Z",
+        "ordinal": 268,
+        "address": 22432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PySECURITY_ATTRIBUTES@@SAXPAU_object@@@Z",
+        "ordinal": 269,
+        "address": 23648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PySECURITY_DESCRIPTOR@@SAXPAU_object@@@Z",
+        "ordinal": 270,
+        "address": 29216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PySID@@SAXPAU_object@@@Z",
+        "ordinal": 271,
+        "address": 31552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PyTime@@SAXPAU_object@@@Z",
+        "ordinal": 272,
+        "address": 34176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deallocFunc@PyWAVEFORMATEX@@SAXPAU_object@@@Z",
+        "ordinal": 273,
+        "address": 40016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?floatFunc@PyTime@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 274,
+        "address": 34416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get_DeviceName@PyDEVMODEA@@SAPAU_object@@PAU2@PAX@Z",
+        "ordinal": 275,
+        "address": 13184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get_DeviceName@PyDEVMODEW@@SAPAU_object@@PAU2@PAX@Z",
+        "ordinal": 276,
+        "address": 14912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get_DriverData@PyDEVMODEA@@SAPAU_object@@PAU2@PAX@Z",
+        "ordinal": 277,
+        "address": 13680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get_DriverData@PyDEVMODEW@@SAPAU_object@@PAU2@PAX@Z",
+        "ordinal": 278,
+        "address": 15440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get_FormName@PyDEVMODEA@@SAPAU_object@@PAU2@PAX@Z",
+        "ordinal": 279,
+        "address": 13424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get_FormName@PyDEVMODEW@@SAPAU_object@@PAU2@PAX@Z",
+        "ordinal": 280,
+        "address": 15168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get_handle@PyHANDLE@@SAPAU_object@@PAU2@PAX@Z",
+        "ordinal": 281,
+        "address": 17216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getattro@PyOVERLAPPED@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 282,
+        "address": 21936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getattro@PySECURITY_ATTRIBUTES@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 283,
+        "address": 23184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getattro@PyTime@@SAPAU_object@@PAU2@0@Z",
+        "ordinal": 284,
+        "address": 33632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getreadbuf@PySECURITY_DESCRIPTOR@@SAHPAU_object@@HPAPAX@Z",
+        "ordinal": 285,
+        "address": 28400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getreadbuf@PySID@@SAHPAU_object@@HPAPAX@Z",
+        "ordinal": 286,
+        "address": 30096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getsegcount@PySECURITY_DESCRIPTOR@@SAHPAU_object@@PAH@Z",
+        "ordinal": 287,
+        "address": 28464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getsegcount@PySID@@SAHPAU_object@@PAH@Z",
+        "ordinal": 288,
+        "address": 30160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getset@PyDEVMODEA@@2PAUPyGetSetDef@@A",
+        "ordinal": 289,
+        "address": 103856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getset@PyDEVMODEW@@2PAUPyGetSetDef@@A",
+        "ordinal": 290,
+        "address": 104728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getset@PyHANDLE@@2PAUPyGetSetDef@@A",
+        "ordinal": 291,
+        "address": 105232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hash@PyHANDLE@@QAEJXZ",
+        "ordinal": 292,
+        "address": 17808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hash@PyIID@@QAEJXZ",
+        "ordinal": 293,
+        "address": 19424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hash@PyTime@@QAEJXZ",
+        "ordinal": 294,
+        "address": 33168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hashFunc@PyHANDLE@@SAJPAU_object@@@Z",
+        "ordinal": 295,
+        "address": 18736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hashFunc@PyIID@@SAJPAU_object@@@Z",
+        "ordinal": 296,
+        "address": 19584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hashFunc@PyOVERLAPPED@@SAJPAU_object@@@Z",
+        "ordinal": 297,
+        "address": 21536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hashFunc@PyTime@@SAJPAU_object@@@Z",
+        "ordinal": 298,
+        "address": 34336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?intFunc@PyHANDLE@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 299,
+        "address": 17664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?intFunc@PyTime@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 300,
+        "address": 34384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?longFunc@PyHANDLE@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 301,
+        "address": 17712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?members@PyDEVMODEA@@2PAUPyMemberDef@@A",
+        "ordinal": 302,
+        "address": 103096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?members@PyDEVMODEW@@2PAUPyMemberDef@@A",
+        "ordinal": 303,
+        "address": 103968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?members@PyOVERLAPPED@@2PAUPyMemberDef@@A",
+        "ordinal": 304,
+        "address": 105896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?members@PySECURITY_ATTRIBUTES@@2PAUPyMemberDef@@A",
+        "ordinal": 305,
+        "address": 106248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?members@PyWAVEFORMATEX@@2PAUPyMemberDef@@A",
+        "ordinal": 306,
+        "address": 107744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?methods@PyACL@@2PAUPyMethodDef@@A",
+        "ordinal": 307,
+        "address": 102464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?methods@PyDEVMODEA@@2PAUPyMethodDef@@A",
+        "ordinal": 308,
+        "address": 103064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?methods@PyDEVMODEW@@2PAUPyMethodDef@@A",
+        "ordinal": 309,
+        "address": 103936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?methods@PyHANDLE@@2PAUPyMethodDef@@A",
+        "ordinal": 310,
+        "address": 105272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?methods@PySECURITY_ATTRIBUTES@@2PAUPyMethodDef@@A",
+        "ordinal": 311,
+        "address": 108380,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?methods@PySECURITY_DESCRIPTOR@@2PAUPyMethodDef@@A",
+        "ordinal": 312,
+        "address": 106504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?methods@PySID@@2PAUPyMethodDef@@A",
+        "ordinal": 313,
+        "address": 106968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?methods@PyTime@@2PAUPyMethodDef@@A",
+        "ordinal": 314,
+        "address": 107356,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?modify_in_place@PyDEVMODEA@@QAEXXZ",
+        "ordinal": 315,
+        "address": 4928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?modify_in_place@PyDEVMODEW@@QAEXXZ",
+        "ordinal": 316,
+        "address": 4992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nonzeroFunc@PyHANDLE@@SAHPAU_object@@@Z",
+        "ordinal": 317,
+        "address": 17392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nonzeroFunc@PyTime@@SAHPAU_object@@@Z",
+        "ordinal": 318,
+        "address": 34368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?print@PyHANDLE@@QAEHPAU_iobuf@@H@Z",
+        "ordinal": 319,
+        "address": 17824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?printFunc@PyHANDLE@@SAHPAU_object@@PAU_iobuf@@H@Z",
+        "ordinal": 320,
+        "address": 18608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?repr@PyIID@@QAEPAU_object@@XZ",
+        "ordinal": 321,
+        "address": 19488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?repr@PyTime@@QAEPAU_object@@XZ",
+        "ordinal": 322,
+        "address": 33392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?reprFunc@PyIID@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 323,
+        "address": 19648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?reprFunc@PyTime@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 324,
+        "address": 34448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?richcompare@PyHANDLE@@QAEPAU_object@@PAU2@H@Z",
+        "ordinal": 325,
+        "address": 17440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?richcompare@PyIID@@QAEPAU_object@@PAU2@H@Z",
+        "ordinal": 326,
+        "address": 19936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?richcompare@PySID@@QAEPAU_object@@PAU2@H@Z",
+        "ordinal": 327,
+        "address": 30368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?richcompare@PyTime@@QAEPAU_object@@PAU2@H@Z",
+        "ordinal": 328,
+        "address": 32944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?richcompareFunc@PyHANDLE@@SAPAU_object@@PAU2@0H@Z",
+        "ordinal": 329,
+        "address": 17760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?richcompareFunc@PyIID@@SAPAU_object@@PAU2@0H@Z",
+        "ordinal": 330,
+        "address": 20048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?richcompareFunc@PyOVERLAPPED@@SAPAU_object@@PAU2@0H@Z",
+        "ordinal": 331,
+        "address": 21424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?richcompareFunc@PySID@@SAPAU_object@@PAU2@0H@Z",
+        "ordinal": 332,
+        "address": 30464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?richcompareFunc@PyTime@@SAPAU_object@@PAU2@0H@Z",
+        "ordinal": 333,
+        "address": 34304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set_DeviceName@PyDEVMODEA@@SAHPAU_object@@0PAX@Z",
+        "ordinal": 334,
+        "address": 13232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set_DeviceName@PyDEVMODEW@@SAHPAU_object@@0PAX@Z",
+        "ordinal": 335,
+        "address": 14960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set_DriverData@PyDEVMODEA@@SAHPAU_object@@0PAX@Z",
+        "ordinal": 336,
+        "address": 13744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set_DriverData@PyDEVMODEW@@SAHPAU_object@@0PAX@Z",
+        "ordinal": 337,
+        "address": 15504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set_FormName@PyDEVMODEA@@SAHPAU_object@@0PAX@Z",
+        "ordinal": 338,
+        "address": 13488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set_FormName@PyDEVMODEW@@SAHPAU_object@@0PAX@Z",
+        "ordinal": 339,
+        "address": 15232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setattro@PyOVERLAPPED@@SAHPAU_object@@00@Z",
+        "ordinal": 340,
+        "address": 22112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setattro@PySECURITY_ATTRIBUTES@@SAHPAU_object@@00@Z",
+        "ordinal": 341,
+        "address": 23248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?str@PyIID@@QAEPAU_object@@XZ",
+        "ordinal": 342,
+        "address": 19472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?str@PyTime@@QAEPAU_object@@XZ",
+        "ordinal": 343,
+        "address": 32816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?strFunc@PyHANDLE@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 344,
+        "address": 18656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?strFunc@PyIID@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 345,
+        "address": 19632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?strFunc@PySID@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 346,
+        "address": 30800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?strFunc@PyTime@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 347,
+        "address": 34192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ternaryFailureFunc@PyHANDLE@@SAPAU_object@@PAU2@00@Z",
+        "ordinal": 348,
+        "address": 18064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ternaryFailureFunc@PyTime@@SAPAU_object@@PAU2@00@Z",
+        "ordinal": 349,
+        "address": 34144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?tp_new@PyDEVMODEA@@SAPAU_object@@PAU_typeobject@@PAU2@1@Z",
+        "ordinal": 350,
+        "address": 14592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?tp_new@PyDEVMODEW@@SAPAU_object@@PAU_typeobject@@PAU2@1@Z",
+        "ordinal": 351,
+        "address": 16352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?unaryFailureFunc@PyHANDLE@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 352,
+        "address": 18000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?unaryFailureFunc@PyTime@@SAPAU_object@@PAU2@@Z",
+        "ordinal": 353,
+        "address": 34080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "_DllMain@12",
+        "ordinal": 354,
+        "address": 44256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "initpywintypes",
+        "ordinal": 355,
+        "address": 43504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 1,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 0,
+        "offset": 31324,
+        "size": 772,
+        "entropy": 3.358392,
+        "sha256": "837a2ef8b159ca92ea2db5b3ad74d4ec6661b3e08265419c4ab22b3296a15bc1",
+        "magic_head": "0403340000005600"
+      }
+    ],
+    "total_size": 772,
+    "max_entropy": 3.358392
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 2336270480,
+    "entries": [
+      {
+        "id": 90,
+        "build_id": 3077,
+        "count": 1
+      },
+      {
+        "id": 92,
+        "build_id": 3077,
+        "count": 1
+      },
+      {
+        "id": 96,
+        "build_id": 3077,
+        "count": 15
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 199
+      },
+      {
+        "id": 123,
+        "build_id": 50727,
+        "count": 11
+      },
+      {
+        "id": 93,
+        "build_id": 6030,
+        "count": 2
+      },
+      {
+        "id": 109,
+        "build_id": 50727,
+        "count": 1
+      },
+      {
+        "id": 95,
+        "build_id": 3077,
+        "count": 6
+      },
+      {
+        "id": 15,
+        "build_id": 3077,
+        "count": 3
+      },
+      {
+        "id": 93,
+        "build_id": 3077,
+        "count": 2
+      },
+      {
+        "id": 105,
+        "build_id": 2067,
+        "count": 1
+      }
+    ],
+    "raw_hex": "d4c92ed890a8408b90a8408b90a8408b83a0298b91a8408b95a41d8b92a8408b95a44f8b93a8408b95a41f8b96a8408bb76e2d8b91a8408b1ebf1d8b92a8408bb76e3b8b9ba8408b90a8418b57a8408b95a4208b9fa8408b95a41c8b91a8408b95a41a8b91a8408b5269636890a8408b",
+    "raw_offset": 128,
+    "raw_size": 112,
+    "entry_count": 11
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 136476,
+      "size": 18940,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 136032,
+      "size": 444,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 135168,
+      "size": 864,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 155416,
+      "size": 16,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 132180,
+      "size": 72,
+      "section": "UPX1",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 0,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": null
+  },
+  "entrypoint_bytes": {
+    "offset": 30304,
+    "hex": "807c2408010f85e201000060be00907b1e8dbe0080feff57eb109090909090908a064688074701db75078b1e83eefc11db72edb80100000001db75078b1e83ee",
+    "entropy": 4.794105
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 511420208,
+    "se_handler_count": 11,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 0,
+    "overlaps": 0,
+    "zero_raw_size": 1,
+    "raw_exceeds_virtual": 0,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 0
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 7,
+    "minor_linker_version": 10,
+    "sizeof_code": 32768,
+    "sizeof_initialized_data": 20480,
+    "sizeof_uninitialized_data": 98304,
+    "addressof_entrypoint": 131680,
+    "baseof_code": 102400,
+    "baseof_data": 135168,
+    "imagebase": 511311872,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 4,
+    "minor_operating_system_version": 0,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 4,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 155648,
+    "sizeof_headers": 4096,
+    "checksum": 0,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 0,
+    "dll_characteristics": [],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 200,
+    "entropy": 4.947764,
+    "is_standard_ms": 1,
+    "sha256": "be64f429f6999a5cdccb1723eb77e396294fd785d527c455feb965120cffcd15",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a2400000000000000d4c92ed890a8408b90a8408b90a8408b83a0298b91a8408b95a41d8b92a8408b95a44f8b93a8408b95a41f8b96a8408bb76e2d8b91a8408b1ebf1d8b92a8408bb76e3b8b9ba8408b90a8418b57a8408b95a4208b9fa8408b95a41c8b91a8408b95a41a8b91a8408b5269636890a8408b000000000000000000000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ . @ @ @ ) @ @ O @ @ n- @ @ n; @ A W @ @ @ @ Rich @",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 0,
+    "checksum_computed": 102370,
+    "checksum_valid": 0,
+    "checksum_zero": 1
+  },
+  "entrypoint_section": {
+    "ep_rva": 131680,
+    "section_name": "UPX1",
+    "section_index": 1,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 7.867603
+  },
+  "overlay": {
+    "size": 0,
+    "offset": 0,
+    "entropy": null,
+    "magic_head": null,
+    "sha256": null
+  },
+  "debug": {
+    "has_debug": 0,
+    "count": 0,
+    "types": [],
+    "pdb_path": null
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 1,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "",
+    "file_description": "",
+    "original_filename": "pywintypes25.dll",
+    "product_name": "PyWin32",
+    "file_version": "2.5.213.0",
+    "legal_copyright": "",
+    "internal_name": "pywintypes25.dll"
+  },
+  "strings": {
+    "count_ascii": 962,
+    "count_utf16": 22,
+    "count_total": 984,
+    "chars_total": 18553,
+    "printable_ratio": 0.358776,
+    "len_mean": 18.85,
+    "len_max": 95,
+    "urls": [
+      "http://pywin32.sourceforge.net"
+    ],
+    "n_urls": 1,
+    "ipv4": [
+      "2.5.213.0"
+    ],
+    "n_ipv4": 1,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "advapi32.dll",
+      "kernel32.dll",
+      "msvcr71.dll",
+      "ole32.dll",
+      "oleaut32.dll",
+      "python25.dll",
+      "pywintypes25.dll",
+      "user32.dll"
+    ],
+    "n_dll_names": 8,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [],
+    "n_file_paths": 0
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "pywintypes25.dll"
+    ],
+    "n_orphans": 1,
+    "n_imported": 7
+  }
+}
