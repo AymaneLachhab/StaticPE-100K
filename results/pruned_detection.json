@@ -1,0 +1,25 @@
+{
+ "_commentaire": "Variante epuree, detection binaire seule. LightGBM restreint aux colonnes du texte et Qwen2.5-1.5B sur le texte lisible, les deux prives des colonnes que l audit accuse. Recopie ici pour que les figures soient reproductibles sans acces au cluster.",
+ "_source": "releve du cluster, accuracy / MCC",
+ "_note": "La serie LightGBM sur les 18 489 colonnes, epuree, n est pas ici : elle se lit dans results_all/premiere_campagne/etude.json sous jeu='epure'.",
+
+ "lightgbm_texte_epure": {
+  "detection": {
+   "aleatoire": {"accuracy": 0.9868, "mcc": 0.9531},
+   "imphash":   {"accuracy": 0.9802, "mcc": 0.9294},
+   "famille":   {"accuracy": 0.9694, "mcc": 0.8971},
+   "temps":     {"accuracy": 0.9500, "mcc": 0.8544},
+   "croise":    {"accuracy": 0.8783, "mcc": 0.7469}
+  }
+ },
+
+ "qwen_epure": {
+  "detection": {
+   "aleatoire": {"accuracy": 0.9697, "mcc": 0.8921},
+   "imphash":   {"accuracy": 0.9659, "mcc": 0.8789},
+   "famille":   {"accuracy": 0.9594, "mcc": 0.8610},
+   "temps":     {"accuracy": 0.9304, "mcc": 0.7905},
+   "croise":    {"accuracy": 0.8470, "mcc": 0.6847}
+  }
+ }
+}

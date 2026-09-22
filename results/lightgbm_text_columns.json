@@ -1,0 +1,39 @@
+{
+  "_commentaire": "LightGBM restreint aux 15 329 colonnes correspondant aux champs du texte lisible, variante de reference. Recopie ici pour que les figures soient reproductibles sans acces au cluster.",
+  "_source": "resultats_texte_lisible/trois.json sur le cluster",
+  "detection": {
+    "aleatoire": {"accuracy": 0.9877, "mcc": 0.9565, "n_test": 15137},
+    "imphash":   {"accuracy": 0.9827, "mcc": 0.9380, "n_test": 14415},
+    "famille":   {"accuracy": 0.9718, "mcc": 0.9043, "n_test": 14416},
+    "temps":     {"accuracy": 0.9550, "mcc": 0.8686, "n_test": 11889},
+    "croise":    {"accuracy": 0.8799, "mcc": 0.7490, "n_test": 30976}
+  },
+  "packing": {
+    "aleatoire": {"accuracy": 0.9705, "mcc": 0.9407, "n_test": 15137},
+    "imphash":   {"accuracy": 0.9588, "mcc": 0.9151, "n_test": 14415},
+    "famille":   {"accuracy": 0.9517, "mcc": 0.9040, "n_test": 14416},
+    "temps":     {"accuracy": 0.9066, "mcc": 0.8094, "n_test": 11889},
+    "croise":    {"accuracy": 0.7819, "mcc": 0.5607, "n_test": 30976}
+  },
+  "anti_analysis": {
+    "aleatoire": {"accuracy": 0.8625, "mcc": 0.7155, "n_test": 11949},
+    "imphash":   {"accuracy": 0.7773, "mcc": 0.5141, "n_test": 11453},
+    "famille":   {"accuracy": 0.8270, "mcc": 0.6283, "n_test": 10660},
+    "temps":     {"accuracy": 0.6275, "mcc": 0.3103, "n_test": 8002},
+    "croise":    {"accuracy": 0.6804, "mcc": 0.2977, "n_test": 17713}
+  },
+  "menace_ransomware": {
+    "aleatoire": {"accuracy": 0.9691, "mcc": 0.8803, "n_test": 9034},
+    "imphash":   {"accuracy": 0.9495, "mcc": 0.7907, "n_test": 7750},
+    "famille":   {"accuracy": 0.9102, "mcc": 0.0950, "n_test": 8408},
+    "temps":     {"accuracy": 0.9299, "mcc": 0.4192, "n_test": 7591},
+    "croise":    {"accuracy": 0.8185, "mcc": 0.3045, "n_test": 16021}
+  },
+  "menace_banker": {
+    "aleatoire": {"accuracy": 0.9721, "mcc": 0.9095, "n_test": 9034},
+    "imphash":   {"accuracy": 0.9592, "mcc": 0.8662, "n_test": 7750},
+    "famille":   {"accuracy": 0.8658, "mcc": 0.5951, "n_test": 8408},
+    "temps":     {"accuracy": 0.9719, "mcc": 0.2338, "n_test": 7591},
+    "croise":    {"accuracy": 0.6555, "mcc": 0.4474, "n_test": 16021}
+  }
+}

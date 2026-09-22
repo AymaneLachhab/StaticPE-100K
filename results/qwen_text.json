@@ -1,0 +1,25 @@
+{
+  "_commentaire": "Releves Qwen2.5-1.5B, texte lisible, variante de reference. Les cellules de detection et d empaquetage vivent dans results_all/llm/1.5B ; celles-ci ont ete lues sur node02 et recopiees ici pour que les figures soient reproductibles sans acces au cluster.",
+  "_source": "~/llm_lisible/llm_<tache>_<split>.json sur node02",
+  "anti_analysis": {
+    "aleatoire": {"accuracy": 0.8224, "mcc": 0.6126, "n_test": 11949},
+    "imphash":   {"accuracy": 0.7117, "mcc": 0.3970, "n_test": 11453},
+    "famille":   {"accuracy": 0.6696, "mcc": 0.4400, "n_test": 10660},
+    "temps":     {"accuracy": 0.6186, "mcc": 0.3348, "n_test": 8002},
+    "croise":    {"accuracy": 0.5076, "mcc": 0.0382, "n_test": 17713}
+  },
+  "menace_ransomware": {
+    "aleatoire": {"accuracy": 0.9423, "mcc": 0.7761, "n_test": 9034},
+    "imphash":   {"accuracy": 0.9263, "mcc": 0.7076, "n_test": 7750},
+    "famille":   {"accuracy": 0.7739, "mcc": 0.1378, "n_test": 8408},
+    "temps":     {"accuracy": 0.8585, "mcc": 0.2497, "n_test": 7591},
+    "croise":    {"accuracy": 0.7948, "mcc": 0.1938, "n_test": 16021}
+  },
+  "menace_banker": {
+    "aleatoire": {"accuracy": 0.9465, "mcc": 0.8211, "n_test": 9034},
+    "imphash":   {"accuracy": 0.9341, "mcc": 0.7827, "n_test": 7750},
+    "famille":   {"accuracy": 0.8344, "mcc": 0.4771, "n_test": 8408},
+    "temps":     {"accuracy": 0.9683, "mcc": 0.1444, "n_test": 7591},
+    "croise":    {"accuracy": 0.4900, "mcc": 0.1549, "n_test": 16021}
+  }
+}

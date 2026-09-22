@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "StaticPE: a curated static-analysis benchmark for Windows PE malware"
+message: "If you use this corpus, please cite the paper rather than the repository."
+type: dataset
+authors:
+  - family-names: Lachhab
+    given-names: Aymane
+    affiliation: "Sorbonne Universite, CNRS, LIP6"
+  - family-names: Fossati
+    given-names: Francesca
+    affiliation: "Sorbonne Universite, CNRS, LIP6"
+  - family-names: Liu
+    given-names: Qiong
+    affiliation: "Sorbonne Universite, CNRS, LIP6"
+abstract: >-
+  A benchmark of 100,909 Windows Portable Executable files, 83,885 malicious
+  and 17,024 benign, extracted by a single chain into 18,489 usable columns
+  with imported and exported functions kept under their full names. Every
+  annotation records whether it was measured on the file or inherited from
+  its family, and an unmeasured value is stored as null rather than folded
+  into a measured zero. Five splitting policies are frozen in the released
+  data: random, import-hash grouped, family grouped, out-of-time and
+  cross-type.
+keywords:
+  - malware detection
+  - static analysis
+  - Portable Executable
+  - dataset
+  - splitting policy
+  - data leakage
+  - label provenance
+license: CC-BY-4.0
+# Renseigner apres la premiere publication Zenodo, puis decommenter.
+# doi: 10.5281/zenodo.XXXXXXX
+# version: "1.0.0"
+# date-released: "2026-09-22"

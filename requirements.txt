@@ -1,0 +1,42 @@
+# Versions relevees sur l environnement qui a produit le corpus.
+# LIEF est epingle a l identique : une version differente n accepte pas
+# exactement les memes fichiers, et le corpus est defini par ce que le
+# decodeur a accepte.
+
+# --- extraction ---------------------------------------------------------
+lief==0.17.6
+pyarrow==24.0.0
+numpy==2.4.4
+pandas==3.0.0
+
+# --- empreintes floues, employees dans general_info ---------------------
+# ssdeep et py-tlsh demandent une bibliotheque C ; ppdeep est une
+# reimplementation pure Python de ssdeep, utilisable en repli.
+ppdeep==20260221
+# ssdeep==3.4
+# py-tlsh==4.7.2
+
+# --- collecte -----------------------------------------------------------
+requests==2.33.1
+pyzipper==0.4.0
+# stem n est requis que pour la collecte via Tor
+# stem==1.8.2
+
+# --- annotation ---------------------------------------------------------
+yara-python==4.5.4
+# capa, Manalyze et PEiD ne sont pas des paquets Python : leur installation
+# est decrite dans pipeline/hpc/install_*.sh
+
+# --- evaluation ---------------------------------------------------------
+scikit-learn==1.8.0
+lightgbm==4.6.0
+scipy==1.17.0
+
+# --- modele de langue ---------------------------------------------------
+# Un accelerateur est necessaire ; l ajustement complet d un modele de
+# 1,5 milliard de parametres en bfloat16 demande environ 40 Go de memoire.
+torch==2.12.0
+transformers==5.8.1
+
+# --- figures ------------------------------------------------------------
+matplotlib==3.10.8

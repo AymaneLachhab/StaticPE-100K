@@ -1,0 +1,47 @@
+# ---------------------------------------------------------------------------
+# SECRETS. A garder en tete du fichier : une cle poussee une seule fois reste
+# dans l historique git meme effacee au commit suivant. Les motifs couvrent
+# les neuf fichiers de cles presents dans le dossier de travail du cluster :
+# ha_keys, joe_keys, keys, keys_all, keys_all.bak, keys_new, mb_key,
+# vt_keys_bannies, vt_mine.
+# ---------------------------------------------------------------------------
+.env
+*key*.txt
+*keys*.txt
+*.key
+*.pem
+vt_mine*
+*.bak
+
+# ---------------------------------------------------------------------------
+# DONNEES
+# ---------------------------------------------------------------------------
+bruts/
+*.tar.gz
+*.zip
+
+# ---------------------------------------------------------------------------
+# SORTIES DE TRAVAIL. Le dossier de travail du cluster contient des milliers
+# de journaux OAR, des repertoires de resultats intermediaires et des copies
+# de sauvegarde de scripts. Rien de cela n a sa place dans un depot.
+# ---------------------------------------------------------------------------
+OAR.*
+*.stdout
+*.stderr
+*.out
+*.err
+*.avant
+*.avant2
+logs/
+resultats*/
+results/raw/
+modeles/
+env/
+check/
+
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
