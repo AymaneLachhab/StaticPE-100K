@@ -1,0 +1,4827 @@
+{
+  "sha256": "54716f0738af891f283d213b5c8d11b25896bb8ee3097d301eae718560cf974e",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 374200,
+    "md5": "e6d97cbdba1cbff8a5f48648839d3e99",
+    "sha1": "e9999d2d3c0ec93c6dfcbe59f05269fb947f9973",
+    "imphash": "219a6d2f0b3dabf76da2fe866bb5ca77",
+    "tlsh": "T1E2844B9A72680CE5E523D07DC693C60AF6F7B9001352C6DB0660865E7F23FD5DA3A722",
+    "ssdeep": "6144:5MSmCGGmbaY0dDZAdJUX7uEwtiXAPfionWzgVqdJz/:5F3mbaYaedJUruczbJz",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.355565,
+    "byte_histogram_256": [
+      0.18712453,
+      0.02455639,
+      0.01382683,
+      0.01357296,
+      0.01450561,
+      0.00491716,
+      0.00374131,
+      0.00237306,
+      0.00783538,
+      0.0018573,
+      0.00265901,
+      0.00171299,
+      0.00229022,
+      0.00216729,
+      0.00125067,
+      0.0115954,
+      0.00583111,
+      0.00232763,
+      0.00125869,
+      0.00142704,
+      0.00158204,
+      0.00435061,
+      0.00089792,
+      0.00097007,
+      0.00341529,
+      0.00110903,
+      0.0007349,
+      0.00101015,
+      0.00123196,
+      0.00089792,
+      0.00081507,
+      0.00191074,
+      0.00955104,
+      0.00153127,
+      0.00063335,
+      0.00091929,
+      0.01441742,
+      0.00125869,
+      0.00051309,
+      0.00052378,
+      0.00430518,
+      0.00067611,
+      0.00088723,
+      0.00156601,
+      0.00086317,
+      0.00079102,
+      0.0023303,
+      0.0011117,
+      0.00760823,
+      0.00180919,
+      0.00222341,
+      0.00457777,
+      0.00199091,
+      0.00082309,
+      0.00085516,
+      0.00087119,
+      0.00299572,
+      0.00161945,
+      0.00071887,
+      0.004062,
+      0.00118653,
+      0.00074559,
+      0.00075895,
+      0.00279797,
+      0.01552378,
+      0.01254677,
+      0.00209246,
+      0.00436398,
+      0.00743185,
+      0.00648851,
+      0.00146713,
+      0.00195083,
+      0.0564511,
+      0.00671032,
+      0.00111972,
+      0.00200695,
+      0.0083458,
+      0.00336184,
+      0.00125067,
+      0.00161411,
+      0.00422501,
+      0.0014698,
+      0.001093,
+      0.00303046,
+      0.0026403,
+      0.00254142,
+      0.00272047,
+      0.00320684,
+      0.00294495,
+      0.00097541,
+      0.00153127,
+      0.0022047,
+      0.00372795,
+      0.00155799,
+      0.00202833,
+      0.0061411,
+      0.0030946,
+      0.00397916,
+      0.00114912,
+      0.00729022,
+      0.00435863,
+      0.00803848,
+      0.00230091,
+      0.0015954,
+      0.00242117,
+      0.00433458,
+      0.00069482,
+      0.00142437,
+      0.00455104,
+      0.00160877,
+      0.0065473,
+      0.00600748,
+      0.00435329,
+      0.00082042,
+      0.0082015,
+      0.00399252,
+      0.01276857,
+      0.00742384,
+      0.00131213,
+      0.00117317,
+      0.0021566,
+      0.00265633,
+      0.00062533,
+      0.00082042,
+      0.00210583,
+      0.00117584,
+      0.00116248,
+      0.00077766,
+      0.00707108,
+      0.00193212,
+      0.00123998,
+      0.01079369,
+      0.00349813,
+      0.00695083,
+      0.00126937,
+      0.00144308,
+      0.00169695,
+      0.01397114,
+      0.00090059,
+      0.0380171,
+      0.00070818,
+      0.00997862,
+      0.00078835,
+      0.00108765,
+      0.00316141,
+      0.00065206,
+      0.00052378,
+      0.00056387,
+      0.00078835,
+      0.00067344,
+      0.00053982,
+      0.0006868,
+      0.00098343,
+      0.00056921,
+      0.0004062,
+      0.0004543,
+      0.00065473,
+      0.00039818,
+      0.00041422,
+      0.00061464,
+      0.00246125,
+      0.0005612,
+      0.00059594,
+      0.00077766,
+      0.00097274,
+      0.00066007,
+      0.00062533,
+      0.0005612,
+      0.0014511,
+      0.00061999,
+      0.00059861,
+      0.0007643,
+      0.00093266,
+      0.00059861,
+      0.00063335,
+      0.0008124,
+      0.00223944,
+      0.00090861,
+      0.00040353,
+      0.00047568,
+      0.00071887,
+      0.00044629,
+      0.00136825,
+      0.00075361,
+      0.00233298,
+      0.00115446,
+      0.00148049,
+      0.00070016,
+      0.00071887,
+      0.00046499,
+      0.00059861,
+      0.00055051,
+      0.0088589,
+      0.00401657,
+      0.00198557,
+      0.00571352,
+      0.0041395,
+      0.00082309,
+      0.00157937,
+      0.00352485,
+      0.00373063,
+      0.0028728,
+      0.00132282,
+      0.00211652,
+      0.0299225,
+      0.00088723,
+      0.00130412,
+      0.00152859,
+      0.00338856,
+      0.00137894,
+      0.00181187,
+      0.00125601,
+      0.00075628,
+      0.00069482,
+      0.0008418,
+      0.00104757,
+      0.00205505,
+      0.00158471,
+      0.00089792,
+      0.0016729,
+      0.00078568,
+      0.00067878,
+      0.00051042,
+      0.00066809,
+      0.00317745,
+      0.00089257,
+      0.00072956,
+      0.00060663,
+      0.00147247,
+      0.0004837,
+      0.00058525,
+      0.00061464,
+      0.01084447,
+      0.00237573,
+      0.00078568,
+      0.00282202,
+      0.00336184,
+      0.00079904,
+      0.00049172,
+      0.00052378,
+      0.00367985,
+      0.00093533,
+      0.00164885,
+      0.00094602,
+      0.0007643,
+      0.00051577,
+      0.00176911,
+      0.00135222,
+      0.00259487,
+      0.00141101,
+      0.001248,
+      0.00069482,
+      0.00087119,
+      0.00117584,
+      0.00196686,
+      0.02216462
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00480099,
+      2.146e-05,
+      0.00010731,
+      2.951e-05,
+      6.171e-05,
+      3.622e-05,
+      1.476e-05,
+      2.549e-05,
+      1.744e-05,
+      1.878e-05,
+      1.476e-05,
+      4.024e-05,
+      1.341e-05,
+      2.146e-05,
+      1.878e-05,
+      0.00025219,
+      0.03696718,
+      0.00042926,
+      0.00027097,
+      0.0002039,
+      0.00056474,
+      0.00024682,
+      0.00013012,
+      0.00020658,
+      0.00026426,
+      0.00018109,
+      0.00013414,
+      0.00023743,
+      0.0006023,
+      0.00065194,
+      0.0006345,
+      0.0022308,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00415441,
+      0.00018378,
+      0.00012341,
+      7.914e-05,
+      0.00011134,
+      8.049e-05,
+      0.00010866,
+      0.0001167,
+      0.00010463,
+      3.219e-05,
+      4.561e-05,
+      5.232e-05,
+      2.683e-05,
+      3.085e-05,
+      4.427e-05,
+      0.00019987,
+      0.00198398,
+      9.122e-05,
+      7.646e-05,
+      4.427e-05,
+      6.707e-05,
+      1.744e-05,
+      1.744e-05,
+      3.622e-05,
+      0.00011805,
+      2.146e-05,
+      2.683e-05,
+      4.829e-05,
+      2.951e-05,
+      3.354e-05,
+      3.219e-05,
+      0.00010329,
+      0.01115401,
+      0.00027633,
+      0.0002817,
+      0.00171033,
+      0.00704118,
+      0.00457562,
+      0.01417357,
+      0.00747178,
+      0.00137899,
+      0.00021865,
+      0.00019719,
+      0.00014756,
+      0.0002267,
+      0.00019853,
+      0.00020524,
+      0.00019317,
+      0.02932639,
+      0.00145545,
+      0.00153996,
+      0.00210337,
+      0.00443746,
+      0.00285188,
+      0.01094743,
+      0.00598681,
+      0.00283713,
+      0.00054865,
+      0.00054596,
+      0.00033402,
+      0.00070828,
+      0.00064255,
+      0.00081961,
+      0.00084913,
+      0.05482969,
+      0.00388345,
+      0.00446831,
+      0.00556024,
+      0.00744226,
+      0.00549451,
+      0.01515684,
+      0.00928808,
+      0.00210873,
+      0.00165399,
+      0.0017452,
+      0.00120595,
+      0.00206312,
+      0.00208324,
+      0.00221068,
+      0.00168484,
+      0.0212067,
+      0.00116302,
+      0.00180557,
+      0.00159765,
+      0.00216105,
+      0.00183374,
+      0.00239446,
+      0.00203898,
+      0.00216105,
+      0.00122339,
+      0.00265738,
+      0.00092156,
+      0.00215702,
+      0.00128241,
+      0.00109863,
+      0.00100071,
+      0.00653814,
+      0.00062779,
+      0.00113753,
+      0.00075791,
+      0.00344882,
+      0.0010718,
+      0.00116436,
+      0.0007512,
+      0.00286798,
+      0.00033938,
+      0.00203495,
+      0.00041182,
+      0.00376138,
+      0.00047621,
+      0.00099668,
+      0.00108656,
+      0.11613448,
+      0.01836152,
+      0.0287764,
+      0.01819653,
+      0.10468401,
+      0.02263398,
+      0.00925186,
+      0.02150852,
+      0.08682821,
+      0.00613839,
+      0.00433148,
+      0.01006208,
+      0.06296414,
+      0.0127047,
+      0.02278959,
+      0.03430444,
+      0.00362723,
+      0.00111339,
+      0.0011429,
+      0.00193166,
+      0.00135887,
+      0.001104,
+      0.0021208,
+      0.00137497,
+      0.00125021,
+      0.00049096,
+      0.00056743,
+      0.00053523,
+      0.00077401,
+      0.00059157,
+      0.00054328,
+      0.00070425,
+      0.00503037,
+      0.00209532,
+      0.00214227,
+      0.00331334,
+      0.00171167,
+      0.00205105,
+      0.00386735,
+      0.0027325,
+      0.0016124,
+      0.00114558,
+      0.00126899,
+      0.00124082,
+      0.00115631,
+      0.00122607,
+      0.0011657,
+      0.00120729
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 224668,
+      "raw_size": 224768,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.254187,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 91996,
+      "raw_size": 92160,
+      "virtual_address": 229376,
+      "pointerto_raw_data": 225792,
+      "entropy": 5.1979,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 14912,
+      "raw_size": 14848,
+      "virtual_address": 323584,
+      "pointerto_raw_data": 317952,
+      "entropy": 4.642556,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".pdata",
+      "virtual_size": 16608,
+      "raw_size": 16896,
+      "virtual_address": 339968,
+      "pointerto_raw_data": 332800,
+      "entropy": 5.564938,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 976,
+      "raw_size": 1024,
+      "virtual_address": 360448,
+      "pointerto_raw_data": 349696,
+      "entropy": 3.348609,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 2668,
+      "raw_size": 3072,
+      "virtual_address": 364544,
+      "pointerto_raw_data": 350720,
+      "entropy": 5.435839,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 248,
+    "e_lfanew_raw": 248,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b800000000000000400000000000000000000000000000000000000000000000000000000000000000000000f8000000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "AMD64",
+    "numberof_sections": 6,
+    "time_date_stamp": 4019366385,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 240,
+    "characteristics_raw": 8226,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LARGE_ADDRESS_AWARE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "MSVCP140.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 229896,
+      "import_lookup_table_rva": 318176,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xbad_function_call@std@@YAXXZ",
+          "hint": 652,
+          "iat_address": 229896,
+          "iat_value": 318640,
+          "data": 318640
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?GetCurrentThreadId@platform@details@Concurrency@@YAJXZ",
+          "hint": 398,
+          "iat_address": 229904,
+          "iat_value": 318674,
+          "data": 318674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_Mtx_lock",
+          "hint": 1413,
+          "iat_address": 229912,
+          "iat_value": 318732,
+          "data": 318732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_Mtx_unlock",
+          "hint": 1417,
+          "iat_address": 229920,
+          "iat_value": 318744,
+          "data": 318744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_Cnd_wait",
+          "hint": 1365,
+          "iat_address": 229928,
+          "iat_value": 318758,
+          "data": 318758
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_Cnd_broadcast",
+          "hint": 1355,
+          "iat_address": 229936,
+          "iat_value": 318770,
+          "data": 318770
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Throw_Cpp_error@std@@YAXH@Z",
+          "hint": 629,
+          "iat_address": 229944,
+          "iat_value": 318788,
+          "data": 318788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xbad_alloc@std@@YAXXZ",
+          "hint": 651,
+          "iat_address": 229952,
+          "iat_value": 318820,
+          "data": 318820
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xlength_error@std@@YAXPEBD@Z",
+          "hint": 654,
+          "iat_address": 229960,
+          "iat_value": 318846,
+          "data": 318846
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xout_of_range@std@@YAXPEBD@Z",
+          "hint": 655,
+          "iat_address": 229968,
+          "iat_value": 318880,
+          "data": 318880
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?__ExceptionPtrDestroy@@YAXPEAX@Z",
+          "hint": 665,
+          "iat_address": 229976,
+          "iat_value": 318914,
+          "data": 318914
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?__ExceptionPtrCreate@@YAXPEAX@Z",
+          "hint": 663,
+          "iat_address": 229984,
+          "iat_value": 318950,
+          "data": 318950
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?__ExceptionPtrCopy@@YAXPEAXPEBX@Z",
+          "hint": 661,
+          "iat_address": 229992,
+          "iat_value": 318986,
+          "data": 318986
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?__ExceptionPtrCurrentException@@YAXPEAX@Z",
+          "hint": 664,
+          "iat_address": 230000,
+          "iat_value": 319024,
+          "data": 319024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?__ExceptionPtrRethrow@@YAXPEBX@Z",
+          "hint": 666,
+          "iat_address": 230008,
+          "iat_value": 319070,
+          "data": 319070
+        }
+      ],
+      "function_count": 15
+    },
+    {
+      "name": "VCRUNTIME140_1.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 230136,
+      "import_lookup_table_rva": 318416,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CxxFrameHandler4",
+          "hint": 0,
+          "iat_address": 230136,
+          "iat_value": 319120,
+          "data": 319120
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "VCRUNTIME140.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 230024,
+      "import_lookup_table_rva": 318304,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_purecall",
+          "hint": 54,
+          "iat_address": 230024,
+          "iat_value": 319142,
+          "data": 319142
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_terminate",
+          "hint": 35,
+          "iat_address": 230032,
+          "iat_value": 319154,
+          "data": 319154
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_exception_copy",
+          "hint": 33,
+          "iat_address": 230040,
+          "iat_value": 319172,
+          "data": 319172
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_exception_destroy",
+          "hint": 34,
+          "iat_address": 230048,
+          "iat_value": 319196,
+          "data": 319196
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_CxxThrowException",
+          "hint": 1,
+          "iat_address": 230056,
+          "iat_value": 319222,
+          "data": 319222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 62,
+          "iat_address": 230064,
+          "iat_value": 319244,
+          "data": 319244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__uncaught_exception",
+          "hint": 44,
+          "iat_address": 230072,
+          "iat_value": 319254,
+          "data": 319254
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 60,
+          "iat_address": 230080,
+          "iat_value": 319278,
+          "data": 319278
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__C_specific_handler",
+          "hint": 8,
+          "iat_address": 230088,
+          "iat_value": 319288,
+          "data": 319288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__RTDynamicCast",
+          "hint": 24,
+          "iat_address": 230096,
+          "iat_value": 319312,
+          "data": 319312
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__current_exception",
+          "hint": 27,
+          "iat_address": 230104,
+          "iat_value": 319330,
+          "data": 319330
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__current_exception_context",
+          "hint": 28,
+          "iat_address": 230112,
+          "iat_value": 319352,
+          "data": 319352
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_type_info_destroy_list",
+          "hint": 37,
+          "iat_address": 230120,
+          "iat_value": 319382,
+          "data": 319382
+        }
+      ],
+      "function_count": 13
+    },
+    {
+      "name": "api-ms-win-crt-heap-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 230152,
+      "import_lookup_table_rva": 318432,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_callnewh",
+          "hint": 8,
+          "iat_address": 230152,
+          "iat_value": 319594,
+          "data": 319594
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 24,
+          "iat_address": 230160,
+          "iat_value": 319452,
+          "data": 319452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 25,
+          "iat_address": 230168,
+          "iat_value": 319460,
+          "data": 319460
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "api-ms-win-crt-math-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 230184,
+      "import_lookup_table_rva": 318464,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sqrt",
+          "hint": 278,
+          "iat_address": 230184,
+          "iat_value": 319476,
+          "data": 319476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "exp",
+          "hint": 178,
+          "iat_address": 230192,
+          "iat_value": 319470,
+          "data": 319470
+        }
+      ],
+      "function_count": 2
+    },
+    {
+      "name": "api-ms-win-crt-runtime-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 230208,
+      "import_lookup_table_rva": 318488,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_cexit",
+          "hint": 22,
+          "iat_address": 230208,
+          "iat_value": 319778,
+          "data": 319778
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 54,
+          "iat_address": 230216,
+          "iat_value": 319788,
+          "data": 319788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm_e",
+          "hint": 55,
+          "iat_address": 230224,
+          "iat_value": 319800,
+          "data": 319800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "terminate",
+          "hint": 103,
+          "iat_address": 230232,
+          "iat_value": 319484,
+          "data": 319484
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_seh_filter_dll",
+          "hint": 63,
+          "iat_address": 230240,
+          "iat_value": 319606,
+          "data": 319606
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_configure_narrow_argv",
+          "hint": 24,
+          "iat_address": 230248,
+          "iat_value": 319624,
+          "data": 319624
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_narrow_environment",
+          "hint": 51,
+          "iat_address": 230256,
+          "iat_value": 319650,
+          "data": 319650
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_onexit_table",
+          "hint": 52,
+          "iat_address": 230264,
+          "iat_value": 319684,
+          "data": 319684
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_register_onexit_function",
+          "hint": 60,
+          "iat_address": 230272,
+          "iat_value": 319712,
+          "data": 319712
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_execute_onexit_table",
+          "hint": 34,
+          "iat_address": 230280,
+          "iat_value": 319740,
+          "data": 319740
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_crt_atexit",
+          "hint": 30,
+          "iat_address": 230288,
+          "iat_value": 319764,
+          "data": 319764
+        }
+      ],
+      "function_count": 11
+    },
+    {
+      "name": "api-ms-win-crt-string-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 230344,
+      "import_lookup_table_rva": 318624,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wcsncpy_s",
+          "hint": 168,
+          "iat_address": 230344,
+          "iat_value": 319496,
+          "data": 319496
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "api-ms-win-crt-stdio-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 230304,
+      "import_lookup_table_rva": 318584,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__stdio_common_vfwprintf",
+          "hint": 7,
+          "iat_address": 230304,
+          "iat_value": 319526,
+          "data": 319526
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__acrt_iob_func",
+          "hint": 0,
+          "iat_address": 230312,
+          "iat_value": 319508,
+          "data": 319508
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__stdio_common_vswprintf_s",
+          "hint": 19,
+          "iat_address": 230320,
+          "iat_value": 319554,
+          "data": 319554
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fflush",
+          "hint": 119,
+          "iat_address": 230328,
+          "iat_value": 319584,
+          "data": 319584
+        }
+      ],
+      "function_count": 4
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 229376,
+      "import_lookup_table_rva": 317656,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 653,
+          "iat_address": 229376,
+          "iat_value": 320128,
+          "data": 320128
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DisableThreadLibraryCalls",
+          "hint": 322,
+          "iat_address": 229384,
+          "iat_value": 321330,
+          "data": 321330
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 794,
+          "iat_address": 229392,
+          "iat_value": 321304,
+          "data": 321304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 578,
+          "iat_address": 229400,
+          "iat_value": 321282,
+          "data": 321282
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1153,
+          "iat_address": 229408,
+          "iat_value": 321256,
+          "data": 321256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleA",
+          "hint": 674,
+          "iat_address": 229416,
+          "iat_value": 321236,
+          "data": 321236
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameW",
+          "hint": 673,
+          "iat_address": 229424,
+          "iat_value": 321214,
+          "data": 321214
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibraryAndExitThread",
+          "hint": 469,
+          "iat_address": 229432,
+          "iat_value": 321186,
+          "data": 321186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibrary",
+          "hint": 468,
+          "iat_address": 229440,
+          "iat_value": 321172,
+          "data": 321172
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseThreadpoolWait",
+          "hint": 169,
+          "iat_address": 229448,
+          "iat_value": 321150,
+          "data": 321150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetThreadpoolWait",
+          "hint": 1459,
+          "iat_address": 229456,
+          "iat_value": 321130,
+          "data": 321130
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateThreadpoolWait",
+          "hint": 276,
+          "iat_address": 229464,
+          "iat_value": 321106,
+          "data": 321106
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseThreadpoolTimer",
+          "hint": 168,
+          "iat_address": 229472,
+          "iat_value": 321082,
+          "data": 321082
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForThreadpoolTimerCallbacks",
+          "hint": 1576,
+          "iat_address": 229480,
+          "iat_value": 321048,
+          "data": 321048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateThreadpoolTimer",
+          "hint": 275,
+          "iat_address": 229488,
+          "iat_value": 321024,
+          "data": 321024
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibraryWhenCallbackReturns",
+          "hint": 470,
+          "iat_address": 229496,
+          "iat_value": 320990,
+          "data": 320990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetThreadTimes",
+          "hint": 826,
+          "iat_address": 229504,
+          "iat_value": 320972,
+          "data": 320972
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EncodePointer",
+          "hint": 339,
+          "iat_address": 229512,
+          "iat_value": 320956,
+          "data": 320956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OutputDebugStringW",
+          "hint": 1099,
+          "iat_address": 229520,
+          "iat_value": 320934,
+          "data": 320934
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryW",
+          "hint": 1015,
+          "iat_address": 229528,
+          "iat_value": 320918,
+          "data": 320918
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryExW",
+          "hint": 1014,
+          "iat_address": 229536,
+          "iat_value": 320900,
+          "data": 320900
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 733,
+          "iat_address": 229544,
+          "iat_value": 320882,
+          "data": 320882
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetLastError",
+          "hint": 1400,
+          "iat_address": 229552,
+          "iat_value": 320866,
+          "data": 320866
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetThreadpoolTimer",
+          "hint": 1457,
+          "iat_address": 229560,
+          "iat_value": 320844,
+          "data": 320844
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateSemaphoreExW",
+          "hint": 264,
+          "iat_address": 229568,
+          "iat_value": 320822,
+          "data": 320822
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseSemaphore",
+          "hint": 1260,
+          "iat_address": 229576,
+          "iat_value": 320802,
+          "data": 320802
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeSListHead",
+          "hint": 922,
+          "iat_address": 229584,
+          "iat_value": 320780,
+          "data": 320780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetProcessAffinityMask",
+          "hint": 1411,
+          "iat_address": 229592,
+          "iat_value": 320754,
+          "data": 320754
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcessAffinityMask",
+          "hint": 734,
+          "iat_address": 229600,
+          "iat_value": 320728,
+          "data": 320728
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualFree",
+          "hint": 1559,
+          "iat_address": 229608,
+          "iat_value": 320714,
+          "data": 320714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlushProcessWriteBuffers",
+          "hint": 458,
+          "iat_address": 229616,
+          "iat_value": 320686,
+          "data": 320686
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 303,
+          "iat_address": 229624,
+          "iat_value": 320662,
+          "data": 320662
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TryEnterCriticalSection",
+          "hint": 1524,
+          "iat_address": 229632,
+          "iat_value": 320636,
+          "data": 320636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 1008,
+          "iat_address": 229640,
+          "iat_value": 320612,
+          "data": 320612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 343,
+          "iat_address": 229648,
+          "iat_value": 320588,
+          "data": 320588
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetThreadGroupAffinity",
+          "hint": 1441,
+          "iat_address": 229656,
+          "iat_value": 320562,
+          "data": 320562
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetThreadGroupAffinity",
+          "hint": 814,
+          "iat_address": 229664,
+          "iat_value": 320536,
+          "data": 320536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetNumaHighestNodeNumber",
+          "hint": 695,
+          "iat_address": 229672,
+          "iat_value": 320508,
+          "data": 320508
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLogicalProcessorInformationEx",
+          "hint": 662,
+          "iat_address": 229680,
+          "iat_value": 320472,
+          "data": 320472
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTickCount64",
+          "hint": 829,
+          "iat_address": 229688,
+          "iat_value": 320454,
+          "data": 320454
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessorNumberEx",
+          "hint": 580,
+          "iat_address": 229696,
+          "iat_value": 320424,
+          "data": 320424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsFree",
+          "hint": 1515,
+          "iat_address": 229704,
+          "iat_value": 320414,
+          "data": 320414
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsSetValue",
+          "hint": 1518,
+          "iat_address": 229712,
+          "iat_value": 320400,
+          "data": 320400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsGetValue",
+          "hint": 1516,
+          "iat_address": 229720,
+          "iat_value": 320386,
+          "data": 320386
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsAlloc",
+          "hint": 1514,
+          "iat_address": 229728,
+          "iat_value": 320374,
+          "data": 320374
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetThreadPriority",
+          "hint": 821,
+          "iat_address": 229736,
+          "iat_value": 320354,
+          "data": 320354
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetThreadPriority",
+          "hint": 1447,
+          "iat_address": 229744,
+          "iat_value": 320334,
+          "data": 320334
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateThread",
+          "hint": 271,
+          "iat_address": 229752,
+          "iat_value": 320318,
+          "data": 320318
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SwitchToThread",
+          "hint": 1491,
+          "iat_address": 229760,
+          "iat_value": 320300,
+          "data": 320300
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SignalObjectAndWait",
+          "hint": 1478,
+          "iat_address": 229768,
+          "iat_value": 320278,
+          "data": 320278
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedPopEntrySList",
+          "hint": 927,
+          "iat_address": 229776,
+          "iat_value": 319978,
+          "data": 319978
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedPushEntrySList",
+          "hint": 928,
+          "iat_address": 229784,
+          "iat_value": 320006,
+          "data": 320006
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedFlushSList",
+          "hint": 926,
+          "iat_address": 229792,
+          "iat_value": 320034,
+          "data": 320034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryDepthSList",
+          "hint": 1142,
+          "iat_address": 229800,
+          "iat_value": 320058,
+          "data": 320058
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThread",
+          "hint": 581,
+          "iat_address": 229808,
+          "iat_value": 320076,
+          "data": 320076
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 157,
+          "iat_address": 229816,
+          "iat_value": 320096,
+          "data": 320096
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DuplicateHandle",
+          "hint": 335,
+          "iat_address": 229824,
+          "iat_value": 320110,
+          "data": 320110
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateEventExW",
+          "hint": 216,
+          "iat_address": 229832,
+          "iat_value": 320252,
+          "data": 320252
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEvent",
+          "hint": 1372,
+          "iat_address": 229840,
+          "iat_value": 320144,
+          "data": 320144
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForSingleObjectEx",
+          "hint": 1574,
+          "iat_address": 229848,
+          "iat_value": 320156,
+          "data": 320156
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 577,
+          "iat_address": 229856,
+          "iat_value": 320180,
+          "data": 320180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 582,
+          "iat_address": 229864,
+          "iat_value": 320200,
+          "data": 320200
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSectionEx",
+          "hint": 919,
+          "iat_address": 229872,
+          "iat_value": 320222,
+          "data": 320222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 1480,
+          "iat_address": 229880,
+          "iat_value": 320270,
+          "data": 320270
+        }
+      ],
+      "function_count": 64
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "CONCRT140.dll",
+    "export_flags": 0,
+    "timestamp": 4019366385,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 291,
+    "entries": [
+      {
+        "name": "??0?$_SpinWait@$00@details@Concurrency@@QEAA@P6AXXZ@Z",
+        "ordinal": 1,
+        "address": 4192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0?$_SpinWait@$0A@@details@Concurrency@@QEAA@P6AXXZ@Z",
+        "ordinal": 2,
+        "address": 4192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0SchedulerPolicy@Concurrency@@QEAA@AEBV01@@Z",
+        "ordinal": 3,
+        "address": 161616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0SchedulerPolicy@Concurrency@@QEAA@XZ",
+        "ordinal": 4,
+        "address": 161696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0SchedulerPolicy@Concurrency@@QEAA@_KZZ",
+        "ordinal": 5,
+        "address": 161728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Cancellation_beacon@details@Concurrency@@QEAA@XZ",
+        "ordinal": 6,
+        "address": 58096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Concurrent_queue_base_v4@details@Concurrency@@IEAA@_K@Z",
+        "ordinal": 7,
+        "address": 47072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Concurrent_queue_iterator_base_v4@details@Concurrency@@IEAA@AEBV_Concurrent_queue_base_v4@12@@Z",
+        "ordinal": 8,
+        "address": 47232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Condition_variable@details@Concurrency@@QEAA@XZ",
+        "ordinal": 9,
+        "address": 70528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Context@details@Concurrency@@QEAA@PEAVContext@2@@Z",
+        "ordinal": 10,
+        "address": 4208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_NonReentrantBlockingLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 11,
+        "address": 99264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_NonReentrantPPLLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 12,
+        "address": 99312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_ReaderWriterLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 13,
+        "address": 99376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_ReentrantBlockingLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 14,
+        "address": 99264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_ReentrantLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 15,
+        "address": 99392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_ReentrantPPLLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 16,
+        "address": 99424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Runtime_object@details@Concurrency@@QEAA@H@Z",
+        "ordinal": 17,
+        "address": 11312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Runtime_object@details@Concurrency@@QEAA@XZ",
+        "ordinal": 18,
+        "address": 11344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Scheduler@details@Concurrency@@QEAA@PEAVScheduler@2@@Z",
+        "ordinal": 19,
+        "address": 4208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Scoped_lock@_NonReentrantPPLLock@details@Concurrency@@QEAA@AEAV123@@Z",
+        "ordinal": 20,
+        "address": 99488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Scoped_lock@_ReentrantPPLLock@details@Concurrency@@QEAA@AEAV123@@Z",
+        "ordinal": 21,
+        "address": 99808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_SpinLock@details@Concurrency@@QEAA@AECJ@Z",
+        "ordinal": 22,
+        "address": 215536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_StructuredTaskCollection@details@Concurrency@@QEAA@PEAV_CancellationTokenState@12@@Z",
+        "ordinal": 23,
+        "address": 188112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_TaskCollection@details@Concurrency@@QEAA@PEAV_CancellationTokenState@12@@Z",
+        "ordinal": 24,
+        "address": 188704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_TaskCollection@details@Concurrency@@QEAA@XZ",
+        "ordinal": 25,
+        "address": 188960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0_Timer@details@Concurrency@@IEAA@I_N@Z",
+        "ordinal": 26,
+        "address": 204704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0agent@Concurrency@@QEAA@AEAVScheduleGroup@1@@Z",
+        "ordinal": 27,
+        "address": 11376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0agent@Concurrency@@QEAA@AEAVScheduler@1@@Z",
+        "ordinal": 28,
+        "address": 11520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0agent@Concurrency@@QEAA@XZ",
+        "ordinal": 29,
+        "address": 11648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0bad_target@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 30,
+        "address": 76080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0bad_target@Concurrency@@QEAA@XZ",
+        "ordinal": 31,
+        "address": 76160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0context_self_unblock@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 32,
+        "address": 76192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0context_self_unblock@Concurrency@@QEAA@XZ",
+        "ordinal": 33,
+        "address": 76272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0context_unblock_unbalanced@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 34,
+        "address": 76304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0context_unblock_unbalanced@Concurrency@@QEAA@XZ",
+        "ordinal": 35,
+        "address": 76384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0critical_section@Concurrency@@QEAA@XZ",
+        "ordinal": 36,
+        "address": 99312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0default_scheduler_exists@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 37,
+        "address": 76416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0default_scheduler_exists@Concurrency@@QEAA@XZ",
+        "ordinal": 38,
+        "address": 76496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0event@Concurrency@@QEAA@XZ",
+        "ordinal": 39,
+        "address": 70576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0improper_lock@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 40,
+        "address": 76528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0improper_lock@Concurrency@@QEAA@XZ",
+        "ordinal": 41,
+        "address": 76608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0improper_scheduler_attach@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 42,
+        "address": 76640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0improper_scheduler_attach@Concurrency@@QEAA@XZ",
+        "ordinal": 43,
+        "address": 76720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0improper_scheduler_detach@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 44,
+        "address": 76752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0improper_scheduler_detach@Concurrency@@QEAA@XZ",
+        "ordinal": 45,
+        "address": 76832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0improper_scheduler_reference@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 46,
+        "address": 76864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0improper_scheduler_reference@Concurrency@@QEAA@XZ",
+        "ordinal": 47,
+        "address": 76944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_link_target@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 48,
+        "address": 76976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_link_target@Concurrency@@QEAA@XZ",
+        "ordinal": 49,
+        "address": 77056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_multiple_scheduling@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 50,
+        "address": 77088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_multiple_scheduling@Concurrency@@QEAA@XZ",
+        "ordinal": 51,
+        "address": 77168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_oversubscribe_operation@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 52,
+        "address": 77200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_oversubscribe_operation@Concurrency@@QEAA@XZ",
+        "ordinal": 53,
+        "address": 77280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_scheduler_policy_key@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 54,
+        "address": 77312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_scheduler_policy_key@Concurrency@@QEAA@XZ",
+        "ordinal": 55,
+        "address": 77392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_scheduler_policy_thread_specification@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 56,
+        "address": 77424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_scheduler_policy_thread_specification@Concurrency@@QEAA@XZ",
+        "ordinal": 57,
+        "address": 77504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_scheduler_policy_value@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 58,
+        "address": 77536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0invalid_scheduler_policy_value@Concurrency@@QEAA@XZ",
+        "ordinal": 59,
+        "address": 77616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0message_not_found@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 60,
+        "address": 77648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0message_not_found@Concurrency@@QEAA@XZ",
+        "ordinal": 61,
+        "address": 77728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0missing_wait@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 62,
+        "address": 77760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0missing_wait@Concurrency@@QEAA@XZ",
+        "ordinal": 63,
+        "address": 77840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0nested_scheduler_missing_detach@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 64,
+        "address": 77872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0nested_scheduler_missing_detach@Concurrency@@QEAA@XZ",
+        "ordinal": 65,
+        "address": 77952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0operation_timed_out@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 66,
+        "address": 77984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0operation_timed_out@Concurrency@@QEAA@XZ",
+        "ordinal": 67,
+        "address": 78064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0reader_writer_lock@Concurrency@@QEAA@XZ",
+        "ordinal": 68,
+        "address": 100032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0scheduler_not_attached@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 69,
+        "address": 78096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0scheduler_not_attached@Concurrency@@QEAA@XZ",
+        "ordinal": 70,
+        "address": 78176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0scheduler_resource_allocation_error@Concurrency@@QEAA@J@Z",
+        "ordinal": 71,
+        "address": 78208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0scheduler_resource_allocation_error@Concurrency@@QEAA@PEBDJ@Z",
+        "ordinal": 72,
+        "address": 78240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0scheduler_worker_creation_error@Concurrency@@QEAA@J@Z",
+        "ordinal": 73,
+        "address": 78336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0scheduler_worker_creation_error@Concurrency@@QEAA@PEBDJ@Z",
+        "ordinal": 74,
+        "address": 78368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0scoped_lock@critical_section@Concurrency@@QEAA@AEAV12@@Z",
+        "ordinal": 75,
+        "address": 100096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0scoped_lock@reader_writer_lock@Concurrency@@QEAA@AEAV12@@Z",
+        "ordinal": 76,
+        "address": 100432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0scoped_lock_read@reader_writer_lock@Concurrency@@QEAA@AEAV12@@Z",
+        "ordinal": 77,
+        "address": 100560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0unsupported_os@Concurrency@@QEAA@PEBD@Z",
+        "ordinal": 78,
+        "address": 78464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0unsupported_os@Concurrency@@QEAA@XZ",
+        "ordinal": 79,
+        "address": 78544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1SchedulerPolicy@Concurrency@@QEAA@XZ",
+        "ordinal": 80,
+        "address": 161984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_Cancellation_beacon@details@Concurrency@@QEAA@XZ",
+        "ordinal": 81,
+        "address": 58544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_Concurrent_queue_base_v4@details@Concurrency@@MEAA@XZ",
+        "ordinal": 82,
+        "address": 47440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_Concurrent_queue_iterator_base_v4@details@Concurrency@@IEAA@XZ",
+        "ordinal": 83,
+        "address": 47472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_Concurrent_vector_base_v4@details@Concurrency@@IEAA@XZ",
+        "ordinal": 84,
+        "address": 50496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_Condition_variable@details@Concurrency@@QEAA@XZ",
+        "ordinal": 85,
+        "address": 70784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_NonReentrantBlockingLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 86,
+        "address": 100592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_ReentrantBlockingLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 87,
+        "address": 100592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_Scoped_lock@_NonReentrantPPLLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 88,
+        "address": 100608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_Scoped_lock@_ReentrantPPLLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 89,
+        "address": 100640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_SpinLock@details@Concurrency@@QEAA@XZ",
+        "ordinal": 90,
+        "address": 215920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_StructuredTaskCollection@details@Concurrency@@QEAA@XZ",
+        "ordinal": 91,
+        "address": 189344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_TaskCollection@details@Concurrency@@QEAA@XZ",
+        "ordinal": 92,
+        "address": 189456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1_Timer@details@Concurrency@@MEAA@XZ",
+        "ordinal": 93,
+        "address": 204736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1agent@Concurrency@@UEAA@XZ",
+        "ordinal": 94,
+        "address": 18640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1critical_section@Concurrency@@QEAA@XZ",
+        "ordinal": 95,
+        "address": 4768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1event@Concurrency@@QEAA@XZ",
+        "ordinal": 96,
+        "address": 70848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1reader_writer_lock@Concurrency@@QEAA@XZ",
+        "ordinal": 97,
+        "address": 4768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1scoped_lock@critical_section@Concurrency@@QEAA@XZ",
+        "ordinal": 98,
+        "address": 100608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1scoped_lock@reader_writer_lock@Concurrency@@QEAA@XZ",
+        "ordinal": 99,
+        "address": 100672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1scoped_lock_read@reader_writer_lock@Concurrency@@QEAA@XZ",
+        "ordinal": 100,
+        "address": 100672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4?$_SpinWait@$00@details@Concurrency@@QEAAAEAV012@$$QEAV012@@Z",
+        "ordinal": 101,
+        "address": 4240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4?$_SpinWait@$00@details@Concurrency@@QEAAAEAV012@AEBV012@@Z",
+        "ordinal": 102,
+        "address": 4272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4?$_SpinWait@$0A@@details@Concurrency@@QEAAAEAV012@$$QEAV012@@Z",
+        "ordinal": 103,
+        "address": 4240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4?$_SpinWait@$0A@@details@Concurrency@@QEAAAEAV012@AEBV012@@Z",
+        "ordinal": 104,
+        "address": 4272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4SchedulerPolicy@Concurrency@@QEAAAEAV01@AEBV01@@Z",
+        "ordinal": 105,
+        "address": 162000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_F?$_SpinWait@$00@details@Concurrency@@QEAAXXZ",
+        "ordinal": 106,
+        "address": 4304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_F?$_SpinWait@$0A@@details@Concurrency@@QEAAXXZ",
+        "ordinal": 107,
+        "address": 4304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_F_Context@details@Concurrency@@QEAAXXZ",
+        "ordinal": 108,
+        "address": 4336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_F_Scheduler@details@Concurrency@@QEAAXXZ",
+        "ordinal": 109,
+        "address": 4336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AgentEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 110,
+        "address": 245600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Alloc@Concurrency@@YAPEAX_K@Z",
+        "ordinal": 111,
+        "address": 187392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Block@Context@Concurrency@@SAXXZ",
+        "ordinal": 112,
+        "address": 57120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ChoreEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 113,
+        "address": 245488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ConcRTEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 114,
+        "address": 245424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ConcRT_ProviderGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 115,
+        "address": 245408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ContextEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 116,
+        "address": 245472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Create@CurrentScheduler@Concurrency@@SAXAEBVSchedulerPolicy@2@@Z",
+        "ordinal": 117,
+        "address": 69552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Create@Scheduler@Concurrency@@SAPEAV12@AEBVSchedulerPolicy@2@@Z",
+        "ordinal": 118,
+        "address": 144832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateResourceManager@Concurrency@@YAPEAUIResourceManager@1@XZ",
+        "ordinal": 119,
+        "address": 109280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateScheduleGroup@CurrentScheduler@Concurrency@@SAPEAVScheduleGroup@2@AEAVlocation@2@@Z",
+        "ordinal": 120,
+        "address": 69600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateScheduleGroup@CurrentScheduler@Concurrency@@SAPEAVScheduleGroup@2@XZ",
+        "ordinal": 121,
+        "address": 69648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CurrentContext@Context@Concurrency@@SAPEAV12@XZ",
+        "ordinal": 122,
+        "address": 57184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Detach@CurrentScheduler@Concurrency@@SAXXZ",
+        "ordinal": 123,
+        "address": 69696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?DisableTracing@Concurrency@@YAJXZ",
+        "ordinal": 124,
+        "address": 62256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EnableTracing@Concurrency@@YAJXZ",
+        "ordinal": 125,
+        "address": 62256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Free@Concurrency@@YAXPEAX@Z",
+        "ordinal": 126,
+        "address": 187744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Get@CurrentScheduler@Concurrency@@SAPEAVScheduler@2@XZ",
+        "ordinal": 127,
+        "address": 69760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetExecutionContextId@Concurrency@@YAIXZ",
+        "ordinal": 128,
+        "address": 116272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetNumberOfVirtualProcessors@CurrentScheduler@Concurrency@@SAIXZ",
+        "ordinal": 129,
+        "address": 69776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetOSVersion@Concurrency@@YA?AW4OSVersion@IResourceManager@1@XZ",
+        "ordinal": 130,
+        "address": 116512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetPolicy@CurrentScheduler@Concurrency@@SA?AVSchedulerPolicy@2@XZ",
+        "ordinal": 131,
+        "address": 69824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetPolicyValue@SchedulerPolicy@Concurrency@@QEBAIW4PolicyElementKey@2@@Z",
+        "ordinal": 132,
+        "address": 162048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetProcessorCount@Concurrency@@YAIXZ",
+        "ordinal": 133,
+        "address": 116016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetProcessorNodeCount@Concurrency@@YAIXZ",
+        "ordinal": 134,
+        "address": 116592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSchedulerId@Concurrency@@YAIXZ",
+        "ordinal": 135,
+        "address": 116672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetSharedTimerQueue@details@Concurrency@@YAPEAXXZ",
+        "ordinal": 136,
+        "address": 62256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Id@Context@Concurrency@@SAIXZ",
+        "ordinal": 137,
+        "address": 57232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Id@CurrentScheduler@Concurrency@@SAIXZ",
+        "ordinal": 138,
+        "address": 69872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IsAvailableLocation@CurrentScheduler@Concurrency@@SA_NAEBVlocation@2@@Z",
+        "ordinal": 139,
+        "address": 69920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IsCurrentTaskCollectionCanceling@Context@Concurrency@@SA_NXZ",
+        "ordinal": 140,
+        "address": 57280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?LockEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 141,
+        "address": 245520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Log2@details@Concurrency@@YAK_K@Z",
+        "ordinal": 142,
+        "address": 216320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?NFS_Allocate@details@Concurrency@@YAPEAX_K0PEAX@Z",
+        "ordinal": 143,
+        "address": 43520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?NFS_Free@details@Concurrency@@YAXPEAX@Z",
+        "ordinal": 144,
+        "address": 43616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?NFS_GetLineSize@details@Concurrency@@YA_KXZ",
+        "ordinal": 145,
+        "address": 43648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Oversubscribe@Context@Concurrency@@SAX_N@Z",
+        "ordinal": 146,
+        "address": 57376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PPLParallelForEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 147,
+        "address": 245568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PPLParallelForeachEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 148,
+        "address": 245584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?PPLParallelInvokeEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 149,
+        "address": 245552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?RegisterShutdownEvent@CurrentScheduler@Concurrency@@SAXPEAX@Z",
+        "ordinal": 150,
+        "address": 69984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ResetDefaultSchedulerPolicy@Scheduler@Concurrency@@SAXXZ",
+        "ordinal": 151,
+        "address": 158000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ResourceManagerEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 152,
+        "address": 245536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ScheduleGroupEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 153,
+        "address": 245456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ScheduleGroupId@Context@Concurrency@@SAIXZ",
+        "ordinal": 154,
+        "address": 57456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ScheduleTask@CurrentScheduler@Concurrency@@SAXP6AXPEAX@Z0@Z",
+        "ordinal": 155,
+        "address": 70064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ScheduleTask@CurrentScheduler@Concurrency@@SAXP6AXPEAX@Z0AEAVlocation@2@@Z",
+        "ordinal": 156,
+        "address": 70128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SchedulerEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 157,
+        "address": 245440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetConcurrencyLimits@SchedulerPolicy@Concurrency@@QEAAXII@Z",
+        "ordinal": 158,
+        "address": 162112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetDefaultSchedulerPolicy@Scheduler@Concurrency@@SAXAEBVSchedulerPolicy@2@@Z",
+        "ordinal": 159,
+        "address": 158528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?SetPolicyValue@SchedulerPolicy@Concurrency@@QEAAIW4PolicyElementKey@2@I@Z",
+        "ordinal": 160,
+        "address": 162304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?VirtualProcessorEventGuid@Concurrency@@3U_GUID@@B",
+        "ordinal": 161,
+        "address": 245504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?VirtualProcessorId@Context@Concurrency@@SAIXZ",
+        "ordinal": 162,
+        "address": 57504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Yield@Context@Concurrency@@SAXXZ",
+        "ordinal": 163,
+        "address": 57552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Abort@_StructuredTaskCollection@details@Concurrency@@AEAAXXZ",
+        "ordinal": 164,
+        "address": 190832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Acquire@_NonReentrantBlockingLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 165,
+        "address": 101600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Acquire@_NonReentrantPPLLock@details@Concurrency@@QEAAXPEAX@Z",
+        "ordinal": 166,
+        "address": 101616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Acquire@_ReentrantBlockingLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 167,
+        "address": 101600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Acquire@_ReentrantLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 168,
+        "address": 101632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Acquire@_ReentrantPPLLock@details@Concurrency@@QEAAXPEAX@Z",
+        "ordinal": 169,
+        "address": 101952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_AcquireRead@_ReaderWriterLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 170,
+        "address": 102064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_AcquireWrite@_ReaderWriterLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 171,
+        "address": 102192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Advance@_Concurrent_queue_iterator_base_v4@details@Concurrency@@IEAAXXZ",
+        "ordinal": 172,
+        "address": 47872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Assign@_Concurrent_queue_iterator_base_v4@details@Concurrency@@IEAAXAEBV123@@Z",
+        "ordinal": 173,
+        "address": 48032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Byte_reverse_table@details@Concurrency@@3QBEB",
+        "ordinal": 174,
+        "address": 239936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Cancel@_StructuredTaskCollection@details@Concurrency@@QEAAXXZ",
+        "ordinal": 175,
+        "address": 192464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Cancel@_TaskCollection@details@Concurrency@@QEAAXXZ",
+        "ordinal": 176,
+        "address": 193008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_CheckTaskCollection@_UnrealizedChore@details@Concurrency@@IEAAXXZ",
+        "ordinal": 177,
+        "address": 43984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_CleanupToken@_StructuredTaskCollection@details@Concurrency@@AEAAXXZ",
+        "ordinal": 178,
+        "address": 193456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_ConcRT_CoreAssert@details@Concurrency@@YAXPEBD0H@Z",
+        "ordinal": 179,
+        "address": 216944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_ConcRT_Trace@details@Concurrency@@YAXHPEB_WZZ",
+        "ordinal": 180,
+        "address": 216960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Confirm_cancel@_Cancellation_beacon@details@Concurrency@@QEAA_NXZ",
+        "ordinal": 181,
+        "address": 69008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_CurrentContext@_Context@details@Concurrency@@SA?AV123@XZ",
+        "ordinal": 182,
+        "address": 57616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Current_node@location@Concurrency@@SA?AV12@XZ",
+        "ordinal": 183,
+        "address": 94944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Destroy@_AsyncTaskCollection@details@Concurrency@@EEAAXXZ",
+        "ordinal": 184,
+        "address": 44496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_DoYield@?$_SpinWait@$00@details@Concurrency@@IEAAXXZ",
+        "ordinal": 185,
+        "address": 4352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_DoYield@?$_SpinWait@$0A@@details@Concurrency@@IEAAXXZ",
+        "ordinal": 186,
+        "address": 69088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Get@_CurrentScheduler@details@Concurrency@@SA?AV_Scheduler@23@XZ",
+        "ordinal": 187,
+        "address": 70208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_GetCombinableSize@details@Concurrency@@YA_KXZ",
+        "ordinal": 188,
+        "address": 98992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_GetConcRTTraceInfo@Concurrency@@YAPEBU_CONCRT_TRACE_INFO@details@1@XZ",
+        "ordinal": 189,
+        "address": 206128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_GetConcurrency@details@Concurrency@@YAIXZ",
+        "ordinal": 190,
+        "address": 217536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_GetCurrentInlineDepth@_StackGuard@details@Concurrency@@CAAEA_KXZ",
+        "ordinal": 191,
+        "address": 69104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_GetNumberOfVirtualProcessors@_CurrentScheduler@details@Concurrency@@SAIXZ",
+        "ordinal": 192,
+        "address": 70240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_GetScheduler@_Scheduler@details@Concurrency@@QEAAPEAVScheduler@3@XZ",
+        "ordinal": 193,
+        "address": 4368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Id@_CurrentScheduler@details@Concurrency@@SAIXZ",
+        "ordinal": 194,
+        "address": 69872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_assign@_Concurrent_vector_base_v4@details@Concurrency@@IEAAXAEBV123@_KP6AXPEAX1@ZP6AX2PEBX1@Z5@Z",
+        "ordinal": 195,
+        "address": 50560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_capacity@_Concurrent_vector_base_v4@details@Concurrency@@IEBA_KXZ",
+        "ordinal": 196,
+        "address": 51488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_clear@_Concurrent_vector_base_v4@details@Concurrency@@IEAA_KP6AXPEAX_K@Z@Z",
+        "ordinal": 197,
+        "address": 51552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_compact@_Concurrent_vector_base_v4@details@Concurrency@@IEAAPEAX_KPEAXP6AX10@ZP6AX1PEBX0@Z@Z",
+        "ordinal": 198,
+        "address": 51744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_copy@_Concurrent_vector_base_v4@details@Concurrency@@IEAAXAEBV123@_KP6AXPEAXPEBX1@Z@Z",
+        "ordinal": 199,
+        "address": 52848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_empty@_Concurrent_queue_base_v4@details@Concurrency@@IEBA_NXZ",
+        "ordinal": 200,
+        "address": 48192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_finish_clear@_Concurrent_queue_base_v4@details@Concurrency@@IEAAXXZ",
+        "ordinal": 201,
+        "address": 48240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_grow_by@_Concurrent_vector_base_v4@details@Concurrency@@IEAA_K_K0P6AXPEAXPEBX0@Z2@Z",
+        "ordinal": 202,
+        "address": 53440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_grow_to_at_least_with_result@_Concurrent_vector_base_v4@details@Concurrency@@IEAA_K_K0P6AXPEAXPEBX0@Z2@Z",
+        "ordinal": 203,
+        "address": 53728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_move_push@_Concurrent_queue_base_v4@details@Concurrency@@IEAAXPEAX@Z",
+        "ordinal": 204,
+        "address": 48352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_pop_if_present@_Concurrent_queue_base_v4@details@Concurrency@@IEAA_NPEAX@Z",
+        "ordinal": 205,
+        "address": 48432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_push@_Concurrent_queue_base_v4@details@Concurrency@@IEAAXPEBX@Z",
+        "ordinal": 206,
+        "address": 48576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_push_back@_Concurrent_vector_base_v4@details@Concurrency@@IEAAPEAX_KAEA_K@Z",
+        "ordinal": 207,
+        "address": 54400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_reserve@_Concurrent_vector_base_v4@details@Concurrency@@IEAAX_K00@Z",
+        "ordinal": 208,
+        "address": 54560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_resize@_Concurrent_vector_base_v4@details@Concurrency@@IEAAX_K00P6AXPEAX0@ZP6AX1PEBX0@Z3@Z",
+        "ordinal": 209,
+        "address": 55184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_size@_Concurrent_queue_base_v4@details@Concurrency@@IEBA_KXZ",
+        "ordinal": 210,
+        "address": 48656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_swap@_Concurrent_queue_base_v4@details@Concurrency@@IEAAXAEAV123@@Z",
+        "ordinal": 211,
+        "address": 48688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_swap@_Concurrent_vector_base_v4@details@Concurrency@@IEAAXAEAV123@@Z",
+        "ordinal": 212,
+        "address": 55680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_throw_exception@_Concurrent_queue_base_v4@details@Concurrency@@IEBAXXZ",
+        "ordinal": 213,
+        "address": 48720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Internal_throw_exception@_Concurrent_vector_base_v4@details@Concurrency@@IEBAX_K@Z",
+        "ordinal": 214,
+        "address": 55952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_IsCanceling@_StructuredTaskCollection@details@Concurrency@@QEAA_NXZ",
+        "ordinal": 215,
+        "address": 194464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_IsCanceling@_TaskCollection@details@Concurrency@@QEAA_NXZ",
+        "ordinal": 216,
+        "address": 194656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_IsSynchronouslyBlocked@_Context@details@Concurrency@@QEBA_NXZ",
+        "ordinal": 217,
+        "address": 57680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_NewCollection@_AsyncTaskCollection@details@Concurrency@@SAPEAV123@PEAV_CancellationTokenState@23@@Z",
+        "ordinal": 218,
+        "address": 194960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_NumberOfSpins@?$_SpinWait@$00@details@Concurrency@@IEAAKXZ",
+        "ordinal": 219,
+        "address": 4384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_NumberOfSpins@?$_SpinWait@$0A@@details@Concurrency@@IEAAKXZ",
+        "ordinal": 220,
+        "address": 4384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Oversubscribe@_Context@details@Concurrency@@SAX_N@Z",
+        "ordinal": 221,
+        "address": 57376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Reference@_Scheduler@details@Concurrency@@QEAAIXZ",
+        "ordinal": 222,
+        "address": 57680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Release@_NonReentrantBlockingLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 223,
+        "address": 103072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Release@_NonReentrantPPLLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 224,
+        "address": 103088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Release@_ReentrantBlockingLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 225,
+        "address": 103072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Release@_ReentrantLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 226,
+        "address": 103104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Release@_ReentrantPPLLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 227,
+        "address": 103168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Release@_Scheduler@details@Concurrency@@QEAAIXZ",
+        "ordinal": 228,
+        "address": 161584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_ReleaseRead@_ReaderWriterLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 229,
+        "address": 103200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_ReleaseWrite@_ReaderWriterLock@details@Concurrency@@QEAAXXZ",
+        "ordinal": 230,
+        "address": 103216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Reset@?$_SpinWait@$00@details@Concurrency@@IEAAXXZ",
+        "ordinal": 231,
+        "address": 4400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Reset@?$_SpinWait@$0A@@details@Concurrency@@IEAAXXZ",
+        "ordinal": 232,
+        "address": 69152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_RunAndWait@_StructuredTaskCollection@details@Concurrency@@QEAA?AW4_TaskCollectionStatus@23@PEAV_UnrealizedChore@23@@Z",
+        "ordinal": 233,
+        "address": 196176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_RunAndWait@_TaskCollection@details@Concurrency@@QEAA?AW4_TaskCollectionStatus@23@PEAV_UnrealizedChore@23@@Z",
+        "ordinal": 234,
+        "address": 197024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Schedule@_StructuredTaskCollection@details@Concurrency@@QEAAXPEAV_UnrealizedChore@23@@Z",
+        "ordinal": 235,
+        "address": 199104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Schedule@_StructuredTaskCollection@details@Concurrency@@QEAAXPEAV_UnrealizedChore@23@PEAVlocation@3@@Z",
+        "ordinal": 236,
+        "address": 199248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Schedule@_TaskCollection@details@Concurrency@@QEAAXPEAV_UnrealizedChore@23@@Z",
+        "ordinal": 237,
+        "address": 199408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Schedule@_TaskCollection@details@Concurrency@@QEAAXPEAV_UnrealizedChore@23@PEAVlocation@3@@Z",
+        "ordinal": 238,
+        "address": 199744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_ScheduleTask@_CurrentScheduler@details@Concurrency@@SAXP6AXPEAX@Z0@Z",
+        "ordinal": 239,
+        "address": 70064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Segment_index_of@_Concurrent_vector_base_v4@details@Concurrency@@KA_K_K@Z",
+        "ordinal": 240,
+        "address": 56032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_SetSpinCount@?$_SpinWait@$00@details@Concurrency@@QEAAXI@Z",
+        "ordinal": 241,
+        "address": 4464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_SetSpinCount@?$_SpinWait@$0A@@details@Concurrency@@QEAAXI@Z",
+        "ordinal": 242,
+        "address": 69216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_ShouldSpinAgain@?$_SpinWait@$00@details@Concurrency@@IEAA_NXZ",
+        "ordinal": 243,
+        "address": 4496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_ShouldSpinAgain@?$_SpinWait@$0A@@details@Concurrency@@IEAA_NXZ",
+        "ordinal": 244,
+        "address": 4496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_SpinOnce@?$_SpinWait@$00@details@Concurrency@@QEAA_NXZ",
+        "ordinal": 245,
+        "address": 4512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_SpinOnce@?$_SpinWait@$0A@@details@Concurrency@@QEAA_NXZ",
+        "ordinal": 246,
+        "address": 69248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_SpinYield@Context@Concurrency@@SAXXZ",
+        "ordinal": 247,
+        "address": 57712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Start@_Timer@details@Concurrency@@IEAAXXZ",
+        "ordinal": 248,
+        "address": 205104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Stop@_Timer@details@Concurrency@@IEAAXXZ",
+        "ordinal": 249,
+        "address": 205200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Trace_agents@Concurrency@@YAXW4Agents_EventType@1@_JZZ",
+        "ordinal": 250,
+        "address": 206816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Trace_ppl_function@Concurrency@@YAXAEBU_GUID@@EW4ConcRT_EventType@1@@Z",
+        "ordinal": 251,
+        "address": 207168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_TryAcquire@_NonReentrantBlockingLock@details@Concurrency@@QEAA_NXZ",
+        "ordinal": 252,
+        "address": 103648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_TryAcquire@_ReentrantBlockingLock@details@Concurrency@@QEAA_NXZ",
+        "ordinal": 253,
+        "address": 103648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_TryAcquire@_ReentrantLock@details@Concurrency@@QEAA_NXZ",
+        "ordinal": 254,
+        "address": 103680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_TryAcquireWrite@_ReaderWriterLock@details@Concurrency@@QEAA_NXZ",
+        "ordinal": 255,
+        "address": 103744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_UnderlyingYield@details@Concurrency@@YAXXZ",
+        "ordinal": 256,
+        "address": 217648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Value@_SpinCount@details@Concurrency@@SAIXZ",
+        "ordinal": 257,
+        "address": 103776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_Yield@_Context@details@Concurrency@@SAXXZ",
+        "ordinal": 258,
+        "address": 57552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?cancel@agent@Concurrency@@QEAA_NXZ",
+        "ordinal": 259,
+        "address": 26256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?current@location@Concurrency@@SA?AV12@XZ",
+        "ordinal": 260,
+        "address": 95392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?done@agent@Concurrency@@IEAA_NXZ",
+        "ordinal": 261,
+        "address": 27600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?from_numa_node@location@Concurrency@@SA?AV12@G@Z",
+        "ordinal": 262,
+        "address": 95568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get_error_code@scheduler_resource_allocation_error@Concurrency@@QEBAJXZ",
+        "ordinal": 263,
+        "address": 78656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?is_current_task_group_canceling@Concurrency@@YA_NXZ",
+        "ordinal": 264,
+        "address": 99088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lock@critical_section@Concurrency@@QEAAXXZ",
+        "ordinal": 265,
+        "address": 103792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lock@reader_writer_lock@Concurrency@@QEAAXXZ",
+        "ordinal": 266,
+        "address": 104112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lock_read@reader_writer_lock@Concurrency@@QEAAXXZ",
+        "ordinal": 267,
+        "address": 104224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?native_handle@critical_section@Concurrency@@QEAAAEAV12@XZ",
+        "ordinal": 268,
+        "address": 104592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?notify_all@_Condition_variable@details@Concurrency@@QEAAXXZ",
+        "ordinal": 269,
+        "address": 72960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?notify_one@_Condition_variable@details@Concurrency@@QEAAXXZ",
+        "ordinal": 270,
+        "address": 73136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?reset@event@Concurrency@@QEAAXXZ",
+        "ordinal": 271,
+        "address": 73344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set@event@Concurrency@@QEAAXXZ",
+        "ordinal": 272,
+        "address": 73472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set_task_execution_resources@Concurrency@@YAXGPEAU_GROUP_AFFINITY@@@Z",
+        "ordinal": 273,
+        "address": 129376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set_task_execution_resources@Concurrency@@YAX_K@Z",
+        "ordinal": 274,
+        "address": 129392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?start@agent@Concurrency@@QEAA_NXZ",
+        "ordinal": 275,
+        "address": 36320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?status@agent@Concurrency@@QEAA?AW4agent_status@2@XZ",
+        "ordinal": 276,
+        "address": 36544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?status_port@agent@Concurrency@@QEAAPEAV?$ISource@W4agent_status@Concurrency@@@2@XZ",
+        "ordinal": 277,
+        "address": 23296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?try_lock@critical_section@Concurrency@@QEAA_NXZ",
+        "ordinal": 278,
+        "address": 104608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?try_lock@reader_writer_lock@Concurrency@@QEAA_NXZ",
+        "ordinal": 279,
+        "address": 104768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?try_lock_for@critical_section@Concurrency@@QEAA_NI@Z",
+        "ordinal": 280,
+        "address": 104960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?try_lock_read@reader_writer_lock@Concurrency@@QEAA_NXZ",
+        "ordinal": 281,
+        "address": 105152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?unlock@critical_section@Concurrency@@QEAAXXZ",
+        "ordinal": 282,
+        "address": 105200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?unlock@reader_writer_lock@Concurrency@@QEAAXXZ",
+        "ordinal": 283,
+        "address": 105696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?wait@Concurrency@@YAXI@Z",
+        "ordinal": 284,
+        "address": 205232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?wait@_Condition_variable@details@Concurrency@@QEAAXAEAVcritical_section@3@@Z",
+        "ordinal": 285,
+        "address": 73936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?wait@agent@Concurrency@@SA?AW4agent_status@2@PEAV12@I@Z",
+        "ordinal": 286,
+        "address": 39680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?wait@event@Concurrency@@QEAA_KI@Z",
+        "ordinal": 287,
+        "address": 74176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?wait_for@_Condition_variable@details@Concurrency@@QEAA_NAEAVcritical_section@3@I@Z",
+        "ordinal": 288,
+        "address": 74672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?wait_for_all@agent@Concurrency@@SAX_KPEAPEAV12@PEAW4agent_status@2@I@Z",
+        "ordinal": 289,
+        "address": 39872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?wait_for_multiple@event@Concurrency@@SA_KPEAPEAV12@_K_NI@Z",
+        "ordinal": 290,
+        "address": 74992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?wait_for_one@agent@Concurrency@@SAX_KPEAPEAV12@AEAW4agent_status@2@AEA_KI@Z",
+        "ordinal": 291,
+        "address": 40560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 1,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 349792,
+        "size": 880,
+        "entropy": 3.471922,
+        "sha256": "ad3510e715f36c4683ca80982fc1fd24dbfc48e881c2244136b619946d6afd33",
+        "magic_head": "7003340000005600"
+      }
+    ],
+    "total_size": 880,
+    "max_entropy": 3.471922
+  },
+  "digital_signature": {
+    "signature_present": 1,
+    "verification_flag": "OK",
+    "signature_count": 1,
+    "certificates": [
+      {
+        "version": 3,
+        "subject": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Software Compatibility Publisher",
+        "issuer": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Third Party Component CA 2013",
+        "serial_number": "330000012a9ab109de647902ec00000000012a",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2026-3-5",
+        "valid_to": "2027-3-3",
+        "is_ca": 0,
+        "key_usage": []
+      },
+      {
+        "version": 3,
+        "subject": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Third Party Component CA 2013",
+        "issuer": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Root Certificate Authority 2011",
+        "serial_number": "33000000149dfbc31f1f63c310000000000014",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2013-5-1",
+        "valid_to": "2028-5-1",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN",
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      }
+    ]
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 2161888080,
+    "entries": [
+      {
+        "id": 258,
+        "build_id": 35721,
+        "count": 1
+      },
+      {
+        "id": 255,
+        "build_id": 35721,
+        "count": 1
+      },
+      {
+        "id": 256,
+        "build_id": 35721,
+        "count": 1
+      },
+      {
+        "id": 261,
+        "build_id": 35721,
+        "count": 73
+      },
+      {
+        "id": 260,
+        "build_id": 35721,
+        "count": 8
+      },
+      {
+        "id": 259,
+        "build_id": 35721,
+        "count": 4
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 124
+      },
+      {
+        "id": 257,
+        "build_id": 35721,
+        "count": 7
+      },
+      {
+        "id": 147,
+        "build_id": 30729,
+        "count": 10
+      },
+      {
+        "id": 257,
+        "build_id": 33145,
+        "count": 2
+      }
+    ],
+    "raw_hex": "14aab5d350cbdb8050cbdb8050cbdb80294ada8152cbdb8059b348805acbdb80d940da8157cbdb8050cbda802ccbdb80d940d88154cbdb80d940df8158cbdb80d940de8119cbdb80d940db8151cbdb80d940248051cbdb80d940d98151cbdb805269636850cbdb80",
+    "raw_offset": 128,
+    "raw_size": 104,
+    "entry_count": 10
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 297728,
+      "size": 19724,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 317452,
+      "size": 200,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 360448,
+      "size": 976,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 339968,
+      "size": 16608,
+      "section": ".pdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 353792,
+      "size": 20408,
+      "section": ".pdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 364544,
+      "size": 2668,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 246336,
+      "size": 112,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 246016,
+      "size": 320,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 229376,
+      "size": 984,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 0,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": null
+  },
+  "entrypoint_bytes": {
+    "offset": 218560,
+    "hex": "48895c24084889742410574883ec20498bf88bda488bf183fa017505e84f0000004c8bc78bd3488bce488b5c2430488b7424384883c4205fe983feffffcccccc",
+    "entropy": 4.69516
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 6442774784,
+    "se_handler_count": 0,
+    "guard_cf_function_count": 669,
+    "guard_flags": 272725248
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 339968,
+    "size": 16608,
+    "runtime_function_count": 1384
+  },
+  "section_layout_qc": {
+    "gaps": 5,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 5,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 1004
+  },
+  "optional_header": {
+    "magic": "PE32_PLUS",
+    "major_linker_version": 14,
+    "minor_linker_version": 50,
+    "sizeof_code": 224768,
+    "sizeof_initialized_data": 128512,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 221632,
+    "baseof_code": 4096,
+    "baseof_data": null,
+    "imagebase": 6442450944,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 6,
+    "minor_operating_system_version": 0,
+    "major_image_version": 10,
+    "minor_image_version": 0,
+    "major_subsystem_version": 6,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 368640,
+    "sizeof_headers": 1024,
+    "checksum": 381034,
+    "subsystem": "WINDOWS_CUI",
+    "dll_characteristics_raw": 16736,
+    "dll_characteristics": [
+      "HIGH_ENTROPY_VA",
+      "DYNAMIC_BASE",
+      "NX_COMPAT",
+      "GUARD_CF"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 184,
+    "entropy": 5.093827,
+    "is_standard_ms": 1,
+    "sha256": "a1daa83e2e1fe0028f4d02dd89fde70435c160589a7e4c7e21e6769dfb3ea5d9",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a240000000000000014aab5d350cbdb8050cbdb8050cbdb80294ada8152cbdb8059b348805acbdb80d940da8157cbdb8050cbda802ccbdb80d940d88154cbdb80d940df8158cbdb80d940de8119cbdb80d940db8151cbdb80d940248051cbdb80d940d98151cbdb805269636850cbdb8000000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ P P P )J R Y H Z @ W P , @ T @ X @ @ Q @$ Q @ Q RichP",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 381034,
+    "checksum_computed": 381034,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 221632,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.254187
+  },
+  "overlay": {
+    "size": 20408,
+    "offset": 353792,
+    "entropy": 7.516147,
+    "magic_head": "b84f00000002020030824faa06092a86",
+    "sha256": "ba6f0e5659ed756b78c94a7c12e69af7c1d4f6bed447cd94249fd716313d5853"
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 4,
+    "types": [
+      "CODEVIEW",
+      "POGO",
+      "REPRO",
+      "EX_DLLCHARACTERISTICS"
+    ],
+    "pdb_path": "D:\\a\\_work\\1\\s\\binaries\\amd64ret\\bin\\amd64\\\\concrt140.amd64.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 9,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "Microsoft Corporation",
+    "file_description": "Microsoft\u00ae Concurrency Runtime Library",
+    "original_filename": "concrt140.dll",
+    "product_name": "Microsoft\u00ae Visual Studio\u00ae",
+    "file_version": "14.51.36247.0",
+    "legal_copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+    "internal_name": "concrt140.dll"
+  },
+  "strings": {
+    "count_ascii": 4330,
+    "count_utf16": 33,
+    "count_total": 4363,
+    "chars_total": 52906,
+    "printable_ratio": 0.141384,
+    "len_mean": 12.13,
+    "len_max": 335,
+    "urls": [
+      "http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0",
+      "http://www.microsoft.com0"
+    ],
+    "n_urls": 2,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "advapi32.dll",
+      "api-ms-win-crt-heap-l1-1-0.dll",
+      "api-ms-win-crt-math-l1-1-0.dll",
+      "api-ms-win-crt-runtime-l1-1-0.dll",
+      "api-ms-win-crt-stdio-l1-1-0.dll",
+      "api-ms-win-crt-string-l1-1-0.dll",
+      "combase.dll",
+      "concrt140.dll",
+      "kernel32.dll",
+      "msvcp140.dll",
+      "vcruntime140.dll",
+      "vcruntime140_1.dll"
+    ],
+    "n_dll_names": 12,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [
+      "D:\\a\\_work\\1\\s\\binaries\\amd64ret\\bin\\amd64"
+    ],
+    "n_file_paths": 1
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "advapi32.dll",
+      "combase.dll",
+      "concrt140.dll"
+    ],
+    "n_orphans": 3,
+    "n_imported": 9
+  }
+}

@@ -1,0 +1,4635 @@
+{
+  "sha256": "27b66d52e1739090e21debee1ba929287abf5c05c2e30ad5533faa6b01c932bb",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 88064,
+    "md5": "48716c2975e1dae04b777c42243c43d0",
+    "sha1": "5e583c17e68484b0bbcb7d9ee4f7ef7e8a75a2de",
+    "imphash": "be2d127db9b1487e2cd98a44ba29033c",
+    "tlsh": "T1B3838D01B7B0C576C4278B362CA1D7A21DF9B8218BD887DB6F6B06795E203E0467735E",
+    "ssdeep": "1536:9NA2tYwRlQ/hPyC6l0jJ8lhnsBRFsp6FbB+RofTP5ryeB7Lz:fAwROJK0elQR+p6p8Ru17Lz",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.483108,
+    "byte_histogram_256": [
+      0.19013445,
+      0.02299464,
+      0.00522347,
+      0.00542787,
+      0.0110942,
+      0.00280478,
+      0.00256632,
+      0.00300918,
+      0.01037882,
+      0.0019077,
+      0.0024187,
+      0.00215752,
+      0.00646121,
+      0.00240734,
+      0.00123774,
+      0.00543923,
+      0.02373274,
+      0.00115825,
+      0.00111283,
+      0.00087436,
+      0.00347475,
+      0.00564362,
+      0.00133993,
+      0.00090843,
+      0.00304324,
+      0.00106741,
+      0.00080623,
+      0.00093114,
+      0.00161246,
+      0.00087436,
+      0.00069268,
+      0.00145349,
+      0.00828943,
+      0.00081759,
+      0.00064726,
+      0.00145349,
+      0.00692678,
+      0.00081759,
+      0.00071539,
+      0.00104469,
+      0.00161246,
+      0.00071539,
+      0.00070403,
+      0.00180551,
+      0.00112418,
+      0.00118096,
+      0.00104469,
+      0.00074945,
+      0.00388354,
+      0.00378134,
+      0.00220294,
+      0.00725609,
+      0.00347475,
+      0.00267987,
+      0.00222565,
+      0.00120367,
+      0.00238463,
+      0.00307731,
+      0.00170331,
+      0.00627952,
+      0.00228243,
+      0.00281613,
+      0.0019077,
+      0.00480332,
+      0.0140466,
+      0.00640443,
+      0.00322493,
+      0.00308866,
+      0.00508721,
+      0.01187773,
+      0.0071766,
+      0.00370185,
+      0.0036905,
+      0.00596157,
+      0.00105605,
+      0.00099927,
+      0.00300918,
+      0.00669967,
+      0.0022143,
+      0.00171466,
+      0.00936819,
+      0.00429233,
+      0.00246412,
+      0.00493959,
+      0.00387218,
+      0.00426962,
+      0.00662019,
+      0.00458757,
+      0.00256632,
+      0.00440589,
+      0.00312273,
+      0.00195312,
+      0.00140807,
+      0.00320222,
+      0.00382676,
+      0.00682458,
+      0.00208939,
+      0.01019713,
+      0.00115825,
+      0.00331577,
+      0.00392896,
+      0.01856604,
+      0.00510992,
+      0.0055982,
+      0.00308866,
+      0.0077103,
+      0.00470113,
+      0.00069268,
+      0.00522347,
+      0.00529161,
+      0.00509856,
+      0.00672238,
+      0.00605242,
+      0.00046557,
+      0.00909566,
+      0.00463299,
+      0.01812318,
+      0.01329715,
+      0.00225972,
+      0.00109012,
+      0.00130587,
+      0.00215752,
+      0.00056777,
+      0.00036337,
+      0.00174873,
+      0.00356559,
+      0.00128316,
+      0.00126045,
+      0.00339526,
+      0.00220294,
+      0.00060184,
+      0.01221839,
+      0.00250954,
+      0.00696085,
+      0.00049964,
+      0.0004315,
+      0.00235056,
+      0.00977698,
+      0.00189635,
+      0.02879724,
+      0.0008403,
+      0.00523483,
+      0.00074945,
+      0.00082894,
+      0.00140807,
+      0.0005337,
+      0.00028388,
+      0.00042015,
+      0.00102198,
+      0.00110147,
+      0.00036337,
+      0.0002044,
+      0.00087436,
+      0.0004315,
+      0.00019304,
+      0.00023846,
+      0.00099927,
+      0.00042015,
+      0.00026117,
+      0.00029524,
+      0.00090843,
+      0.00121503,
+      0.00038608,
+      0.00101063,
+      0.00076081,
+      0.00086301,
+      0.0003066,
+      0.00021575,
+      0.00086301,
+      0.00055641,
+      0.00064726,
+      0.00054506,
+      0.00069268,
+      0.00027253,
+      0.00038608,
+      0.00034066,
+      0.00113554,
+      0.00023846,
+      0.00026117,
+      0.00027253,
+      0.00103334,
+      0.00037473,
+      0.00066997,
+      0.00107876,
+      0.00164653,
+      0.00042015,
+      0.00044286,
+      0.00040879,
+      0.00077217,
+      0.00021575,
+      0.00087436,
+      0.00060184,
+      0.00883448,
+      0.00344068,
+      0.00332713,
+      0.00575718,
+      0.0026458,
+      0.00054506,
+      0.00270258,
+      0.00407658,
+      0.00197584,
+      0.00216888,
+      0.00162382,
+      0.00072674,
+      0.01745322,
+      0.00057912,
+      0.00130587,
+      0.0008403,
+      0.00181686,
+      0.00135129,
+      0.00118096,
+      0.00186228,
+      0.00102198,
+      0.00035202,
+      0.00115825,
+      0.0006359,
+      0.00187364,
+      0.00090843,
+      0.0005337,
+      0.00112418,
+      0.00102198,
+      0.00152162,
+      0.00056777,
+      0.00042015,
+      0.00543923,
+      0.00165789,
+      0.00233921,
+      0.0014762,
+      0.00283884,
+      0.00045422,
+      0.00082894,
+      0.00060184,
+      0.0105605,
+      0.00215752,
+      0.00095385,
+      0.00438318,
+      0.00347475,
+      0.00037473,
+      0.00069268,
+      0.00062455,
+      0.00415607,
+      0.00139671,
+      0.00046557,
+      0.00102198,
+      0.00187364,
+      0.00029524,
+      0.00236192,
+      0.00206668,
+      0.00450809,
+      0.00143078,
+      0.00089707,
+      0.00111283,
+      0.00495094,
+      0.00178279,
+      0.00330441,
+      0.03596248
+    ],
+    "byte_entropy_histogram_256": [
+      0.01176471,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0114028,
+      0.0,
+      0.0,
+      0.00018382,
+      0.0,
+      0.0,
+      0.0,
+      5.74e-06,
+      2.298e-05,
+      2.298e-05,
+      2.298e-05,
+      2.298e-05,
+      5.74e-06,
+      1.723e-05,
+      3.447e-05,
+      2.298e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00977137,
+      0.00044807,
+      0.00032169,
+      1.723e-05,
+      0.00028148,
+      0.0001551,
+      0.00019531,
+      0.00019531,
+      5.17e-05,
+      5.74e-06,
+      9.191e-05,
+      3.447e-05,
+      1.723e-05,
+      6.319e-05,
+      3.447e-05,
+      8.042e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00815717,
+      0.00068359,
+      0.00033892,
+      5.17e-05,
+      0.00034467,
+      0.00024701,
+      0.00017233,
+      0.00022403,
+      0.00019531,
+      0.0001034,
+      0.00019531,
+      9.766e-05,
+      0.00014361,
+      0.00014936,
+      0.00012063,
+      0.00053998,
+      0.01008732,
+      0.00058019,
+      0.00144187,
+      0.00204504,
+      0.01821576,
+      0.00757123,
+      0.02128332,
+      0.00868566,
+      9.766e-05,
+      0.00012063,
+      1.723e-05,
+      4.021e-05,
+      7.468e-05,
+      1.149e-05,
+      0.00019531,
+      0.00012063,
+      0.03904527,
+      0.00232652,
+      0.00377413,
+      0.00772059,
+      0.01396484,
+      0.00768612,
+      0.03299058,
+      0.01395335,
+      0.00096507,
+      0.0006204,
+      0.00073529,
+      0.00068934,
+      0.00071232,
+      0.00064913,
+      0.00079274,
+      0.00278608,
+      0.02047335,
+      0.00237247,
+      0.00086167,
+      0.00093061,
+      0.0045841,
+      0.00256204,
+      0.00398667,
+      0.00201631,
+      0.00121783,
+      0.00072955,
+      0.00043084,
+      0.00044807,
+      0.00237247,
+      0.00055722,
+      0.00080997,
+      0.00270565,
+      0.03475988,
+      0.00657744,
+      0.00613511,
+      0.01649816,
+      0.00749081,
+      0.00490579,
+      0.0154182,
+      0.00854779,
+      0.0027631,
+      0.00190142,
+      0.0018727,
+      0.00174058,
+      0.00244715,
+      0.00179228,
+      0.00238971,
+      0.00240694,
+      0.01012753,
+      0.00317096,
+      0.0022346,
+      0.00372243,
+      0.00303883,
+      0.00395221,
+      0.00199334,
+      0.00195887,
+      0.00368796,
+      0.0003102,
+      0.0002068,
+      0.00038488,
+      0.00804228,
+      0.00064913,
+      0.00164867,
+      0.00193015,
+      0.04462891,
+      0.0127068,
+      0.00553194,
+      0.00587661,
+      0.0110409,
+      0.0153148,
+      0.00352137,
+      0.01000115,
+      0.02348346,
+      0.00136144,
+      0.00164867,
+      0.00243566,
+      0.02047335,
+      0.00398667,
+      0.00977137,
+      0.01645221,
+      0.06835938,
+      0.02030676,
+      0.00924288,
+      0.01551011,
+      0.02180032,
+      0.02606847,
+      0.00973116,
+      0.02235179,
+      0.04764476,
+      0.00375115,
+      0.00486558,
+      0.00464729,
+      0.02426471,
+      0.00961627,
+      0.0234892,
+      0.04129136,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 50052,
+      "raw_size": 50176,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.664529,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 23950,
+      "raw_size": 24064,
+      "virtual_address": 57344,
+      "pointerto_raw_data": 51200,
+      "entropy": 5.855557,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 7232,
+      "raw_size": 4608,
+      "virtual_address": 81920,
+      "pointerto_raw_data": 75264,
+      "entropy": 3.562965,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 1888,
+      "raw_size": 2048,
+      "virtual_address": 90112,
+      "pointerto_raw_data": 79872,
+      "entropy": 3.958048,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 5968,
+      "raw_size": 6144,
+      "virtual_address": 94208,
+      "pointerto_raw_data": 81920,
+      "entropy": 4.387676,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 248,
+    "e_lfanew_raw": 248,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b800000000000000400000000000000000000000000000000000000000000000000000000000000000000000f8000000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 5,
+    "time_date_stamp": 1262165571,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8450,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "FreeImage.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 57344,
+      "import_lookup_table_rva": 66432,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Unload@4",
+          "hint": 217,
+          "iat_address": 57344,
+          "iat_value": 67304,
+          "data": 67304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetColorsUsed@4",
+          "hint": 97,
+          "iat_address": 57348,
+          "iat_value": 67326,
+          "data": 67326
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetPalette@4",
+          "hint": 129,
+          "iat_address": 57352,
+          "iat_value": 67356,
+          "data": 67356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_AllocateT@28",
+          "hint": 10,
+          "iat_address": 57356,
+          "iat_value": 67382,
+          "data": 67382
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Clone@4",
+          "hint": 14,
+          "iat_address": 57360,
+          "iat_value": 67408,
+          "data": 67408
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Copy@20",
+          "hint": 70,
+          "iat_address": 57364,
+          "iat_value": 67430,
+          "data": 67430
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Paste@20",
+          "hint": 172,
+          "iat_address": 57368,
+          "iat_value": 67452,
+          "data": 67452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetImageType@4",
+          "hint": 121,
+          "iat_address": 57372,
+          "iat_value": 67474,
+          "data": 67474
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetWidth@4",
+          "hint": 146,
+          "iat_address": 57376,
+          "iat_value": 67502,
+          "data": 67502
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetHeight@4",
+          "hint": 118,
+          "iat_address": 57380,
+          "iat_value": 67526,
+          "data": 67526
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetPitch@4",
+          "hint": 130,
+          "iat_address": 57384,
+          "iat_value": 67552,
+          "data": 67552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetInfo@4",
+          "hint": 122,
+          "iat_address": 57388,
+          "iat_value": 67576,
+          "data": 67576
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetInfoHeader@4",
+          "hint": 123,
+          "iat_address": 57392,
+          "iat_value": 67600,
+          "data": 67600
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetDIBSize@4",
+          "hint": 100,
+          "iat_address": 57396,
+          "iat_value": 67630,
+          "data": 67630
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetBPP@4",
+          "hint": 91,
+          "iat_address": 57400,
+          "iat_value": 67656,
+          "data": 67656
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetLine@4",
+          "hint": 124,
+          "iat_address": 57404,
+          "iat_value": 67678,
+          "data": 67678
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetDotsPerMeterX@4",
+          "hint": 101,
+          "iat_address": 57408,
+          "iat_value": 67702,
+          "data": 67702
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetDotsPerMeterY@4",
+          "hint": 102,
+          "iat_address": 57412,
+          "iat_value": 67734,
+          "data": 67734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetDotsPerMeterX@8",
+          "hint": 189,
+          "iat_address": 57416,
+          "iat_value": 67766,
+          "data": 67766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetDotsPerMeterY@8",
+          "hint": 190,
+          "iat_address": 57420,
+          "iat_value": 67798,
+          "data": 67798
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetColorType@4",
+          "hint": 96,
+          "iat_address": 57424,
+          "iat_value": 67830,
+          "data": 67830
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetBits@4",
+          "hint": 93,
+          "iat_address": 57428,
+          "iat_value": 67858,
+          "data": 67858
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetScanLine@8",
+          "hint": 134,
+          "iat_address": 57432,
+          "iat_value": 67882,
+          "data": 67882
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetPixelIndex@16",
+          "hint": 132,
+          "iat_address": 57436,
+          "iat_value": 67910,
+          "data": 67910
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetPixelColor@16",
+          "hint": 131,
+          "iat_address": 57440,
+          "iat_value": 67940,
+          "data": 67940
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetPixelIndex@16",
+          "hint": 195,
+          "iat_address": 57444,
+          "iat_value": 67970,
+          "data": 67970
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetPixelColor@16",
+          "hint": 194,
+          "iat_address": 57448,
+          "iat_value": 68000,
+          "data": 68000
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetFIFFromFilename@4",
+          "hint": 106,
+          "iat_address": 57452,
+          "iat_value": 68030,
+          "data": 68030
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetFileType@8",
+          "hint": 112,
+          "iat_address": 57456,
+          "iat_value": 68064,
+          "data": 68064
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetFIFFromFilenameU@4",
+          "hint": 107,
+          "iat_address": 57460,
+          "iat_value": 68092,
+          "data": 68092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetFileTypeU@8",
+          "hint": 115,
+          "iat_address": 57464,
+          "iat_value": 68128,
+          "data": 68128
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetFileTypeFromHandle@12",
+          "hint": 113,
+          "iat_address": 57468,
+          "iat_value": 68156,
+          "data": 68156
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetFileTypeFromMemory@8",
+          "hint": 114,
+          "iat_address": 57472,
+          "iat_value": 68194,
+          "data": 68194
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Load@12",
+          "hint": 158,
+          "iat_address": 57476,
+          "iat_value": 68232,
+          "data": 68232
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_FIFSupportsReading@4",
+          "hint": 82,
+          "iat_address": 57480,
+          "iat_value": 68254,
+          "data": 68254
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_LoadU@12",
+          "hint": 162,
+          "iat_address": 57484,
+          "iat_value": 68288,
+          "data": 68288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_LoadFromHandle@16",
+          "hint": 159,
+          "iat_address": 57488,
+          "iat_value": 68310,
+          "data": 68310
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Save@16",
+          "hint": 181,
+          "iat_address": 57492,
+          "iat_value": 68342,
+          "data": 68342
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_FIFSupportsExportType@8",
+          "hint": 80,
+          "iat_address": 57496,
+          "iat_value": 68364,
+          "data": 68364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_FIFSupportsExportBPP@8",
+          "hint": 79,
+          "iat_address": 57500,
+          "iat_value": 68402,
+          "data": 68402
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_FIFSupportsWriting@4",
+          "hint": 83,
+          "iat_address": 57504,
+          "iat_value": 68438,
+          "data": 68438
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SaveU@16",
+          "hint": 184,
+          "iat_address": 57508,
+          "iat_value": 68472,
+          "data": 68472
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SaveToHandle@20",
+          "hint": 182,
+          "iat_address": 57512,
+          "iat_value": 68494,
+          "data": 68494
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ConvertToType@12",
+          "hint": 69,
+          "iat_address": 57516,
+          "iat_value": 68524,
+          "data": 68524
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Threshold@8",
+          "hint": 211,
+          "iat_address": 57520,
+          "iat_value": 68554,
+          "data": 68554
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ConvertTo4Bits@4",
+          "hint": 63,
+          "iat_address": 57524,
+          "iat_value": 68580,
+          "data": 68580
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ConvertTo8Bits@4",
+          "hint": 64,
+          "iat_address": 57528,
+          "iat_value": 68610,
+          "data": 68610
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ConvertTo16Bits555@4",
+          "hint": 59,
+          "iat_address": 57532,
+          "iat_value": 68640,
+          "data": 68640
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ConvertTo16Bits565@4",
+          "hint": 60,
+          "iat_address": 57536,
+          "iat_value": 68674,
+          "data": 68674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ConvertTo24Bits@4",
+          "hint": 61,
+          "iat_address": 57540,
+          "iat_value": 68708,
+          "data": 68708
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ConvertTo32Bits@4",
+          "hint": 62,
+          "iat_address": 57544,
+          "iat_value": 68740,
+          "data": 68740
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ConvertToGreyscale@4",
+          "hint": 65,
+          "iat_address": 57548,
+          "iat_value": 68772,
+          "data": 68772
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ColorQuantize@8",
+          "hint": 19,
+          "iat_address": 57552,
+          "iat_value": 68806,
+          "data": 68806
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Dither@8",
+          "hint": 77,
+          "iat_address": 57556,
+          "iat_value": 68836,
+          "data": 68836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ConvertToRGBF@4",
+          "hint": 66,
+          "iat_address": 57560,
+          "iat_value": 68858,
+          "data": 68858
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_TmoReinhard05Ex@36",
+          "hint": 215,
+          "iat_address": 57564,
+          "iat_value": 68888,
+          "data": 68888
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ToneMapping@24",
+          "hint": 216,
+          "iat_address": 57568,
+          "iat_value": 68920,
+          "data": 68920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_IsTransparent@4",
+          "hint": 153,
+          "iat_address": 57572,
+          "iat_value": 68948,
+          "data": 68948
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetTransparencyCount@4",
+          "hint": 142,
+          "iat_address": 57576,
+          "iat_value": 68978,
+          "data": 68978
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetTransparencyTable@4",
+          "hint": 143,
+          "iat_address": 57580,
+          "iat_value": 69014,
+          "data": 69014
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetTransparencyTable@12",
+          "hint": 204,
+          "iat_address": 57584,
+          "iat_value": 69050,
+          "data": 69050
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_HasBackgroundColor@4",
+          "hint": 147,
+          "iat_address": 57588,
+          "iat_value": 69088,
+          "data": 69088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetBackgroundColor@8",
+          "hint": 92,
+          "iat_address": 57592,
+          "iat_value": 69122,
+          "data": 69122
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetBackgroundColor@8",
+          "hint": 186,
+          "iat_address": 57596,
+          "iat_value": 69156,
+          "data": 69156
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetChannel@8",
+          "hint": 95,
+          "iat_address": 57600,
+          "iat_value": 69190,
+          "data": 69190
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetChannel@12",
+          "hint": 187,
+          "iat_address": 57604,
+          "iat_value": 69216,
+          "data": 69216
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Allocate@24",
+          "hint": 7,
+          "iat_address": 57608,
+          "iat_value": 69244,
+          "data": 69244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_RotateEx@48",
+          "hint": 180,
+          "iat_address": 57612,
+          "iat_value": 69270,
+          "data": 69270
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Rotate@16",
+          "hint": 178,
+          "iat_address": 57616,
+          "iat_value": 69296,
+          "data": 69296
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_FlipVertical@4",
+          "hint": 89,
+          "iat_address": 57620,
+          "iat_value": 69320,
+          "data": 69320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_FlipHorizontal@4",
+          "hint": 88,
+          "iat_address": 57624,
+          "iat_value": 69348,
+          "data": 69348
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Invert@4",
+          "hint": 150,
+          "iat_address": 57628,
+          "iat_value": 69378,
+          "data": 69378
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_AdjustCurve@12",
+          "hint": 5,
+          "iat_address": 57632,
+          "iat_value": 69400,
+          "data": 69400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_AdjustGamma@12",
+          "hint": 6,
+          "iat_address": 57636,
+          "iat_value": 69428,
+          "data": 69428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_AdjustBrightness@12",
+          "hint": 2,
+          "iat_address": 57640,
+          "iat_value": 69456,
+          "data": 69456
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_AdjustContrast@12",
+          "hint": 4,
+          "iat_address": 57644,
+          "iat_value": 69490,
+          "data": 69490
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_AdjustColors@32",
+          "hint": 3,
+          "iat_address": 57648,
+          "iat_value": 69522,
+          "data": 69522
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetHistogram@12",
+          "hint": 119,
+          "iat_address": 57652,
+          "iat_value": 69552,
+          "data": 69552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Rescale@16",
+          "hint": 177,
+          "iat_address": 57656,
+          "iat_value": 69582,
+          "data": 69582
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_MakeThumbnail@12",
+          "hint": 166,
+          "iat_address": 57660,
+          "iat_value": 69606,
+          "data": 69606
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetMetadataCount@8",
+          "hint": 127,
+          "iat_address": 57664,
+          "iat_value": 69636,
+          "data": 69636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_CloneTag@4",
+          "hint": 16,
+          "iat_address": 57668,
+          "iat_value": 69668,
+          "data": 69668
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetMetadata@16",
+          "hint": 126,
+          "iat_address": 57672,
+          "iat_value": 69692,
+          "data": 69692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetMetadata@16",
+          "hint": 191,
+          "iat_address": 57676,
+          "iat_value": 69720,
+          "data": 69720
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_OpenMemory@8",
+          "hint": 169,
+          "iat_address": 57680,
+          "iat_value": 69748,
+          "data": 69748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_CloseMemory@4",
+          "hint": 17,
+          "iat_address": 57684,
+          "iat_value": 69774,
+          "data": 69774
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_LoadFromMemory@12",
+          "hint": 160,
+          "iat_address": 57688,
+          "iat_value": 69802,
+          "data": 69802
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SaveToMemory@16",
+          "hint": 183,
+          "iat_address": 57692,
+          "iat_value": 69834,
+          "data": 69834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ReadMemory@16",
+          "hint": 174,
+          "iat_address": 57696,
+          "iat_value": 69864,
+          "data": 69864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_WriteMemory@16",
+          "hint": 219,
+          "iat_address": 57700,
+          "iat_value": 69892,
+          "data": 69892
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_TellMemory@4",
+          "hint": 210,
+          "iat_address": 57704,
+          "iat_value": 69920,
+          "data": 69920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SeekMemory@12",
+          "hint": 185,
+          "iat_address": 57708,
+          "iat_value": 69946,
+          "data": 69946
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_AcquireMemory@12",
+          "hint": 1,
+          "iat_address": 57712,
+          "iat_value": 69974,
+          "data": 69974
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_FindCloseMetadata@4",
+          "hint": 85,
+          "iat_address": 57716,
+          "iat_value": 70004,
+          "data": 70004
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_FindFirstMetadata@12",
+          "hint": 86,
+          "iat_address": 57720,
+          "iat_value": 70038,
+          "data": 70038
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_FindNextMetadata@8",
+          "hint": 87,
+          "iat_address": 57724,
+          "iat_value": 70072,
+          "data": 70072
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_OpenMultiBitmap@24",
+          "hint": 170,
+          "iat_address": 57728,
+          "iat_value": 70104,
+          "data": 70104
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_LoadMultiBitmapFromMemory@12",
+          "hint": 161,
+          "iat_address": 57732,
+          "iat_value": 70136,
+          "data": 70136
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_CloseMultiBitmap@8",
+          "hint": 18,
+          "iat_address": 57736,
+          "iat_value": 70178,
+          "data": 70178
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetPageCount@4",
+          "hint": 128,
+          "iat_address": 57740,
+          "iat_value": 70210,
+          "data": 70210
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_AppendPage@8",
+          "hint": 11,
+          "iat_address": 57744,
+          "iat_value": 70238,
+          "data": 70238
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_InsertPage@12",
+          "hint": 149,
+          "iat_address": 57748,
+          "iat_value": 70264,
+          "data": 70264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_DeletePage@8",
+          "hint": 74,
+          "iat_address": 57752,
+          "iat_value": 70292,
+          "data": 70292
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_MovePage@12",
+          "hint": 167,
+          "iat_address": 57756,
+          "iat_value": 70318,
+          "data": 70318
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_LockPage@8",
+          "hint": 163,
+          "iat_address": 57760,
+          "iat_value": 70344,
+          "data": 70344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_UnlockPage@12",
+          "hint": 218,
+          "iat_address": 57764,
+          "iat_value": 70368,
+          "data": 70368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetLockedPageNumbers@12",
+          "hint": 125,
+          "iat_address": 57768,
+          "iat_value": 70396,
+          "data": 70396
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_CreateTag@0",
+          "hint": 72,
+          "iat_address": 57772,
+          "iat_value": 70434,
+          "data": 70434
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_DeleteTag@4",
+          "hint": 75,
+          "iat_address": 57776,
+          "iat_value": 70460,
+          "data": 70460
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetTagValue@8",
+          "hint": 203,
+          "iat_address": 57780,
+          "iat_value": 70486,
+          "data": 70486
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetTagType@8",
+          "hint": 202,
+          "iat_address": 57784,
+          "iat_value": 70514,
+          "data": 70514
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetTagCount@8",
+          "hint": 197,
+          "iat_address": 57788,
+          "iat_value": 70540,
+          "data": 70540
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetTagLength@8",
+          "hint": 201,
+          "iat_address": 57792,
+          "iat_value": 70568,
+          "data": 70568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetTagKey@8",
+          "hint": 200,
+          "iat_address": 57796,
+          "iat_value": 70596,
+          "data": 70596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetTagKey@4",
+          "hint": 138,
+          "iat_address": 57800,
+          "iat_value": 70622,
+          "data": 70622
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetTagDescription@4",
+          "hint": 136,
+          "iat_address": 57804,
+          "iat_value": 70648,
+          "data": 70648
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetTagID@4",
+          "hint": 137,
+          "iat_address": 57808,
+          "iat_value": 70682,
+          "data": 70682
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetTagType@4",
+          "hint": 140,
+          "iat_address": 57812,
+          "iat_value": 70706,
+          "data": 70706
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetTagCount@4",
+          "hint": 135,
+          "iat_address": 57816,
+          "iat_value": 70732,
+          "data": 70732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetTagLength@4",
+          "hint": 139,
+          "iat_address": 57820,
+          "iat_value": 70760,
+          "data": 70760
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetTagValue@4",
+          "hint": 141,
+          "iat_address": 57824,
+          "iat_value": 70788,
+          "data": 70788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetTagDescription@8",
+          "hint": 198,
+          "iat_address": 57828,
+          "iat_value": 70816,
+          "data": 70816
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_SetTagID@8",
+          "hint": 199,
+          "iat_address": 57832,
+          "iat_value": 70850,
+          "data": 70850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_TagToString@12",
+          "hint": 209,
+          "iat_address": 57836,
+          "iat_value": 70874,
+          "data": 70874
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeImage_OutputMessageProc",
+          "hint": 0,
+          "iat_address": 57840,
+          "iat_value": 70902,
+          "data": 70902
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_ConvertToStandardType@8",
+          "hint": 68,
+          "iat_address": 57844,
+          "iat_value": 70932,
+          "data": 70932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_GetComplexChannel@8",
+          "hint": 98,
+          "iat_address": 57848,
+          "iat_value": 70970,
+          "data": 70970
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_FreeImage_Composite@16",
+          "hint": 21,
+          "iat_address": 57852,
+          "iat_value": 71004,
+          "data": 71004
+        }
+      ],
+      "function_count": 128
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 57904,
+      "import_lookup_table_rva": 66992,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStringTypeW",
+          "hint": 576,
+          "iat_address": 57904,
+          "iat_value": 72552,
+          "data": 72552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MultiByteToWideChar",
+          "hint": 794,
+          "iat_address": 57908,
+          "iat_value": 72530,
+          "data": 72530
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStringTypeA",
+          "hint": 573,
+          "iat_address": 57912,
+          "iat_value": 72512,
+          "data": 72512
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LCMapStringA",
+          "hint": 737,
+          "iat_address": 57916,
+          "iat_value": 72570,
+          "data": 72570
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSectionAndSpinCount",
+          "hint": 693,
+          "iat_address": 57920,
+          "iat_value": 72472,
+          "data": 72472
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LCMapStringW",
+          "hint": 739,
+          "iat_address": 57924,
+          "iat_value": 72586,
+          "data": 72586
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapSize",
+          "hint": 678,
+          "iat_address": 57928,
+          "iat_value": 72602,
+          "data": 72602
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 1057,
+          "iat_address": 57932,
+          "iat_value": 71088,
+          "data": 71088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalAlloc",
+          "hint": 645,
+          "iat_address": 57936,
+          "iat_value": 71074,
+          "data": 71074
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalLock",
+          "hint": 656,
+          "iat_address": 57940,
+          "iat_value": 71060,
+          "data": 71060
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GlobalUnlock",
+          "hint": 663,
+          "iat_address": 57944,
+          "iat_value": 71044,
+          "data": 71044
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 429,
+          "iat_address": 57948,
+          "iat_value": 71532,
+          "data": 71532
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCommandLineA",
+          "hint": 367,
+          "iat_address": 57952,
+          "iat_value": 71554,
+          "data": 71554
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1086,
+          "iat_address": 57956,
+          "iat_value": 71572,
+          "data": 71572
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1045,
+          "iat_address": 57960,
+          "iat_value": 71600,
+          "data": 71600
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteFile",
+          "hint": 1165,
+          "iat_address": 57964,
+          "iat_value": 71630,
+          "data": 71630
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStdHandle",
+          "hint": 571,
+          "iat_address": 57968,
+          "iat_value": 71642,
+          "data": 71642
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameA",
+          "hint": 500,
+          "iat_address": 57972,
+          "iat_value": 71658,
+          "data": 71658
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleW",
+          "hint": 505,
+          "iat_address": 57976,
+          "iat_value": 71680,
+          "data": 71680
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 544,
+          "iat_address": 57980,
+          "iat_value": 71700,
+          "data": 71700
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsGetValue",
+          "hint": 1076,
+          "iat_address": 57984,
+          "iat_value": 71718,
+          "data": 71718
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsAlloc",
+          "hint": 1074,
+          "iat_address": 57988,
+          "iat_value": 71732,
+          "data": 71732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsSetValue",
+          "hint": 1077,
+          "iat_address": 57992,
+          "iat_value": 71744,
+          "data": 71744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsFree",
+          "hint": 1075,
+          "iat_address": 57996,
+          "iat_value": 71758,
+          "data": 71758
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedIncrement",
+          "hint": 704,
+          "iat_address": 58000,
+          "iat_value": 71768,
+          "data": 71768
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetLastError",
+          "hint": 1004,
+          "iat_address": 58004,
+          "iat_value": 71792,
+          "data": 71792
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 486,
+          "iat_address": 58008,
+          "iat_value": 71808,
+          "data": 71808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedDecrement",
+          "hint": 700,
+          "iat_address": 58012,
+          "iat_value": 71824,
+          "data": 71824
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapFree",
+          "hint": 673,
+          "iat_address": 58016,
+          "iat_value": 71848,
+          "data": 71848
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleA",
+          "hint": 502,
+          "iat_address": 58020,
+          "iat_value": 71860,
+          "data": 71860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ExitProcess",
+          "hint": 260,
+          "iat_address": 58024,
+          "iat_value": 71880,
+          "data": 71880
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetHandleCount",
+          "hint": 1000,
+          "iat_address": 58028,
+          "iat_value": 71894,
+          "data": 71894
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileType",
+          "hint": 471,
+          "iat_address": 58032,
+          "iat_value": 71912,
+          "data": 71912
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStartupInfoA",
+          "hint": 569,
+          "iat_address": 58036,
+          "iat_value": 71926,
+          "data": 71926
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 190,
+          "iat_address": 58040,
+          "iat_value": 71944,
+          "data": 71944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeEnvironmentStringsA",
+          "hint": 330,
+          "iat_address": 58044,
+          "iat_value": 71968,
+          "data": 71968
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetEnvironmentStrings",
+          "hint": 447,
+          "iat_address": 58048,
+          "iat_value": 71994,
+          "data": 71994
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeEnvironmentStringsW",
+          "hint": 331,
+          "iat_address": 58052,
+          "iat_value": 72018,
+          "data": 72018
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 1146,
+          "iat_address": 58056,
+          "iat_value": 72044,
+          "data": 72044
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetEnvironmentStringsW",
+          "hint": 449,
+          "iat_address": 58060,
+          "iat_value": 72066,
+          "data": 72066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapCreate",
+          "hint": 671,
+          "iat_address": 58064,
+          "iat_value": 72092,
+          "data": 72092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapDestroy",
+          "hint": 672,
+          "iat_address": 58068,
+          "iat_value": 72106,
+          "data": 72106
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualFree",
+          "hint": 1111,
+          "iat_address": 58072,
+          "iat_value": 72120,
+          "data": 72120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 852,
+          "iat_address": 58076,
+          "iat_value": 72134,
+          "data": 72134
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTickCount",
+          "hint": 614,
+          "iat_address": 58080,
+          "iat_value": 72160,
+          "data": 72160
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 426,
+          "iat_address": 58084,
+          "iat_value": 72176,
+          "data": 72176
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 591,
+          "iat_address": 58088,
+          "iat_value": 72198,
+          "data": 72198
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1069,
+          "iat_address": 58092,
+          "iat_value": 72224,
+          "data": 72224
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 425,
+          "iat_address": 58096,
+          "iat_value": 72244,
+          "data": 72244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 721,
+          "iat_address": 58100,
+          "iat_value": 72264,
+          "data": 72264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 751,
+          "iat_address": 58104,
+          "iat_value": 72284,
+          "data": 72284
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 217,
+          "iat_address": 58108,
+          "iat_value": 72308,
+          "data": 72308
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapAlloc",
+          "hint": 669,
+          "iat_address": 58112,
+          "iat_value": 72332,
+          "data": 72332
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlUnwind",
+          "hint": 914,
+          "iat_address": 58116,
+          "iat_value": 72344,
+          "data": 72344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryA",
+          "hint": 753,
+          "iat_address": 58120,
+          "iat_value": 72356,
+          "data": 72356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCPInfo",
+          "hint": 347,
+          "iat_address": 58124,
+          "iat_value": 72372,
+          "data": 72372
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetACP",
+          "hint": 338,
+          "iat_address": 58128,
+          "iat_value": 72384,
+          "data": 72384
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetOEMCP",
+          "hint": 531,
+          "iat_address": 58132,
+          "iat_value": 72394,
+          "data": 72394
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsValidCodePage",
+          "hint": 731,
+          "iat_address": 58136,
+          "iat_value": 72406,
+          "data": 72406
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLocaleInfoA",
+          "hint": 488,
+          "iat_address": 58140,
+          "iat_value": 72424,
+          "data": 72424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualAlloc",
+          "hint": 1108,
+          "iat_address": 58144,
+          "iat_value": 72442,
+          "data": 72442
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapReAlloc",
+          "hint": 676,
+          "iat_address": 58148,
+          "iat_value": 72458,
+          "data": 72458
+        }
+      ],
+      "function_count": 62
+    },
+    {
+      "name": "USER32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 58156,
+      "import_lookup_table_rva": 67244,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetWindowRect",
+          "hint": 392,
+          "iat_address": 58156,
+          "iat_value": 71330,
+          "data": 71330
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemMetrics",
+          "hint": 367,
+          "iat_address": 58160,
+          "iat_value": 71310,
+          "data": 71310
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ShowWindow",
+          "hint": 696,
+          "iat_address": 58164,
+          "iat_value": 71296,
+          "data": 71296
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetWindowPos",
+          "hint": 679,
+          "iat_address": 58168,
+          "iat_value": 71280,
+          "data": 71280
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetWindowDC",
+          "hint": 383,
+          "iat_address": 58172,
+          "iat_value": 71266,
+          "data": 71266
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsClipboardFormatAvailable",
+          "hint": 438,
+          "iat_address": 58176,
+          "iat_value": 71236,
+          "data": 71236
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetClipboardData",
+          "hint": 271,
+          "iat_address": 58180,
+          "iat_value": 71216,
+          "data": 71216
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OpenClipboard",
+          "hint": 527,
+          "iat_address": 58184,
+          "iat_value": 71200,
+          "data": 71200
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EmptyClipboard",
+          "hint": 206,
+          "iat_address": 58188,
+          "iat_value": 71182,
+          "data": 71182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetClipboardData",
+          "hint": 621,
+          "iat_address": 58192,
+          "iat_value": 71162,
+          "data": 71162
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MessageBoxA",
+          "hint": 504,
+          "iat_address": 58196,
+          "iat_value": 71148,
+          "data": 71148
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseClipboard",
+          "hint": 71,
+          "iat_address": 58200,
+          "iat_value": 71130,
+          "data": 71130
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetDC",
+          "hint": 282,
+          "iat_address": 58204,
+          "iat_value": 71122,
+          "data": 71122
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseDC",
+          "hint": 588,
+          "iat_address": 58208,
+          "iat_value": 71110,
+          "data": 71110
+        }
+      ],
+      "function_count": 14
+    },
+    {
+      "name": "GDI32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 57860,
+      "import_lookup_table_rva": 66948,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "StretchDIBits",
+          "hint": 667,
+          "iat_address": 57860,
+          "iat_value": 71486,
+          "data": 71486
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateCompatibleDC",
+          "hint": 46,
+          "iat_address": 57864,
+          "iat_value": 71464,
+          "data": 71464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateCompatibleBitmap",
+          "hint": 45,
+          "iat_address": 57868,
+          "iat_value": 71438,
+          "data": 71438
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SelectObject",
+          "hint": 606,
+          "iat_address": 57872,
+          "iat_value": 71422,
+          "data": 71422
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "BitBlt",
+          "hint": 18,
+          "iat_address": 57876,
+          "iat_value": 71412,
+          "data": 71412
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteObject",
+          "hint": 208,
+          "iat_address": 57880,
+          "iat_value": 71396,
+          "data": 71396
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteDC",
+          "hint": 205,
+          "iat_address": 57884,
+          "iat_value": 71384,
+          "data": 71384
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetObjectA",
+          "hint": 482,
+          "iat_address": 57888,
+          "iat_value": 71370,
+          "data": 71370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetDIBits",
+          "hint": 436,
+          "iat_address": 57892,
+          "iat_value": 71358,
+          "data": 71358
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetStretchBltMode",
+          "hint": 649,
+          "iat_address": 57896,
+          "iat_value": 71502,
+          "data": 71502
+        }
+      ],
+      "function_count": 10
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "FreeImagePlus.dll",
+    "export_flags": 0,
+    "timestamp": 1262165571,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 181,
+    "entries": [
+      {
+        "name": "??0fipImage@@QAE@ABV0@@Z",
+        "ordinal": 1,
+        "address": 5120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipImage@@QAE@W4FREE_IMAGE_TYPE@@GGG@Z",
+        "ordinal": 2,
+        "address": 10416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipMemoryIO@@QAE@PAEK@Z",
+        "ordinal": 3,
+        "address": 10512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipMetadataFind@@QAE@ABV0@@Z",
+        "ordinal": 4,
+        "address": 4640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipMetadataFind@@QAE@XZ",
+        "ordinal": 5,
+        "address": 10960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipMultiPage@@QAE@ABV0@@Z",
+        "ordinal": 6,
+        "address": 4464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipMultiPage@@QAE@H@Z",
+        "ordinal": 7,
+        "address": 11168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipObject@@QAE@ABV0@@Z",
+        "ordinal": 8,
+        "address": 4128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipObject@@QAE@XZ",
+        "ordinal": 9,
+        "address": 4112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipTag@@QAE@ABV0@@Z",
+        "ordinal": 10,
+        "address": 11952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipTag@@QAE@XZ",
+        "ordinal": 11,
+        "address": 11744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipWinImage@@QAE@ABV0@@Z",
+        "ordinal": 12,
+        "address": 10288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0fipWinImage@@QAE@W4FREE_IMAGE_TYPE@@GGG@Z",
+        "ordinal": 13,
+        "address": 12560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1fipImage@@UAE@XZ",
+        "ordinal": 14,
+        "address": 4848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1fipMemoryIO@@UAE@XZ",
+        "ordinal": 15,
+        "address": 10560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1fipMetadataFind@@UAE@XZ",
+        "ordinal": 16,
+        "address": 10976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1fipMultiPage@@UAE@XZ",
+        "ordinal": 17,
+        "address": 11696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1fipObject@@UAE@XZ",
+        "ordinal": 18,
+        "address": 4096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1fipTag@@UAE@XZ",
+        "ordinal": 19,
+        "address": 11776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1fipWinImage@@UAE@XZ",
+        "ordinal": 20,
+        "address": 12640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4fipImage@@QAEAAV0@ABV0@@Z",
+        "ordinal": 21,
+        "address": 5200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4fipImage@@QAEAAV0@PAUFIBITMAP@@@Z",
+        "ordinal": 22,
+        "address": 5264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4fipMetadataFind@@QAEAAV0@ABV0@@Z",
+        "ordinal": 23,
+        "address": 4672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4fipMultiPage@@QAEAAV0@ABV0@@Z",
+        "ordinal": 24,
+        "address": 4496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4fipObject@@QAEAAV0@ABV0@@Z",
+        "ordinal": 25,
+        "address": 4144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4fipTag@@QAEAAV0@ABV0@@Z",
+        "ordinal": 26,
+        "address": 11984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4fipTag@@QAEAAV0@PAUFITAG@@@Z",
+        "ordinal": 27,
+        "address": 12032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4fipWinImage@@QAEAAV0@ABV0@@Z",
+        "ordinal": 28,
+        "address": 12816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4fipWinImage@@QAEAAV0@ABVfipImage@@@Z",
+        "ordinal": 29,
+        "address": 12752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BfipImage@@QAEPAUFIBITMAP@@XZ",
+        "ordinal": 30,
+        "address": 4256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BfipMemoryIO@@QAEPAUFIMEMORY@@XZ",
+        "ordinal": 31,
+        "address": 4256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BfipTag@@QAEPAUFITAG@@XZ",
+        "ordinal": 32,
+        "address": 4256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7fipImage@@6B@",
+        "ordinal": 33,
+        "address": 58304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7fipMemoryIO@@6B@",
+        "ordinal": 34,
+        "address": 58364,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7fipMetadataFind@@6B@",
+        "ordinal": 35,
+        "address": 58292,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7fipMultiPage@@6B@",
+        "ordinal": 36,
+        "address": 58280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7fipObject@@6B@",
+        "ordinal": 37,
+        "address": 58268,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7fipTag@@6B@",
+        "ordinal": 38,
+        "address": 58376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7fipWinImage@@6B@",
+        "ordinal": 39,
+        "address": 58348,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_FfipImage@@QAEXXZ",
+        "ordinal": 40,
+        "address": 10496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_FfipMemoryIO@@QAEXXZ",
+        "ordinal": 41,
+        "address": 4448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_FfipMultiPage@@QAEXXZ",
+        "ordinal": 42,
+        "address": 4528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_FfipWinImage@@QAEXXZ",
+        "ordinal": 43,
+        "address": 4336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?accessPixels@fipImage@@QBEPAEXZ",
+        "ordinal": 44,
+        "address": 6080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?acquire@fipMemoryIO@@QAEHPAPAEPAK@Z",
+        "ordinal": 45,
+        "address": 10800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?adjustBrightness@fipImage@@QAEHN@Z",
+        "ordinal": 46,
+        "address": 9552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?adjustBrightnessContrastGamma@fipImage@@QAEHNNN@Z",
+        "ordinal": 47,
+        "address": 9648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?adjustContrast@fipImage@@QAEHN@Z",
+        "ordinal": 48,
+        "address": 9600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?adjustCurve@fipImage@@QAEHPAEW4FREE_IMAGE_COLOR_CHANNEL@@@Z",
+        "ordinal": 49,
+        "address": 9456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?adjustGamma@fipImage@@QAEHN@Z",
+        "ordinal": 50,
+        "address": 9504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?appendPage@fipMultiPage@@QAEXAAVfipImage@@@Z",
+        "ordinal": 51,
+        "address": 11456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?captureWindow@fipWinImage@@QAEHPAUHWND__@@0@Z",
+        "ordinal": 52,
+        "address": 13904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?clear@fipImage@@UAEXXZ",
+        "ordinal": 53,
+        "address": 5072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?clear@fipWinImage@@UAEXXZ",
+        "ordinal": 54,
+        "address": 12688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?close@fipMultiPage@@QAEHH@Z",
+        "ordinal": 55,
+        "address": 11376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?colorQuantize@fipImage@@QAEHW4FREE_IMAGE_QUANTIZE@@@Z",
+        "ordinal": 56,
+        "address": 7984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?combineChannels@fipImage@@QAEHAAV1@00@Z",
+        "ordinal": 57,
+        "address": 8896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?convertTo16Bits555@fipImage@@QAEHXZ",
+        "ordinal": 58,
+        "address": 7664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?convertTo16Bits565@fipImage@@QAEHXZ",
+        "ordinal": 59,
+        "address": 7728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?convertTo24Bits@fipImage@@QAEHXZ",
+        "ordinal": 60,
+        "address": 7792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?convertTo32Bits@fipImage@@QAEHXZ",
+        "ordinal": 61,
+        "address": 7856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?convertTo4Bits@fipImage@@QAEHXZ",
+        "ordinal": 62,
+        "address": 7536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?convertTo8Bits@fipImage@@QAEHXZ",
+        "ordinal": 63,
+        "address": 7600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?convertToGrayscale@fipImage@@QAEHXZ",
+        "ordinal": 64,
+        "address": 7920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?convertToRGBF@fipImage@@QAEHXZ",
+        "ordinal": 65,
+        "address": 8144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?convertToType@fipImage@@QAEHW4FREE_IMAGE_TYPE@@H@Z",
+        "ordinal": 66,
+        "address": 7376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?copyFromBitmap@fipWinImage@@QAEHPAUHBITMAP__@@@Z",
+        "ordinal": 67,
+        "address": 13488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?copyFromHandle@fipWinImage@@QAEHPAX@Z",
+        "ordinal": 68,
+        "address": 13184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?copySubImage@fipImage@@QBEHAAV1@HHHH@Z",
+        "ordinal": 69,
+        "address": 5312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?copyToClipboard@fipWinImage@@QBEHPAUHWND__@@@Z",
+        "ordinal": 70,
+        "address": 13728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?copyToHandle@fipWinImage@@QBEPAXXZ",
+        "ordinal": 71,
+        "address": 12912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?crop@fipImage@@QAEHHHHH@Z",
+        "ordinal": 72,
+        "address": 5472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deletePage@fipMultiPage@@QAEXH@Z",
+        "ordinal": 73,
+        "address": 11520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?dither@fipImage@@QAEHW4FREE_IMAGE_DITHER@@@Z",
+        "ordinal": 74,
+        "address": 8064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?draw@fipWinImage@@QBEXPAUHDC__@@AAUtagRECT@@@Z",
+        "ordinal": 75,
+        "address": 4304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?drawEx@fipWinImage@@QBEXPAUHDC__@@AAUtagRECT@@HPAUtagRGBQUAD@@PAUFIBITMAP@@@Z",
+        "ordinal": 76,
+        "address": 14336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?findFirstMetadata@fipMetadataFind@@QAEHW4FREE_IMAGE_MDMODEL@@AAVfipImage@@AAVfipTag@@@Z",
+        "ordinal": 77,
+        "address": 11008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?findNextMetadata@fipMetadataFind@@QAEHAAVfipTag@@@Z",
+        "ordinal": 78,
+        "address": 11104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?flipHorizontal@fipImage@@QAEHXZ",
+        "ordinal": 79,
+        "address": 9392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?flipVertical@fipImage@@QAEHXZ",
+        "ordinal": 80,
+        "address": 9360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getBitsPerPixel@fipImage@@QBEGXZ",
+        "ordinal": 81,
+        "address": 5680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getChannel@fipImage@@QBEHAAV1@W4FREE_IMAGE_COLOR_CHANNEL@@@Z",
+        "ordinal": 82,
+        "address": 8528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getColorType@fipImage@@QBE?AW4FREE_IMAGE_COLOR_TYPE@@XZ",
+        "ordinal": 83,
+        "address": 6016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getColorsUsed@fipImage@@QBEGXZ",
+        "ordinal": 84,
+        "address": 6000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getCount@fipTag@@QBEKXZ",
+        "ordinal": 85,
+        "address": 12144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getDescription@fipTag@@QBEPBDXZ",
+        "ordinal": 86,
+        "address": 12096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getFileBkColor@fipImage@@QBEHPAUtagRGBQUAD@@@Z",
+        "ordinal": 87,
+        "address": 8464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getFileType@fipMemoryIO@@QBE?AW4FREE_IMAGE_FORMAT@@XZ",
+        "ordinal": 88,
+        "address": 10592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getHeight@fipImage@@QBEGXZ",
+        "ordinal": 89,
+        "address": 5600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getHistogram@fipImage@@QBEHPAKW4FREE_IMAGE_COLOR_CHANNEL@@@Z",
+        "ordinal": 90,
+        "address": 9712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getHorizontalResolution@fipImage@@QBENXZ",
+        "ordinal": 91,
+        "address": 5712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getID@fipTag@@QBEGXZ",
+        "ordinal": 92,
+        "address": 12112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getImageSize@fipImage@@QBEJXZ",
+        "ordinal": 93,
+        "address": 5664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getImageType@fipImage@@QBE?AW4FREE_IMAGE_TYPE@@XZ",
+        "ordinal": 94,
+        "address": 5568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getInfo@fipImage@@QBEPAUtagBITMAPINFO@@XZ",
+        "ordinal": 95,
+        "address": 5632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getInfoHeader@fipImage@@QBEPAUtagBITMAPINFOHEADER@@XZ",
+        "ordinal": 96,
+        "address": 5648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getKey@fipTag@@QBEPBDXZ",
+        "ordinal": 97,
+        "address": 12080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getLength@fipTag@@QBEKXZ",
+        "ordinal": 98,
+        "address": 12160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getLine@fipImage@@QBEGXZ",
+        "ordinal": 99,
+        "address": 5696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getLockedPageNumbers@fipMultiPage@@QBEHPAH0@Z",
+        "ordinal": 100,
+        "address": 11664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getMetadata@fipImage@@QBEHW4FREE_IMAGE_MDMODEL@@PBDAAVfipTag@@@Z",
+        "ordinal": 101,
+        "address": 10048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getMetadataCount@fipImage@@QBEIW4FREE_IMAGE_MDMODEL@@@Z",
+        "ordinal": 102,
+        "address": 10016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getPageCount@fipMultiPage@@QBEHXZ",
+        "ordinal": 103,
+        "address": 11424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getPalette@fipImage@@QBEPAUtagRGBQUAD@@XZ",
+        "ordinal": 104,
+        "address": 5968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getPaletteSize@fipImage@@QBEGXZ",
+        "ordinal": 105,
+        "address": 5984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getPixelColor@fipImage@@QBEHIIPAUtagRGBQUAD@@@Z",
+        "ordinal": 106,
+        "address": 6176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getPixelIndex@fipImage@@QBEHIIPAE@Z",
+        "ordinal": 107,
+        "address": 6144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getScanLine@fipImage@@QBEPAEG@Z",
+        "ordinal": 108,
+        "address": 6096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getScanWidth@fipImage@@QBEGXZ",
+        "ordinal": 109,
+        "address": 5616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getToneMappingOperator@fipWinImage@@QBEXPAW4FREE_IMAGE_TMO@@PAN111@Z",
+        "ordinal": 110,
+        "address": 14960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getTransparencyCount@fipImage@@QBEIXZ",
+        "ordinal": 111,
+        "address": 8368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getTransparencyTable@fipImage@@QBEPAEXZ",
+        "ordinal": 112,
+        "address": 8384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getType@fipTag@@QBE?AW4FREE_IMAGE_MDTYPE@@XZ",
+        "ordinal": 113,
+        "address": 12128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getValue@fipTag@@QBEPBXXZ",
+        "ordinal": 114,
+        "address": 12176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getVerticalResolution@fipImage@@QBENXZ",
+        "ordinal": 115,
+        "address": 5760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?getWidth@fipImage@@QBEGXZ",
+        "ordinal": 116,
+        "address": 5584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasFileBkColor@fipImage@@QBEHXZ",
+        "ordinal": 117,
+        "address": 8448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?identifyFIF@fipImage@@SA?AW4FREE_IMAGE_FORMAT@@PBD@Z",
+        "ordinal": 118,
+        "address": 6304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?identifyFIFFromHandle@fipImage@@SA?AW4FREE_IMAGE_FORMAT@@PAUFreeImageIO@@PAX@Z",
+        "ordinal": 119,
+        "address": 6368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?identifyFIFFromMemory@fipImage@@SA?AW4FREE_IMAGE_FORMAT@@PAUFIMEMORY@@@Z",
+        "ordinal": 120,
+        "address": 6400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?identifyFIFU@fipImage@@SA?AW4FREE_IMAGE_FORMAT@@PB_W@Z",
+        "ordinal": 121,
+        "address": 6336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?insertPage@fipMultiPage@@QAEXHAAVfipImage@@@Z",
+        "ordinal": 122,
+        "address": 11488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?invert@fipImage@@QAEHXZ",
+        "ordinal": 123,
+        "address": 9424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isGrayscale@fipImage@@QBEHXZ",
+        "ordinal": 124,
+        "address": 6032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isModified@fipImage@@QAEHXZ",
+        "ordinal": 125,
+        "address": 4288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isTransparent@fipImage@@QBEHXZ",
+        "ordinal": 126,
+        "address": 8352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isValid@fipImage@@UBEHXZ",
+        "ordinal": 127,
+        "address": 10944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isValid@fipMemoryIO@@UBEHXZ",
+        "ordinal": 128,
+        "address": 10944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isValid@fipMetadataFind@@UBEHXZ",
+        "ordinal": 129,
+        "address": 10944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isValid@fipMultiPage@@UBEHXZ",
+        "ordinal": 130,
+        "address": 10944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isValid@fipTag@@UBEHXZ",
+        "ordinal": 131,
+        "address": 10944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isValid@fipWinImage@@UBEHXZ",
+        "ordinal": 132,
+        "address": 12736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?load@fipImage@@QAEHPBDH@Z",
+        "ordinal": 133,
+        "address": 6432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?load@fipMemoryIO@@QBEPAUFIBITMAP@@W4FREE_IMAGE_FORMAT@@H@Z",
+        "ordinal": 134,
+        "address": 10624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?loadFromHandle@fipImage@@QAEHPAUFreeImageIO@@PAXH@Z",
+        "ordinal": 135,
+        "address": 6656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?loadFromMemory@fipImage@@QAEHAAVfipMemoryIO@@H@Z",
+        "ordinal": 136,
+        "address": 6768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?loadU@fipImage@@QAEHPB_WH@Z",
+        "ordinal": 137,
+        "address": 6544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lockPage@fipMultiPage@@QAEPAUFIBITMAP@@H@Z",
+        "ordinal": 138,
+        "address": 11584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?makeThumbnail@fipImage@@QAEHGH@Z",
+        "ordinal": 139,
+        "address": 9888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?movePage@fipMultiPage@@QAEHHH@Z",
+        "ordinal": 140,
+        "address": 11552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?open@fipMultiPage@@QAEHAAVfipMemoryIO@@H@Z",
+        "ordinal": 141,
+        "address": 11296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?open@fipMultiPage@@QAEHPBDHHH@Z",
+        "ordinal": 142,
+        "address": 11200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?pasteFromClipboard@fipWinImage@@QAEHXZ",
+        "ordinal": 143,
+        "address": 13824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?pasteSubImage@fipImage@@QAEHAAV1@HHH@Z",
+        "ordinal": 144,
+        "address": 5408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?read@fipMemoryIO@@QBEIPAXII@Z",
+        "ordinal": 145,
+        "address": 10688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?replace@fipImage@@IAEHPAUFIBITMAP@@@Z",
+        "ordinal": 146,
+        "address": 4784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?rescale@fipImage@@QAEHGGW4FREE_IMAGE_FILTER@@@Z",
+        "ordinal": 147,
+        "address": 9744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?rotate@fipImage@@QAEHNPBX@Z",
+        "ordinal": 148,
+        "address": 9184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?rotateEx@fipImage@@QAEHNNNNNH@Z",
+        "ordinal": 149,
+        "address": 9056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?save@fipImage@@QBEHPBDH@Z",
+        "ordinal": 150,
+        "address": 6864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?save@fipMemoryIO@@QAEHW4FREE_IMAGE_FORMAT@@PAUFIBITMAP@@H@Z",
+        "ordinal": 151,
+        "address": 10656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?saveToHandle@fipImage@@QBEHW4FREE_IMAGE_FORMAT@@PAUFreeImageIO@@PAXH@Z",
+        "ordinal": 152,
+        "address": 7120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?saveToMemory@fipImage@@QBEHW4FREE_IMAGE_FORMAT@@AAVfipMemoryIO@@H@Z",
+        "ordinal": 153,
+        "address": 7248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?saveU@fipImage@@QBEHPB_WH@Z",
+        "ordinal": 154,
+        "address": 6992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?seek@fipMemoryIO@@QAEHJH@Z",
+        "ordinal": 155,
+        "address": 10768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setChannel@fipImage@@QAEHAAV1@W4FREE_IMAGE_COLOR_CHANNEL@@@Z",
+        "ordinal": 156,
+        "address": 8608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setCount@fipTag@@QAEHK@Z",
+        "ordinal": 157,
+        "address": 12320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setDescription@fipTag@@QAEHPBD@Z",
+        "ordinal": 158,
+        "address": 12224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setFileBkColor@fipImage@@QAEHPAUtagRGBQUAD@@@Z",
+        "ordinal": 159,
+        "address": 8496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setHorizontalResolution@fipImage@@QAEXN@Z",
+        "ordinal": 160,
+        "address": 5808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setID@fipTag@@QAEHG@Z",
+        "ordinal": 161,
+        "address": 12256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setKey@fipTag@@QAEHPBD@Z",
+        "ordinal": 162,
+        "address": 12192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setKeyValue@fipTag@@QAEHPBD0@Z",
+        "ordinal": 163,
+        "address": 11808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setLength@fipTag@@QAEHK@Z",
+        "ordinal": 164,
+        "address": 12352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setMetadata@fipImage@@QAEHW4FREE_IMAGE_MDMODEL@@PBDAAVfipTag@@@Z",
+        "ordinal": 165,
+        "address": 10144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setModified@fipImage@@QAEXH@Z",
+        "ordinal": 166,
+        "address": 4272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setPixelColor@fipImage@@QAEHIIPAUtagRGBQUAD@@@Z",
+        "ordinal": 167,
+        "address": 6256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setPixelIndex@fipImage@@QAEHIIPAE@Z",
+        "ordinal": 168,
+        "address": 6208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setSize@fipImage@@QAEHW4FREE_IMAGE_TYPE@@GGGIII@Z",
+        "ordinal": 169,
+        "address": 4896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setToneMappingOperator@fipWinImage@@QAEXW4FREE_IMAGE_TMO@@NNNN@Z",
+        "ordinal": 170,
+        "address": 14816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setTransparencyTable@fipImage@@QAEXPAEH@Z",
+        "ordinal": 171,
+        "address": 8400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setType@fipTag@@QAEHW4FREE_IMAGE_MDTYPE@@@Z",
+        "ordinal": 172,
+        "address": 12288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setValue@fipTag@@QAEHPBX@Z",
+        "ordinal": 173,
+        "address": 12384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setVerticalResolution@fipImage@@QAEXN@Z",
+        "ordinal": 174,
+        "address": 5888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?splitChannels@fipImage@@QAEHAAV1@00@Z",
+        "ordinal": 175,
+        "address": 8656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?tell@fipMemoryIO@@QBEJXZ",
+        "ordinal": 176,
+        "address": 10752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?threshold@fipImage@@QAEHE@Z",
+        "ordinal": 177,
+        "address": 7456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toString@fipTag@@QBEPBDW4FREE_IMAGE_MDMODEL@@PAD@Z",
+        "ordinal": 178,
+        "address": 12416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toneMapping@fipImage@@QAEHW4FREE_IMAGE_TMO@@NNNN@Z",
+        "ordinal": 179,
+        "address": 8208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?unlockPage@fipMultiPage@@QAEXAAVfipImage@@H@Z",
+        "ordinal": 180,
+        "address": 11616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?write@fipMemoryIO@@QAEIPBXII@Z",
+        "ordinal": 181,
+        "address": 10720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 2,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 80032,
+        "size": 1380,
+        "entropy": 3.447399,
+        "sha256": "0210311f01fdccea155abd61931368986a5084fc2ba110f8ced8d7f549c4cafb",
+        "magic_head": "6405340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 81412,
+        "size": 346,
+        "entropy": 4.795974,
+        "sha256": "49a60be4b95b6d30da355a0c124af82b35000bce8f24f957d1c09ead47544a1e",
+        "magic_head": "3c617373656d626c"
+      }
+    ],
+    "total_size": 1726,
+    "max_entropy": 4.795974
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 2441384152,
+    "entries": [
+      {
+        "id": 145,
+        "build_id": 21022,
+        "count": 1
+      },
+      {
+        "id": 148,
+        "build_id": 21022,
+        "count": 1
+      },
+      {
+        "id": 146,
+        "build_id": 21022,
+        "count": 1
+      },
+      {
+        "id": 132,
+        "build_id": 21022,
+        "count": 39
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 229
+      },
+      {
+        "id": 147,
+        "build_id": 21022,
+        "count": 3
+      },
+      {
+        "id": 123,
+        "build_id": 50727,
+        "count": 6
+      },
+      {
+        "id": 131,
+        "build_id": 21022,
+        "count": 87
+      },
+      {
+        "id": 149,
+        "build_id": 21022,
+        "count": 19
+      }
+    ],
+    "raw_hex": "9cf1eac2d8908491d8908491d8908491c6c21191cb908491c6c207918f908491ff56ff91de908491c6c21791db908491d89085913d908491c6c20091ff908491c6c21691d9908491c6c21091d9908491c6c21591d990849152696368d8908491",
+    "raw_offset": 128,
+    "raw_size": 96,
+    "entry_count": 9
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 72624,
+      "size": 8670,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 66332,
+      "size": 100,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 90112,
+      "size": 1888,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 94208,
+      "size": 3136,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 64832,
+      "size": 64,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 57344,
+      "size": 872,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": "asInvoker",
+    "ui_access": "false",
+    "size": 346
+  },
+  "entrypoint_bytes": {
+    "offset": 13941,
+    "hex": "8bff558bec837d0c017505e8aa290000ff75088b4d108b550ce8ecfeffff595dc20c006a0c6870000110e8040b00006a0ee8f32c0000598365fc008b75088b4e",
+    "entropy": 4.612594
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 268518240,
+    "se_handler_count": 3,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 4,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 4,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 574
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 9,
+    "minor_linker_version": 0,
+    "sizeof_code": 50176,
+    "sizeof_initialized_data": 36864,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 17013,
+    "baseof_code": 4096,
+    "baseof_data": 57344,
+    "imagebase": 268435456,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 5,
+    "minor_operating_system_version": 0,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 5,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 102400,
+    "sizeof_headers": 1024,
+    "checksum": 94810,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 0,
+    "dll_characteristics": [],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 184,
+    "entropy": 4.856887,
+    "is_standard_ms": 1,
+    "sha256": "2f377827298b31f6ab4bd91423e915517543258b5098683510349552dced2330",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a24000000000000009cf1eac2d8908491d8908491d8908491c6c21191cb908491c6c207918f908491ff56ff91de908491c6c21791db908491d89085913d908491c6c20091ff908491c6c21691d9908491c6c21091d9908491c6c21591d990849152696368d8908491000000000000000000000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ V = Rich",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 94810,
+    "checksum_computed": 94810,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 17013,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.664529
+  },
+  "overlay": {
+    "size": 0,
+    "offset": 0,
+    "entropy": null,
+    "magic_head": null,
+    "sha256": null
+  },
+  "debug": {
+    "has_debug": 0,
+    "count": 0,
+    "types": [],
+    "pdb_path": null
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 17,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "FreeImage",
+    "file_description": "FreeImagePlus library",
+    "original_filename": "FreeImagePlus.dll",
+    "product_name": "FreeImagePlus",
+    "file_version": "3, 13, 0, 0",
+    "legal_copyright": "Copyright \u00a9 2003-2009 by FreeImage",
+    "internal_name": "FreeImagePlus"
+  },
+  "strings": {
+    "count_ascii": 891,
+    "count_utf16": 36,
+    "count_total": 927,
+    "chars_total": 18161,
+    "printable_ratio": 0.206225,
+    "len_mean": 19.59,
+    "len_max": 198,
+    "urls": [
+      "http://freeimage.sourceforge.net"
+    ],
+    "n_urls": 1,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "freeimage.dll",
+      "freeimageplus.dll",
+      "gdi32.dll",
+      "kernel32.dll",
+      "mscoree.dll",
+      "user32.dll"
+    ],
+    "n_dll_names": 6,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [],
+    "n_file_paths": 0
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "freeimageplus.dll",
+      "mscoree.dll"
+    ],
+    "n_orphans": 2,
+    "n_imported": 4
+  }
+}

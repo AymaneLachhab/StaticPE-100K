@@ -1,0 +1,4738 @@
+{
+  "sha256": "0419974f00e82a3d619077ba414da265a774f8db9d45ad93bc1843f44b2c2c1f",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 1740728,
+    "md5": "8317b31612b11fcb4ca7e04f6e93efa5",
+    "sha1": "acee0432c953dbacc25a4620b424eb037d75ccd6",
+    "imphash": "58ee5777c2450ed77edc5d36b5dc33ed",
+    "tlsh": "T1E3856C23CB981695D2BB823DC9928F4BD5F1F450132057CB01A946E8AF53FE46E7EB60",
+    "ssdeep": "49152:ZfmZejX0IkzXfredcfKNlC1kHDkw7ej36g3v0TAE7yoeHJZVC:H0I",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 5.580725,
+    "byte_histogram_256": [
+      0.17324303,
+      0.01220409,
+      0.00494908,
+      0.00383173,
+      0.00621292,
+      0.00353415,
+      0.00339915,
+      0.00292234,
+      0.00719584,
+      0.00220655,
+      0.00288443,
+      0.00207499,
+      0.00228812,
+      0.00293843,
+      0.00258225,
+      0.00947764,
+      0.00672994,
+      0.00240532,
+      0.00174525,
+      0.00106392,
+      0.00157635,
+      0.00352209,
+      0.00112711,
+      0.00165563,
+      0.00479684,
+      0.00139654,
+      0.00068822,
+      0.00057447,
+      0.00067098,
+      0.00057332,
+      0.00063077,
+      0.00081173,
+      0.00931507,
+      0.00102141,
+      0.00062158,
+      0.00058424,
+      0.00912434,
+      0.00112252,
+      0.00036651,
+      0.00056126,
+      0.00290166,
+      0.00076979,
+      0.00037053,
+      0.00101969,
+      0.00079622,
+      0.00215657,
+      0.00061871,
+      0.0004389,
+      0.0037312,
+      0.00059171,
+      0.00148329,
+      0.0050071,
+      0.00155337,
+      0.00042856,
+      0.00036364,
+      0.00040615,
+      0.00273564,
+      0.00174295,
+      0.00125292,
+      0.00251791,
+      0.00072326,
+      0.00056356,
+      0.00054,
+      0.00079105,
+      0.00438954,
+      0.00867223,
+      0.00227204,
+      0.00376394,
+      0.0067219,
+      0.00577345,
+      0.00094271,
+      0.00150397,
+      0.04080592,
+      0.00700971,
+      0.00066926,
+      0.00179235,
+      0.00741586,
+      0.00305504,
+      0.00089445,
+      0.00065375,
+      0.00303609,
+      0.00094213,
+      0.00162863,
+      0.00198308,
+      0.00213876,
+      0.00182223,
+      0.00168091,
+      0.0014988,
+      0.00167746,
+      0.00040385,
+      0.00032343,
+      0.00130003,
+      0.00225308,
+      0.00140688,
+      0.00078415,
+      0.00197101,
+      0.00158439,
+      0.00690688,
+      0.00097258,
+      0.00441022,
+      0.00513923,
+      0.01279522,
+      0.00422295,
+      0.00132186,
+      0.00199227,
+      0.00621751,
+      0.00033722,
+      0.00229502,
+      0.00377888,
+      0.0037783,
+      0.00478765,
+      0.00452857,
+      0.00443493,
+      0.00049749,
+      0.00696777,
+      0.00458888,
+      0.01303535,
+      0.0073159,
+      0.00403969,
+      0.00111735,
+      0.00133852,
+      0.0020118,
+      0.00040385,
+      0.00067041,
+      0.00107886,
+      0.00068535,
+      0.00053081,
+      0.00072326,
+      0.00353645,
+      0.00133909,
+      0.00086688,
+      0.01037669,
+      0.00243117,
+      0.006094,
+      0.00076175,
+      0.00052392,
+      0.00178776,
+      0.00992229,
+      0.00110528,
+      0.02461786,
+      0.00062273,
+      0.00970916,
+      0.0003556,
+      0.00040845,
+      0.00112597,
+      0.00033204,
+      0.00031711,
+      0.00045154,
+      0.00057275,
+      0.00046877,
+      0.00027919,
+      0.00036364,
+      0.00055781,
+      0.00035215,
+      0.00026943,
+      0.00038605,
+      0.00043488,
+      0.00038145,
+      0.00034353,
+      0.00029643,
+      0.00126614,
+      0.000378,
+      0.00031481,
+      0.00037398,
+      0.00036709,
+      0.00033951,
+      0.00027575,
+      0.00035445,
+      0.00096109,
+      0.00027575,
+      0.00036422,
+      0.00050324,
+      0.00041707,
+      0.00121731,
+      0.00036077,
+      0.00040845,
+      0.00175214,
+      0.00034124,
+      0.00034583,
+      0.00030964,
+      0.00042741,
+      0.00029298,
+      0.00068535,
+      0.00121329,
+      0.00200376,
+      0.00100762,
+      0.00150569,
+      0.00051875,
+      0.00041822,
+      0.00039983,
+      0.00055839,
+      0.00054288,
+      0.00809546,
+      0.0026397,
+      0.00119375,
+      0.00437059,
+      0.00275,
+      0.00088584,
+      0.00167574,
+      0.00260408,
+      0.00180269,
+      0.00288443,
+      0.00083701,
+      0.0013299,
+      0.22614159,
+      0.00056241,
+      0.00126154,
+      0.00151373,
+      0.00140975,
+      0.0008485,
+      0.00146893,
+      0.0006009,
+      0.00034698,
+      0.0003533,
+      0.0005716,
+      0.0009002,
+      0.00123109,
+      0.00090479,
+      0.00046015,
+      0.00071866,
+      0.00028264,
+      0.00028839,
+      0.00037111,
+      0.00047911,
+      0.00171997,
+      0.00053828,
+      0.00041305,
+      0.00042971,
+      0.00044464,
+      0.00024185,
+      0.00032802,
+      0.0004366,
+      0.00870268,
+      0.00550689,
+      0.00060952,
+      0.00280802,
+      0.00231455,
+      0.00129601,
+      0.00044292,
+      0.00080024,
+      0.00207384,
+      0.00091571,
+      0.0009835,
+      0.00073073,
+      0.00076347,
+      0.00053943,
+      0.00135058,
+      0.00124258,
+      0.00225365,
+      0.00156027,
+      0.00106909,
+      0.00108001,
+      0.00110069,
+      0.00151546,
+      0.00134714,
+      0.01693372
+    ],
+    "byte_entropy_histogram_256": [
+      0.00883824,
+      5.75e-06,
+      4.31e-06,
+      3.16e-06,
+      8.34e-06,
+      2.88e-06,
+      4.89e-06,
+      2.01e-06,
+      1.639e-05,
+      8.6e-07,
+      1.73e-06,
+      1.44e-06,
+      0.07531868,
+      1.44e-06,
+      2.3e-06,
+      4.31e-06,
+      0.02181018,
+      0.00030165,
+      0.00025306,
+      4.89e-06,
+      0.00025449,
+      2.013e-05,
+      1.438e-05,
+      4.89e-06,
+      0.00025766,
+      3.74e-06,
+      1.44e-06,
+      5.75e-06,
+      0.0005826,
+      4.31e-06,
+      1.409e-05,
+      2.387e-05,
+      0.00385851,
+      5.981e-05,
+      5.061e-05,
+      1.121e-05,
+      0.00010237,
+      1.438e-05,
+      5.722e-05,
+      2.588e-05,
+      4.515e-05,
+      4.31e-06,
+      3.74e-06,
+      3.74e-06,
+      0.00160661,
+      6.04e-06,
+      1.352e-05,
+      2.617e-05,
+      0.00669244,
+      0.00019957,
+      7.247e-05,
+      4.774e-05,
+      0.00016707,
+      5.09e-05,
+      0.00020417,
+      8.742e-05,
+      6.326e-05,
+      7.19e-06,
+      1.639e-05,
+      1.61e-05,
+      0.00053084,
+      1.38e-05,
+      1.553e-05,
+      6.01e-05,
+      0.00819467,
+      0.00015787,
+      0.00022027,
+      6.298e-05,
+      0.00014321,
+      8.253e-05,
+      0.00045205,
+      0.00023293,
+      0.00011819,
+      4.4e-05,
+      7.678e-05,
+      1.697e-05,
+      0.00071862,
+      1.61e-05,
+      3.623e-05,
+      2.732e-05,
+      0.00956146,
+      0.00032322,
+      0.00025622,
+      0.00013343,
+      0.00025277,
+      0.00012451,
+      0.00094062,
+      0.000467,
+      0.00020331,
+      4.313e-05,
+      4.17e-05,
+      4.572e-05,
+      0.00097225,
+      5.981e-05,
+      5.722e-05,
+      6.298e-05,
+      0.0105038,
+      0.00061423,
+      0.00045032,
+      0.00037268,
+      0.00054033,
+      0.0004578,
+      0.00109274,
+      0.00070137,
+      0.0003399,
+      0.00020561,
+      0.0002105,
+      0.000245,
+      0.01689401,
+      0.00020503,
+      0.00169576,
+      0.00021768,
+      0.01601436,
+      0.00142919,
+      0.00053055,
+      0.00073731,
+      0.00115226,
+      0.0007583,
+      0.00339238,
+      0.00223264,
+      0.00064299,
+      0.00027347,
+      0.00025938,
+      0.00027146,
+      0.01234075,
+      0.00026226,
+      0.0012276,
+      0.000289,
+      0.03094605,
+      0.00255931,
+      0.00276204,
+      0.00162358,
+      0.00543349,
+      0.00393587,
+      0.02293743,
+      0.01213485,
+      0.00052279,
+      0.00023523,
+      0.0001271,
+      0.00038447,
+      0.00288742,
+      0.00029993,
+      0.00039655,
+      0.0005642,
+      0.02022686,
+      0.00058519,
+      0.00403134,
+      0.00100072,
+      0.006312,
+      0.00438418,
+      0.02535353,
+      0.01230624,
+      0.0009642,
+      0.00021567,
+      0.00016707,
+      0.0002404,
+      0.0046381,
+      0.00015873,
+      0.0002798,
+      0.00040805,
+      0.00279051,
+      0.00041812,
+      0.00026053,
+      0.00019238,
+      0.0010358,
+      0.00017081,
+      0.00040489,
+      0.00032149,
+      0.00100187,
+      0.00011244,
+      0.00044313,
+      0.00014464,
+      0.00375442,
+      0.0001294,
+      0.00023695,
+      0.00036118,
+      0.00996289,
+      0.00234018,
+      0.00103954,
+      0.00103925,
+      0.00602559,
+      0.00100733,
+      0.0008995,
+      0.00106887,
+      0.00495355,
+      0.00050093,
+      0.00094177,
+      0.00068986,
+      0.01024183,
+      0.0008069,
+      0.00113587,
+      0.00151574,
+      0.04762755,
+      0.011847,
+      0.01028698,
+      0.00928166,
+      0.03593094,
+      0.00587289,
+      0.00379381,
+      0.00862975,
+      0.03062196,
+      0.00242875,
+      0.00311517,
+      0.00502717,
+      0.06998037,
+      0.00384845,
+      0.00986915,
+      0.01333428,
+      0.04337651,
+      0.00861422,
+      0.01098374,
+      0.00893917,
+      0.03837321,
+      0.0075028,
+      0.00484112,
+      0.01066771,
+      0.0341656,
+      0.00255643,
+      0.00243163,
+      0.00489058,
+      0.05989267,
+      0.00506714,
+      0.0117084,
+      0.01807388,
+      0.00076837,
+      0.00014666,
+      0.00020647,
+      0.00039166,
+      0.00031661,
+      0.00013515,
+      0.00015586,
+      0.00015701,
+      0.00027721,
+      8.167e-05,
+      7.103e-05,
+      0.0001064,
+      0.00021653,
+      0.00012078,
+      0.0001225,
+      0.00025967,
+      0.00076348,
+      0.00032811,
+      0.00034162,
+      0.00053228,
+      0.00032897,
+      0.00030338,
+      0.00051416,
+      0.00038418,
+      0.00029734,
+      0.00018663,
+      0.00023494,
+      0.00019669,
+      0.00023063,
+      0.0002128,
+      0.00021884,
+      0.00022631
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 1218290,
+      "raw_size": 1218560,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 5.32005,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 430940,
+      "raw_size": 431104,
+      "virtual_address": 1224704,
+      "pointerto_raw_data": 1219584,
+      "entropy": 4.559487,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 14369,
+      "raw_size": 5120,
+      "virtual_address": 1658880,
+      "pointerto_raw_data": 1650688,
+      "entropy": 1.63866,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".pdata",
+      "virtual_size": 45180,
+      "raw_size": 45568,
+      "virtual_address": 1675264,
+      "pointerto_raw_data": 1655808,
+      "entropy": 5.711442,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".idata",
+      "virtual_size": 6006,
+      "raw_size": 6144,
+      "virtual_address": 1724416,
+      "pointerto_raw_data": 1701376,
+      "entropy": 3.945984,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".gehcont",
+      "virtual_size": 388,
+      "raw_size": 512,
+      "virtual_address": 1732608,
+      "pointerto_raw_data": 1707520,
+      "entropy": 1.515392,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".gfids",
+      "virtual_size": 10660,
+      "raw_size": 10752,
+      "virtual_address": 1736704,
+      "pointerto_raw_data": 1708032,
+      "entropy": 3.702264,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".00cfg",
+      "virtual_size": 373,
+      "raw_size": 512,
+      "virtual_address": 1748992,
+      "pointerto_raw_data": 1718784,
+      "entropy": 0.527465,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".fptable",
+      "virtual_size": 563,
+      "raw_size": 1024,
+      "virtual_address": 1753088,
+      "pointerto_raw_data": 1719296,
+      "entropy": 0.0,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 1817,
+      "raw_size": 2048,
+      "virtual_address": 1757184,
+      "pointerto_raw_data": 1720320,
+      "entropy": 2.944356,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 7427,
+      "raw_size": 7680,
+      "virtual_address": 1761280,
+      "pointerto_raw_data": 1722368,
+      "entropy": 2.605309,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 272,
+    "e_lfanew_raw": 272,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000010010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "AMD64",
+    "numberof_sections": 11,
+    "time_date_stamp": 1778509508,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 240,
+    "characteristics_raw": 8226,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LARGE_ADDRESS_AWARE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "CFGMGR32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 1724576,
+      "import_lookup_table_rva": 1726112,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CM_Get_Sibling",
+          "hint": 156,
+          "iat_address": 1724576,
+          "iat_value": 1727560,
+          "data": 1727560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CM_Get_DevNode_Status",
+          "hint": 97,
+          "iat_address": 1724584,
+          "iat_value": 1727536,
+          "data": 1727536
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CM_Get_DevNode_Registry_PropertyW",
+          "hint": 94,
+          "iat_address": 1724592,
+          "iat_value": 1727500,
+          "data": 1727500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CM_Get_Device_ID_List_SizeW",
+          "hint": 108,
+          "iat_address": 1724600,
+          "iat_value": 1727470,
+          "data": 1727470
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CM_Get_Device_ID_ListW",
+          "hint": 104,
+          "iat_address": 1724608,
+          "iat_value": 1727444,
+          "data": 1727444
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CM_Get_Device_IDW",
+          "hint": 100,
+          "iat_address": 1724616,
+          "iat_value": 1727424,
+          "data": 1727424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CM_Open_DevNode_Key",
+          "hint": 186,
+          "iat_address": 1724624,
+          "iat_value": 1727600,
+          "data": 1727600
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CM_Locate_DevNodeW",
+          "hint": 171,
+          "iat_address": 1724632,
+          "iat_value": 1727578,
+          "data": 1727578
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CM_Get_Child",
+          "hint": 67,
+          "iat_address": 1724640,
+          "iat_value": 1727408,
+          "data": 1727408
+        }
+      ],
+      "function_count": 9
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 1724744,
+      "import_lookup_table_rva": 1726280,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 303,
+          "iat_address": 1724744,
+          "iat_value": 1727824,
+          "data": 1727824
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitOnceExecuteOnce",
+          "hint": 912,
+          "iat_address": 1724752,
+          "iat_value": 1727848,
+          "data": 1727848
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibrary",
+          "hint": 468,
+          "iat_address": 1724760,
+          "iat_value": 1727870,
+          "data": 1727870
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameW",
+          "hint": 673,
+          "iat_address": 1724768,
+          "iat_value": 1727884,
+          "data": 1727884
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFullPathNameA",
+          "hint": 642,
+          "iat_address": 1724776,
+          "iat_value": 1727788,
+          "data": 1727788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryExW",
+          "hint": 1014,
+          "iat_address": 1724784,
+          "iat_value": 1727924,
+          "data": 1727924
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryW",
+          "hint": 1015,
+          "iat_address": 1724792,
+          "iat_value": 1727942,
+          "data": 1727942
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OutputDebugStringA",
+          "hint": 1098,
+          "iat_address": 1724800,
+          "iat_value": 1727958,
+          "data": 1727958
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateFileW",
+          "hint": 230,
+          "iat_address": 1724808,
+          "iat_value": 1727980,
+          "data": 1727980
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileSize",
+          "hint": 631,
+          "iat_address": 1724816,
+          "iat_value": 1727994,
+          "data": 1727994
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReadFile",
+          "hint": 1193,
+          "iat_address": 1724824,
+          "iat_value": 1728008,
+          "data": 1728008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSection",
+          "hint": 917,
+          "iat_address": 1724832,
+          "iat_value": 1728020,
+          "data": 1728020
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemDirectoryW",
+          "hint": 785,
+          "iat_address": 1724840,
+          "iat_value": 1728048,
+          "data": 1728048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsWow64Process",
+          "hint": 964,
+          "iat_address": 1724848,
+          "iat_value": 1728070,
+          "data": 1728070
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleFileNameA",
+          "hint": 672,
+          "iat_address": 1724856,
+          "iat_value": 1728088,
+          "data": 1728088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleA",
+          "hint": 674,
+          "iat_address": 1724864,
+          "iat_value": 1728110,
+          "data": 1728110
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleExA",
+          "hint": 675,
+          "iat_address": 1724872,
+          "iat_value": 1728130,
+          "data": 1728130
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryExA",
+          "hint": 1013,
+          "iat_address": 1724880,
+          "iat_value": 1728152,
+          "data": 1728152
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteConsoleW",
+          "hint": 1631,
+          "iat_address": 1724888,
+          "iat_value": 1729888,
+          "data": 1729888
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 1612,
+          "iat_address": 1724896,
+          "iat_value": 1727766,
+          "data": 1727766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MultiByteToWideChar",
+          "hint": 1059,
+          "iat_address": 1724904,
+          "iat_value": 1727744,
+          "data": 1727744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 577,
+          "iat_address": 1724912,
+          "iat_value": 1727724,
+          "data": 1727724
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 157,
+          "iat_address": 1724920,
+          "iat_value": 1727710,
+          "data": 1727710
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetEnvironmentVariableW",
+          "hint": 612,
+          "iat_address": 1724928,
+          "iat_value": 1727684,
+          "data": 1727684
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 1008,
+          "iat_address": 1724936,
+          "iat_value": 1727660,
+          "data": 1727660
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 343,
+          "iat_address": 1724944,
+          "iat_value": 1727636,
+          "data": 1727636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 653,
+          "iat_address": 1724952,
+          "iat_value": 1727808,
+          "data": 1727808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 733,
+          "iat_address": 1724960,
+          "iat_value": 1727906,
+          "data": 1727906
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlCaptureContext",
+          "hint": 1289,
+          "iat_address": 1724968,
+          "iat_value": 1728354,
+          "data": 1728354
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlLookupFunctionEntry",
+          "hint": 1297,
+          "iat_address": 1724976,
+          "iat_value": 1728374,
+          "data": 1728374
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlVirtualUnwind",
+          "hint": 1304,
+          "iat_address": 1724984,
+          "iat_value": 1728400,
+          "data": 1728400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1531,
+          "iat_address": 1724992,
+          "iat_value": 1728420,
+          "data": 1728420
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1464,
+          "iat_address": 1725000,
+          "iat_value": 1728448,
+          "data": 1728448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1496,
+          "iat_address": 1725008,
+          "iat_value": 1728478,
+          "data": 1728478
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsProcessorFeaturePresent",
+          "hint": 952,
+          "iat_address": 1725016,
+          "iat_value": 1728498,
+          "data": 1728498
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1153,
+          "iat_address": 1725024,
+          "iat_value": 1728526,
+          "data": 1728526
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 578,
+          "iat_address": 1725032,
+          "iat_value": 1728552,
+          "data": 1728552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 582,
+          "iat_address": 1725040,
+          "iat_value": 1728574,
+          "data": 1728574
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 794,
+          "iat_address": 1725048,
+          "iat_value": 1728596,
+          "data": 1728596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeSListHead",
+          "hint": 922,
+          "iat_address": 1725056,
+          "iat_value": 1728622,
+          "data": 1728622
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 944,
+          "iat_address": 1725064,
+          "iat_value": 1728644,
+          "data": 1728644
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStartupInfoW",
+          "hint": 769,
+          "iat_address": 1725072,
+          "iat_value": 1728664,
+          "data": 1728664
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleW",
+          "hint": 677,
+          "iat_address": 1725080,
+          "iat_value": 1728682,
+          "data": 1728682
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlUnwindEx",
+          "hint": 1303,
+          "iat_address": 1725088,
+          "iat_value": 1728702,
+          "data": 1728702
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedPushEntrySList",
+          "hint": 928,
+          "iat_address": 1725096,
+          "iat_value": 1728716,
+          "data": 1728716
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedFlushSList",
+          "hint": 926,
+          "iat_address": 1725104,
+          "iat_value": 1728744,
+          "data": 1728744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetLastError",
+          "hint": 1400,
+          "iat_address": 1725112,
+          "iat_value": 1728768,
+          "data": 1728768
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSectionAndSpinCount",
+          "hint": 918,
+          "iat_address": 1725120,
+          "iat_value": 1728784,
+          "data": 1728784
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsAlloc",
+          "hint": 1514,
+          "iat_address": 1725128,
+          "iat_value": 1728824,
+          "data": 1728824
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsGetValue",
+          "hint": 1516,
+          "iat_address": 1725136,
+          "iat_value": 1728836,
+          "data": 1728836
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsSetValue",
+          "hint": 1518,
+          "iat_address": 1725144,
+          "iat_value": 1728850,
+          "data": 1728850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TlsFree",
+          "hint": 1515,
+          "iat_address": 1725152,
+          "iat_value": 1728864,
+          "data": 1728864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EncodePointer",
+          "hint": 339,
+          "iat_address": 1725160,
+          "iat_value": 1728874,
+          "data": 1728874
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RaiseException",
+          "hint": 1176,
+          "iat_address": 1725168,
+          "iat_value": 1728890,
+          "data": 1728890
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlPcToFileHeader",
+          "hint": 1299,
+          "iat_address": 1725176,
+          "iat_value": 1728908,
+          "data": 1728908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileAttributesExW",
+          "hint": 621,
+          "iat_address": 1725184,
+          "iat_value": 1728928,
+          "data": 1728928
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindClose",
+          "hint": 413,
+          "iat_address": 1725192,
+          "iat_value": 1728952,
+          "data": 1728952
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindFirstFileExW",
+          "hint": 419,
+          "iat_address": 1725200,
+          "iat_value": 1728964,
+          "data": 1728964
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindNextFileW",
+          "hint": 436,
+          "iat_address": 1725208,
+          "iat_value": 1728984,
+          "data": 1728984
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SystemTimeToTzSpecificLocalTime",
+          "hint": 1493,
+          "iat_address": 1725216,
+          "iat_value": 1729000,
+          "data": 1729000
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FileTimeToSystemTime",
+          "hint": 402,
+          "iat_address": 1725224,
+          "iat_value": 1729034,
+          "data": 1729034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ExitProcess",
+          "hint": 390,
+          "iat_address": 1725232,
+          "iat_value": 1729058,
+          "data": 1729058
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetModuleHandleExW",
+          "hint": 676,
+          "iat_address": 1725240,
+          "iat_value": 1729072,
+          "data": 1729072
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapAlloc",
+          "hint": 892,
+          "iat_address": 1725248,
+          "iat_value": 1729094,
+          "data": 1729094
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapFree",
+          "hint": 896,
+          "iat_address": 1725256,
+          "iat_value": 1729106,
+          "data": 1729106
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapReAlloc",
+          "hint": 899,
+          "iat_address": 1725264,
+          "iat_value": 1729118,
+          "data": 1729118
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThread",
+          "hint": 581,
+          "iat_address": 1725272,
+          "iat_value": 1729132,
+          "data": 1729132
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStdHandle",
+          "hint": 771,
+          "iat_address": 1725280,
+          "iat_value": 1729152,
+          "data": 1729152
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileType",
+          "hint": 634,
+          "iat_address": 1725288,
+          "iat_value": 1729168,
+          "data": 1729168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetConsoleCtrlHandler",
+          "hint": 1327,
+          "iat_address": 1725296,
+          "iat_value": 1729182,
+          "data": 1729182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTempPathW",
+          "hint": 809,
+          "iat_address": 1725304,
+          "iat_value": 1729206,
+          "data": 1729206
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlsAlloc",
+          "hint": 450,
+          "iat_address": 1725312,
+          "iat_value": 1729222,
+          "data": 1729222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlsGetValue",
+          "hint": 452,
+          "iat_address": 1725320,
+          "iat_value": 1729234,
+          "data": 1729234
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlsSetValue",
+          "hint": 454,
+          "iat_address": 1725328,
+          "iat_value": 1729248,
+          "data": 1729248
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlsFree",
+          "hint": 451,
+          "iat_address": 1725336,
+          "iat_value": 1729262,
+          "data": 1729262
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsThreadAFiber",
+          "hint": 954,
+          "iat_address": 1725344,
+          "iat_value": 1729272,
+          "data": 1729272
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSectionEx",
+          "hint": 919,
+          "iat_address": 1725352,
+          "iat_value": 1729290,
+          "data": 1729290
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "VirtualProtect",
+          "hint": 1562,
+          "iat_address": 1725360,
+          "iat_value": 1729320,
+          "data": 1729320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetDateFormatW",
+          "hint": 588,
+          "iat_address": 1725368,
+          "iat_value": 1729338,
+          "data": 1729338
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTimeFormatW",
+          "hint": 833,
+          "iat_address": 1725376,
+          "iat_value": 1729356,
+          "data": 1729356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CompareStringW",
+          "hint": 179,
+          "iat_address": 1725384,
+          "iat_value": 1729374,
+          "data": 1729374
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LCMapStringW",
+          "hint": 996,
+          "iat_address": 1725392,
+          "iat_value": 1729392,
+          "data": 1729392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLocaleInfoW",
+          "hint": 657,
+          "iat_address": 1725400,
+          "iat_value": 1729408,
+          "data": 1729408
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsValidLocale",
+          "hint": 960,
+          "iat_address": 1725408,
+          "iat_value": 1729426,
+          "data": 1729426
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetUserDefaultLCID",
+          "hint": 841,
+          "iat_address": 1725416,
+          "iat_value": 1729442,
+          "data": 1729442
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnumSystemLocalesW",
+          "hint": 379,
+          "iat_address": 1725424,
+          "iat_value": 1729464,
+          "data": 1729464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetFileSizeEx",
+          "hint": 632,
+          "iat_address": 1725432,
+          "iat_value": 1729486,
+          "data": 1729486
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetFilePointerEx",
+          "hint": 1385,
+          "iat_address": 1725440,
+          "iat_value": 1729502,
+          "data": 1729502
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsValidCodePage",
+          "hint": 958,
+          "iat_address": 1725448,
+          "iat_value": 1729522,
+          "data": 1729522
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetACP",
+          "hint": 475,
+          "iat_address": 1725456,
+          "iat_value": 1729540,
+          "data": 1729540
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetOEMCP",
+          "hint": 710,
+          "iat_address": 1725464,
+          "iat_value": 1729550,
+          "data": 1729550
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCPInfo",
+          "hint": 490,
+          "iat_address": 1725472,
+          "iat_value": 1729562,
+          "data": 1729562
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCommandLineA",
+          "hint": 511,
+          "iat_address": 1725480,
+          "iat_value": 1729574,
+          "data": 1729574
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCommandLineW",
+          "hint": 512,
+          "iat_address": 1725488,
+          "iat_value": 1729592,
+          "data": 1729592
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetEnvironmentStringsW",
+          "hint": 610,
+          "iat_address": 1725496,
+          "iat_value": 1729610,
+          "data": 1729610
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeEnvironmentStringsW",
+          "hint": 467,
+          "iat_address": 1725504,
+          "iat_value": 1729636,
+          "data": 1729636
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEnvironmentVariableW",
+          "hint": 1370,
+          "iat_address": 1725512,
+          "iat_value": 1729662,
+          "data": 1729662
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcessHeap",
+          "hint": 740,
+          "iat_address": 1725520,
+          "iat_value": 1729688,
+          "data": 1729688
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetStringTypeW",
+          "hint": 776,
+          "iat_address": 1725528,
+          "iat_value": 1729706,
+          "data": 1729706
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetStdHandle",
+          "hint": 1427,
+          "iat_address": 1725536,
+          "iat_value": 1729724,
+          "data": 1729724
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FlushFileBuffers",
+          "hint": 456,
+          "iat_address": 1725544,
+          "iat_value": 1729740,
+          "data": 1729740
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WriteFile",
+          "hint": 1632,
+          "iat_address": 1725552,
+          "iat_value": 1729760,
+          "data": 1729760
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetConsoleOutputCP",
+          "hint": 553,
+          "iat_address": 1725560,
+          "iat_value": 1729772,
+          "data": 1729772
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetConsoleMode",
+          "hint": 549,
+          "iat_address": 1725568,
+          "iat_value": 1729794,
+          "data": 1729794
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTimeZoneInformation",
+          "hint": 835,
+          "iat_address": 1725576,
+          "iat_value": 1729812,
+          "data": 1729812
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapSize",
+          "hint": 901,
+          "iat_address": 1725584,
+          "iat_value": 1729838,
+          "data": 1729838
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReadConsoleW",
+          "hint": 1190,
+          "iat_address": 1725592,
+          "iat_value": 1729850,
+          "data": 1729850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OutputDebugStringW",
+          "hint": 1099,
+          "iat_address": 1725600,
+          "iat_value": 1729866,
+          "data": 1729866
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RtlUnwind",
+          "hint": 1302,
+          "iat_address": 1725608,
+          "iat_value": 1729904,
+          "data": 1729904
+        }
+      ],
+      "function_count": 109
+    },
+    {
+      "name": "ADVAPI32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 1724416,
+      "import_lookup_table_rva": 1725952,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSidSubAuthority",
+          "hint": 343,
+          "iat_address": 1724416,
+          "iat_value": 1728204,
+          "data": 1728204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSidSubAuthorityCount",
+          "hint": 344,
+          "iat_address": 1724424,
+          "iat_value": 1728226,
+          "data": 1728226
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTokenInformation",
+          "hint": 347,
+          "iat_address": 1724432,
+          "iat_value": 1728252,
+          "data": 1728252
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RegCloseKey",
+          "hint": 597,
+          "iat_address": 1724440,
+          "iat_value": 1728274,
+          "data": 1728274
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RegEnumValueA",
+          "hint": 630,
+          "iat_address": 1724448,
+          "iat_value": 1728288,
+          "data": 1728288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RegOpenKeyExA",
+          "hint": 645,
+          "iat_address": 1724456,
+          "iat_value": 1728304,
+          "data": 1728304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RegQueryValueExA",
+          "hint": 658,
+          "iat_address": 1724464,
+          "iat_value": 1728320,
+          "data": 1728320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OpenProcessToken",
+          "hint": 527,
+          "iat_address": 1724472,
+          "iat_value": 1728184,
+          "data": 1728184
+        }
+      ],
+      "function_count": 8
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "vulkan-1.dll",
+    "export_flags": 0,
+    "timestamp": 4294967295,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 265,
+    "entries": [
+      {
+        "name": "vkAcquireNextImage2KHR",
+        "ordinal": 1,
+        "address": 35520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkAcquireNextImageKHR",
+        "ordinal": 2,
+        "address": 36224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkAllocateCommandBuffers",
+        "ordinal": 3,
+        "address": 52352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkAllocateDescriptorSets",
+        "ordinal": 4,
+        "address": 69376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkAllocateMemory",
+        "ordinal": 5,
+        "address": 39424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkBeginCommandBuffer",
+        "ordinal": 6,
+        "address": 35456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkBindBufferMemory",
+        "ordinal": 7,
+        "address": 32224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkBindBufferMemory2",
+        "ordinal": 8,
+        "address": 17792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkBindImageMemory",
+        "ordinal": 9,
+        "address": 40080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkBindImageMemory2",
+        "ordinal": 10,
+        "address": 31968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBeginQuery",
+        "ordinal": 11,
+        "address": 15152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBeginRenderPass",
+        "ordinal": 12,
+        "address": 59600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBeginRenderPass2",
+        "ordinal": 13,
+        "address": 11808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBeginRendering",
+        "ordinal": 14,
+        "address": 8928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBindDescriptorSets",
+        "ordinal": 15,
+        "address": 35328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBindDescriptorSets2",
+        "ordinal": 16,
+        "address": 65184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBindIndexBuffer",
+        "ordinal": 17,
+        "address": 70832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBindIndexBuffer2",
+        "ordinal": 18,
+        "address": 15600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBindPipeline",
+        "ordinal": 19,
+        "address": 55296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBindVertexBuffers",
+        "ordinal": 20,
+        "address": 6976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBindVertexBuffers2",
+        "ordinal": 21,
+        "address": 58032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBlitImage",
+        "ordinal": 22,
+        "address": 55888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdBlitImage2",
+        "ordinal": 23,
+        "address": 71392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdClearAttachments",
+        "ordinal": 24,
+        "address": 11312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdClearColorImage",
+        "ordinal": 25,
+        "address": 41296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdClearDepthStencilImage",
+        "ordinal": 26,
+        "address": 23264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdCopyBuffer",
+        "ordinal": 27,
+        "address": 66128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdCopyBuffer2",
+        "ordinal": 28,
+        "address": 67248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdCopyBufferToImage",
+        "ordinal": 29,
+        "address": 54384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdCopyBufferToImage2",
+        "ordinal": 30,
+        "address": 15184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdCopyImage",
+        "ordinal": 31,
+        "address": 38192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdCopyImage2",
+        "ordinal": 32,
+        "address": 32784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdCopyImageToBuffer",
+        "ordinal": 33,
+        "address": 70432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdCopyImageToBuffer2",
+        "ordinal": 34,
+        "address": 50800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdCopyQueryPoolResults",
+        "ordinal": 35,
+        "address": 30592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdDispatch",
+        "ordinal": 36,
+        "address": 5984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdDispatchBase",
+        "ordinal": 37,
+        "address": 47344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdDispatchIndirect",
+        "ordinal": 38,
+        "address": 30192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdDraw",
+        "ordinal": 39,
+        "address": 39952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdDrawIndexed",
+        "ordinal": 40,
+        "address": 64480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdDrawIndexedIndirect",
+        "ordinal": 41,
+        "address": 29792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdDrawIndexedIndirectCount",
+        "ordinal": 42,
+        "address": 30288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdDrawIndirect",
+        "ordinal": 43,
+        "address": 56752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdDrawIndirectCount",
+        "ordinal": 44,
+        "address": 5520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdEndQuery",
+        "ordinal": 45,
+        "address": 67072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdEndRenderPass",
+        "ordinal": 46,
+        "address": 56800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdEndRenderPass2",
+        "ordinal": 47,
+        "address": 37248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdEndRendering",
+        "ordinal": 48,
+        "address": 34448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdExecuteCommands",
+        "ordinal": 49,
+        "address": 47024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdFillBuffer",
+        "ordinal": 50,
+        "address": 29632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdNextSubpass",
+        "ordinal": 51,
+        "address": 8896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdNextSubpass2",
+        "ordinal": 52,
+        "address": 61936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdPipelineBarrier",
+        "ordinal": 53,
+        "address": 6144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdPipelineBarrier2",
+        "ordinal": 54,
+        "address": 58096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdPushConstants",
+        "ordinal": 55,
+        "address": 39264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdPushConstants2",
+        "ordinal": 56,
+        "address": 39328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdPushDescriptorSet",
+        "ordinal": 57,
+        "address": 10592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdPushDescriptorSet2",
+        "ordinal": 58,
+        "address": 21168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdPushDescriptorSetWithTemplate",
+        "ordinal": 59,
+        "address": 63504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdPushDescriptorSetWithTemplate2",
+        "ordinal": 60,
+        "address": 33344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdResetEvent",
+        "ordinal": 61,
+        "address": 13504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdResetEvent2",
+        "ordinal": 62,
+        "address": 62416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdResetQueryPool",
+        "ordinal": 63,
+        "address": 12528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdResolveImage",
+        "ordinal": 64,
+        "address": 45232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdResolveImage2",
+        "ordinal": 65,
+        "address": 64976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetBlendConstants",
+        "ordinal": 66,
+        "address": 43312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetCullMode",
+        "ordinal": 67,
+        "address": 71568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetDepthBias",
+        "ordinal": 68,
+        "address": 67680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetDepthBiasEnable",
+        "ordinal": 69,
+        "address": 24848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetDepthBounds",
+        "ordinal": 70,
+        "address": 49392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetDepthBoundsTestEnable",
+        "ordinal": 71,
+        "address": 43184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetDepthCompareOp",
+        "ordinal": 72,
+        "address": 35216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetDepthTestEnable",
+        "ordinal": 73,
+        "address": 71216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetDepthWriteEnable",
+        "ordinal": 74,
+        "address": 34864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetDeviceMask",
+        "ordinal": 75,
+        "address": 53104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetEvent",
+        "ordinal": 76,
+        "address": 36832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetEvent2",
+        "ordinal": 77,
+        "address": 24864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetFrontFace",
+        "ordinal": 78,
+        "address": 39344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetLineStipple",
+        "ordinal": 79,
+        "address": 59248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetLineWidth",
+        "ordinal": 80,
+        "address": 33536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetPrimitiveRestartEnable",
+        "ordinal": 81,
+        "address": 48304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetPrimitiveTopology",
+        "ordinal": 82,
+        "address": 42400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetRasterizerDiscardEnable",
+        "ordinal": 83,
+        "address": 59296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetRenderingAttachmentLocations",
+        "ordinal": 84,
+        "address": 26704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetRenderingInputAttachmentIndices",
+        "ordinal": 85,
+        "address": 63952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetScissor",
+        "ordinal": 86,
+        "address": 71456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetScissorWithCount",
+        "ordinal": 87,
+        "address": 14896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetStencilCompareMask",
+        "ordinal": 88,
+        "address": 55936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetStencilOp",
+        "ordinal": 89,
+        "address": 66848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetStencilReference",
+        "ordinal": 90,
+        "address": 21984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetStencilTestEnable",
+        "ordinal": 91,
+        "address": 40064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetStencilWriteMask",
+        "ordinal": 92,
+        "address": 33056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetViewport",
+        "ordinal": 93,
+        "address": 15248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdSetViewportWithCount",
+        "ordinal": 94,
+        "address": 53232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdUpdateBuffer",
+        "ordinal": 95,
+        "address": 47264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdWaitEvents",
+        "ordinal": 96,
+        "address": 26496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdWaitEvents2",
+        "ordinal": 97,
+        "address": 63984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdWriteTimestamp",
+        "ordinal": 98,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCmdWriteTimestamp2",
+        "ordinal": 99,
+        "address": 63456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCopyImageToImage",
+        "ordinal": 100,
+        "address": 50544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCopyImageToMemory",
+        "ordinal": 101,
+        "address": 14784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCopyMemoryToImage",
+        "ordinal": 102,
+        "address": 32976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateBuffer",
+        "ordinal": 103,
+        "address": 55152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateBufferView",
+        "ordinal": 104,
+        "address": 11520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateCommandPool",
+        "ordinal": 105,
+        "address": 49520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateComputePipelines",
+        "ordinal": 106,
+        "address": 71248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateDescriptorPool",
+        "ordinal": 107,
+        "address": 49808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateDescriptorSetLayout",
+        "ordinal": 108,
+        "address": 37168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateDescriptorUpdateTemplate",
+        "ordinal": 109,
+        "address": 13488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateDevice",
+        "ordinal": 110,
+        "address": 62096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateDisplayModeKHR",
+        "ordinal": 111,
+        "address": 18688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateDisplayPlaneSurfaceKHR",
+        "ordinal": 112,
+        "address": 23152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateEvent",
+        "ordinal": 113,
+        "address": 11696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateFence",
+        "ordinal": 114,
+        "address": 50944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateFramebuffer",
+        "ordinal": 115,
+        "address": 61184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateGraphicsPipelines",
+        "ordinal": 116,
+        "address": 20816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateHeadlessSurfaceEXT",
+        "ordinal": 117,
+        "address": 6256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateImage",
+        "ordinal": 118,
+        "address": 25936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateImageView",
+        "ordinal": 119,
+        "address": 42240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateInstance",
+        "ordinal": 120,
+        "address": 10608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreatePipelineCache",
+        "ordinal": 121,
+        "address": 12640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreatePipelineLayout",
+        "ordinal": 122,
+        "address": 17280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreatePrivateDataSlot",
+        "ordinal": 123,
+        "address": 44688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateQueryPool",
+        "ordinal": 124,
+        "address": 32192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateRenderPass",
+        "ordinal": 125,
+        "address": 18704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateRenderPass2",
+        "ordinal": 126,
+        "address": 23664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateSampler",
+        "ordinal": 127,
+        "address": 9712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateSamplerYcbcrConversion",
+        "ordinal": 128,
+        "address": 65104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateSemaphore",
+        "ordinal": 129,
+        "address": 39984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateShaderModule",
+        "ordinal": 130,
+        "address": 9392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateSharedSwapchainsKHR",
+        "ordinal": 131,
+        "address": 36768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateSwapchainKHR",
+        "ordinal": 132,
+        "address": 20432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkCreateWin32SurfaceKHR",
+        "ordinal": 133,
+        "address": 37520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyBuffer",
+        "ordinal": 134,
+        "address": 36496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyBufferView",
+        "ordinal": 135,
+        "address": 38240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyCommandPool",
+        "ordinal": 136,
+        "address": 66320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyDescriptorPool",
+        "ordinal": 137,
+        "address": 53024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyDescriptorSetLayout",
+        "ordinal": 138,
+        "address": 6736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyDescriptorUpdateTemplate",
+        "ordinal": 139,
+        "address": 46944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyDevice",
+        "ordinal": 140,
+        "address": 22144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyEvent",
+        "ordinal": 141,
+        "address": 24176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyFence",
+        "ordinal": 142,
+        "address": 20624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyFramebuffer",
+        "ordinal": 143,
+        "address": 35392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyImage",
+        "ordinal": 144,
+        "address": 47040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyImageView",
+        "ordinal": 145,
+        "address": 11760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyInstance",
+        "ordinal": 146,
+        "address": 4944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyPipeline",
+        "ordinal": 147,
+        "address": 70656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyPipelineCache",
+        "ordinal": 148,
+        "address": 18656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyPipelineLayout",
+        "ordinal": 149,
+        "address": 56288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyPrivateDataSlot",
+        "ordinal": 150,
+        "address": 8720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyQueryPool",
+        "ordinal": 151,
+        "address": 13744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyRenderPass",
+        "ordinal": 152,
+        "address": 19152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroySampler",
+        "ordinal": 153,
+        "address": 66736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroySamplerYcbcrConversion",
+        "ordinal": 154,
+        "address": 57728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroySemaphore",
+        "ordinal": 155,
+        "address": 45056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroyShaderModule",
+        "ordinal": 156,
+        "address": 22352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroySurfaceKHR",
+        "ordinal": 157,
+        "address": 19232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDestroySwapchainKHR",
+        "ordinal": 158,
+        "address": 37056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkDeviceWaitIdle",
+        "ordinal": 159,
+        "address": 30048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkEndCommandBuffer",
+        "ordinal": 160,
+        "address": 46208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkEnumerateDeviceExtensionProperties",
+        "ordinal": 161,
+        "address": 59488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkEnumerateDeviceLayerProperties",
+        "ordinal": 162,
+        "address": 53488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkEnumerateInstanceExtensionProperties",
+        "ordinal": 163,
+        "address": 57376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkEnumerateInstanceLayerProperties",
+        "ordinal": 164,
+        "address": 34480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkEnumerateInstanceVersion",
+        "ordinal": 165,
+        "address": 46176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkEnumeratePhysicalDeviceGroups",
+        "ordinal": 166,
+        "address": 24800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkEnumeratePhysicalDevices",
+        "ordinal": 167,
+        "address": 52816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkFlushMappedMemoryRanges",
+        "ordinal": 168,
+        "address": 11184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkFreeCommandBuffers",
+        "ordinal": 169,
+        "address": 30272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkFreeDescriptorSets",
+        "ordinal": 170,
+        "address": 61312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkFreeMemory",
+        "ordinal": 171,
+        "address": 37200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetBufferDeviceAddress",
+        "ordinal": 172,
+        "address": 32912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetBufferMemoryRequirements",
+        "ordinal": 173,
+        "address": 45440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetBufferMemoryRequirements2",
+        "ordinal": 174,
+        "address": 17312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetBufferOpaqueCaptureAddress",
+        "ordinal": 175,
+        "address": 22176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDescriptorSetLayoutSupport",
+        "ordinal": 176,
+        "address": 43120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceBufferMemoryRequirements",
+        "ordinal": 177,
+        "address": 47680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceGroupPeerMemoryFeatures",
+        "ordinal": 178,
+        "address": 26544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceGroupPresentCapabilitiesKHR",
+        "ordinal": 179,
+        "address": 58144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceGroupSurfacePresentModesKHR",
+        "ordinal": 180,
+        "address": 30304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceImageMemoryRequirements",
+        "ordinal": 181,
+        "address": 55552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceImageSparseMemoryRequirements",
+        "ordinal": 182,
+        "address": 62032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceImageSubresourceLayout",
+        "ordinal": 183,
+        "address": 39232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceMemoryCommitment",
+        "ordinal": 184,
+        "address": 20528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceMemoryOpaqueCaptureAddress",
+        "ordinal": 185,
+        "address": 30128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceProcAddr",
+        "ordinal": 186,
+        "address": 42896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceQueue",
+        "ordinal": 187,
+        "address": 39360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDeviceQueue2",
+        "ordinal": 188,
+        "address": 67488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDisplayModeProperties2KHR",
+        "ordinal": 189,
+        "address": 52752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDisplayModePropertiesKHR",
+        "ordinal": 190,
+        "address": 10928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDisplayPlaneCapabilities2KHR",
+        "ordinal": 191,
+        "address": 21104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDisplayPlaneCapabilitiesKHR",
+        "ordinal": 192,
+        "address": 5600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetDisplayPlaneSupportedDisplaysKHR",
+        "ordinal": 193,
+        "address": 11984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetEventStatus",
+        "ordinal": 194,
+        "address": 25808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetFenceStatus",
+        "ordinal": 195,
+        "address": 70160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetImageMemoryRequirements",
+        "ordinal": 196,
+        "address": 49456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetImageMemoryRequirements2",
+        "ordinal": 197,
+        "address": 35376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetImageSparseMemoryRequirements",
+        "ordinal": 198,
+        "address": 70288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetImageSparseMemoryRequirements2",
+        "ordinal": 199,
+        "address": 59552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetImageSubresourceLayout",
+        "ordinal": 200,
+        "address": 10432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetImageSubresourceLayout2",
+        "ordinal": 201,
+        "address": 67056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetInstanceProcAddr",
+        "ordinal": 202,
+        "address": 62448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceDisplayPlaneProperties2KHR",
+        "ordinal": 203,
+        "address": 18928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceDisplayPlanePropertiesKHR",
+        "ordinal": 204,
+        "address": 50496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceDisplayProperties2KHR",
+        "ordinal": 205,
+        "address": 28496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceDisplayPropertiesKHR",
+        "ordinal": 206,
+        "address": 59744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceExternalBufferProperties",
+        "ordinal": 207,
+        "address": 35728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceExternalFenceProperties",
+        "ordinal": 208,
+        "address": 5424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceExternalSemaphoreProperties",
+        "ordinal": 209,
+        "address": 20832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceFeatures",
+        "ordinal": 210,
+        "address": 63088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceFeatures2",
+        "ordinal": 211,
+        "address": 15360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceFormatProperties",
+        "ordinal": 212,
+        "address": 62624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceFormatProperties2",
+        "ordinal": 213,
+        "address": 31952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceImageFormatProperties",
+        "ordinal": 214,
+        "address": 52272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceImageFormatProperties2",
+        "ordinal": 215,
+        "address": 45552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceMemoryProperties",
+        "ordinal": 216,
+        "address": 29616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceMemoryProperties2",
+        "ordinal": 217,
+        "address": 29952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDevicePresentRectanglesKHR",
+        "ordinal": 218,
+        "address": 36752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceProperties",
+        "ordinal": 219,
+        "address": 48048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceProperties2",
+        "ordinal": 220,
+        "address": 61072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceQueueFamilyProperties",
+        "ordinal": 221,
+        "address": 54976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceQueueFamilyProperties2",
+        "ordinal": 222,
+        "address": 31248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceSparseImageFormatProperties",
+        "ordinal": 223,
+        "address": 35008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceSparseImageFormatProperties2",
+        "ordinal": 224,
+        "address": 56064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceSurfaceCapabilities2KHR",
+        "ordinal": 225,
+        "address": 46512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceSurfaceCapabilitiesKHR",
+        "ordinal": 226,
+        "address": 62304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceSurfaceFormats2KHR",
+        "ordinal": 227,
+        "address": 53376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceSurfaceFormatsKHR",
+        "ordinal": 228,
+        "address": 54864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceSurfacePresentModesKHR",
+        "ordinal": 229,
+        "address": 29184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceSurfaceSupportKHR",
+        "ordinal": 230,
+        "address": 33088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceToolProperties",
+        "ordinal": 231,
+        "address": 30208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPhysicalDeviceWin32PresentationSupportKHR",
+        "ordinal": 232,
+        "address": 44560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPipelineCacheData",
+        "ordinal": 233,
+        "address": 69792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetPrivateData",
+        "ordinal": 234,
+        "address": 34560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetQueryPoolResults",
+        "ordinal": 235,
+        "address": 16720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetRenderAreaGranularity",
+        "ordinal": 236,
+        "address": 43344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetRenderingAreaGranularity",
+        "ordinal": 237,
+        "address": 25584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetSemaphoreCounterValue",
+        "ordinal": 238,
+        "address": 27328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkGetSwapchainImagesKHR",
+        "ordinal": 239,
+        "address": 31184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkInvalidateMappedMemoryRanges",
+        "ordinal": 240,
+        "address": 60464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkMapMemory",
+        "ordinal": 241,
+        "address": 21488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkMapMemory2",
+        "ordinal": 242,
+        "address": 11392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkMergePipelineCaches",
+        "ordinal": 243,
+        "address": 26784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkQueueBindSparse",
+        "ordinal": 244,
+        "address": 47472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkQueuePresentKHR",
+        "ordinal": 245,
+        "address": 10720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkQueueSubmit",
+        "ordinal": 246,
+        "address": 60848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkQueueSubmit2",
+        "ordinal": 247,
+        "address": 26480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkQueueWaitIdle",
+        "ordinal": 248,
+        "address": 53216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkResetCommandBuffer",
+        "ordinal": 249,
+        "address": 22720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkResetCommandPool",
+        "ordinal": 250,
+        "address": 28400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkResetDescriptorPool",
+        "ordinal": 251,
+        "address": 21472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkResetEvent",
+        "ordinal": 252,
+        "address": 72000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkResetFences",
+        "ordinal": 253,
+        "address": 65520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkResetQueryPool",
+        "ordinal": 254,
+        "address": 69232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkSetEvent",
+        "ordinal": 255,
+        "address": 12960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkSetPrivateData",
+        "ordinal": 256,
+        "address": 4704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkSignalSemaphore",
+        "ordinal": 257,
+        "address": 19104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkTransitionImageLayout",
+        "ordinal": 258,
+        "address": 34272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkTrimCommandPool",
+        "ordinal": 259,
+        "address": 35968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkUnmapMemory",
+        "ordinal": 260,
+        "address": 59216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkUnmapMemory2",
+        "ordinal": 261,
+        "address": 39696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkUpdateDescriptorSetWithTemplate",
+        "ordinal": 262,
+        "address": 47536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkUpdateDescriptorSets",
+        "ordinal": 263,
+        "address": 22000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkWaitForFences",
+        "ordinal": 264,
+        "address": 28976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vkWaitSemaphores",
+        "ordinal": 265,
+        "address": 64816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 2,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 1720768,
+        "size": 544,
+        "entropy": 3.379439,
+        "sha256": "3f998bc0efc2e123003c7d8f87977a63988605d8e6e148db394c6ff972aa3099",
+        "magic_head": "2002340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 1721312,
+        "size": 381,
+        "entropy": 4.911615,
+        "sha256": "4bb79dcea0a901f7d9eac5aa05728ae92acb42e0cb22e5dd14134f4421a3d8df",
+        "magic_head": "3c3f786d6c207665"
+      }
+    ],
+    "total_size": 925,
+    "max_entropy": 4.911615
+  },
+  "digital_signature": {
+    "signature_present": 1,
+    "verification_flag": "OK",
+    "signature_count": 1,
+    "certificates": [
+      {
+        "version": 3,
+        "subject": "C=US, O=DigiCert\\, Inc., CN=DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+        "issuer": "C=US, O=DigiCert Inc, OU=www.digicert.com, CN=DigiCert Trusted Root G4",
+        "serial_number": "08ad40b260d29c4c9f5ecda9bd93aed9",
+        "signature_algorithm": "1.2.840.113549.1.1.12",
+        "valid_from": "2021-4-29",
+        "valid_to": "2036-4-28",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN",
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      },
+      {
+        "version": 3,
+        "subject": "JURISDICTION_OF_INCORPORATION_C=US, JURISDICTION_OF_INCORPORATION_SP=Colorado, BUSINESS_CATEGORY=Private Organization, serialNumber=20091538863, C=US, ST=Colorado, L=Fort Collins, O=LunarG\\, Inc., CN=LunarG\\, Inc.",
+        "issuer": "C=US, O=DigiCert\\, Inc., CN=DigiCert Trusted G4 Code Signing RSA4096 SHA384 2021 CA1",
+        "serial_number": "05a9524cff1372ee7682de80367aea51",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2024-7-1",
+        "valid_to": "2027-6-12",
+        "is_ca": 0,
+        "key_usage": [
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      }
+    ]
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 440710184,
+    "entries": [
+      {
+        "id": 258,
+        "build_id": 35226,
+        "count": 1
+      },
+      {
+        "id": 151,
+        "build_id": 0,
+        "count": 1
+      },
+      {
+        "id": 255,
+        "build_id": 35226,
+        "count": 1
+      },
+      {
+        "id": 256,
+        "build_id": 35226,
+        "count": 1
+      },
+      {
+        "id": 259,
+        "build_id": 35226,
+        "count": 1
+      },
+      {
+        "id": 260,
+        "build_id": 35226,
+        "count": 18
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 126
+      },
+      {
+        "id": 257,
+        "build_id": 33145,
+        "count": 7
+      },
+      {
+        "id": 261,
+        "build_id": 35207,
+        "count": 32
+      },
+      {
+        "id": 260,
+        "build_id": 35207,
+        "count": 15
+      },
+      {
+        "id": 259,
+        "build_id": 35207,
+        "count": 9
+      },
+      {
+        "id": 259,
+        "build_id": 33145,
+        "count": 8
+      },
+      {
+        "id": 260,
+        "build_id": 33145,
+        "count": 13
+      },
+      {
+        "id": 261,
+        "build_id": 33145,
+        "count": 160
+      }
+    ],
+    "raw_hex": "6cd52a4928b4441a28b4441a28b4441a5135411b88b4441a5135401b25b4441a5135471b20b4441aaf3d471b21b4441aaf3d401b27b4441aaf3d411b08b4441a5135451b2fb4441a28b4451a56b4441ab23d401b3ab4441ab23d471b29b4441ab23d441b29b4441ab23dbb1a29b4441a28b4d31a29b4441ab23d461b29b4441a5269636828b4441a",
+    "raw_offset": 128,
+    "raw_size": 136,
+    "entry_count": 14
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 1644368,
+      "size": 11276,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 1725872,
+      "size": 80,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 1757184,
+      "size": 1817,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 1675264,
+      "size": 40800,
+      "section": ".pdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 1730048,
+      "size": 10680,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 1761280,
+      "size": 2484,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 1572240,
+      "size": 84,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 1571856,
+      "size": 320,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 1724416,
+      "size": 1456,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": 381
+  },
+  "entrypoint_bytes": {
+    "offset": 2112,
+    "hex": "e9cb250800cccccccccccccccccccccce917b10f00cccccccccccccccccccccce99be30c00cccccccccccccccccccccce9af050d00cccccccccccccccccccccc",
+    "entropy": 1.996641
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 6444109824,
+    "se_handler_count": 0,
+    "guard_cf_function_count": 1732,
+    "guard_flags": 272712960
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 1675264,
+    "size": 40800,
+    "runtime_function_count": 3400
+  },
+  "section_layout_qc": {
+    "gaps": 10,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 10,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 2260
+  },
+  "optional_header": {
+    "magic": "PE32_PLUS",
+    "major_linker_version": 14,
+    "minor_linker_version": 44,
+    "sizeof_code": 1218560,
+    "sizeof_initialized_data": 520192,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 5184,
+    "baseof_code": 4096,
+    "baseof_data": null,
+    "imagebase": 6442450944,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 6,
+    "minor_operating_system_version": 0,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 6,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 1769472,
+    "sizeof_headers": 1024,
+    "checksum": 1775798,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 16736,
+    "dll_characteristics": [
+      "HIGH_ENTROPY_VA",
+      "DYNAMIC_BASE",
+      "NX_COMPAT",
+      "GUARD_CF"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 208,
+    "entropy": 5.118791,
+    "is_standard_ms": 1,
+    "sha256": "7524972aa11f567ab817f4085ac28d66fb3e4857fea2c0a9bf38ed54bdfd4f02",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a24000000000000006cd52a4928b4441a28b4441a28b4441a5135411b88b4441a5135401b25b4441a5135471b20b4441aaf3d471b21b4441aaf3d401b27b4441aaf3d411b08b4441a5135451b2fb4441a28b4451a56b4441ab23d401b3ab4441ab23d471b29b4441ab23d441b29b4441ab23dbb1a29b4441a28b4d31a29b4441ab23d461b29b4441a5269636828b4441a0000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ l *I( D ( D ( D Q5A D Q5@ % D Q5G D =G ! D =@ ' D =A D Q5E / D ( E V D =@ : D =G ) D =D ) D = ) D ( ) D =F ) D Rich( D",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 1775798,
+    "checksum_computed": 1775798,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 5184,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 5.32005
+  },
+  "overlay": {
+    "size": 10680,
+    "offset": 1730048,
+    "entropy": 7.625338,
+    "magic_head": "b829000000020200308229a806092a86",
+    "sha256": "184b0a8c54326b38e65b769977f0dff2ac3ae4f48d766cd842b4a5049d63e872"
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 3,
+    "types": [
+      "CODEVIEW",
+      "VC_FEATURE",
+      "EX_DLLCHARACTERISTICS"
+    ],
+    "pdb_path": "C:\\SDKBuild\\build-X64-1.4.350.0\\Vulkan-Loader\\build\\loader\\RelWithDebInfo\\vulkan-1.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 17,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": null,
+    "file_description": "Vulkan Loader",
+    "original_filename": null,
+    "product_name": "Vulkan Runtime",
+    "file_version": "1.4.350.0",
+    "legal_copyright": "Copyright (C) 2015-2026",
+    "internal_name": null
+  },
+  "strings": {
+    "count_ascii": 14707,
+    "count_utf16": 519,
+    "count_total": 15226,
+    "chars_total": 238582,
+    "printable_ratio": 0.137059,
+    "len_mean": 15.67,
+    "len_max": 369,
+    "urls": [
+      "http://ocsp.digicert.com0",
+      "http://ocsp.digicert.com0A",
+      "http://ocsp.digicert.com0C",
+      "http://ocsp.digicert.com0]",
+      "http://www.digicert.com/CPS0"
+    ],
+    "n_urls": 5,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "advapi32.dll",
+      "cfgmgr32.dll",
+      "dxgi.dll",
+      "gdi32.dll",
+      "kernel32.dll",
+      "mscoree.dll",
+      "vulkan-1.dll"
+    ],
+    "n_dll_names": 7,
+    "registry_paths": [
+      "SOFTWARE\\Khronos\\Vulkan\\Drivers",
+      "SOFTWARE\\Khronos\\Vulkan\\ExplicitLayers",
+      "SOFTWARE\\Khronos\\Vulkan\\ImplicitLayers",
+      "SOFTWARE\\Khronos\\Vulkan\\LoaderSettings"
+    ],
+    "n_registry_paths": 4,
+    "file_paths": [
+      "C:\\SDKBuild\\build-X64-1.4.350.0\\Vulkan-Loader\\build\\loader\\RelWithDebInfo\\vulkan-1.pdb"
+    ],
+    "n_file_paths": 1
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "dxgi.dll",
+      "gdi32.dll",
+      "mscoree.dll",
+      "vulkan-1.dll"
+    ],
+    "n_orphans": 4,
+    "n_imported": 3
+  }
+}

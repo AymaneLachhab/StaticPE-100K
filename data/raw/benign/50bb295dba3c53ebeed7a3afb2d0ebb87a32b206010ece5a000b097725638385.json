@@ -1,0 +1,7004 @@
+{
+  "sha256": "50bb295dba3c53ebeed7a3afb2d0ebb87a32b206010ece5a000b097725638385",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 735232,
+    "md5": "13d65af01b7baedfa80e4510491505db",
+    "sha1": "2edaf1b8e18c5cbbd8f24ba62112a8b1c6ad6035",
+    "imphash": "b4f89dc2a7765eef211c72f53328a299",
+    "tlsh": "T1C1F4D062FE590572F697C1354DAB3D37CA39A62653E288F3DF20AB8681517F21C3910B",
+    "ssdeep": "12288:TiiLEK+Y99eeke2GLPGE/Y717/KIdBDPzHdSVGG0fm5f:9LEKP9xkc7m7/VDPTtSf",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 7.073959,
+    "byte_histogram_256": [
+      0.17427696,
+      0.00765065,
+      0.00467335,
+      0.00892235,
+      0.00842183,
+      0.00240332,
+      0.00188512,
+      0.00267399,
+      0.00635582,
+      0.00119826,
+      0.00312282,
+      0.00241692,
+      0.00455775,
+      0.0014254,
+      0.00201977,
+      0.00510315,
+      0.01146305,
+      0.00139276,
+      0.00109081,
+      0.00129891,
+      0.00298137,
+      0.00440405,
+      0.00107449,
+      0.00099016,
+      0.00251213,
+      0.00091808,
+      0.00087183,
+      0.00085143,
+      0.00219115,
+      0.00072766,
+      0.0009072,
+      0.00124178,
+      0.00402866,
+      0.00252437,
+      0.0035499,
+      0.00326292,
+      0.01400918,
+      0.00259102,
+      0.0016335,
+      0.00153965,
+      0.00198169,
+      0.00123226,
+      0.00142132,
+      0.00216802,
+      0.00174367,
+      0.0013982,
+      0.00148253,
+      0.00155869,
+      0.00463935,
+      0.00317995,
+      0.00313642,
+      0.00362607,
+      0.0030725,
+      0.00222379,
+      0.00208234,
+      0.00204697,
+      0.0028916,
+      0.00272023,
+      0.002387,
+      0.00369271,
+      0.00299361,
+      0.00204017,
+      0.00200345,
+      0.00322483,
+      0.00832118,
+      0.00408715,
+      0.00311466,
+      0.00345061,
+      0.00669177,
+      0.00349686,
+      0.00317043,
+      0.00299361,
+      0.00309018,
+      0.0025475,
+      0.00214082,
+      0.00218706,
+      0.00518204,
+      0.00273383,
+      0.0037376,
+      0.00340165,
+      0.00588114,
+      0.00563088,
+      0.00338533,
+      0.00464615,
+      0.00386953,
+      0.00371311,
+      0.00530037,
+      0.00429524,
+      0.00395249,
+      0.00321123,
+      0.00356894,
+      0.00432245,
+      0.00397698,
+      0.00408715,
+      0.00498482,
+      0.00529357,
+      0.00382736,
+      0.00527725,
+      0.00319083,
+      0.00367503,
+      0.00387089,
+      0.00596818,
+      0.00439861,
+      0.00375936,
+      0.00405314,
+      0.00514667,
+      0.0049481,
+      0.00298001,
+      0.00441765,
+      0.00355262,
+      0.00476992,
+      0.00419731,
+      0.00410891,
+      0.00291337,
+      0.00522284,
+      0.00416467,
+      0.00997644,
+      0.00551527,
+      0.00299089,
+      0.00312282,
+      0.0033622,
+      0.0035091,
+      0.00258286,
+      0.00251757,
+      0.00338125,
+      0.00291881,
+      0.00268351,
+      0.00216258,
+      0.00348461,
+      0.00306298,
+      0.0026631,
+      0.00864081,
+      0.0042694,
+      0.00556287,
+      0.00268895,
+      0.00289024,
+      0.00361247,
+      0.00668905,
+      0.00341389,
+      0.01768013,
+      0.00299361,
+      0.00817429,
+      0.00292425,
+      0.00289568,
+      0.00321531,
+      0.00278552,
+      0.00283856,
+      0.00278143,
+      0.00276239,
+      0.00247949,
+      0.00275559,
+      0.00273111,
+      0.00296369,
+      0.00271479,
+      0.00255702,
+      0.00255294,
+      0.00252301,
+      0.00258694,
+      0.00248629,
+      0.00236932,
+      0.00225915,
+      0.00152605,
+      0.00147572,
+      0.00137644,
+      0.00175183,
+      0.00149477,
+      0.00147844,
+      0.00154781,
+      0.00195312,
+      0.00163214,
+      0.00178039,
+      0.00168926,
+      0.00202249,
+      0.00178175,
+      0.00181847,
+      0.00184568,
+      0.00244413,
+      0.00200753,
+      0.00210818,
+      0.00204833,
+      0.00212314,
+      0.00195312,
+      0.00242372,
+      0.00243461,
+      0.00271887,
+      0.00221427,
+      0.00203201,
+      0.00199937,
+      0.00210682,
+      0.00208778,
+      0.00224011,
+      0.00210002,
+      0.00496714,
+      0.00409803,
+      0.00357166,
+      0.00327108,
+      0.00441085,
+      0.00216666,
+      0.00320171,
+      0.00437413,
+      0.00344381,
+      0.00280048,
+      0.00223331,
+      0.0024074,
+      0.0108442,
+      0.00224963,
+      0.00264134,
+      0.00273111,
+      0.00239924,
+      0.00227547,
+      0.00221427,
+      0.00199937,
+      0.00206737,
+      0.00191096,
+      0.00220883,
+      0.0018824,
+      0.00204697,
+      0.00172735,
+      0.00162398,
+      0.00197761,
+      0.00167702,
+      0.00156821,
+      0.0016199,
+      0.00169878,
+      0.00273247,
+      0.00229451,
+      0.00219115,
+      0.00210002,
+      0.00236796,
+      0.00212178,
+      0.00215034,
+      0.00236116,
+      0.00609876,
+      0.00298817,
+      0.00198713,
+      0.00334996,
+      0.00278143,
+      0.00226731,
+      0.00211362,
+      0.00243597,
+      0.00339349,
+      0.0026495,
+      0.00236524,
+      0.00226051,
+      0.002387,
+      0.00212314,
+      0.00263046,
+      0.00246861,
+      0.00281136,
+      0.00299769,
+      0.00246181,
+      0.0021381,
+      0.00244005,
+      0.00265494,
+      0.00286576,
+      0.01773182
+    ],
+    "byte_entropy_histogram_256": [
+      0.0013947,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00384905,
+      0.0,
+      0.0001866,
+      3.541e-05,
+      2.384e-05,
+      8.17e-06,
+      3.201e-05,
+      4.903e-05,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00849963,
+      0.00015391,
+      0.00033982,
+      0.0001471,
+      5.857e-05,
+      8.444e-05,
+      7.014e-05,
+      8.24e-05,
+      2.315e-05,
+      2.111e-05,
+      2.043e-05,
+      1.566e-05,
+      2.588e-05,
+      3.065e-05,
+      1.907e-05,
+      0.00017093,
+      0.01020964,
+      9.466e-05,
+      0.00026559,
+      0.00023359,
+      0.00020907,
+      0.00049509,
+      0.0005128,
+      0.00027308,
+      1.634e-05,
+      5.448e-05,
+      1.771e-05,
+      1.43e-05,
+      9.53e-06,
+      1.362e-05,
+      9.53e-06,
+      0.00012326,
+      0.04477342,
+      0.0,
+      0.00186459,
+      0.00370672,
+      0.00341797,
+      0.00311084,
+      0.00280438,
+      0.00168889,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.02902583,
+      2.656e-05,
+      0.00111072,
+      0.00216492,
+      0.00268997,
+      0.00230452,
+      0.00322593,
+      0.00115431,
+      1.703e-05,
+      1.226e-05,
+      8.85e-06,
+      6.81e-06,
+      2.452e-05,
+      2.315e-05,
+      1.566e-05,
+      2.996e-05,
+      0.01211305,
+      0.00042086,
+      0.00045423,
+      0.00097724,
+      0.00111889,
+      0.00130208,
+      0.00167596,
+      0.00103649,
+      3.882e-05,
+      2.111e-05,
+      5.448e-05,
+      1.771e-05,
+      2.315e-05,
+      2.792e-05,
+      2.724e-05,
+      0.00021656,
+      0.00550798,
+      0.00035004,
+      0.00030509,
+      0.00076545,
+      0.00362704,
+      0.00261711,
+      0.00518314,
+      0.00299643,
+      0.00011032,
+      0.00010624,
+      0.00011509,
+      0.00011781,
+      0.00013484,
+      5.993e-05,
+      8.036e-05,
+      0.00023835,
+      0.01172488,
+      0.00060678,
+      0.00086283,
+      0.00120198,
+      0.00259463,
+      0.00218603,
+      0.00414256,
+      0.00190137,
+      0.00033642,
+      0.00096158,
+      0.00033233,
+      0.00029896,
+      0.00033029,
+      0.00026627,
+      0.0003657,
+      0.0011761,
+      0.01271098,
+      0.0012619,
+      0.00096567,
+      0.00164122,
+      0.00468192,
+      0.00533568,
+      0.0059336,
+      0.00367198,
+      0.00205323,
+      0.00257693,
+      0.00084649,
+      0.00078997,
+      0.00106373,
+      0.00074979,
+      0.00072187,
+      0.00241485,
+      0.01668601,
+      0.00328109,
+      0.00618081,
+      0.01252166,
+      0.00554816,
+      0.00913638,
+      0.00817343,
+      0.00449192,
+      0.00648931,
+      0.00707293,
+      0.0040513,
+      0.00869645,
+      0.00802225,
+      0.00630339,
+      0.00565235,
+      0.0076368,
+      0.01344306,
+      0.00360048,
+      0.00686454,
+      0.00695648,
+      0.0102219,
+      0.01005778,
+      0.01219205,
+      0.01158255,
+      0.01302424,
+      0.01071563,
+      0.00787788,
+      0.01023484,
+      0.01325987,
+      0.0088163,
+      0.01164588,
+      0.01129176,
+      0.04957519,
+      0.01677522,
+      0.0176183,
+      0.00911663,
+      0.01854379,
+      0.02091642,
+      0.01321969,
+      0.0202967,
+      0.04193566,
+      0.01335316,
+      0.01043233,
+      0.01072516,
+      0.02833053,
+      0.0110357,
+      0.01669758,
+      0.02360367,
+      0.01652257,
+      0.00801272,
+      0.00865627,
+      0.00561626,
+      0.00720028,
+      0.01182022,
+      0.0101286,
+      0.01124613,
+      0.01710959,
+      0.00768583,
+      0.00341456,
+      0.00388514,
+      0.00803383,
+      0.00337575,
+      0.00652404,
+      0.00884354,
+      0.00060882,
+      0.00034186,
+      0.00048011,
+      0.00070144,
+      0.00046785,
+      0.00082402,
+      0.00078792,
+      0.00072323,
+      0.00058567,
+      0.00056728,
+      0.00027785,
+      0.0002547,
+      0.00020294,
+      0.00022269,
+      0.0006238,
+      0.00069803
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 199232,
+      "raw_size": 199680,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.473945,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 518844,
+      "raw_size": 519168,
+      "virtual_address": 204800,
+      "pointerto_raw_data": 200704,
+      "entropy": 7.014422,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 2924,
+      "raw_size": 2048,
+      "virtual_address": 724992,
+      "pointerto_raw_data": 719872,
+      "entropy": 4.521009,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 1384,
+      "raw_size": 1536,
+      "virtual_address": 729088,
+      "pointerto_raw_data": 721920,
+      "entropy": 4.185308,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 11372,
+      "raw_size": 11776,
+      "virtual_address": 733184,
+      "pointerto_raw_data": 723456,
+      "entropy": 6.73195,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 272,
+    "e_lfanew_raw": 272,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000010010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 5,
+    "time_date_stamp": 1761670895,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8450,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "Qt6Core.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 204888,
+      "import_lookup_table_rva": 712388,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?array@QJsonDocument@@QBE?AVQJsonArray@@XZ",
+          "hint": 2146,
+          "iat_address": 204888,
+          "iat_value": 718038,
+          "data": 718038
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isNull@QJsonDocument@@QBE_NXZ",
+          "hint": 4441,
+          "iat_address": 204892,
+          "iat_value": 718084,
+          "data": 718084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonObject@@QAE@XZ",
+          "hint": 311,
+          "iat_address": 204896,
+          "iat_value": 718118,
+          "data": 718118
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QJsonObject@@QAE@XZ",
+          "hint": 776,
+          "iat_address": 204900,
+          "iat_value": 718144,
+          "data": 718144
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?insert@QJsonObject@@QAE?AViterator@1@ABVQString@@ABVQJsonValue@@@Z",
+          "hint": 4157,
+          "iat_address": 204904,
+          "iat_value": 718170,
+          "data": 718170
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonArray@@QAE@XZ",
+          "hint": 300,
+          "iat_address": 204908,
+          "iat_value": 718240,
+          "data": 718240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QJsonArray@@QAE@XZ",
+          "hint": 774,
+          "iat_address": 204912,
+          "iat_value": 718264,
+          "data": 718264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QJsonArray@@QAEXABVQJsonValue@@@Z",
+          "hint": 2098,
+          "iat_address": 204916,
+          "iat_value": 718288,
+          "data": 718288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toValue@QJsonValueRef@@ABE?AVQJsonValue@@XZ",
+          "hint": 7300,
+          "iat_address": 204920,
+          "iat_value": 718332,
+          "data": 718332
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?begin@QJsonArray@@QBE?AVconst_iterator@1@XZ",
+          "hint": 2208,
+          "iat_address": 204924,
+          "iat_value": 718380,
+          "data": 718380
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?end@QJsonArray@@QBE?AVconst_iterator@1@XZ",
+          "hint": 3188,
+          "iat_address": 204928,
+          "iat_value": 718428,
+          "data": 718428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?begin@QJsonObject@@QBE?AVconst_iterator@1@XZ",
+          "hint": 2210,
+          "iat_address": 204932,
+          "iat_value": 718474,
+          "data": 718474
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?end@QJsonObject@@QBE?AVconst_iterator@1@XZ",
+          "hint": 3190,
+          "iat_address": 204936,
+          "iat_value": 718522,
+          "data": 718522
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?keyAt@QJsonObject@@ABE?AVQString@@H@Z",
+          "hint": 4685,
+          "iat_address": 204940,
+          "iat_value": 718568,
+          "data": 718568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?type@QJsonValue@@QBE?AW4Type@1@XZ",
+          "hint": 7450,
+          "iat_address": 204944,
+          "iat_value": 718610,
+          "data": 718610
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toBool@QJsonValue@@QBE_N_N@Z",
+          "hint": 7025,
+          "iat_address": 204948,
+          "iat_value": 718648,
+          "data": 718648
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toDouble@QJsonValue@@QBENN@Z",
+          "hint": 7074,
+          "iat_address": 204952,
+          "iat_value": 718680,
+          "data": 718680
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toString@QJsonValue@@QBE?AVQString@@XZ",
+          "hint": 7213,
+          "iat_address": 204956,
+          "iat_value": 718712,
+          "data": 718712
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toArray@QJsonValue@@QBE?AVQJsonArray@@XZ",
+          "hint": 7018,
+          "iat_address": 204960,
+          "iat_value": 718754,
+          "data": 718754
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toObject@QJsonValue@@QBE?AVQJsonObject@@XZ",
+          "hint": 7167,
+          "iat_address": 204964,
+          "iat_value": 718798,
+          "data": 718798
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?digitValue@QChar@@SIH_U@Z",
+          "hint": 3088,
+          "iat_address": 204968,
+          "iat_value": 718844,
+          "data": 718844
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLower@QChar@@SI_U_U@Z",
+          "hint": 7147,
+          "iat_address": 204972,
+          "iat_value": 718874,
+          "data": 718874
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toUpper@QChar@@SI_U_U@Z",
+          "hint": 7283,
+          "iat_address": 204976,
+          "iat_value": 718902,
+          "data": 718902
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isMark@QChar@@SI_N_U@Z",
+          "hint": 4423,
+          "iat_address": 204980,
+          "iat_value": 718930,
+          "data": 718930
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isLetterOrNumber@QChar@@SA_N_U@Z",
+          "hint": 4397,
+          "iat_address": 204984,
+          "iat_value": 718956,
+          "data": 718956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?compareMemory@QtPrivate@@YAHVQByteArrayView@@0@Z",
+          "hint": 2584,
+          "iat_address": 204988,
+          "iat_value": 718992,
+          "data": 718992
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qstrcmp@@YAHPBD0@Z",
+          "hint": 5517,
+          "iat_address": 204992,
+          "iat_value": 719044,
+          "data": 719044
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?at@QByteArray@@QBEDH@Z",
+          "hint": 2152,
+          "iat_address": 204996,
+          "iat_value": 719066,
+          "data": 719066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QByteArray@@QAEAAV1@D@Z",
+          "hint": 2074,
+          "iat_address": 205000,
+          "iat_value": 719092,
+          "data": 719092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?length@QByteArray@@QBEHXZ",
+          "hint": 4755,
+          "iat_address": 205004,
+          "iat_value": 719126,
+          "data": 719126
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?findString@QtPrivate@@YAHVQStringView@@H0W4CaseSensitivity@Qt@@@Z",
+          "hint": 3453,
+          "iat_address": 205008,
+          "iat_value": 719156,
+          "data": 719156
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QString@@QAEAAV0@VQChar@@@Z",
+          "hint": 1198,
+          "iat_address": 205012,
+          "iat_value": 719226,
+          "data": 719226
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?reserve@QString@@QAEXH@Z",
+          "hint": 5974,
+          "iat_address": 205016,
+          "iat_value": 719260,
+          "data": 719260
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?replace@QString@@QAEAAV1@HHABV1@@Z",
+          "hint": 5953,
+          "iat_address": 205020,
+          "iat_value": 719288,
+          "data": 719288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6@YAAAVQDataStream@@AAV0@ABVQString@@@Z",
+          "hint": 1384,
+          "iat_address": 205024,
+          "iat_value": 719326,
+          "data": 719326
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??5@YAAAVQDataStream@@AAV0@AAVQString@@@Z",
+          "hint": 1273,
+          "iat_address": 205028,
+          "iat_value": 719370,
+          "data": 719370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QStringMatcher@@QAE@PBVQChar@@HW4CaseSensitivity@Qt@@@Z",
+          "hint": 519,
+          "iat_address": 205032,
+          "iat_value": 719414,
+          "data": 719414
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QStringMatcher@@QAE@XZ",
+          "hint": 830,
+          "iat_address": 205036,
+          "iat_value": 719476,
+          "data": 719476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexIn@QStringMatcher@@QBEHPBVQChar@@HH@Z",
+          "hint": 4089,
+          "iat_address": 205040,
+          "iat_value": 719504,
+          "data": 719504
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??5QDataStream@@QAEAAV0@AAC@Z",
+          "hint": 1283,
+          "iat_address": 205044,
+          "iat_value": 719550,
+          "data": 719550
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDataStream@@QAEAAV0@C@Z",
+          "hint": 1397,
+          "iat_address": 205048,
+          "iat_value": 719582,
+          "data": 719582
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?normalizedType@QMetaObject@@SA?AVQByteArray@@PBD@Z",
+          "hint": 5146,
+          "iat_address": 205052,
+          "iat_value": 719612,
+          "data": 719612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?registerNormalizedTypedef@QMetaType@@SAXABVQByteArray@@V1@@Z",
+          "hint": 5818,
+          "iat_address": 205056,
+          "iat_value": 719666,
+          "data": 719666
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?id@QMetaType@@QBEHH@Z",
+          "hint": 4067,
+          "iat_address": 205060,
+          "iat_value": 719730,
+          "data": 719730
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QDebug@@QAE@$$QAV0@@Z",
+          "hint": 200,
+          "iat_address": 205064,
+          "iat_value": 719756,
+          "data": 719756
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QDebug@@QAE@XZ",
+          "hint": 739,
+          "iat_address": 205068,
+          "iat_value": 719784,
+          "data": 719784
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@H@Z",
+          "hint": 1419,
+          "iat_address": 205072,
+          "iat_value": 719804,
+          "data": 719804
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@PBD@Z",
+          "hint": 1426,
+          "iat_address": 205076,
+          "iat_value": 719830,
+          "data": 719830
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QDebug@@QAEAAV0@ABVQString@@@Z",
+          "hint": 1415,
+          "iat_address": 205080,
+          "iat_value": 719858,
+          "data": 719858
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QDebugStateSaver@@QAE@AAVQDebug@@@Z",
+          "hint": 205,
+          "iat_address": 205084,
+          "iat_value": 719894,
+          "data": 719894
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QDebugStateSaver@@QAE@XZ",
+          "hint": 740,
+          "iat_address": 205088,
+          "iat_value": 719936,
+          "data": 719936
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QVariant@@QAE@XZ",
+          "hint": 631,
+          "iat_address": 205092,
+          "iat_value": 719966,
+          "data": 719966
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QVariant@@QAE@XZ",
+          "hint": 852,
+          "iat_address": 205096,
+          "iat_value": 719988,
+          "data": 719988
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QVariant@@QAE@VQMetaType@@PBX@Z",
+          "hint": 628,
+          "iat_address": 205100,
+          "iat_value": 720010,
+          "data": 720010
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QVariant@@QAEAAV0@$$QAV0@@Z",
+          "hint": 1225,
+          "iat_address": 205104,
+          "iat_value": 720048,
+          "data": 720048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isNull@QString@@QBE_NXZ",
+          "hint": 4450,
+          "iat_address": 205108,
+          "iat_value": 716424,
+          "data": 716424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?constData@QVariant@@QBEPBXXZ",
+          "hint": 2635,
+          "iat_address": 205112,
+          "iat_value": 720114,
+          "data": 720114
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QBitArray@@QAE@H_N@Z",
+          "hint": 80,
+          "iat_address": 205116,
+          "iat_value": 720146,
+          "data": 720146
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?testBit@QBitArray@@QBE_NH@Z",
+          "hint": 6986,
+          "iat_address": 205120,
+          "iat_value": 720172,
+          "data": 720172
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setBit@QBitArray@@QAEXH_N@Z",
+          "hint": 6190,
+          "iat_address": 205124,
+          "iat_value": 720204,
+          "data": 720204
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QBitArray@@QAE@XZ",
+          "hint": 716,
+          "iat_address": 205128,
+          "iat_value": 720236,
+          "data": 720236
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?lock@QBasicMutex@@QAEXXZ",
+          "hint": 4803,
+          "iat_address": 205132,
+          "iat_value": 720260,
+          "data": 720260
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?unlock@QBasicMutex@@QAEXXZ",
+          "hint": 7490,
+          "iat_address": 205136,
+          "iat_value": 720288,
+          "data": 720288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isSpace@QChar@@SA_N_U@Z",
+          "hint": 4553,
+          "iat_address": 205140,
+          "iat_value": 720318,
+          "data": 720318
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mid@QContainerImplHelper@QtPrivate@@SA?AW4CutResult@12@HPAH0@Z",
+          "hint": 4972,
+          "iat_address": 205144,
+          "iat_value": 720346,
+          "data": 720346
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@HW4Initialization@Qt@@@Z",
+          "hint": 89,
+          "iat_address": 205148,
+          "iat_value": 720412,
+          "data": 720412
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?truncate@QByteArray@@QAEXH@Z",
+          "hint": 7423,
+          "iat_address": 205152,
+          "iat_value": 720458,
+          "data": 720458
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qustrchr@QtPrivate@@YAPB_SVQStringView@@_S@Z",
+          "hint": 5730,
+          "iat_address": 205156,
+          "iat_value": 720490,
+          "data": 720490
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?startsWith@QtPrivate@@YA_NVQStringView@@0W4CaseSensitivity@Qt@@@Z",
+          "hint": 6772,
+          "iat_address": 205160,
+          "iat_value": 720538,
+          "data": 720538
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?endsWith@QtPrivate@@YA_NVQStringView@@0W4CaseSensitivity@Qt@@@Z",
+          "hint": 3226,
+          "iat_address": 205164,
+          "iat_value": 720608,
+          "data": 720608
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?findString@QtPrivate@@YAHVQStringView@@HVQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 3454,
+          "iat_address": 205168,
+          "iat_value": 720676,
+          "data": 720676
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?lastIndexOf@QtPrivate@@YAHVQStringView@@H0W4CaseSensitivity@Qt@@@Z",
+          "hint": 4736,
+          "iat_address": 205172,
+          "iat_value": 720760,
+          "data": 720760
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?lastIndexOf@QtPrivate@@YAHVQStringView@@HVQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 4737,
+          "iat_address": 205176,
+          "iat_value": 720830,
+          "data": 720830
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?count@QtPrivate@@YAHVQStringView@@VQChar@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 2755,
+          "iat_address": 205180,
+          "iat_value": 720916,
+          "data": 720916
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?count@QtPrivate@@YAHVQStringView@@0W4CaseSensitivity@Qt@@@Z",
+          "hint": 2753,
+          "iat_address": 205184,
+          "iat_value": 720986,
+          "data": 720986
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertToLatin1@QtPrivate@@YA?AVQByteArray@@VQStringView@@@Z",
+          "hint": 2721,
+          "iat_address": 205188,
+          "iat_value": 721050,
+          "data": 721050
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isRightToLeft@QtPrivate@@YA_NVQStringView@@@Z",
+          "hint": 4504,
+          "iat_address": 205192,
+          "iat_value": 721114,
+          "data": 721114
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toFloat@QStringView@@QBEMPA_N@Z",
+          "hint": 7091,
+          "iat_address": 205196,
+          "iat_value": 721164,
+          "data": 721164
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toDouble@QStringView@@QBENPA_N@Z",
+          "hint": 7079,
+          "iat_address": 205200,
+          "iat_value": 721200,
+          "data": 721200
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?insert@QString@@QAEAAV1@HPBVQChar@@H@Z",
+          "hint": 4165,
+          "iat_address": 205204,
+          "iat_value": 721236,
+          "data": 721236
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?localeAwareCompare@QString@@SAHVQStringView@@0@Z",
+          "hint": 4792,
+          "iat_address": 205208,
+          "iat_value": 721278,
+          "data": 721278
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toIntegral_helper@QString@@CA_JVQStringView@@PA_NH@Z",
+          "hint": 7108,
+          "iat_address": 205212,
+          "iat_value": 721330,
+          "data": 721330
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toIntegral_helper@QString@@CA_KVQStringView@@PA_NI@Z",
+          "hint": 7109,
+          "iat_address": 205216,
+          "iat_value": 721386,
+          "data": 721386
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertToUnicode@QUtf8@@SAPAVQChar@@PAV2@VQByteArrayView@@@Z",
+          "hint": 2729,
+          "iat_address": 205220,
+          "iat_value": 721442,
+          "data": 721442
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertFromUnicode@QUtf8@@SA?AVQByteArray@@VQStringView@@@Z",
+          "hint": 2718,
+          "iat_address": 205224,
+          "iat_value": 721506,
+          "data": 721506
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?properties@QUnicodeTables@@YIPBUProperties@1@_S@Z",
+          "hint": 5370,
+          "iat_address": 205228,
+          "iat_value": 721570,
+          "data": 721570
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@ABV0@@Z",
+          "hint": 87,
+          "iat_address": 205232,
+          "iat_value": 721624,
+          "data": 721624
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?object@QJsonDocument@@QBE?AVQJsonObject@@XZ",
+          "hint": 5183,
+          "iat_address": 205236,
+          "iat_value": 717990,
+          "data": 717990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??AQByteArray@@QAEAADH@Z",
+          "hint": 1542,
+          "iat_address": 205240,
+          "iat_value": 721686,
+          "data": 721686
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qstricmp@@YAHPBD0@Z",
+          "hint": 5520,
+          "iat_address": 205244,
+          "iat_value": 721714,
+          "data": 721714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??BQByteArray@@QBEPBDXZ",
+          "hint": 1591,
+          "iat_address": 205248,
+          "iat_value": 721738,
+          "data": 721738
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?left@QByteArray@@QBE?AV1@H@Z",
+          "hint": 4747,
+          "iat_address": 205252,
+          "iat_value": 721764,
+          "data": 721764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mid@QByteArray@@QBE?AV1@HH@Z",
+          "hint": 4971,
+          "iat_address": 205256,
+          "iat_value": 721796,
+          "data": 721796
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLower@QByteArray@@QHAE?AV1@XZ",
+          "hint": 7145,
+          "iat_address": 205260,
+          "iat_value": 721828,
+          "data": 721828
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?number@QByteArray@@SA?AV1@HH@Z",
+          "hint": 5166,
+          "iat_address": 205264,
+          "iat_value": 721864,
+          "data": 721864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?end@QByteArray@@QBEPBDXZ",
+          "hint": 3181,
+          "iat_address": 205268,
+          "iat_value": 721898,
+          "data": 721898
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@ABU?$QArrayDataPointer@D@@@Z",
+          "hint": 86,
+          "iat_address": 205272,
+          "iat_value": 721926,
+          "data": 721926
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qHash@@YAIABVQByteArray@@I@Z",
+          "hint": 5436,
+          "iat_address": 205276,
+          "iat_value": 721976,
+          "data": 721976
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexOfIn@QStaticByteArrayMatcherBase@@IBEHPBDI0HH@Z",
+          "hint": 4110,
+          "iat_address": 205280,
+          "iat_value": 722008,
+          "data": 722008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QRecursiveMutex@@QAE@XZ",
+          "hint": 446,
+          "iat_address": 205284,
+          "iat_value": 722064,
+          "data": 722064
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QRecursiveMutex@@QAE@XZ",
+          "hint": 810,
+          "iat_address": 205288,
+          "iat_value": 722094,
+          "data": 722094
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?tryLock@QRecursiveMutex@@QAE_NH@Z",
+          "hint": 7432,
+          "iat_address": 205292,
+          "iat_value": 722124,
+          "data": 722124
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?unlock@QRecursiveMutex@@QAEXXZ",
+          "hint": 7494,
+          "iat_address": 205296,
+          "iat_value": 722162,
+          "data": 722162
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?initLocale@QCoreApplicationPrivate@@SAXXZ",
+          "hint": 4137,
+          "iat_address": 205300,
+          "iat_value": 722196,
+          "data": 722196
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qt_from_latin1@@YAXPA_SPBDI@Z",
+          "hint": 5538,
+          "iat_address": 205304,
+          "iat_value": 722242,
+          "data": 722242
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??YQByteArray@@QAEAAV0@PBD@Z",
+          "hint": 1682,
+          "iat_address": 205308,
+          "iat_value": 722276,
+          "data": 722276
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qgetenv@@YA?AVQByteArray@@PBD@Z",
+          "hint": 5513,
+          "iat_address": 205312,
+          "iat_value": 722308,
+          "data": 722308
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexOf@QByteArray@@QBEHDH@Z",
+          "hint": 4091,
+          "iat_address": 205316,
+          "iat_value": 722344,
+          "data": 722344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?trimmed@QByteArray@@QHAE?AV1@XZ",
+          "hint": 7413,
+          "iat_address": 205320,
+          "iat_value": 722376,
+          "data": 722376
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertToUnicode@QLocal8Bit@@SA?AVQString@@VQByteArrayView@@PAUState@QStringConverterBase@@@Z",
+          "hint": 2725,
+          "iat_address": 205324,
+          "iat_value": 722412,
+          "data": 722412
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertFromUnicode@QLocal8Bit@@SA?AVQByteArray@@VQStringView@@PAUState@QStringConverterBase@@@Z",
+          "hint": 2715,
+          "iat_address": 205328,
+          "iat_value": 722510,
+          "data": 722510
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?number@QString@@SA?AV1@HH@Z",
+          "hint": 5173,
+          "iat_address": 205332,
+          "iat_value": 716392,
+          "data": 716392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toUInt@QString@@QBEIPA_NH@Z",
+          "hint": 7261,
+          "iat_address": 205336,
+          "iat_value": 716360,
+          "data": 716360
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromLatin1@QString@@SA?AV1@VQByteArrayView@@@Z",
+          "hint": 3525,
+          "iat_address": 205340,
+          "iat_value": 716310,
+          "data": 716310
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLatin1@QString@@QHAE?AVQByteArray@@XZ",
+          "hint": 7122,
+          "iat_address": 205344,
+          "iat_value": 716266,
+          "data": 716266
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLatin1@QString@@QGBE?AVQByteArray@@XZ",
+          "hint": 7121,
+          "iat_address": 205348,
+          "iat_value": 716222,
+          "data": 716222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?replace@QString@@QAEAAV1@ABVQRegularExpression@@ABV1@@Z",
+          "hint": 5952,
+          "iat_address": 205352,
+          "iat_value": 716162,
+          "data": 716162
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?replace@QString@@QAEAAV1@VQChar@@VQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 5959,
+          "iat_address": 205356,
+          "iat_value": 716084,
+          "data": 716084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?remove@QString@@QAEAAV1@HH@Z",
+          "hint": 5869,
+          "iat_address": 205360,
+          "iat_value": 716052,
+          "data": 716052
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QString@@QAEAAV1@VQLatin1String@@@Z",
+          "hint": 2106,
+          "iat_address": 205364,
+          "iat_value": 716006,
+          "data": 716006
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QString@@QAEAAV1@VQChar@@@Z",
+          "hint": 2105,
+          "iat_address": 205368,
+          "iat_value": 715968,
+          "data": 715968
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?simplified@QString@@QGBE?AV1@XZ",
+          "hint": 6614,
+          "iat_address": 205372,
+          "iat_value": 715932,
+          "data": 715932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLower@QString@@QGBE?AV1@XZ",
+          "hint": 7149,
+          "iat_address": 205376,
+          "iat_value": 715900,
+          "data": 715900
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?startsWith@QString@@QBE_NVQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 6767,
+          "iat_address": 205380,
+          "iat_value": 715830,
+          "data": 715830
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mid@QString@@QBE?AV1@HH@Z",
+          "hint": 4973,
+          "iat_address": 205384,
+          "iat_value": 715800,
+          "data": 715800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?left@QString@@QBE?AV1@H@Z",
+          "hint": 4751,
+          "iat_address": 205388,
+          "iat_value": 715770,
+          "data": 715770
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexOf@QString@@QBEHABV1@HW4CaseSensitivity@Qt@@@Z",
+          "hint": 4097,
+          "iat_address": 205392,
+          "iat_value": 715714,
+          "data": 715714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexOf@QString@@QBEHVQLatin1String@@HW4CaseSensitivity@Qt@@@Z",
+          "hint": 4100,
+          "iat_address": 205396,
+          "iat_value": 715648,
+          "data": 715648
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexOf@QString@@QBEHVQChar@@HW4CaseSensitivity@Qt@@@Z",
+          "hint": 4099,
+          "iat_address": 205400,
+          "iat_value": 715590,
+          "data": 715590
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?arg@QString@@QBE?AV1@HHHVQChar@@@Z",
+          "hint": 2130,
+          "iat_address": 205404,
+          "iat_value": 715552,
+          "data": 715552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??AQString@@QAEAAVQChar@@H@Z",
+          "hint": 1587,
+          "iat_address": 205408,
+          "iat_value": 715520,
+          "data": 715520
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?at@QString@@QBE?BVQChar@@H@Z",
+          "hint": 2157,
+          "iat_address": 205412,
+          "iat_value": 715488,
+          "data": 715488
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@QString@@QAEXXZ",
+          "hint": 2477,
+          "iat_address": 205416,
+          "iat_value": 715462,
+          "data": 715462
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?constData@QString@@QBEPBVQChar@@XZ",
+          "hint": 2634,
+          "iat_address": 205420,
+          "iat_value": 715424,
+          "data": 715424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?data@QString@@QBEPBVQChar@@XZ",
+          "hint": 2971,
+          "iat_address": 205424,
+          "iat_value": 715390,
+          "data": 715390
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?data@QString@@QAEPAVQChar@@XZ",
+          "hint": 2970,
+          "iat_address": 205428,
+          "iat_value": 715356,
+          "data": 715356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?unicode@QString@@QBEPBVQChar@@XZ",
+          "hint": 7478,
+          "iat_address": 205432,
+          "iat_value": 715320,
+          "data": 715320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?truncate@QString@@QAEXH@Z",
+          "hint": 7425,
+          "iat_address": 205436,
+          "iat_value": 715290,
+          "data": 715290
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resize@QString@@QAEXH@Z",
+          "hint": 5998,
+          "iat_address": 205440,
+          "iat_value": 715262,
+          "data": 715262
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QString@@QAEAAV0@$$QAV0@@Z",
+          "hint": 1194,
+          "iat_address": 205444,
+          "iat_value": 715230,
+          "data": 715230
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@$$QAV0@@Z",
+          "hint": 504,
+          "iat_address": 205448,
+          "iat_value": 715202,
+          "data": 715202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QString@@QAEAAV0@VQLatin1String@@@Z",
+          "hint": 1199,
+          "iat_address": 205452,
+          "iat_value": 715160,
+          "data": 715160
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QString@@QAEAAV0@ABV0@@Z",
+          "hint": 1195,
+          "iat_address": 205456,
+          "iat_value": 715130,
+          "data": 715130
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@ABV0@@Z",
+          "hint": 505,
+          "iat_address": 205460,
+          "iat_value": 715104,
+          "data": 715104
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@VQLatin1String@@@Z",
+          "hint": 512,
+          "iat_address": 205464,
+          "iat_value": 715066,
+          "data": 715066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?compareStrings@QtPrivate@@YAHVQStringView@@VQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 2593,
+          "iat_address": 205468,
+          "iat_value": 714978,
+          "data": 714978
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?compareStrings@QtPrivate@@YAHVQStringView@@0W4CaseSensitivity@Qt@@@Z",
+          "hint": 2591,
+          "iat_address": 205472,
+          "iat_value": 714906,
+          "data": 714906
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isNull@QByteArray@@QBE_NXZ",
+          "hint": 4433,
+          "iat_address": 205476,
+          "iat_value": 714876,
+          "data": 714876
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?size@QByteArray@@QBEHXZ",
+          "hint": 6631,
+          "iat_address": 205480,
+          "iat_value": 714848,
+          "data": 714848
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QByteArray@@QAEAAV1@ABV1@@Z",
+          "hint": 2073,
+          "iat_address": 205484,
+          "iat_value": 714810,
+          "data": 714810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@QByteArray@@QAEXXZ",
+          "hint": 2466,
+          "iat_address": 205488,
+          "iat_value": 714782,
+          "data": 714782
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?data@QByteArray@@QBEPBDXZ",
+          "hint": 2960,
+          "iat_address": 205492,
+          "iat_value": 714752,
+          "data": 714752
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?data@QByteArray@@QAEPADXZ",
+          "hint": 2959,
+          "iat_address": 205496,
+          "iat_value": 714722,
+          "data": 714722
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resize@QByteArray@@QAEXH@Z",
+          "hint": 5994,
+          "iat_address": 205500,
+          "iat_value": 714692,
+          "data": 714692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isEmpty@QByteArray@@QBE_NXZ",
+          "hint": 4321,
+          "iat_address": 205504,
+          "iat_value": 714660,
+          "data": 714660
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QByteArray@@QAEAAV0@$$QAV0@@Z",
+          "hint": 1024,
+          "iat_address": 205508,
+          "iat_value": 714624,
+          "data": 714624
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?lengthHelperCharArray@QByteArrayView@@CAHPBDI@Z",
+          "hint": 4761,
+          "iat_address": 205512,
+          "iat_value": 714572,
+          "data": 714572
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?reallocateUnaligned@QArrayData@@SA?AU?$pair@PAUQArrayData@@PAX@std@@PAU1@PAXHHW4AllocationOption@1@@Z",
+          "hint": 5798,
+          "iat_address": 205516,
+          "iat_value": 714466,
+          "data": 714466
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?allocate@QArrayData@@SAPAXPAPAU1@HHHW4AllocationOption@1@@Z",
+          "hint": 2056,
+          "iat_address": 205520,
+          "iat_value": 714402,
+          "data": 714402
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?category@QChar@@SI?AW4Category@1@_U@Z",
+          "hint": 2402,
+          "iat_address": 205524,
+          "iat_value": 714360,
+          "data": 714360
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QChar@@QAE@UQLatin1Char@@@Z",
+          "hint": 156,
+          "iat_address": 205528,
+          "iat_value": 714326,
+          "data": 714326
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QChar@@QAE@XZ",
+          "hint": 158,
+          "iat_address": 205532,
+          "iat_value": 714306,
+          "data": 714306
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isObject@QJsonDocument@@QBE_NXZ",
+          "hint": 4458,
+          "iat_address": 205536,
+          "iat_value": 717954,
+          "data": 717954
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?warning@QMessageLogger@@QBAXPBDZZ",
+          "hint": 7630,
+          "iat_address": 205540,
+          "iat_value": 714268,
+          "data": 714268
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QMessageLogger@@QAE@PBDH0@Z",
+          "hint": 354,
+          "iat_address": 205544,
+          "iat_value": 714234,
+          "data": 714234
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertFromUnicode@QUtf32@@SA?AVQByteArray@@VQStringView@@PAUState@QStringConverterBase@@W4DataEndianness@@@Z",
+          "hint": 2717,
+          "iat_address": 205548,
+          "iat_value": 714120,
+          "data": 714120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertToUnicode@QUtf32@@SA?AVQString@@VQByteArrayView@@PAUState@QStringConverterBase@@W4DataEndianness@@@Z",
+          "hint": 2727,
+          "iat_address": 205552,
+          "iat_value": 714008,
+          "data": 714008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertFromUnicode@QUtf16@@SA?AVQByteArray@@VQStringView@@PAUState@QStringConverterBase@@W4DataEndianness@@@Z",
+          "hint": 2716,
+          "iat_address": 205556,
+          "iat_value": 713894,
+          "data": 713894
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertToUnicode@QUtf16@@SA?AVQString@@VQByteArrayView@@PAUState@QStringConverterBase@@W4DataEndianness@@@Z",
+          "hint": 2726,
+          "iat_address": 205560,
+          "iat_value": 713782,
+          "data": 713782
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertFromUnicode@QUtf8@@SA?AVQByteArray@@VQStringView@@PAUState@QStringConverterBase@@@Z",
+          "hint": 2719,
+          "iat_address": 205564,
+          "iat_value": 713688,
+          "data": 713688
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?convertToUnicode@QUtf8@@SA?AVQString@@VQByteArrayView@@PAUState@QStringConverterBase@@@Z",
+          "hint": 2728,
+          "iat_address": 205568,
+          "iat_value": 713596,
+          "data": 713596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@State@QStringConverterBase@@QAEXXZ",
+          "hint": 2484,
+          "iat_address": 205572,
+          "iat_value": 713552,
+          "data": 713552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QString@@QAEAAV1@ABV1@@Z",
+          "hint": 2101,
+          "iat_address": 205576,
+          "iat_value": 713516,
+          "data": 713516
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QString@@QAE@XZ",
+          "hint": 828,
+          "iat_address": 205580,
+          "iat_value": 713494,
+          "data": 713494
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@XZ",
+          "hint": 513,
+          "iat_address": 205584,
+          "iat_value": 713472,
+          "data": 713472
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QByteArray@@QAE@XZ",
+          "hint": 718,
+          "iat_address": 205588,
+          "iat_value": 713448,
+          "data": 713448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonDocument@@QAE@$$QAV0@@Z",
+          "hint": 302,
+          "iat_address": 205592,
+          "iat_value": 717920,
+          "data": 717920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QJsonDocument@@QAE@XZ",
+          "hint": 775,
+          "iat_address": 205596,
+          "iat_value": 717892,
+          "data": 717892
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonDocument@@QAE@ABVQJsonArray@@@Z",
+          "hint": 304,
+          "iat_address": 205600,
+          "iat_value": 717850,
+          "data": 717850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonDocument@@QAE@ABVQJsonObject@@@Z",
+          "hint": 305,
+          "iat_address": 205604,
+          "iat_value": 717806,
+          "data": 717806
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonDocument@@QAE@XZ",
+          "hint": 306,
+          "iat_address": 205608,
+          "iat_value": 717778,
+          "data": 717778
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QJsonValue@@QAE@XZ",
+          "hint": 777,
+          "iat_address": 205612,
+          "iat_value": 717754,
+          "data": 717754
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonValue@@QAE@ABVQJsonObject@@@Z",
+          "hint": 316,
+          "iat_address": 205616,
+          "iat_value": 717714,
+          "data": 717714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonValue@@QAE@ABVQJsonArray@@@Z",
+          "hint": 315,
+          "iat_address": 205620,
+          "iat_value": 717674,
+          "data": 717674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonValue@@QAE@ABVQString@@@Z",
+          "hint": 317,
+          "iat_address": 205624,
+          "iat_value": 717638,
+          "data": 717638
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonValue@@QAE@N@Z",
+          "hint": 319,
+          "iat_address": 205628,
+          "iat_value": 717612,
+          "data": 717612
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonValue@@QAE@_N@Z",
+          "hint": 324,
+          "iat_address": 205632,
+          "iat_value": 717586,
+          "data": 717586
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QJsonValue@@QAE@W4Type@0@@Z",
+          "hint": 322,
+          "iat_address": 205636,
+          "iat_value": 717552,
+          "data": 717552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromLatin1@QString@@SA?AV1@PBDH@Z",
+          "hint": 3524,
+          "iat_address": 205640,
+          "iat_value": 717514,
+          "data": 717514
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?swap@QString@@QAEXAAV1@@Z",
+          "hint": 6927,
+          "iat_address": 205644,
+          "iat_value": 717484,
+          "data": 717484
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@PBVQChar@@H@Z",
+          "hint": 510,
+          "iat_address": 205648,
+          "iat_value": 717452,
+          "data": 717452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isLatin1@QtPrivate@@YA_NVQStringView@@@Z",
+          "hint": 4384,
+          "iat_address": 205652,
+          "iat_value": 717408,
+          "data": 717408
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?equalStrings@QtPrivate@@YA_NVQLatin1String@@VQStringView@@@Z",
+          "hint": 3257,
+          "iat_address": 205656,
+          "iat_value": 717344,
+          "data": 717344
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?compareStrings@QtPrivate@@YAHVQLatin1String@@VQStringView@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 2590,
+          "iat_address": 205660,
+          "iat_value": 717256,
+          "data": 717256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?constData@QByteArray@@QBEPBDXZ",
+          "hint": 2631,
+          "iat_address": 205664,
+          "iat_value": 717222,
+          "data": 717222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?encodingInterfaces@QStringConverter@@0QBUInterface@1@B",
+          "hint": 3178,
+          "iat_address": 205668,
+          "iat_value": 717164,
+          "data": 717164
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QRegularExpression@@QAE@XZ",
+          "hint": 811,
+          "iat_address": 205672,
+          "iat_value": 717132,
+          "data": 717132
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QRegularExpression@@QAE@ABVQString@@V?$QFlags@W4PatternOption@QRegularExpression@@@@@Z",
+          "hint": 450,
+          "iat_address": 205676,
+          "iat_value": 717040,
+          "data": 717040
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?read@QIODevice@@QAE_JPAD_J@Z",
+          "hint": 5746,
+          "iat_address": 205680,
+          "iat_value": 717008,
+          "data": 717008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isOpen@QIODevice@@QBE_NXZ",
+          "hint": 4461,
+          "iat_address": 205684,
+          "iat_value": 716978,
+          "data": 716978
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setTextModeEnabled@QIODevice@@QAEX_N@Z",
+          "hint": 6535,
+          "iat_address": 205688,
+          "iat_value": 716936,
+          "data": 716936
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?QStringList_contains@QtPrivate@@YA_NPBV?$QList@VQString@@@@VQStringView@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 1894,
+          "iat_address": 205692,
+          "iat_value": 716834,
+          "data": 716834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qHash@@YAIVQStringView@@I@Z",
+          "hint": 5458,
+          "iat_address": 205696,
+          "iat_value": 716802,
+          "data": 716802
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?globalSeed@QHashSeed@@SA?AU1@XZ",
+          "hint": 3972,
+          "iat_address": 205700,
+          "iat_value": 716766,
+          "data": 716766
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?string@QTextStream@@QBEPAVQString@@XZ",
+          "hint": 6871,
+          "iat_address": 205704,
+          "iat_value": 716724,
+          "data": 716724
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?device@QTextStream@@QBEPAVQIODevice@@XZ",
+          "hint": 3082,
+          "iat_address": 205708,
+          "iat_value": 716680,
+          "data": 716680
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?encodingForData@QStringConverter@@SA?AV?$optional@W4Encoding@QStringConverter@@@std@@VQByteArrayView@@_S@Z",
+          "hint": 3175,
+          "iat_address": 205712,
+          "iat_value": 716570,
+          "data": 716570
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?argToQString@QtPrivate@@YA?AVQString@@VQStringView@@IPAPBUArgBase@1@@Z",
+          "hint": 2141,
+          "iat_address": 205716,
+          "iat_value": 716496,
+          "data": 716496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@$$QAV0@@Z",
+          "hint": 85,
+          "iat_address": 205720,
+          "iat_value": 721654,
+          "data": 721654
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@HW4Initialization@Qt@@@Z",
+          "hint": 508,
+          "iat_address": 205724,
+          "iat_value": 716452,
+          "data": 716452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@PBDH@Z",
+          "hint": 90,
+          "iat_address": 205728,
+          "iat_value": 713420,
+          "data": 713420
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@XZ",
+          "hint": 91,
+          "iat_address": 205732,
+          "iat_value": 713396,
+          "data": 713396
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isDetached@QVariant@@QBE_NXZ",
+          "hint": 4307,
+          "iat_address": 205736,
+          "iat_value": 720082,
+          "data": 720082
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?deallocate@QArrayData@@SAXPAU1@HH@Z",
+          "hint": 3021,
+          "iat_address": 205740,
+          "iat_value": 713356,
+          "data": 713356
+        }
+      ],
+      "function_count": 214
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 204800,
+      "import_lookup_table_rva": 712300,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SleepConditionVariableSRW",
+          "hint": 1465,
+          "iat_address": 204800,
+          "iat_value": 723370,
+          "data": 723370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1513,
+          "iat_address": 204804,
+          "iat_value": 723398,
+          "data": 723398
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1447,
+          "iat_address": 204808,
+          "iat_value": 723426,
+          "data": 723426
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WakeAllConditionVariable",
+          "hint": 1563,
+          "iat_address": 204812,
+          "iat_value": 723342,
+          "data": 723342
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AcquireSRWLockExclusive",
+          "hint": 0,
+          "iat_address": 204816,
+          "iat_value": 723316,
+          "data": 723316
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeSListHead",
+          "hint": 912,
+          "iat_address": 204820,
+          "iat_value": 723622,
+          "data": 723622
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 570,
+          "iat_address": 204824,
+          "iat_value": 723456,
+          "data": 723456
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsProcessorFeaturePresent",
+          "hint": 948,
+          "iat_address": 204828,
+          "iat_value": 723476,
+          "data": 723476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 940,
+          "iat_address": 204832,
+          "iat_value": 723504,
+          "data": 723504
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1149,
+          "iat_address": 204836,
+          "iat_value": 723524,
+          "data": 723524
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 571,
+          "iat_address": 204840,
+          "iat_value": 723550,
+          "data": 723550
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 575,
+          "iat_address": 204844,
+          "iat_value": 723572,
+          "data": 723572
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryW",
+          "hint": 1011,
+          "iat_address": 204848,
+          "iat_value": 722700,
+          "data": 722700
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 725,
+          "iat_address": 204852,
+          "iat_value": 722682,
+          "data": 722682
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FreeLibrary",
+          "hint": 461,
+          "iat_address": 204856,
+          "iat_value": 722668,
+          "data": 722668
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 786,
+          "iat_address": 204860,
+          "iat_value": 722642,
+          "data": 722642
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1479,
+          "iat_address": 204864,
+          "iat_value": 722622,
+          "data": 722622
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DisableThreadLibraryCalls",
+          "hint": 317,
+          "iat_address": 204868,
+          "iat_value": 723594,
+          "data": 723594
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseSRWLockExclusive",
+          "hint": 1253,
+          "iat_address": 204872,
+          "iat_value": 723290,
+          "data": 723290
+        }
+      ],
+      "function_count": 19
+    },
+    {
+      "name": "MSVCP140.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 204880,
+      "import_lookup_table_rva": 712380,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xlength_error@std@@YAXPBD@Z",
+          "hint": 654,
+          "iat_address": 204880,
+          "iat_value": 722730,
+          "data": 722730
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "VCRUNTIME140.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 205748,
+      "import_lookup_table_rva": 713248,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_type_info_destroy_list",
+          "hint": 37,
+          "iat_address": 205748,
+          "iat_value": 722926,
+          "data": 722926
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_except_handler4_common",
+          "hint": 53,
+          "iat_address": 205752,
+          "iat_value": 722900,
+          "data": 722900
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strchr",
+          "hint": 74,
+          "iat_address": 205756,
+          "iat_value": 722890,
+          "data": 722890
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 72,
+          "iat_address": 205760,
+          "iat_value": 722880,
+          "data": 722880
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memmove",
+          "hint": 71,
+          "iat_address": 205764,
+          "iat_value": 722870,
+          "data": 722870
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 70,
+          "iat_address": 205768,
+          "iat_value": 722860,
+          "data": 722860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_purecall",
+          "hint": 61,
+          "iat_address": 205772,
+          "iat_value": 722776,
+          "data": 722776
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_exception_copy",
+          "hint": 33,
+          "iat_address": 205776,
+          "iat_value": 722788,
+          "data": 722788
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_exception_destroy",
+          "hint": 34,
+          "iat_address": 205780,
+          "iat_value": 722812,
+          "data": 722812
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_CxxThrowException",
+          "hint": 1,
+          "iat_address": 205784,
+          "iat_value": 722838,
+          "data": 722838
+        }
+      ],
+      "function_count": 10
+    },
+    {
+      "name": "api-ms-win-crt-runtime-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 205812,
+      "import_lookup_table_rva": 713312,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_register_onexit_function",
+          "hint": 62,
+          "iat_address": 205812,
+          "iat_value": 723122,
+          "data": 723122
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm_e",
+          "hint": 57,
+          "iat_address": 205816,
+          "iat_value": 723210,
+          "data": 723210
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_narrow_environment",
+          "hint": 53,
+          "iat_address": 205820,
+          "iat_value": 723060,
+          "data": 723060
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 56,
+          "iat_address": 205824,
+          "iat_value": 723198,
+          "data": 723198
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_configure_narrow_argv",
+          "hint": 25,
+          "iat_address": 205828,
+          "iat_value": 723034,
+          "data": 723034
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_seh_filter_dll",
+          "hint": 65,
+          "iat_address": 205832,
+          "iat_value": 723016,
+          "data": 723016
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_cexit",
+          "hint": 23,
+          "iat_address": 205836,
+          "iat_value": 723188,
+          "data": 723188
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_execute_onexit_table",
+          "hint": 36,
+          "iat_address": 205840,
+          "iat_value": 723150,
+          "data": 723150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_onexit_table",
+          "hint": 54,
+          "iat_address": 205844,
+          "iat_value": 723094,
+          "data": 723094
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_crt_atexit",
+          "hint": 31,
+          "iat_address": 205848,
+          "iat_value": 723174,
+          "data": 723174
+        }
+      ],
+      "function_count": 10
+    },
+    {
+      "name": "api-ms-win-crt-heap-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 205792,
+      "import_lookup_table_rva": 713292,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_callnewh",
+          "hint": 8,
+          "iat_address": 205792,
+          "iat_value": 723004,
+          "data": 723004
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 25,
+          "iat_address": 205796,
+          "iat_value": 722984,
+          "data": 722984
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "realloc",
+          "hint": 26,
+          "iat_address": 205800,
+          "iat_value": 722994,
+          "data": 722994
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 24,
+          "iat_address": 205804,
+          "iat_value": 722976,
+          "data": 722976
+        }
+      ],
+      "function_count": 4
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "Qt6Core5Compat.dll",
+    "export_flags": 0,
+    "timestamp": 4294967295,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 393,
+    "entries": [
+      {
+        "name": "??0QBinaryJsonValue@@AAE@PAVMutableData@QBinaryJsonPrivate@@PAVBase@2@ABVValue@2@@Z",
+        "ordinal": 1,
+        "address": 89104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QBinaryJsonValue@@QAE@$$QAV0@@Z",
+        "ordinal": 2,
+        "address": 80480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QBinaryJsonValue@@QAE@ABVQBinaryJsonArray@@@Z",
+        "ordinal": 3,
+        "address": 89568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QBinaryJsonValue@@QAE@ABVQBinaryJsonObject@@@Z",
+        "ordinal": 4,
+        "address": 89616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QBinaryJsonValue@@QAE@N@Z",
+        "ordinal": 5,
+        "address": 80560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QBinaryJsonValue@@QAE@VQString@@@Z",
+        "ordinal": 6,
+        "address": 89664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QBinaryJsonValue@@QAE@W4Type@QJsonValue@@@Z",
+        "ordinal": 7,
+        "address": 80608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QBinaryJsonValue@@QAE@_N@Z",
+        "ordinal": 8,
+        "address": 80656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QLinkedListData@@QAE@XZ",
+        "ordinal": 9,
+        "address": 156336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QRegExp@@QAE@ABV0@@Z",
+        "ordinal": 10,
+        "address": 95600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QRegExp@@QAE@ABVQString@@W4CaseSensitivity@Qt@@W4PatternSyntax@0@@Z",
+        "ordinal": 11,
+        "address": 95648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QRegExp@@QAE@XZ",
+        "ordinal": 12,
+        "address": 95856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QStringRef@@QAE@PBVQString@@@Z",
+        "ordinal": 13,
+        "address": 145888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QStringRef@@QAE@PBVQString@@HH@Z",
+        "ordinal": 14,
+        "address": 145936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QStringRef@@QAE@XZ",
+        "ordinal": 15,
+        "address": 145968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QTextCodec@@IAE@XZ",
+        "ordinal": 16,
+        "address": 163376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QTextDecoder@@QAE@PBVQTextCodec@@@Z",
+        "ordinal": 17,
+        "address": 4096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QTextDecoder@@QAE@PBVQTextCodec@@V?$QFlags@W4Flag@QStringConverterBase@@@@@Z",
+        "ordinal": 18,
+        "address": 163472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QTextEncoder@@QAE@PBVQTextCodec@@@Z",
+        "ordinal": 19,
+        "address": 4096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QTextEncoder@@QAE@PBVQTextCodec@@V?$QFlags@W4Flag@QStringConverterBase@@@@@Z",
+        "ordinal": 20,
+        "address": 163472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlAttributes@@QAE@$$QAV0@@Z",
+        "ordinal": 21,
+        "address": 11728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlAttributes@@QAE@ABV0@@Z",
+        "ordinal": 22,
+        "address": 11792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlAttributes@@QAE@XZ",
+        "ordinal": 23,
+        "address": 11840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlContentHandler@@QAE@ABV0@@Z",
+        "ordinal": 24,
+        "address": 11872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlContentHandler@@QAE@XZ",
+        "ordinal": 25,
+        "address": 11888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlDTDHandler@@QAE@ABV0@@Z",
+        "ordinal": 26,
+        "address": 11904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlDTDHandler@@QAE@XZ",
+        "ordinal": 27,
+        "address": 11920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlDeclHandler@@QAE@ABV0@@Z",
+        "ordinal": 28,
+        "address": 11936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlDeclHandler@@QAE@XZ",
+        "ordinal": 29,
+        "address": 11952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlDefaultHandler@@QAE@XZ",
+        "ordinal": 30,
+        "address": 11968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlEntityResolver@@QAE@ABV0@@Z",
+        "ordinal": 31,
+        "address": 12016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlEntityResolver@@QAE@XZ",
+        "ordinal": 32,
+        "address": 12032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlErrorHandler@@QAE@ABV0@@Z",
+        "ordinal": 33,
+        "address": 12048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlErrorHandler@@QAE@XZ",
+        "ordinal": 34,
+        "address": 12064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlInputSource@@QAE@ABV0@@Z",
+        "ordinal": 35,
+        "address": 12080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlInputSource@@QAE@PAVQIODevice@@@Z",
+        "ordinal": 36,
+        "address": 12112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlInputSource@@QAE@XZ",
+        "ordinal": 37,
+        "address": 12176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlLexicalHandler@@QAE@ABV0@@Z",
+        "ordinal": 38,
+        "address": 12208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlLexicalHandler@@QAE@XZ",
+        "ordinal": 39,
+        "address": 12224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlLocator@@QAE@ABV0@@Z",
+        "ordinal": 40,
+        "address": 12240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlLocator@@QAE@XZ",
+        "ordinal": 41,
+        "address": 12256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlNamespaceSupport@@QAE@XZ",
+        "ordinal": 42,
+        "address": 12272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlParseException@@QAE@ABV0@@Z",
+        "ordinal": 43,
+        "address": 12432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlParseException@@QAE@ABVQString@@HH00@Z",
+        "ordinal": 44,
+        "address": 12512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlReader@@QAE@ABV0@@Z",
+        "ordinal": 45,
+        "address": 12640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlReader@@QAE@XZ",
+        "ordinal": 46,
+        "address": 12656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlSimpleReader@@QAE@XZ",
+        "ordinal": 47,
+        "address": 12672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QBinaryJsonValue@@QAE@XZ",
+        "ordinal": 48,
+        "address": 89728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QRegExp@@QAE@XZ",
+        "ordinal": 49,
+        "address": 97456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QTextCodec@@MAE@XZ",
+        "ordinal": 50,
+        "address": 163968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QTextDecoder@@QAE@XZ",
+        "ordinal": 51,
+        "address": 164704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QTextEncoder@@QAE@XZ",
+        "ordinal": 52,
+        "address": 164704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlAttributes@@UAE@XZ",
+        "ordinal": 53,
+        "address": 13792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlContentHandler@@UAE@XZ",
+        "ordinal": 54,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlDTDHandler@@UAE@XZ",
+        "ordinal": 55,
+        "address": 13872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlDeclHandler@@UAE@XZ",
+        "ordinal": 56,
+        "address": 13888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlDefaultHandler@@UAE@XZ",
+        "ordinal": 57,
+        "address": 13904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlEntityResolver@@UAE@XZ",
+        "ordinal": 58,
+        "address": 13952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlErrorHandler@@UAE@XZ",
+        "ordinal": 59,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlInputSource@@UAE@XZ",
+        "ordinal": 60,
+        "address": 13984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlLexicalHandler@@UAE@XZ",
+        "ordinal": 61,
+        "address": 14048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlLocator@@UAE@XZ",
+        "ordinal": 62,
+        "address": 14064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlNamespaceSupport@@QAE@XZ",
+        "ordinal": 63,
+        "address": 14080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlParseException@@QAE@XZ",
+        "ordinal": 64,
+        "address": 14096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlReader@@UAE@XZ",
+        "ordinal": 65,
+        "address": 14144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlSimpleReader@@UAE@XZ",
+        "ordinal": 66,
+        "address": 14160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QBinaryJsonValue@@QAEAAV0@$$QAV0@@Z",
+        "ordinal": 67,
+        "address": 80704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QRegExp@@QAEAAV0@$$QAV0@@Z",
+        "ordinal": 68,
+        "address": 98464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QRegExp@@QAEAAV0@ABV0@@Z",
+        "ordinal": 69,
+        "address": 98496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QStringRef@@QAEAAV0@$$QAV0@@Z",
+        "ordinal": 70,
+        "address": 146000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QStringRef@@QAEAAV0@ABV0@@Z",
+        "ordinal": 71,
+        "address": 146032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QStringRef@@QAEAAV0@PBVQString@@@Z",
+        "ordinal": 72,
+        "address": 145888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlAttributes@@QAEAAV0@$$QAV0@@Z",
+        "ordinal": 73,
+        "address": 15360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlAttributes@@QAEAAV0@ABV0@@Z",
+        "ordinal": 74,
+        "address": 15408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlContentHandler@@QAEAAV0@ABV0@@Z",
+        "ordinal": 75,
+        "address": 15520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlDTDHandler@@QAEAAV0@ABV0@@Z",
+        "ordinal": 76,
+        "address": 15520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlDeclHandler@@QAEAAV0@ABV0@@Z",
+        "ordinal": 77,
+        "address": 15520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlEntityResolver@@QAEAAV0@ABV0@@Z",
+        "ordinal": 78,
+        "address": 15520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlErrorHandler@@QAEAAV0@ABV0@@Z",
+        "ordinal": 79,
+        "address": 15520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlInputSource@@QAEAAV0@ABV0@@Z",
+        "ordinal": 80,
+        "address": 15536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlLexicalHandler@@QAEAAV0@ABV0@@Z",
+        "ordinal": 81,
+        "address": 15520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlLocator@@QAEAAV0@ABV0@@Z",
+        "ordinal": 82,
+        "address": 15520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlReader@@QAEAAV0@ABV0@@Z",
+        "ordinal": 83,
+        "address": 15520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??5@YAAAVQDataStream@@AAV0@AAVQRegExp@@@Z",
+        "ordinal": 84,
+        "address": 98912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??6@YA?AVQDebug@@V0@ABVQRegExp@@@Z",
+        "ordinal": 85,
+        "address": 99072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??6@YAAAVQDataStream@@AAV0@ABVQRegExp@@@Z",
+        "ordinal": 86,
+        "address": 99248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??8@YA_NABVQString@@ABVQStringRef@@@Z",
+        "ordinal": 87,
+        "address": 146064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??8@YA_NABVQStringRef@@0@Z",
+        "ordinal": 88,
+        "address": 146208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??8@YA_NVQLatin1String@@ABVQStringRef@@@Z",
+        "ordinal": 89,
+        "address": 146352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??8QRegExp@@QBE_NABV0@@Z",
+        "ordinal": 90,
+        "address": 99376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??8QStringRef@@QBE_NPBD@Z",
+        "ordinal": 91,
+        "address": 146464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??9QRegExp@@QBE_NABV0@@Z",
+        "ordinal": 92,
+        "address": 99472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??9QStringRef@@QBE_NPBD@Z",
+        "ordinal": 93,
+        "address": 146704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??AQStringRef@@QBE?AVQChar@@H@Z",
+        "ordinal": 94,
+        "address": 146944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BQRegExp@@QBE?AVQVariant@@XZ",
+        "ordinal": 95,
+        "address": 99696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BQStringRef@@QBE?AVQStringView@@XZ",
+        "ordinal": 96,
+        "address": 146976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??M@YA_NABVQStringRef@@0@Z",
+        "ordinal": 97,
+        "address": 147040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??MQStringRef@@QBE_NPBD@Z",
+        "ordinal": 98,
+        "address": 147152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??NQStringRef@@QBE_NPBD@Z",
+        "ordinal": 99,
+        "address": 147408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??OQStringRef@@QBE_NPBD@Z",
+        "ordinal": 100,
+        "address": 147648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??PQStringRef@@QBE_NPBD@Z",
+        "ordinal": 101,
+        "address": 147888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QTextCodec@@6B@",
+        "ordinal": 102,
+        "address": 232716,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlAttributes@@6B@",
+        "ordinal": 103,
+        "address": 209232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlContentHandler@@6B@",
+        "ordinal": 104,
+        "address": 209476,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDTDHandler@@6B@",
+        "ordinal": 105,
+        "address": 209556,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDeclHandler@@6B@",
+        "ordinal": 106,
+        "address": 209632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlContentHandler@@@",
+        "ordinal": 107,
+        "address": 209656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlDTDHandler@@@",
+        "ordinal": 108,
+        "address": 209736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlDeclHandler@@@",
+        "ordinal": 109,
+        "address": 209812,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlEntityResolver@@@",
+        "ordinal": 110,
+        "address": 209756,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlErrorHandler@@@",
+        "ordinal": 111,
+        "address": 209712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlLexicalHandler@@@",
+        "ordinal": 112,
+        "address": 209772,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlEntityResolver@@6B@",
+        "ordinal": 113,
+        "address": 209576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlErrorHandler@@6B@",
+        "ordinal": 114,
+        "address": 209532,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlInputSource@@6B@",
+        "ordinal": 115,
+        "address": 209240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlLexicalHandler@@6B@",
+        "ordinal": 116,
+        "address": 209592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlLocator@@6B@",
+        "ordinal": 117,
+        "address": 209460,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlReader@@6B@",
+        "ordinal": 118,
+        "address": 209276,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlSimpleReader@@6B@",
+        "ordinal": 119,
+        "address": 209364,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_FQXmlParseException@@QAEXXZ",
+        "ordinal": 120,
+        "address": 18752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ConvertInvalidToNull@QTextCodec@@2W4Flag@QStringConverterBase@@B",
+        "ordinal": 121,
+        "address": 208544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?DTDHandler@QXmlSimpleReader@@UBEPAVQXmlDTDHandler@@XZ",
+        "ordinal": 122,
+        "address": 19312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?DefaultConversion@QTextCodec@@2W4Flag@QStringConverterBase@@B",
+        "ordinal": 123,
+        "address": 208548,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EndOfData@QXmlInputSource@@2_SB",
+        "ordinal": 124,
+        "address": 208736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EndOfDocument@QXmlInputSource@@2_SB",
+        "ordinal": 125,
+        "address": 208740,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IgnoreHeader@QTextCodec@@2W4Flag@QStringConverterBase@@B",
+        "ordinal": 126,
+        "address": 208552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?_empty@?1??unicode@QStringRef@@QBEPBVQChar@@XZ@4_SB",
+        "ordinal": 127,
+        "address": 222748,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?aliases@QTextCodec@@UBE?AV?$QList@VQByteArray@@@@XZ",
+        "ordinal": 128,
+        "address": 4352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?append@QXmlAttributes@@QAEXABVQString@@000@Z",
+        "ordinal": 129,
+        "address": 21600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?appendTo@QStringRef@@QBE?AV1@PAVQString@@@Z",
+        "ordinal": 130,
+        "address": 148144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?at@QStringRef@@QBE?BVQChar@@H@Z",
+        "ordinal": 131,
+        "address": 146944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?attributeDecl@QXmlDefaultHandler@@UAE_NABVQString@@0000@Z",
+        "ordinal": 132,
+        "address": 21776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?availableCodecs@QTextCodec@@SA?AV?$QList@VQByteArray@@@@XZ",
+        "ordinal": 133,
+        "address": 165504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?availableMibs@QTextCodec@@SA?AV?$QList@H@@XZ",
+        "ordinal": 134,
+        "address": 165984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?back@QStringRef@@QBE?AVQChar@@XZ",
+        "ordinal": 135,
+        "address": 148240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?begin@QStringRef@@QBEPBVQChar@@XZ",
+        "ordinal": 136,
+        "address": 148272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?canEncode@QTextCodec@@QBE_NABVQString@@@Z",
+        "ordinal": 137,
+        "address": 166464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?canEncode@QTextCodec@@QBE_NVQChar@@@Z",
+        "ordinal": 138,
+        "address": 166640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?canEncode@QTextCodec@@QBE_NVQStringView@@@Z",
+        "ordinal": 139,
+        "address": 166800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?cap@QRegExp@@QAE?AVQString@@H@Z",
+        "ordinal": 140,
+        "address": 104880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?cap@QRegExp@@QBE?AVQString@@H@Z",
+        "ordinal": 141,
+        "address": 104912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?captureCount@QRegExp@@QBEHXZ",
+        "ordinal": 142,
+        "address": 105072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?capturedTexts@QRegExp@@QAE?AV?$QList@VQString@@@@XZ",
+        "ordinal": 143,
+        "address": 105120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?capturedTexts@QRegExp@@QBE?AV?$QList@VQString@@@@XZ",
+        "ordinal": 144,
+        "address": 105136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?caseSensitivity@QRegExp@@QBE?AW4CaseSensitivity@Qt@@XZ",
+        "ordinal": 145,
+        "address": 105376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?cbegin@QStringRef@@QBEPBVQChar@@XZ",
+        "ordinal": 146,
+        "address": 148272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?cend@QStringRef@@QBEPBVQChar@@XZ",
+        "ordinal": 147,
+        "address": 148304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?characters@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 148,
+        "address": 21792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?chop@QStringRef@@QAEXH@Z",
+        "ordinal": 149,
+        "address": 148352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?chopped@QStringRef@@QBE?AV1@H@Z",
+        "ordinal": 150,
+        "address": 148400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?clear@QStringRef@@QAEXXZ",
+        "ordinal": 151,
+        "address": 148464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?clear@QXmlAttributes@@QAEXXZ",
+        "ordinal": 152,
+        "address": 21936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?codecForHtml@QTextCodec@@SAPAV1@ABVQByteArray@@@Z",
+        "ordinal": 153,
+        "address": 166960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?codecForHtml@QTextCodec@@SAPAV1@ABVQByteArray@@PAV1@@Z",
+        "ordinal": 154,
+        "address": 167024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?codecForHtml@Qt@@YAPAVQTextCodec@@ABVQByteArray@@@Z",
+        "ordinal": 155,
+        "address": 166960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?codecForLocale@QTextCodec@@SAPAV1@XZ",
+        "ordinal": 156,
+        "address": 167520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?codecForMib@QTextCodec@@SAPAV1@H@Z",
+        "ordinal": 157,
+        "address": 167696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?codecForName@QTextCodec@@SAPAV1@ABVQByteArray@@@Z",
+        "ordinal": 158,
+        "address": 168096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?codecForName@QTextCodec@@SAPAV1@PBD@Z",
+        "ordinal": 159,
+        "address": 4384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?codecForTr@QTextCodec@@SAPAV1@XZ",
+        "ordinal": 160,
+        "address": 4432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?codecForUtfText@QTextCodec@@SAPAV1@ABVQByteArray@@@Z",
+        "ordinal": 161,
+        "address": 168688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?codecForUtfText@QTextCodec@@SAPAV1@ABVQByteArray@@PAV1@@Z",
+        "ordinal": 162,
+        "address": 168720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?columnNumber@QXmlParseException@@QBEHXZ",
+        "ordinal": 163,
+        "address": 22112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?comment@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 164,
+        "address": 21792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare@QStringRef@@QBEHABV1@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 165,
+        "address": 148496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare@QStringRef@@QBEHABVQByteArray@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 166,
+        "address": 148608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare@QStringRef@@QBEHABVQString@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 167,
+        "address": 148736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare@QStringRef@@QBEHVQChar@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 168,
+        "address": 148832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare@QStringRef@@QBEHVQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 169,
+        "address": 148896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare@QStringRef@@SAHABV1@0W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 170,
+        "address": 148960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare@QStringRef@@SAHABV1@ABVQString@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 171,
+        "address": 149072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare@QStringRef@@SAHABV1@VQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 172,
+        "address": 149168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare_helper@QStringRef@@CAHPBVQChar@@H0HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 173,
+        "address": 149232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare_helper@QStringRef@@CAHPBVQChar@@HPBDHW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 174,
+        "address": 149264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?compare_helper@QStringRef@@CAHPBVQChar@@HVQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 175,
+        "address": 149520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?constBegin@QStringRef@@QBEPBVQChar@@XZ",
+        "ordinal": 176,
+        "address": 148272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?constData@QStringRef@@QBEPBVQChar@@XZ",
+        "ordinal": 177,
+        "address": 148272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?constEnd@QStringRef@@QBEPBVQChar@@XZ",
+        "ordinal": 178,
+        "address": 148304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?containedIn@QRegExp@@QBE_NABVQString@@@Z",
+        "ordinal": 179,
+        "address": 107472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?contains@QStringRef@@QBE_NABV1@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 180,
+        "address": 149552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?contains@QStringRef@@QBE_NABVQString@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 181,
+        "address": 149584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?contains@QStringRef@@QBE_NVQChar@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 182,
+        "address": 149680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?contains@QStringRef@@QBE_NVQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 183,
+        "address": 149712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?contains@QStringRef@@QBE_NVQStringView@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 184,
+        "address": 149792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?contentHandler@QXmlSimpleReader@@UBEPAVQXmlContentHandler@@XZ",
+        "ordinal": 185,
+        "address": 22160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?count@QStringRef@@QBEHABV1@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 186,
+        "address": 149872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?count@QStringRef@@QBEHABVQString@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 187,
+        "address": 149984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?count@QStringRef@@QBEHVQChar@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 188,
+        "address": 150080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?count@QStringRef@@QBEHXZ",
+        "ordinal": 189,
+        "address": 150144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?count@QXmlAttributes@@QBEHXZ",
+        "ordinal": 190,
+        "address": 22176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?countIn@QRegExp@@QBEHABVQString@@@Z",
+        "ordinal": 191,
+        "address": 107568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?crbegin@QStringRef@@QBE?AV?$reverse_iterator@PBVQChar@@@std@@XZ",
+        "ordinal": 192,
+        "address": 150160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?crend@QStringRef@@QBE?AV?$reverse_iterator@PBVQChar@@@std@@XZ",
+        "ordinal": 193,
+        "address": 150224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?d_func@QXmlSimpleReader@@AAEPAVQXmlSimpleReaderPrivate@@XZ",
+        "ordinal": 194,
+        "address": 22192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?d_func@QXmlSimpleReader@@ABEPBVQXmlSimpleReaderPrivate@@XZ",
+        "ordinal": 195,
+        "address": 22192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?data@QStringRef@@QBEPBVQChar@@XZ",
+        "ordinal": 196,
+        "address": 148272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?data@QXmlInputSource@@UBE?AVQString@@XZ",
+        "ordinal": 197,
+        "address": 22208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?declHandler@QXmlSimpleReader@@UBEPAVQXmlDeclHandler@@XZ",
+        "ordinal": 198,
+        "address": 22272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?detach@QBinaryJsonValue@@AAEXXZ",
+        "ordinal": 199,
+        "address": 89792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?end@QStringRef@@QBEPBVQChar@@XZ",
+        "ordinal": 200,
+        "address": 148304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endCDATA@QXmlDefaultHandler@@UAE_NXZ",
+        "ordinal": 201,
+        "address": 23600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endDTD@QXmlDefaultHandler@@UAE_NXZ",
+        "ordinal": 202,
+        "address": 23600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endDocument@QXmlDefaultHandler@@UAE_NXZ",
+        "ordinal": 203,
+        "address": 23600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endElement@QXmlDefaultHandler@@UAE_NABVQString@@00@Z",
+        "ordinal": 204,
+        "address": 23616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endEntity@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 205,
+        "address": 21792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endPrefixMapping@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 206,
+        "address": 21792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endsWith@QStringRef@@QBE_NABV1@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 207,
+        "address": 150272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endsWith@QStringRef@@QBE_NABVQString@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 208,
+        "address": 150448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endsWith@QStringRef@@QBE_NVQChar@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 209,
+        "address": 150624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endsWith@QStringRef@@QBE_NVQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 210,
+        "address": 150768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endsWith@QStringRef@@QBE_NVQStringView@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 211,
+        "address": 150928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?entityResolver@QXmlSimpleReader@@UBEPAVQXmlEntityResolver@@XZ",
+        "ordinal": 212,
+        "address": 23904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?error@QXmlDefaultHandler@@UAE_NABVQXmlParseException@@@Z",
+        "ordinal": 213,
+        "address": 21792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?errorHandler@QXmlSimpleReader@@UBEPAVQXmlErrorHandler@@XZ",
+        "ordinal": 214,
+        "address": 23920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?errorString@QRegExp@@QAE?AVQString@@XZ",
+        "ordinal": 215,
+        "address": 110064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?errorString@QRegExp@@QBE?AVQString@@XZ",
+        "ordinal": 216,
+        "address": 110080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?errorString@QXmlDefaultHandler@@UBE?AVQString@@XZ",
+        "ordinal": 217,
+        "address": 23936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?escape@QRegExp@@SA?AVQString@@ABV2@@Z",
+        "ordinal": 218,
+        "address": 110208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?exactMatch@QRegExp@@QBE_NABVQString@@@Z",
+        "ordinal": 219,
+        "address": 110496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?externalEntityDecl@QXmlDefaultHandler@@UAE_NABVQString@@00@Z",
+        "ordinal": 220,
+        "address": 23616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fatalError@QXmlDefaultHandler@@UAE_NABVQXmlParseException@@@Z",
+        "ordinal": 221,
+        "address": 21792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?feature@QXmlSimpleReader@@UBE_NABVQString@@PA_N@Z",
+        "ordinal": 222,
+        "address": 24080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fetchData@QXmlInputSource@@UAEXXZ",
+        "ordinal": 223,
+        "address": 24496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?filterList@QRegExp@@QBE?AV?$QList@VQString@@@@ABV2@@Z",
+        "ordinal": 224,
+        "address": 110864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromBinaryData@QBinaryJson@@YA?AVQJsonDocument@@ABVQByteArray@@W4DataValidation@1@@Z",
+        "ordinal": 225,
+        "address": 82144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromJsonValue@QBinaryJsonValue@@SA?AV1@ABVQJsonValue@@@Z",
+        "ordinal": 226,
+        "address": 90016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromRawData@QBinaryJson@@YA?AVQJsonDocument@@PBDHW4DataValidation@1@@Z",
+        "ordinal": 227,
+        "address": 82400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromRawData@QXmlInputSource@@MAE?AVQString@@ABVQByteArray@@_N@Z",
+        "ordinal": 228,
+        "address": 26112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromUnicode@QTextCodec@@QBE?AVQByteArray@@ABVQString@@@Z",
+        "ordinal": 229,
+        "address": 170064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromUnicode@QTextCodec@@QBE?AVQByteArray@@PBVQChar@@HPAUState@QStringConverterBase@@@Z",
+        "ordinal": 230,
+        "address": 5248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromUnicode@QTextCodec@@QBE?AVQByteArray@@VQStringView@@@Z",
+        "ordinal": 231,
+        "address": 170128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromUnicode@QTextEncoder@@QAE?AVQByteArray@@ABVQString@@@Z",
+        "ordinal": 232,
+        "address": 170176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromUnicode@QTextEncoder@@QAE?AVQByteArray@@PBVQChar@@H@Z",
+        "ordinal": 233,
+        "address": 170272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromUnicode@QTextEncoder@@QAE?AVQByteArray@@VQStringView@@@Z",
+        "ordinal": 234,
+        "address": 170352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?front@QStringRef@@QBE?AVQChar@@XZ",
+        "ordinal": 235,
+        "address": 151152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasFailure@QTextDecoder@@QBE_NXZ",
+        "ordinal": 236,
+        "address": 170784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasFailure@QTextEncoder@@QBE_NXZ",
+        "ordinal": 237,
+        "address": 170784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasFeature@QXmlSimpleReader@@UBE_NABVQString@@@Z",
+        "ordinal": 238,
+        "address": 27008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasProperty@QXmlSimpleReader@@UBE_NABVQString@@@Z",
+        "ordinal": 239,
+        "address": 27264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ignorableWhitespace@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 240,
+        "address": 21792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?index@QXmlAttributes@@QBEHABVQString@@0@Z",
+        "ordinal": 241,
+        "address": 27280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?index@QXmlAttributes@@QBEHABVQString@@@Z",
+        "ordinal": 242,
+        "address": 27600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?index@QXmlAttributes@@QBEHVQLatin1String@@@Z",
+        "ordinal": 243,
+        "address": 27792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?indexIn@QRegExp@@QBEHABV?$QList@VQString@@@@H@Z",
+        "ordinal": 244,
+        "address": 119424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?indexIn@QRegExp@@QBEHABVQString@@HW4CaretMode@1@@Z",
+        "ordinal": 245,
+        "address": 119664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?indexOf@QStringRef@@QBEHABV1@HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 246,
+        "address": 151184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?indexOf@QStringRef@@QBEHABVQString@@HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 247,
+        "address": 151296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?indexOf@QStringRef@@QBEHVQChar@@HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 248,
+        "address": 151392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?indexOf@QStringRef@@QBEHVQLatin1String@@HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 249,
+        "address": 151664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?indexOf@QStringRef@@QBEHVQStringView@@HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 250,
+        "address": 151728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?init@QXmlInputSource@@AAEXXZ",
+        "ordinal": 251,
+        "address": 27968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?internalEntityDecl@QXmlDefaultHandler@@UAE_NABVQString@@0@Z",
+        "ordinal": 252,
+        "address": 30048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isEmpty@QRegExp@@QBE_NXZ",
+        "ordinal": 253,
+        "address": 121520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isEmpty@QStringRef@@QBE_NXZ",
+        "ordinal": 254,
+        "address": 151792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isMinimal@QRegExp@@QBE_NXZ",
+        "ordinal": 255,
+        "address": 121536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isNull@QStringRef@@QBE_NXZ",
+        "ordinal": 256,
+        "address": 151808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isRightToLeft@QStringRef@@QBE_NXZ",
+        "ordinal": 257,
+        "address": 151840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isValid@QRegExp@@QBE_NXZ",
+        "ordinal": 258,
+        "address": 121552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lastIndexIn@QRegExp@@QBEHABV?$QList@VQString@@@@H@Z",
+        "ordinal": 259,
+        "address": 121696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lastIndexIn@QRegExp@@QBEHABVQString@@HW4CaretMode@1@@Z",
+        "ordinal": 260,
+        "address": 121920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lastIndexOf@QStringRef@@QBEHABV1@HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 261,
+        "address": 151904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lastIndexOf@QStringRef@@QBEHABVQString@@HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 262,
+        "address": 152016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lastIndexOf@QStringRef@@QBEHVQChar@@HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 263,
+        "address": 152144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lastIndexOf@QStringRef@@QBEHVQLatin1String@@HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 264,
+        "address": 152224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lastIndexOf@QStringRef@@QBEHVQStringView@@HW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 265,
+        "address": 152288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?left@QStringRef@@QBE?AV1@H@Z",
+        "ordinal": 266,
+        "address": 152352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?length@QStringRef@@QBEHXZ",
+        "ordinal": 267,
+        "address": 150144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?length@QXmlAttributes@@QBEHXZ",
+        "ordinal": 268,
+        "address": 22176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lexicalHandler@QXmlSimpleReader@@UBEPAVQXmlLexicalHandler@@XZ",
+        "ordinal": 269,
+        "address": 34416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lineNumber@QXmlParseException@@QBEHXZ",
+        "ordinal": 270,
+        "address": 34432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?localName@QXmlAttributes@@QBE?AVQString@@H@Z",
+        "ordinal": 271,
+        "address": 34480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?localeAwareCompare@QStringRef@@QBEHABV1@@Z",
+        "ordinal": 272,
+        "address": 152416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?localeAwareCompare@QStringRef@@QBEHABVQString@@@Z",
+        "ordinal": 273,
+        "address": 152528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?localeAwareCompare@QStringRef@@SAHABV1@0@Z",
+        "ordinal": 274,
+        "address": 152640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?localeAwareCompare@QStringRef@@SAHABV1@ABVQString@@@Z",
+        "ordinal": 275,
+        "address": 152752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?makeDecoder@QTextCodec@@QBEPAVQTextDecoder@@V?$QFlags@W4Flag@QStringConverterBase@@@@@Z",
+        "ordinal": 276,
+        "address": 170928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?makeEncoder@QTextCodec@@QBEPAVQTextEncoder@@V?$QFlags@W4Flag@QStringConverterBase@@@@@Z",
+        "ordinal": 277,
+        "address": 170928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?matchedLength@QRegExp@@QBEHXZ",
+        "ordinal": 278,
+        "address": 126112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?message@QXmlParseException@@QBE?AVQString@@XZ",
+        "ordinal": 279,
+        "address": 34528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?mid@QStringRef@@QBE?AV1@HH@Z",
+        "ordinal": 280,
+        "address": 152864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?needsMoreData@QTextDecoder@@QBE_NXZ",
+        "ordinal": 281,
+        "address": 171280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?next@QXmlInputSource@@UAE?AVQChar@@XZ",
+        "ordinal": 282,
+        "address": 34672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?notationDecl@QXmlDefaultHandler@@UAE_NABVQString@@00@Z",
+        "ordinal": 283,
+        "address": 23616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?parse@QXmlSimpleReader@@UAE_NABVQXmlInputSource@@@Z",
+        "ordinal": 284,
+        "address": 35280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?parse@QXmlSimpleReader@@UAE_NPBVQXmlInputSource@@@Z",
+        "ordinal": 285,
+        "address": 35280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?parse@QXmlSimpleReader@@UAE_NPBVQXmlInputSource@@_N@Z",
+        "ordinal": 286,
+        "address": 35312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?parseContinue@QXmlSimpleReader@@UAE_NXZ",
+        "ordinal": 287,
+        "address": 44624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?pattern@QRegExp@@QBE?AVQString@@XZ",
+        "ordinal": 288,
+        "address": 132400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?patternSyntax@QRegExp@@QBE?AW4PatternSyntax@1@XZ",
+        "ordinal": 289,
+        "address": 34432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?popContext@QXmlNamespaceSupport@@QAEXXZ",
+        "ordinal": 290,
+        "address": 63504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?pos@QRegExp@@QAEHH@Z",
+        "ordinal": 291,
+        "address": 132432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?pos@QRegExp@@QBEHH@Z",
+        "ordinal": 292,
+        "address": 132432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?position@QStringRef@@QBEHXZ",
+        "ordinal": 293,
+        "address": 22192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?prefix@QXmlNamespaceSupport@@QBE?AVQString@@ABV2@@Z",
+        "ordinal": 294,
+        "address": 63680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?prefixes@QXmlNamespaceSupport@@QBE?AV?$QList@VQString@@@@ABVQString@@@Z",
+        "ordinal": 295,
+        "address": 64000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?prefixes@QXmlNamespaceSupport@@QBE?AV?$QList@VQString@@@@XZ",
+        "ordinal": 296,
+        "address": 64768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?processName@QXmlNamespaceSupport@@QBEXABVQString@@_NAAV2@2@Z",
+        "ordinal": 297,
+        "address": 67936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?processingInstruction@QXmlDefaultHandler@@UAE_NABVQString@@0@Z",
+        "ordinal": 298,
+        "address": 30048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?property@QXmlSimpleReader@@UBEPAXABVQString@@PA_N@Z",
+        "ordinal": 299,
+        "address": 70752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?publicId@QXmlParseException@@QBE?AVQString@@XZ",
+        "ordinal": 300,
+        "address": 70768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?pushContext@QXmlNamespaceSupport@@QAEXXZ",
+        "ordinal": 301,
+        "address": 70800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?qHash@@YAIABVQRegExp@@I@Z",
+        "ordinal": 302,
+        "address": 133616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?qName@QXmlAttributes@@QBE?AVQString@@H@Z",
+        "ordinal": 303,
+        "address": 70864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?qt_regexp_toCanonical@@YA?AVQString@@ABV1@W4PatternSyntax@QRegExp@@@Z",
+        "ordinal": 304,
+        "address": 133728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?rbegin@QStringRef@@QBE?AV?$reverse_iterator@PBVQChar@@@std@@XZ",
+        "ordinal": 305,
+        "address": 150160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?removeIn@QRegExp@@QBE?AVQString@@ABV2@@Z",
+        "ordinal": 306,
+        "address": 137408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?rend@QStringRef@@QBE?AV?$reverse_iterator@PBVQChar@@@std@@XZ",
+        "ordinal": 307,
+        "address": 150224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?replaceIn@QRegExp@@QBE?AV?$QList@VQString@@@@ABV2@ABVQString@@@Z",
+        "ordinal": 308,
+        "address": 137472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?replaceIn@QRegExp@@QBE?AVQString@@ABV2@0@Z",
+        "ordinal": 309,
+        "address": 138016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?reset@QXmlInputSource@@UAEXXZ",
+        "ordinal": 310,
+        "address": 76240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?reset@QXmlNamespaceSupport@@QAEXXZ",
+        "ordinal": 311,
+        "address": 76272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?resolveEntity@QXmlDefaultHandler@@UAE_NABVQString@@0AAPAVQXmlInputSource@@@Z",
+        "ordinal": 312,
+        "address": 76544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?right@QStringRef@@QBE?AV1@H@Z",
+        "ordinal": 313,
+        "address": 153792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setCaseSensitivity@QRegExp@@QAEXW4CaseSensitivity@Qt@@@Z",
+        "ordinal": 314,
+        "address": 140592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setCodecForLocale@QTextCodec@@SAXPAV1@@Z",
+        "ordinal": 315,
+        "address": 172192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContentHandler@QXmlSimpleReader@@UAEXPAVQXmlContentHandler@@@Z",
+        "ordinal": 316,
+        "address": 76560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setDTDHandler@QXmlSimpleReader@@UAEXPAVQXmlDTDHandler@@@Z",
+        "ordinal": 317,
+        "address": 76576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setData@QXmlInputSource@@UAEXABVQByteArray@@@Z",
+        "ordinal": 318,
+        "address": 76592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setData@QXmlInputSource@@UAEXABVQString@@@Z",
+        "ordinal": 319,
+        "address": 76672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setDeclHandler@QXmlSimpleReader@@UAEXPAVQXmlDeclHandler@@@Z",
+        "ordinal": 320,
+        "address": 76752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setDocumentLocator@QXmlDefaultHandler@@UAEXPAVQXmlLocator@@@Z",
+        "ordinal": 321,
+        "address": 76768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setEntityResolver@QXmlSimpleReader@@UAEXPAVQXmlEntityResolver@@@Z",
+        "ordinal": 322,
+        "address": 76784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setErrorHandler@QXmlSimpleReader@@UAEXPAVQXmlErrorHandler@@@Z",
+        "ordinal": 323,
+        "address": 76800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setFeature@QXmlSimpleReader@@UAEXABVQString@@_N@Z",
+        "ordinal": 324,
+        "address": 76816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setLexicalHandler@QXmlSimpleReader@@UAEXPAVQXmlLexicalHandler@@@Z",
+        "ordinal": 325,
+        "address": 77216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setMinimal@QRegExp@@QAEX_N@Z",
+        "ordinal": 326,
+        "address": 140640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setPattern@QRegExp@@QAEXABVQString@@@Z",
+        "ordinal": 327,
+        "address": 140688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setPatternSyntax@QRegExp@@QAEXW4PatternSyntax@1@@Z",
+        "ordinal": 328,
+        "address": 140752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setPrefix@QXmlNamespaceSupport@@QAEXABVQString@@0@Z",
+        "ordinal": 329,
+        "address": 77232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setProperty@QXmlSimpleReader@@UAEXABVQString@@PAX@Z",
+        "ordinal": 330,
+        "address": 77344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?shared_null@QLinkedListData@@2U1@B",
+        "ordinal": 331,
+        "address": 725160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?size@QStringRef@@QBEHXZ",
+        "ordinal": 332,
+        "address": 150144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?skippedEntity@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 333,
+        "address": 21792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?split@QStringRef@@QBE?AV?$QList@VQStringRef@@@@ABVQString@@V?$QFlags@W4SplitBehaviorFlags@Qt@@@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 334,
+        "address": 153856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?split@QStringRef@@QBE?AV?$QList@VQStringRef@@@@VQChar@@V?$QFlags@W4SplitBehaviorFlags@Qt@@@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 335,
+        "address": 153936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?splitName@QXmlNamespaceSupport@@QBEXABVQString@@AAV2@1@Z",
+        "ordinal": 336,
+        "address": 77360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?splitString@QRegExp@@QBE?AV?$QList@VQString@@@@ABVQString@@V?$QFlags@W4SplitBehaviorFlags@Qt@@@@@Z",
+        "ordinal": 337,
+        "address": 141488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startCDATA@QXmlDefaultHandler@@UAE_NXZ",
+        "ordinal": 338,
+        "address": 23600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startDTD@QXmlDefaultHandler@@UAE_NABVQString@@00@Z",
+        "ordinal": 339,
+        "address": 23616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startDocument@QXmlDefaultHandler@@UAE_NXZ",
+        "ordinal": 340,
+        "address": 23600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startElement@QXmlDefaultHandler@@UAE_NABVQString@@00ABVQXmlAttributes@@@Z",
+        "ordinal": 341,
+        "address": 77504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startEntity@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 342,
+        "address": 21792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startPrefixMapping@QXmlDefaultHandler@@UAE_NABVQString@@0@Z",
+        "ordinal": 343,
+        "address": 30048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startsWith@QStringRef@@QBE_NABV1@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 344,
+        "address": 153984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startsWith@QStringRef@@QBE_NABVQString@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 345,
+        "address": 154160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startsWith@QStringRef@@QBE_NVQChar@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 346,
+        "address": 154336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startsWith@QStringRef@@QBE_NVQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 347,
+        "address": 154480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startsWith@QStringRef@@QBE_NVQStringView@@W4CaseSensitivity@Qt@@@Z",
+        "ordinal": 348,
+        "address": 154624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?string@QStringRef@@QBEPBVQString@@XZ",
+        "ordinal": 349,
+        "address": 154688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?swap@QRegExp@@QAEXAAV1@@Z",
+        "ordinal": 350,
+        "address": 142864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?swap@QXmlAttributes@@QAEXAAV1@@Z",
+        "ordinal": 351,
+        "address": 78032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?systemId@QXmlParseException@@QBE?AVQString@@XZ",
+        "ordinal": 352,
+        "address": 78288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toBinaryData@QBinaryJson@@YA?AVQByteArray@@ABVQJsonDocument@@@Z",
+        "ordinal": 353,
+        "address": 84464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toBool@QBinaryJsonValue@@QBE_NXZ",
+        "ordinal": 354,
+        "address": 84512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toDouble@QBinaryJsonValue@@QBENXZ",
+        "ordinal": 355,
+        "address": 84544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toDouble@QStringRef@@QBENPA_N@Z",
+        "ordinal": 356,
+        "address": 154704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toFloat@QStringRef@@QBEMPA_N@Z",
+        "ordinal": 357,
+        "address": 154784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toInt@QStringRef@@QBEHPA_NH@Z",
+        "ordinal": 358,
+        "address": 154864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toLatin1@QStringRef@@QBE?AVQByteArray@@XZ",
+        "ordinal": 359,
+        "address": 154976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toLocal8Bit@QStringRef@@QBE?AVQByteArray@@XZ",
+        "ordinal": 360,
+        "address": 155040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toLong@QStringRef@@QBEJPA_NH@Z",
+        "ordinal": 361,
+        "address": 154864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toLongLong@QStringRef@@QBE_JPA_NH@Z",
+        "ordinal": 362,
+        "address": 155312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toRawData@QBinaryJson@@YAPBDABVQJsonDocument@@PAH@Z",
+        "ordinal": 363,
+        "address": 85680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toShort@QStringRef@@QBEFPA_NH@Z",
+        "ordinal": 364,
+        "address": 155376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toString@QBinaryJsonValue@@QBE?AVQString@@XZ",
+        "ordinal": 365,
+        "address": 90544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toString@QStringRef@@QBE?AVQString@@XZ",
+        "ordinal": 366,
+        "address": 155488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toUInt@QStringRef@@QBEIPA_NH@Z",
+        "ordinal": 367,
+        "address": 155616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toULong@QStringRef@@QBEKPA_NH@Z",
+        "ordinal": 368,
+        "address": 155616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toULongLong@QStringRef@@QBE_KPA_NH@Z",
+        "ordinal": 369,
+        "address": 155712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toUShort@QStringRef@@QBEGPA_NH@Z",
+        "ordinal": 370,
+        "address": 155776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toUcs4@QStringRef@@QBE?AV?$QList@I@@XZ",
+        "ordinal": 371,
+        "address": 155888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toUnicode@QTextCodec@@QBE?AVQString@@ABVQByteArray@@@Z",
+        "ordinal": 372,
+        "address": 173360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toUnicode@QTextCodec@@QBE?AVQString@@PBD@Z",
+        "ordinal": 373,
+        "address": 173424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toUnicode@QTextCodec@@QBE?AVQString@@PBDHPAUState@QStringConverterBase@@@Z",
+        "ordinal": 374,
+        "address": 5664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toUnicode@QTextDecoder@@QAE?AVQString@@ABVQByteArray@@@Z",
+        "ordinal": 375,
+        "address": 173488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toUnicode@QTextDecoder@@QAE?AVQString@@PBDH@Z",
+        "ordinal": 376,
+        "address": 173600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toUnicode@QTextDecoder@@QAEXPAVQString@@PBDH@Z",
+        "ordinal": 377,
+        "address": 173680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toUtf8@QStringRef@@QBE?AVQByteArray@@XZ",
+        "ordinal": 378,
+        "address": 155952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?trimmed@QStringRef@@QBE?AV1@XZ",
+        "ordinal": 379,
+        "address": 156032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?truncate@QStringRef@@QAEXH@Z",
+        "ordinal": 380,
+        "address": 156304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?type@QBinaryJsonValue@@QBE?AW4Type@QJsonValue@@XZ",
+        "ordinal": 381,
+        "address": 85888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?type@QXmlAttributes@@QBE?AVQString@@ABV2@0@Z",
+        "ordinal": 382,
+        "address": 79856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?type@QXmlAttributes@@QBE?AVQString@@ABV2@@Z",
+        "ordinal": 383,
+        "address": 79888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?type@QXmlAttributes@@QBE?AVQString@@H@Z",
+        "ordinal": 384,
+        "address": 79888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?unicode@QStringRef@@QBEPBVQChar@@XZ",
+        "ordinal": 385,
+        "address": 148272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?unparsedEntityDecl@QXmlDefaultHandler@@UAE_NABVQString@@000@Z",
+        "ordinal": 386,
+        "address": 77504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?uri@QXmlAttributes@@QBE?AVQString@@H@Z",
+        "ordinal": 387,
+        "address": 80032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?uri@QXmlNamespaceSupport@@QBE?AVQString@@ABV2@@Z",
+        "ordinal": 388,
+        "address": 80080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?value@QXmlAttributes@@QBE?AVQString@@ABV2@0@Z",
+        "ordinal": 389,
+        "address": 80112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?value@QXmlAttributes@@QBE?AVQString@@ABV2@@Z",
+        "ordinal": 390,
+        "address": 80192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?value@QXmlAttributes@@QBE?AVQString@@H@Z",
+        "ordinal": 391,
+        "address": 80272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?value@QXmlAttributes@@QBE?AVQString@@VQLatin1String@@@Z",
+        "ordinal": 392,
+        "address": 80320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?warning@QXmlDefaultHandler@@UAE_NABVQXmlParseException@@@Z",
+        "ordinal": 393,
+        "address": 21792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 2,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 722080,
+        "size": 840,
+        "entropy": 3.412973,
+        "sha256": "00585878f833630b660dda33b1cc4ef7963cba7a842432eb45e76bb39ec41211",
+        "magic_head": "4803340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 722920,
+        "size": 381,
+        "entropy": 4.911615,
+        "sha256": "4bb79dcea0a901f7d9eac5aa05728ae92acb42e0cb22e5dd14134f4421a3d8df",
+        "magic_head": "3c3f786d6c207665"
+      }
+    ],
+    "total_size": 1221,
+    "max_entropy": 4.911615
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 382253881,
+    "entries": [
+      {
+        "id": 258,
+        "build_id": 35219,
+        "count": 1
+      },
+      {
+        "id": 151,
+        "build_id": 0,
+        "count": 1
+      },
+      {
+        "id": 255,
+        "build_id": 35219,
+        "count": 1
+      },
+      {
+        "id": 256,
+        "build_id": 35219,
+        "count": 1
+      },
+      {
+        "id": 261,
+        "build_id": 31104,
+        "count": 1
+      },
+      {
+        "id": 261,
+        "build_id": 35219,
+        "count": 23
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 352
+      },
+      {
+        "id": 257,
+        "build_id": 35219,
+        "count": 3
+      },
+      {
+        "id": 257,
+        "build_id": 33145,
+        "count": 10
+      },
+      {
+        "id": 261,
+        "build_id": 35207,
+        "count": 22
+      },
+      {
+        "id": 260,
+        "build_id": 35207,
+        "count": 10
+      },
+      {
+        "id": 259,
+        "build_id": 35207,
+        "count": 5
+      },
+      {
+        "id": 257,
+        "build_id": 35207,
+        "count": 4
+      },
+      {
+        "id": 147,
+        "build_id": 30729,
+        "count": 4
+      }
+    ],
+    "raw_hex": "7ddaa64539bbc81639bbc81639bbc81630c35b163dbbc816be32c9173dbbc816be32cb173cbbc816be32cc1733bbc816be32cd172fbbc816403ac91733bbc816aa32c9173abbc81639bbc91659bac816aa32cd172ebbc816b9c2cd1738bbc816aa32c81738bbc816aa32371638bbc81639bb5f1638bbc816aa32ca1738bbc8165269636839bbc816",
+    "raw_offset": 128,
+    "raw_size": 136,
+    "entry_count": 14
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 690544,
+      "size": 21616,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 712160,
+      "size": 140,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 729088,
+      "size": 1384,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 733184,
+      "size": 11372,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 683688,
+      "size": 84,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 683776,
+      "size": 24,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 683496,
+      "size": 64,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 204800,
+      "size": 1056,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": 381
+  },
+  "entrypoint_bytes": {
+    "offset": 197840,
+    "hex": "558bec837d0c017505e8ae060000ff7510ff750cff7508e8a8feffff83c40c5dc20c00e9e4070000c74104000000008bc1c7410800000000c74104cc6d0a10c7",
+    "entropy": 4.430152
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 269160768,
+    "se_handler_count": 1,
+    "guard_cf_function_count": 524,
+    "guard_flags": 268530944
+  },
+  "tls": {
+    "has_tls": 1,
+    "callback_count": 0,
+    "callbacks": [],
+    "addressof_callbacks": 268641344,
+    "addressof_index": 269162520,
+    "addressof_raw_data_start": 269125708,
+    "addressof_raw_data_end": 269125716,
+    "raw_data_size": 8,
+    "sizeof_zero_fill": 0,
+    "characteristics": 3145728,
+    "section": ".rdata",
+    "data_template_hex": "0000000000000080",
+    "data_template_entropy": 0.543564
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 4,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 4,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 1328
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 14,
+    "minor_linker_version": 44,
+    "sizeof_code": 199680,
+    "sizeof_initialized_data": 535552,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 200912,
+    "baseof_code": 4096,
+    "baseof_data": 204800,
+    "imagebase": 268435456,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 6,
+    "minor_operating_system_version": 0,
+    "major_image_version": 6,
+    "minor_image_version": 2,
+    "major_subsystem_version": 6,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 745472,
+    "sizeof_headers": 1024,
+    "checksum": 0,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 16704,
+    "dll_characteristics": [
+      "DYNAMIC_BASE",
+      "NX_COMPAT",
+      "GUARD_CF"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 208,
+    "entropy": 5.202689,
+    "is_standard_ms": 1,
+    "sha256": "a623acf484f45e4c9ca64406a1d4a33183f0c0d0ceaf48b9842065faf59f8d01",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a24000000000000007ddaa64539bbc81639bbc81639bbc81630c35b163dbbc816be32c9173dbbc816be32cb173cbbc816be32cc1733bbc816be32cd172fbbc816403ac91733bbc816aa32c9173abbc81639bbc91659bac816aa32cd172ebbc816b9c2cd1738bbc816aa32c81738bbc816aa32371638bbc81639bb5f1638bbc816aa32ca1738bbc8165269636839bbc8160000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ } E9 9 9 0 [ = 2 = 2 < 2 3 2 / @: 3 2 : 9 Y 2 . 8 2 8 27 8 9 _ 8 2 8 Rich9",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 0,
+    "checksum_computed": 761923,
+    "checksum_valid": 0,
+    "checksum_zero": 1
+  },
+  "entrypoint_section": {
+    "ep_rva": 200912,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.473945
+  },
+  "overlay": {
+    "size": 0,
+    "offset": 0,
+    "entropy": null,
+    "magic_head": null,
+    "sha256": null
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 3,
+    "types": [
+      "CODEVIEW",
+      "VC_FEATURE",
+      "POGO"
+    ],
+    "pdb_path": "D:\\a\\qt-private\\qt_build_32\\qtbase\\bin\\Qt6Core5Compat.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 63,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "The Qt Company Ltd.",
+    "file_description": "C++ Application Development Framework",
+    "original_filename": "Qt6Core5Compat.dll",
+    "product_name": "Qt6",
+    "file_version": "6.2.4.0",
+    "legal_copyright": "Copyright (C) 2022 The Qt Company Ltd.",
+    "internal_name": ""
+  },
+  "strings": {
+    "count_ascii": 7799,
+    "count_utf16": 48,
+    "count_total": 7847,
+    "chars_total": 99649,
+    "printable_ratio": 0.135534,
+    "len_mean": 12.7,
+    "len_max": 315,
+    "urls": [
+      "http://qt-project.org/xml/features/report-start-end-entity",
+      "http://qt-project.org/xml/features/report-whitespace-only-CharData",
+      "http://trolltech.com/xml/features/report-start-end-entity",
+      "http://trolltech.com/xml/features/report-whitespace-only-CharData",
+      "http://www.w3.org/2000/xmlns/",
+      "http://www.w3.org/XML/1998/namespace",
+      "http://xml.org/sax/features/namespace-prefixes",
+      "http://xml.org/sax/features/namespaces"
+    ],
+    "n_urls": 8,
+    "ipv4": [
+      "6.2.4.0"
+    ],
+    "n_ipv4": 1,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "api-ms-win-crt-heap-l1-1-0.dll",
+      "api-ms-win-crt-runtime-l1-1-0.dll",
+      "kernel32.dll",
+      "msvcp140.dll",
+      "qt6core.dll",
+      "qt6core5compat.dll",
+      "vcruntime140.dll"
+    ],
+    "n_dll_names": 7,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [
+      "D:\\a\\qt-private\\qt_build_32\\qtbase\\bin\\Qt6Core5Compat.pdb",
+      "\\\\b\\c\\g\\h\\i\\m\\p\\t\\u\\z"
+    ],
+    "n_file_paths": 2
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "qt6core5compat.dll"
+    ],
+    "n_orphans": 1,
+    "n_imported": 6
+  }
+}

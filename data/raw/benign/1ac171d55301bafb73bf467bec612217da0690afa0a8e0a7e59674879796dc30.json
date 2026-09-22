@@ -1,0 +1,4701 @@
+{
+  "sha256": "1ac171d55301bafb73bf467bec612217da0690afa0a8e0a7e59674879796dc30",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 202923,
+    "md5": "440d117c536ae88f540ecfb0e496c869",
+    "sha1": "724ba0199d97c1e5e092382ef6e6dcbd6518d61e",
+    "imphash": "6aa732d61de9648396541307a7bfb574",
+    "tlsh": "T1AF143AE3B1878CF6D81B133552C7E7BF5B3886655322CB16CAACAC74EF13A846554322",
+    "ssdeep": "3072:A6sT/aN+dvzvMNFrFfauEDCxQSJGSsoCT9k+/r:BszjINFxS5S5CT9Rr",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.330563,
+    "byte_histogram_256": [
+      0.19019037,
+      0.02287074,
+      0.01343367,
+      0.00668234,
+      0.01633625,
+      0.00151289,
+      0.00325739,
+      0.00186278,
+      0.01265505,
+      0.00195148,
+      0.00167058,
+      0.00099052,
+      0.00577066,
+      0.00105952,
+      0.0005815,
+      0.01974641,
+      0.00480478,
+      0.00071456,
+      0.00045337,
+      0.00080819,
+      0.00408529,
+      0.0004583,
+      0.00049773,
+      0.00069977,
+      0.00198105,
+      0.00069977,
+      0.00065049,
+      0.00042873,
+      0.00365656,
+      0.00043859,
+      0.00050758,
+      0.00092153,
+      0.01110766,
+      0.00048787,
+      0.00040409,
+      0.00055193,
+      0.02995225,
+      0.0010743,
+      0.00255762,
+      0.0014439,
+      0.00147347,
+      0.00179378,
+      0.00044352,
+      0.00044845,
+      0.00134534,
+      0.00060121,
+      0.00376497,
+      0.00029568,
+      0.00318347,
+      0.0048442,
+      0.00147839,
+      0.00095603,
+      0.00299621,
+      0.00089689,
+      0.00086732,
+      0.00078355,
+      0.00194655,
+      0.00345944,
+      0.00078355,
+      0.0018135,
+      0.00256748,
+      0.0009166,
+      0.00063571,
+      0.00104473,
+      0.00306027,
+      0.00296171,
+      0.00212396,
+      0.00320811,
+      0.01154625,
+      0.01206862,
+      0.00233586,
+      0.00209932,
+      0.00184799,
+      0.00212396,
+      0.00101516,
+      0.00092646,
+      0.00314898,
+      0.00469143,
+      0.00088704,
+      0.00064064,
+      0.00216831,
+      0.00051251,
+      0.00112851,
+      0.00184306,
+      0.00404587,
+      0.00639651,
+      0.00130099,
+      0.00102995,
+      0.00122707,
+      0.00036467,
+      0.00047801,
+      0.00179378,
+      0.0026414,
+      0.00642115,
+      0.0014094,
+      0.01700645,
+      0.00111372,
+      0.00912169,
+      0.0019909,
+      0.00410008,
+      0.00582487,
+      0.01131464,
+      0.00553412,
+      0.00689424,
+      0.00363192,
+      0.01333018,
+      0.00034989,
+      0.00176422,
+      0.0052138,
+      0.00354814,
+      0.00987567,
+      0.00577559,
+      0.0086141,
+      0.00038931,
+      0.00814595,
+      0.00742646,
+      0.01882487,
+      0.00769257,
+      0.00195641,
+      0.00232601,
+      0.00217817,
+      0.00129606,
+      0.00068006,
+      0.00032525,
+      0.00189727,
+      0.00351365,
+      0.00093632,
+      0.00100531,
+      0.0036467,
+      0.00211903,
+      0.00109401,
+      0.01131956,
+      0.00529758,
+      0.00881615,
+      0.00223237,
+      0.00138969,
+      0.00518916,
+      0.03567856,
+      0.00049773,
+      0.02968121,
+      0.0009511,
+      0.0099348,
+      0.00074412,
+      0.00062093,
+      0.00709136,
+      0.00046816,
+      0.00038931,
+      0.00053222,
+      0.00184799,
+      0.00140447,
+      0.00066528,
+      0.00043859,
+      0.00081312,
+      0.00038438,
+      0.00027597,
+      0.00027104,
+      0.00083283,
+      0.00040902,
+      0.00065542,
+      0.00054701,
+      0.00100038,
+      0.00051744,
+      0.00026118,
+      0.00031046,
+      0.00077369,
+      0.00039917,
+      0.00072934,
+      0.00028089,
+      0.00150796,
+      0.00030061,
+      0.00028582,
+      0.00046323,
+      0.00095603,
+      0.00036467,
+      0.00023654,
+      0.00111372,
+      0.00137983,
+      0.00031539,
+      0.00033017,
+      0.00068006,
+      0.00196626,
+      0.00043366,
+      0.00798332,
+      0.00192191,
+      0.00336581,
+      0.00130099,
+      0.00086732,
+      0.00084268,
+      0.00201061,
+      0.00035481,
+      0.00093139,
+      0.00124185,
+      0.00727862,
+      0.00403601,
+      0.0034693,
+      0.00445489,
+      0.00247877,
+      0.00042873,
+      0.00209439,
+      0.00432676,
+      0.00178393,
+      0.00270546,
+      0.00481463,
+      0.00052729,
+      0.00085747,
+      0.00030061,
+      0.00028089,
+      0.00037453,
+      0.00333131,
+      0.00066035,
+      0.00224223,
+      0.00139462,
+      0.00088211,
+      0.0003351,
+      0.00039917,
+      0.00043859,
+      0.00271039,
+      0.00252805,
+      0.00069484,
+      0.00197119,
+      0.00127635,
+      0.00218802,
+      0.00102995,
+      0.00101516,
+      0.00264632,
+      0.00075891,
+      0.00076384,
+      0.00067513,
+      0.00149318,
+      0.00212889,
+      0.00041395,
+      0.00037945,
+      0.01006786,
+      0.00536657,
+      0.00071456,
+      0.00318347,
+      0.0045436,
+      0.0004583,
+      0.00062093,
+      0.00051251,
+      0.00338059,
+      0.00072934,
+      0.0007392,
+      0.00127142,
+      0.00168537,
+      0.00043859,
+      0.00330174,
+      0.00129113,
+      0.003558,
+      0.00126156,
+      0.00140447,
+      0.00143897,
+      0.00305042,
+      0.00120243,
+      0.00296664,
+      0.0322339
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.02379937,
+      0.00036931,
+      0.00166809,
+      0.00036435,
+      0.00016854,
+      0.00022059,
+      0.00144254,
+      0.00101374,
+      0.00020324,
+      0.00023299,
+      0.00012889,
+      0.00015119,
+      0.00013384,
+      0.0001388,
+      0.0001388,
+      0.00028256,
+      0.04517221,
+      0.00121946,
+      0.00334609,
+      0.00071631,
+      0.00031974,
+      0.00041392,
+      0.00439701,
+      0.00239927,
+      0.00030982,
+      0.00036683,
+      0.00029495,
+      0.00037179,
+      0.00029743,
+      0.0003123,
+      0.0003123,
+      0.00066426,
+      0.02589378,
+      0.00027512,
+      0.00262482,
+      0.00133596,
+      0.00174988,
+      0.01042989,
+      0.02976285,
+      0.01796231,
+      0.00013384,
+      0.00018837,
+      9.419e-05,
+      0.00026769,
+      0.00014624,
+      0.00013384,
+      0.00014376,
+      0.00022803,
+      0.00233235,
+      1.735e-05,
+      0.00416898,
+      0.00067665,
+      0.00267191,
+      0.00340805,
+      0.01822256,
+      0.00887829,
+      9.91e-06,
+      2.479e-05,
+      4.96e-06,
+      7.44e-06,
+      0.00012641,
+      3.966e-05,
+      1.239e-05,
+      7.44e-06,
+      0.00213158,
+      1.487e-05,
+      0.00078819,
+      0.00029247,
+      0.00126408,
+      0.00240175,
+      0.00539588,
+      0.0027661,
+      1.239e-05,
+      2.726e-05,
+      7.44e-06,
+      1.735e-05,
+      3.718e-05,
+      9.91e-06,
+      1.239e-05,
+      4.957e-05,
+      0.01499792,
+      0.00063947,
+      0.00191595,
+      0.00206218,
+      0.00146732,
+      0.00181432,
+      0.00748781,
+      0.00431274,
+      0.00089477,
+      0.00061221,
+      0.00128639,
+      0.00069648,
+      0.00093938,
+      0.00037179,
+      0.00050315,
+      0.00060725,
+      0.00897743,
+      0.00064443,
+      0.00066178,
+      0.00509101,
+      0.0009146,
+      0.00075597,
+      0.00206714,
+      0.00111784,
+      0.0005205,
+      0.00050067,
+      0.00077084,
+      0.00074605,
+      0.00110297,
+      0.00057503,
+      0.00048085,
+      0.00045358,
+      0.01965022,
+      0.00129134,
+      0.00484563,
+      0.00164826,
+      0.00327173,
+      0.00188868,
+      0.00325934,
+      0.00255294,
+      0.00892786,
+      0.00125912,
+      0.00072375,
+      0.00170527,
+      0.00284542,
+      0.00128639,
+      0.00216876,
+      0.00358899,
+      0.13258695,
+      0.01312411,
+      0.02781716,
+      0.01340419,
+      0.03478198,
+      0.02199992,
+      0.01302992,
+      0.02068131,
+      0.08824754,
+      0.01057612,
+      0.00498691,
+      0.01882237,
+      0.02706863,
+      0.0158332,
+      0.02506097,
+      0.04466906,
+      0.02450577,
+      0.0043053,
+      0.01018946,
+      0.00365096,
+      0.00809506,
+      0.00590151,
+      0.00330643,
+      0.00526947,
+      0.02064413,
+      0.00332874,
+      0.00125912,
+      0.00327917,
+      0.00773071,
+      0.00452342,
+      0.00608988,
+      0.00974827,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 136088,
+      "raw_size": 136192,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.400248,
+      "characteristics": 1615855712,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".data",
+      "virtual_size": 188,
+      "raw_size": 512,
+      "virtual_address": 143360,
+      "pointerto_raw_data": 137216,
+      "entropy": 4.156943,
+      "characteristics": 3224371264,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 13572,
+      "raw_size": 13824,
+      "virtual_address": 147456,
+      "pointerto_raw_data": 137728,
+      "entropy": 5.683765,
+      "characteristics": 1080033344,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".bss",
+      "virtual_size": 2952,
+      "raw_size": 0,
+      "virtual_address": 163840,
+      "pointerto_raw_data": 0,
+      "entropy": 0.0,
+      "characteristics": 3225419904,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".edata",
+      "virtual_size": 10210,
+      "raw_size": 10240,
+      "virtual_address": 167936,
+      "pointerto_raw_data": 151552,
+      "entropy": 5.445332,
+      "characteristics": 1076887616,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".idata",
+      "virtual_size": 1316,
+      "raw_size": 1536,
+      "virtual_address": 180224,
+      "pointerto_raw_data": 161792,
+      "entropy": 4.825755,
+      "characteristics": 3224371264,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 2516,
+      "raw_size": 2560,
+      "virtual_address": 184320,
+      "pointerto_raw_data": 163328,
+      "entropy": 6.498221,
+      "characteristics": 1110442048,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 128,
+    "e_lfanew_raw": 128,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000080000000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 7,
+    "time_date_stamp": 1231420407,
+    "pointerto_symbol_table": 165888,
+    "numberof_symbols": 1463,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8966,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LINE_NUMS_STRIPPED",
+      "NEED_32BIT_MACHINE",
+      "DEBUG_STRIPPED",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "zlib1.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 180512,
+      "import_lookup_table_rva": 180308,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "crc32",
+          "hint": 4,
+          "iat_address": 180512,
+          "iat_value": 180712,
+          "data": 180712
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "deflate",
+          "hint": 5,
+          "iat_address": 180516,
+          "iat_value": 180720,
+          "data": 180720
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "deflateEnd",
+          "hint": 8,
+          "iat_address": 180520,
+          "iat_value": 180732,
+          "data": 180732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "deflateInit2_",
+          "hint": 9,
+          "iat_address": 180524,
+          "iat_value": 180748,
+          "data": 180748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "deflateReset",
+          "hint": 13,
+          "iat_address": 180528,
+          "iat_value": 180764,
+          "data": 180764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "inflate",
+          "hint": 35,
+          "iat_address": 180532,
+          "iat_value": 180780,
+          "data": 180780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "inflateEnd",
+          "hint": 40,
+          "iat_address": 180536,
+          "iat_value": 180792,
+          "data": 180792
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "inflateInit_",
+          "hint": 42,
+          "iat_address": 180540,
+          "iat_value": 180808,
+          "data": 180808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "inflateReset",
+          "hint": 43,
+          "iat_address": 180544,
+          "iat_value": 180824,
+          "data": 180824
+        }
+      ],
+      "function_count": 9
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 180556,
+      "import_lookup_table_rva": 180352,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AddAtomA",
+          "hint": 1,
+          "iat_address": 180556,
+          "iat_value": 180840,
+          "data": 180840
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 107,
+          "iat_address": 180560,
+          "iat_value": 180852,
+          "data": 180852
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 126,
+          "iat_address": 180564,
+          "iat_value": 180876,
+          "data": 180876
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FindAtomA",
+          "hint": 176,
+          "iat_address": 180568,
+          "iat_value": 180900,
+          "data": 180900
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetAtomNameA",
+          "hint": 221,
+          "iat_address": 180572,
+          "iat_value": 180912,
+          "data": 180912
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSection",
+          "hint": 492,
+          "iat_address": 180576,
+          "iat_value": 180928,
+          "data": 180928
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedExchange",
+          "hint": 497,
+          "iat_address": 180580,
+          "iat_value": 180956,
+          "data": 180956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDBCSLeadByteEx",
+          "hint": 512,
+          "iat_address": 180584,
+          "iat_value": 180978,
+          "data": 180978
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 523,
+          "iat_address": 180588,
+          "iat_value": 180998,
+          "data": 180998
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "MultiByteToWideChar",
+          "hint": 560,
+          "iat_address": 180592,
+          "iat_value": 181022,
+          "data": 181022
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 751,
+          "iat_address": 180596,
+          "iat_value": 181044,
+          "data": 181044
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WideCharToMultiByte",
+          "hint": 814,
+          "iat_address": 180600,
+          "iat_value": 181052,
+          "data": 181052
+        }
+      ],
+      "function_count": 12
+    },
+    {
+      "name": "msvcrt.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 180612,
+      "import_lookup_table_rva": 180408,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__dllonexit",
+          "hint": 36,
+          "iat_address": 180612,
+          "iat_value": 181074,
+          "data": 181074
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__lc_codepage",
+          "hint": 44,
+          "iat_address": 180616,
+          "iat_value": 181088,
+          "data": 181088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__mb_cur_max",
+          "hint": 48,
+          "iat_address": 180620,
+          "iat_value": 181104,
+          "data": 181104
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_assert",
+          "hint": 111,
+          "iat_address": 180624,
+          "iat_value": 181120,
+          "data": 181120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_errno",
+          "hint": 152,
+          "iat_address": 180628,
+          "iat_value": 181130,
+          "data": 181130
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_iob",
+          "hint": 233,
+          "iat_address": 180632,
+          "iat_value": 181140,
+          "data": 181140
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_setjmp",
+          "hint": 384,
+          "iat_address": 180636,
+          "iat_value": 181148,
+          "data": 181148
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "abort",
+          "hint": 533,
+          "iat_address": 180640,
+          "iat_value": 181158,
+          "data": 181158
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fflush",
+          "hint": 560,
+          "iat_address": 180644,
+          "iat_value": 181166,
+          "data": 181166
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fprintf",
+          "hint": 569,
+          "iat_address": 180648,
+          "iat_value": 181176,
+          "data": 181176
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fputc",
+          "hint": 570,
+          "iat_address": 180652,
+          "iat_value": 181186,
+          "data": 181186
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fread",
+          "hint": 574,
+          "iat_address": 180656,
+          "iat_value": 181194,
+          "data": 181194
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 575,
+          "iat_address": 180660,
+          "iat_value": 181202,
+          "data": 181202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fwrite",
+          "hint": 583,
+          "iat_address": 180664,
+          "iat_value": 181210,
+          "data": 181210
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "getenv",
+          "hint": 587,
+          "iat_address": 180668,
+          "iat_value": 181220,
+          "data": 181220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "gmtime",
+          "hint": 591,
+          "iat_address": 180672,
+          "iat_value": 181230,
+          "data": 181230
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "localeconv",
+          "hint": 621,
+          "iat_address": 180676,
+          "iat_value": 181240,
+          "data": 181240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "longjmp",
+          "hint": 625,
+          "iat_address": 180680,
+          "iat_value": 181254,
+          "data": 181254
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 626,
+          "iat_address": 180684,
+          "iat_value": 181264,
+          "data": 181264
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 632,
+          "iat_address": 180688,
+          "iat_value": 181274,
+          "data": 181274
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 634,
+          "iat_address": 180692,
+          "iat_value": 181284,
+          "data": 181284
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "pow",
+          "hint": 638,
+          "iat_address": 180696,
+          "iat_value": 181294,
+          "data": 181294
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strlen",
+          "hint": 671,
+          "iat_address": 180700,
+          "iat_value": 181300,
+          "data": 181300
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wcslen",
+          "hint": 711,
+          "iat_address": 180704,
+          "iat_value": 181310,
+          "data": 181310
+        }
+      ],
+      "function_count": 24
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "libpng12-0.dll",
+    "export_flags": 0,
+    "timestamp": 1231420407,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 364,
+    "entries": [
+      {
+        "name": "_get_output_format",
+        "ordinal": 1,
+        "address": 139224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_64bit_product",
+        "ordinal": 2,
+        "address": 7568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_IDAT",
+        "ordinal": 3,
+        "address": 143455,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_IEND",
+        "ordinal": 4,
+        "address": 143450,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_IHDR",
+        "ordinal": 5,
+        "address": 143460,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_PLTE",
+        "ordinal": 6,
+        "address": 143445,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_access_version_number",
+        "ordinal": 7,
+        "address": 7536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_bKGD",
+        "ordinal": 8,
+        "address": 143440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_build_gamma_table",
+        "ordinal": 9,
+        "address": 72304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_build_grayscale_palette",
+        "ordinal": 10,
+        "address": 93264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_cHRM",
+        "ordinal": 11,
+        "address": 143435,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_calculate_crc",
+        "ordinal": 12,
+        "address": 4944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_check_cHRM_fixed",
+        "ordinal": 13,
+        "address": 7664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_check_chunk_name",
+        "ordinal": 14,
+        "address": 19440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_check_keyword",
+        "ordinal": 15,
+        "address": 43168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_check_sig",
+        "ordinal": 16,
+        "address": 4720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_chunk_error",
+        "ordinal": 17,
+        "address": 97888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_chunk_warning",
+        "ordinal": 18,
+        "address": 97440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_combine_row",
+        "ordinal": 19,
+        "address": 30928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_convert_from_struct_tm",
+        "ordinal": 20,
+        "address": 63280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_convert_from_time_t",
+        "ordinal": 21,
+        "address": 63344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_convert_to_rfc1123",
+        "ordinal": 22,
+        "address": 6960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_crc_error",
+        "ordinal": 23,
+        "address": 19312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_crc_finish",
+        "ordinal": 24,
+        "address": 19712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_crc_read",
+        "ordinal": 25,
+        "address": 19216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_create_info_struct",
+        "ordinal": 26,
+        "address": 5152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_create_read_struct",
+        "ordinal": 27,
+        "address": 52768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_create_read_struct_2",
+        "ordinal": 28,
+        "address": 51952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_create_struct",
+        "ordinal": 29,
+        "address": 96384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_create_struct_2",
+        "ordinal": 30,
+        "address": 96256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_create_write_struct",
+        "ordinal": 31,
+        "address": 64736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_create_write_struct_2",
+        "ordinal": 32,
+        "address": 64096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_data_freer",
+        "ordinal": 33,
+        "address": 5248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_decompress_chunk",
+        "ordinal": 34,
+        "address": 19904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_default_flush",
+        "ordinal": 35,
+        "address": 60896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_default_read_data",
+        "ordinal": 36,
+        "address": 60512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_default_write_data",
+        "ordinal": 37,
+        "address": 60768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_destroy_info_struct",
+        "ordinal": 38,
+        "address": 6800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_destroy_read_struct",
+        "ordinal": 39,
+        "address": 59392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_destroy_struct",
+        "ordinal": 40,
+        "address": 96496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_destroy_struct_2",
+        "ordinal": 41,
+        "address": 96416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_destroy_write_struct",
+        "ordinal": 42,
+        "address": 67024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_background",
+        "ordinal": 43,
+        "address": 83392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_bgr",
+        "ordinal": 44,
+        "address": 36896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_chop",
+        "ordinal": 45,
+        "address": 88992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_dither",
+        "ordinal": 46,
+        "address": 89152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_expand",
+        "ordinal": 47,
+        "address": 79376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_expand_palette",
+        "ordinal": 48,
+        "address": 78704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_gamma",
+        "ordinal": 49,
+        "address": 87856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_gray_to_rgb",
+        "ordinal": 50,
+        "address": 82880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_invert",
+        "ordinal": 51,
+        "address": 36080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_pack",
+        "ordinal": 52,
+        "address": 93664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_packswap",
+        "ordinal": 53,
+        "address": 36272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_read_filler",
+        "ordinal": 54,
+        "address": 90336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_read_interlace",
+        "ordinal": 55,
+        "address": 31840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_read_intrapixel",
+        "ordinal": 56,
+        "address": 93392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_read_invert_alpha",
+        "ordinal": 57,
+        "address": 91024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_read_swap_alpha",
+        "ordinal": 58,
+        "address": 91200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_read_transformations",
+        "ordinal": 59,
+        "address": 91536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_rgb_to_gray",
+        "ordinal": 60,
+        "address": 80720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_shift",
+        "ordinal": 61,
+        "address": 94128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_strip_filler",
+        "ordinal": 62,
+        "address": 36368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_swap",
+        "ordinal": 63,
+        "address": 36192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_unpack",
+        "ordinal": 64,
+        "address": 90000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_unshift",
+        "ordinal": 65,
+        "address": 89504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_write_interlace",
+        "ordinal": 66,
+        "address": 47424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_write_intrapixel",
+        "ordinal": 67,
+        "address": 96000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_write_invert_alpha",
+        "ordinal": 68,
+        "address": 95168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_write_swap_alpha",
+        "ordinal": 69,
+        "address": 94832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_do_write_transformations",
+        "ordinal": 70,
+        "address": 95376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_error",
+        "ordinal": 71,
+        "address": 97536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_flush",
+        "ordinal": 72,
+        "address": 60864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_free",
+        "ordinal": 73,
+        "address": 96736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_free_data",
+        "ordinal": 74,
+        "address": 5392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_free_default",
+        "ordinal": 75,
+        "address": 96688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_gAMA",
+        "ordinal": 76,
+        "address": 143430,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_IHDR",
+        "ordinal": 77,
+        "address": 17264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_PLTE",
+        "ordinal": 78,
+        "address": 18224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_asm_flagmask",
+        "ordinal": 79,
+        "address": 18880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_asm_flags",
+        "ordinal": 80,
+        "address": 18864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_bKGD",
+        "ordinal": 81,
+        "address": 16288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_bit_depth",
+        "ordinal": 82,
+        "address": 15424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_cHRM",
+        "ordinal": 83,
+        "address": 16352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_cHRM_fixed",
+        "ordinal": 84,
+        "address": 16560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_channels",
+        "ordinal": 85,
+        "address": 16192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_color_type",
+        "ordinal": 86,
+        "address": 15472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_compression_buffer_size",
+        "ordinal": 87,
+        "address": 18832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_compression_type",
+        "ordinal": 88,
+        "address": 15616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_copyright",
+        "ordinal": 89,
+        "address": 7296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_error_ptr",
+        "ordinal": 90,
+        "address": 98016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_filter_type",
+        "ordinal": 91,
+        "address": 15520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_gAMA",
+        "ordinal": 92,
+        "address": 16768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_gAMA_fixed",
+        "ordinal": 93,
+        "address": 16832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_hIST",
+        "ordinal": 94,
+        "address": 17200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_header_ver",
+        "ordinal": 95,
+        "address": 7328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_header_version",
+        "ordinal": 96,
+        "address": 7344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_iCCP",
+        "ordinal": 97,
+        "address": 16976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_image_height",
+        "ordinal": 98,
+        "address": 15376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_image_width",
+        "ordinal": 99,
+        "address": 15328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_int_32",
+        "ordinal": 100,
+        "address": 19136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_interlace_type",
+        "ordinal": 101,
+        "address": 15568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_io_ptr",
+        "ordinal": 102,
+        "address": 6896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_libpng_ver",
+        "ordinal": 103,
+        "address": 7312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_mem_ptr",
+        "ordinal": 104,
+        "address": 96976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_mmx_bitdepth_threshold",
+        "ordinal": 105,
+        "address": 18912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_mmx_flagmask",
+        "ordinal": 106,
+        "address": 18896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_mmx_rowbytes_threshold",
+        "ordinal": 107,
+        "address": 18928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_oFFs",
+        "ordinal": 108,
+        "address": 17616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_pCAL",
+        "ordinal": 109,
+        "address": 17760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_pHYs",
+        "ordinal": 110,
+        "address": 18080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_pixel_aspect_ratio",
+        "ordinal": 111,
+        "address": 15856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_pixels_per_meter",
+        "ordinal": 112,
+        "address": 15792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_progressive_ptr",
+        "ordinal": 113,
+        "address": 106656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_rgb_to_gray_status",
+        "ordinal": 114,
+        "address": 18768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_rowbytes",
+        "ordinal": 115,
+        "address": 15232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_rows",
+        "ordinal": 116,
+        "address": 15280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_sBIT",
+        "ordinal": 117,
+        "address": 18304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_sCAL",
+        "ordinal": 118,
+        "address": 18000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_sPLT",
+        "ordinal": 119,
+        "address": 17136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_sRGB",
+        "ordinal": 120,
+        "address": 16896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_signature",
+        "ordinal": 121,
+        "address": 16240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_tIME",
+        "ordinal": 122,
+        "address": 18480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_tRNS",
+        "ordinal": 123,
+        "address": 18544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_text",
+        "ordinal": 124,
+        "address": 18368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_uint_16",
+        "ordinal": 125,
+        "address": 19184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_uint_31",
+        "ordinal": 126,
+        "address": 19008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_uint_32",
+        "ordinal": 127,
+        "address": 19088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_unknown_chunks",
+        "ordinal": 128,
+        "address": 18704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_user_chunk_ptr",
+        "ordinal": 129,
+        "address": 18800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_user_height_max",
+        "ordinal": 130,
+        "address": 18976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_user_transform_ptr",
+        "ordinal": 131,
+        "address": 37168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_user_width_max",
+        "ordinal": 132,
+        "address": 18944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_valid",
+        "ordinal": 133,
+        "address": 15184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_x_offset_microns",
+        "ordinal": 134,
+        "address": 15936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_x_offset_pixels",
+        "ordinal": 135,
+        "address": 16064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_x_pixels_per_meter",
+        "ordinal": 136,
+        "address": 15664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_y_offset_microns",
+        "ordinal": 137,
+        "address": 16000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_y_offset_pixels",
+        "ordinal": 138,
+        "address": 16128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_get_y_pixels_per_meter",
+        "ordinal": 139,
+        "address": 15728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_hIST",
+        "ordinal": 140,
+        "address": 143425,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_IEND",
+        "ordinal": 141,
+        "address": 22224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_IHDR",
+        "ordinal": 142,
+        "address": 21264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_PLTE",
+        "ordinal": 143,
+        "address": 21664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_as_unknown",
+        "ordinal": 144,
+        "address": 7360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_bKGD",
+        "ordinal": 145,
+        "address": 26512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_cHRM",
+        "ordinal": 146,
+        "address": 23168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_gAMA",
+        "ordinal": 147,
+        "address": 22368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_hIST",
+        "ordinal": 148,
+        "address": 27008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_iCCP",
+        "ordinal": 149,
+        "address": 24608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_oFFs",
+        "ordinal": 150,
+        "address": 27648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_pCAL",
+        "ordinal": 151,
+        "address": 27872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_pHYs",
+        "ordinal": 152,
+        "address": 27392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_sBIT",
+        "ordinal": 153,
+        "address": 22784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_sCAL",
+        "ordinal": 154,
+        "address": 28672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_sPLT",
+        "ordinal": 155,
+        "address": 25248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_sRGB",
+        "ordinal": 156,
+        "address": 24064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_tEXt",
+        "ordinal": 157,
+        "address": 29440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_tIME",
+        "ordinal": 158,
+        "address": 29184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_tRNS",
+        "ordinal": 159,
+        "address": 25936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_unknown",
+        "ordinal": 160,
+        "address": 30368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_handle_zTXt",
+        "ordinal": 161,
+        "address": 29856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_iCCP",
+        "ordinal": 162,
+        "address": 143420,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_iTXt",
+        "ordinal": 163,
+        "address": 143415,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_info_destroy",
+        "ordinal": 164,
+        "address": 6656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_info_init",
+        "ordinal": 165,
+        "address": 5120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_info_init_3",
+        "ordinal": 166,
+        "address": 5040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_init_io",
+        "ordinal": 167,
+        "address": 6928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_init_read_transformations",
+        "ordinal": 168,
+        "address": 74256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_libpng_ver",
+        "ordinal": 169,
+        "address": 147632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_malloc",
+        "ordinal": 170,
+        "address": 96576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_malloc_default",
+        "ordinal": 171,
+        "address": 96528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_malloc_warn",
+        "ordinal": 172,
+        "address": 96800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_memcpy_check",
+        "ordinal": 173,
+        "address": 96864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_memset_check",
+        "ordinal": 174,
+        "address": 96896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_mmx_support",
+        "ordinal": 175,
+        "address": 7552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_oFFs",
+        "ordinal": 176,
+        "address": 143410,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_pCAL",
+        "ordinal": 177,
+        "address": 143405,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_pHYs",
+        "ordinal": 178,
+        "address": 143395,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_pass_dsp_mask",
+        "ordinal": 179,
+        "address": 147456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_pass_inc",
+        "ordinal": 180,
+        "address": 147568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_pass_mask",
+        "ordinal": 181,
+        "address": 147484,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_pass_start",
+        "ordinal": 182,
+        "address": 147596,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_pass_yinc",
+        "ordinal": 183,
+        "address": 147512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_pass_ystart",
+        "ordinal": 184,
+        "address": 147540,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_permit_empty_plte",
+        "ordinal": 185,
+        "address": 14400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_permit_mng_features",
+        "ordinal": 186,
+        "address": 14448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_process_IDAT_data",
+        "ordinal": 187,
+        "address": 101280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_process_data",
+        "ordinal": 188,
+        "address": 106416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_process_some_data",
+        "ordinal": 189,
+        "address": 106304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_progressive_combine_row",
+        "ordinal": 190,
+        "address": 106528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_crc_finish",
+        "ordinal": 191,
+        "address": 99216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_crc_skip",
+        "ordinal": 192,
+        "address": 98192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_fill_buffer",
+        "ordinal": 193,
+        "address": 98224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_handle_tEXt",
+        "ordinal": 194,
+        "address": 98752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_handle_unknown",
+        "ordinal": 195,
+        "address": 103504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_handle_zTXt",
+        "ordinal": 196,
+        "address": 98640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_have_end",
+        "ordinal": 197,
+        "address": 98128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_have_info",
+        "ordinal": 198,
+        "address": 98160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_have_row",
+        "ordinal": 199,
+        "address": 99488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_process_row",
+        "ordinal": 200,
+        "address": 99952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_read_IDAT",
+        "ordinal": 201,
+        "address": 101568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_read_chunk",
+        "ordinal": 202,
+        "address": 103984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_read_sig",
+        "ordinal": 203,
+        "address": 98416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_read_tEXt",
+        "ordinal": 204,
+        "address": 102176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_read_zTXt",
+        "ordinal": 205,
+        "address": 102528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_restore_buffer",
+        "ordinal": 206,
+        "address": 98080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_push_save_buffer",
+        "ordinal": 207,
+        "address": 98864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_chunk_header",
+        "ordinal": 208,
+        "address": 19584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_data",
+        "ordinal": 209,
+        "address": 60464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_destroy",
+        "ordinal": 210,
+        "address": 58416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_end",
+        "ordinal": 211,
+        "address": 57136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_filter_row",
+        "ordinal": 212,
+        "address": 33184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_finish_row",
+        "ordinal": 213,
+        "address": 33648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_image",
+        "ordinal": 214,
+        "address": 56992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_info",
+        "ordinal": 215,
+        "address": 53664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_init",
+        "ordinal": 216,
+        "address": 53616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_init_2",
+        "ordinal": 217,
+        "address": 53280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_init_3",
+        "ordinal": 218,
+        "address": 52832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_png",
+        "ordinal": 219,
+        "address": 59712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_push_finish_row",
+        "ordinal": 220,
+        "address": 99552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_row",
+        "ordinal": 221,
+        "address": 55504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_rows",
+        "ordinal": 222,
+        "address": 56768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_start_row",
+        "ordinal": 223,
+        "address": 34528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_transform_info",
+        "ordinal": 224,
+        "address": 78016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_read_update_info",
+        "ordinal": 225,
+        "address": 55360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_reset_crc",
+        "ordinal": 226,
+        "address": 4896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_reset_zstream",
+        "ordinal": 227,
+        "address": 7504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_sBIT",
+        "ordinal": 228,
+        "address": 143390,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_sCAL",
+        "ordinal": 229,
+        "address": 143400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_sPLT",
+        "ordinal": 230,
+        "address": 143385,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_sRGB",
+        "ordinal": 231,
+        "address": 143380,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_save_int_32",
+        "ordinal": 232,
+        "address": 37248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_save_uint_16",
+        "ordinal": 233,
+        "address": 37296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_save_uint_32",
+        "ordinal": 234,
+        "address": 37200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_IHDR",
+        "ordinal": 235,
+        "address": 9408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_PLTE",
+        "ordinal": 236,
+        "address": 10992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_add_alpha",
+        "ordinal": 237,
+        "address": 35936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_asm_flags",
+        "ordinal": 238,
+        "address": 15104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_bKGD",
+        "ordinal": 239,
+        "address": 8128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_background",
+        "ordinal": 240,
+        "address": 68864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_bgr",
+        "ordinal": 241,
+        "address": 35616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_cHRM",
+        "ordinal": 242,
+        "address": 8192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_cHRM_fixed",
+        "ordinal": 243,
+        "address": 8528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_compression_buffer_size",
+        "ordinal": 244,
+        "address": 14960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_compression_level",
+        "ordinal": 245,
+        "address": 67856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_compression_mem_level",
+        "ordinal": 246,
+        "address": 67888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_compression_method",
+        "ordinal": 247,
+        "address": 68064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_compression_strategy",
+        "ordinal": 248,
+        "address": 67920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_compression_window_bits",
+        "ordinal": 249,
+        "address": 67952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_crc_action",
+        "ordinal": 250,
+        "address": 68624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_dither",
+        "ordinal": 251,
+        "address": 69088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_error_fn",
+        "ordinal": 252,
+        "address": 97984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_expand",
+        "ordinal": 253,
+        "address": 71648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_expand_gray_1_2_4_to_8",
+        "ordinal": 254,
+        "address": 71712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_filler",
+        "ordinal": 255,
+        "address": 35824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_filter",
+        "ordinal": 256,
+        "address": 67280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_filter_heuristics",
+        "ordinal": 257,
+        "address": 63392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_flush",
+        "ordinal": 258,
+        "address": 66368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_gAMA",
+        "ordinal": 259,
+        "address": 8832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_gAMA_fixed",
+        "ordinal": 260,
+        "address": 9040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_gamma",
+        "ordinal": 261,
+        "address": 71536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_gray_1_2_4_to_8",
+        "ordinal": 262,
+        "address": 71744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_gray_to_rgb",
+        "ordinal": 263,
+        "address": 71808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_hIST",
+        "ordinal": 264,
+        "address": 9184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_iCCP",
+        "ordinal": 265,
+        "address": 11808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_interlace_handling",
+        "ordinal": 266,
+        "address": 35776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_invalid",
+        "ordinal": 267,
+        "address": 15056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_invert_alpha",
+        "ordinal": 268,
+        "address": 36032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_invert_mono",
+        "ordinal": 269,
+        "address": 36064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_keep_unknown_chunks",
+        "ordinal": 270,
+        "address": 14480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_mem_fn",
+        "ordinal": 271,
+        "address": 96928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_mmx_thresholds",
+        "ordinal": 272,
+        "address": 15136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_oFFs",
+        "ordinal": 273,
+        "address": 10288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_pCAL",
+        "ordinal": 274,
+        "address": 10352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_pHYs",
+        "ordinal": 275,
+        "address": 10928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_packing",
+        "ordinal": 276,
+        "address": 35664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_packswap",
+        "ordinal": 277,
+        "address": 35696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_palette_to_rgb",
+        "ordinal": 278,
+        "address": 71680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_progressive_read_fn",
+        "ordinal": 279,
+        "address": 106576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_read_fn",
+        "ordinal": 280,
+        "address": 60608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_read_status_fn",
+        "ordinal": 281,
+        "address": 59680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_read_user_chunk_fn",
+        "ordinal": 282,
+        "address": 14800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_read_user_transform_fn",
+        "ordinal": 283,
+        "address": 72272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_rgb_to_gray",
+        "ordinal": 284,
+        "address": 72144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_rgb_to_gray_fixed",
+        "ordinal": 285,
+        "address": 71840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_rows",
+        "ordinal": 286,
+        "address": 14832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_sBIT",
+        "ordinal": 287,
+        "address": 11264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_sCAL",
+        "ordinal": 288,
+        "address": 10864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_sPLT",
+        "ordinal": 289,
+        "address": 13264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_sRGB",
+        "ordinal": 290,
+        "address": 11312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_sRGB_gAMA_and_cHRM",
+        "ordinal": 291,
+        "address": 11360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_shift",
+        "ordinal": 292,
+        "address": 35728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_sig_bytes",
+        "ordinal": 293,
+        "address": 4496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_strip_16",
+        "ordinal": 294,
+        "address": 69024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_strip_alpha",
+        "ordinal": 295,
+        "address": 69056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_strip_error_numbers",
+        "ordinal": 296,
+        "address": 98048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_swap",
+        "ordinal": 297,
+        "address": 35632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_swap_alpha",
+        "ordinal": 298,
+        "address": 36000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_tIME",
+        "ordinal": 299,
+        "address": 12832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_tRNS",
+        "ordinal": 300,
+        "address": 12912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_tRNS_to_alpha",
+        "ordinal": 301,
+        "address": 71776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_text",
+        "ordinal": 302,
+        "address": 12752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_text_2",
+        "ordinal": 303,
+        "address": 12144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_unknown_chunk_location",
+        "ordinal": 304,
+        "address": 14320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_unknown_chunks",
+        "ordinal": 305,
+        "address": 13840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_user_limits",
+        "ordinal": 306,
+        "address": 15152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_user_transform_info",
+        "ordinal": 307,
+        "address": 37136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_write_fn",
+        "ordinal": 308,
+        "address": 60944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_write_status_fn",
+        "ordinal": 309,
+        "address": 68128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_set_write_user_transform_fn",
+        "ordinal": 310,
+        "address": 68160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_sig",
+        "ordinal": 311,
+        "address": 147624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_sig_cmp",
+        "ordinal": 312,
+        "address": 4576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_start_read_image",
+        "ordinal": 313,
+        "address": 55472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_tEXt",
+        "ordinal": 314,
+        "address": 143375,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_tIME",
+        "ordinal": 315,
+        "address": 143370,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_tRNS",
+        "ordinal": 316,
+        "address": 143365,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_warning",
+        "ordinal": 317,
+        "address": 97200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_IDAT",
+        "ordinal": 318,
+        "address": 40576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_IEND",
+        "ordinal": 319,
+        "address": 40976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_IHDR",
+        "ordinal": 320,
+        "address": 39152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_PLTE",
+        "ordinal": 321,
+        "address": 40304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_bKGD",
+        "ordinal": 322,
+        "address": 42640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_cHRM",
+        "ordinal": 323,
+        "address": 41568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_cHRM_fixed",
+        "ordinal": 324,
+        "address": 42016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_chunk",
+        "ordinal": 325,
+        "address": 37760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_chunk_data",
+        "ordinal": 326,
+        "address": 37520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_chunk_end",
+        "ordinal": 327,
+        "address": 37440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_chunk_start",
+        "ordinal": 328,
+        "address": 37632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_data",
+        "ordinal": 329,
+        "address": 60720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_destroy",
+        "ordinal": 330,
+        "address": 66656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_end",
+        "ordinal": 331,
+        "address": 62816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_filtered_row",
+        "ordinal": 332,
+        "address": 48256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_find_filter",
+        "ordinal": 333,
+        "address": 48512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_finish_row",
+        "ordinal": 334,
+        "address": 46832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_flush",
+        "ordinal": 335,
+        "address": 66400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_gAMA",
+        "ordinal": 336,
+        "address": 41040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_gAMA_fixed",
+        "ordinal": 337,
+        "address": 41152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_hIST",
+        "ordinal": 338,
+        "address": 42992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_iCCP",
+        "ordinal": 339,
+        "address": 44208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_image",
+        "ordinal": 340,
+        "address": 66160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_info",
+        "ordinal": 341,
+        "address": 61744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_info_before_PLTE",
+        "ordinal": 342,
+        "address": 61072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_init",
+        "ordinal": 343,
+        "address": 65472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_init_2",
+        "ordinal": 344,
+        "address": 65136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_init_3",
+        "ordinal": 345,
+        "address": 64800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_oFFs",
+        "ordinal": 346,
+        "address": 45168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_pCAL",
+        "ordinal": 347,
+        "address": 45312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_pHYs",
+        "ordinal": 348,
+        "address": 45936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_png",
+        "ordinal": 349,
+        "address": 68192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_row",
+        "ordinal": 350,
+        "address": 65520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_rows",
+        "ordinal": 351,
+        "address": 66272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_sBIT",
+        "ordinal": 352,
+        "address": 41312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_sCAL",
+        "ordinal": 353,
+        "address": 45776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_sPLT",
+        "ordinal": 354,
+        "address": 43792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_sRGB",
+        "ordinal": 355,
+        "address": 41216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_sig",
+        "ordinal": 356,
+        "address": 37328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_start_row",
+        "ordinal": 357,
+        "address": 46256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_tEXt",
+        "ordinal": 358,
+        "address": 44656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_tIME",
+        "ordinal": 359,
+        "address": 46080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_tRNS",
+        "ordinal": 360,
+        "address": 42304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_write_zTXt",
+        "ordinal": 361,
+        "address": 44848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_zTXt",
+        "ordinal": 362,
+        "address": 143360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_zalloc",
+        "ordinal": 363,
+        "address": 4768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "png_zfree",
+        "ordinal": 364,
+        "address": 4880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 0,
+    "node_count": 0,
+    "nodes": null,
+    "total_size": 0,
+    "max_entropy": null
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 0,
+    "key": null,
+    "entries": null,
+    "raw_hex": null,
+    "raw_offset": null,
+    "raw_size": null,
+    "entry_count": null
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 167936,
+      "size": 10210,
+      "section": ".edata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 180224,
+      "size": 1316,
+      "section": ".idata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 184320,
+      "size": 2516,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 0,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": null
+  },
+  "entrypoint_bytes": {
+    "offset": 1216,
+    "hex": "5589e5565383ec108b5d0c83fb0174388b4510895c2404894424088b4508890424e80a91010083ec0c85db89c6750ea10080ca6985c0745fe863ffffff8d65f8",
+    "entropy": 5.177669
+  },
+  "load_config": {
+    "present": 0,
+    "security_cookie": null,
+    "se_handler_count": null,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 6,
+    "overlaps": 0,
+    "zero_raw_size": 1,
+    "raw_exceeds_virtual": 6,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 974
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 2,
+    "minor_linker_version": 56,
+    "sizeof_code": 136192,
+    "sizeof_initialized_data": 164864,
+    "sizeof_uninitialized_data": 3072,
+    "addressof_entrypoint": 4288,
+    "baseof_code": 4096,
+    "baseof_data": 143360,
+    "imagebase": 1774714880,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 4,
+    "minor_operating_system_version": 0,
+    "major_image_version": 1,
+    "minor_image_version": 0,
+    "major_subsystem_version": 4,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 188416,
+    "sizeof_headers": 1024,
+    "checksum": 264705,
+    "subsystem": "WINDOWS_CUI",
+    "dll_characteristics_raw": 0,
+    "dll_characteristics": [],
+    "sizeof_stack_reserve": 2097152,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 64,
+    "entropy": 4.794355,
+    "is_standard_ms": 1,
+    "sha256": "7764e7022dcac1b5779d1f96fc05af5c1fee394aaff8a3a7e9a881e1a1b163a3",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a2400000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 264705,
+    "checksum_computed": 264705,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 4288,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.400248
+  },
+  "overlay": {
+    "size": 37035,
+    "offset": 165888,
+    "entropy": 4.192874,
+    "magic_head": "2e66696c650000000f000000feff0000",
+    "sha256": "29ebf2f98dd962cae428c4a8116695230c05e09e11350164162d18acc8ce6722"
+  },
+  "debug": {
+    "has_debug": 0,
+    "count": 0,
+    "types": [],
+    "pdb_path": null
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 38,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 0
+  },
+  "version_info": {
+    "present": null,
+    "company_name": null,
+    "file_description": null,
+    "original_filename": null,
+    "product_name": null,
+    "file_version": null,
+    "legal_copyright": null,
+    "internal_name": null
+  },
+  "strings": {
+    "count_ascii": 2477,
+    "count_utf16": 2,
+    "count_total": 2479,
+    "chars_total": 33683,
+    "printable_ratio": 0.165989,
+    "len_mean": 13.59,
+    "len_max": 95,
+    "urls": [],
+    "n_urls": 0,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "kernel32.dll",
+      "libpng12-0.dll",
+      "msvcrt.dll",
+      "zlib1.dll"
+    ],
+    "n_dll_names": 4,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [],
+    "n_file_paths": 0
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "libpng12-0.dll"
+    ],
+    "n_orphans": 1,
+    "n_imported": 3
+  }
+}

@@ -1,0 +1,6763 @@
+{
+  "sha256": "06102c3803e1095cd6ec7db485e9da6d744c08a68e8c6b2500265b652b6d0e1e",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 159232,
+    "md5": "0847d6b0251c7dea5fe1f22656fa07ae",
+    "sha1": "5decbd3deebd1e17676242b8bffe8337cf4c1424",
+    "imphash": "8ad2bdad64cb75a67a55d0e67ea0109b",
+    "tlsh": "T1ECF30BF3B5A6D1B3E106A2354E1E791EDD7BB52D032503D3E24E6C2308686D21A7A773",
+    "ssdeep": "3072:P1lOaA/JWkwpfWdLYtv2pk2QvgXxAtcBsHGAZAlH2iOBmva4mCf2eHm:TcFpk2QzxUH2iOBmva4mw2",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.606658,
+    "byte_histogram_256": [
+      0.10216539,
+      0.03489248,
+      0.00766178,
+      0.00226713,
+      0.01302502,
+      0.00169564,
+      0.00320287,
+      0.00193428,
+      0.00997287,
+      0.00172076,
+      0.00131255,
+      0.00086038,
+      0.00673232,
+      0.00148211,
+      0.00326568,
+      0.00794438,
+      0.00789414,
+      0.00168308,
+      0.0007913,
+      0.00109903,
+      0.00595986,
+      0.01435013,
+      0.0009797,
+      0.00081014,
+      0.00345408,
+      0.00040821,
+      0.00084782,
+      0.00070966,
+      0.00368644,
+      0.00056521,
+      0.00067198,
+      0.00050869,
+      0.00509948,
+      0.00042077,
+      0.00065942,
+      0.00053381,
+      0.02497614,
+      0.00075362,
+      0.00060289,
+      0.00053381,
+      0.00258742,
+      0.00044589,
+      0.00039565,
+      0.00041449,
+      0.00203477,
+      0.00078502,
+      0.0009797,
+      0.0006971,
+      0.00558305,
+      0.00301447,
+      0.00368016,
+      0.00458451,
+      0.00327196,
+      0.00251206,
+      0.00231109,
+      0.00221061,
+      0.00409465,
+      0.00239902,
+      0.0018024,
+      0.00467871,
+      0.00335988,
+      0.00210385,
+      0.0024053,
+      0.0080009,
+      0.02199935,
+      0.00852844,
+      0.00417002,
+      0.00153864,
+      0.01286802,
+      0.00568353,
+      0.00289515,
+      0.0016768,
+      0.00364876,
+      0.00173332,
+      0.00039565,
+      0.00053381,
+      0.01160571,
+      0.00119951,
+      0.00680768,
+      0.00172704,
+      0.01025548,
+      0.01433129,
+      0.00427678,
+      0.00456567,
+      0.00428934,
+      0.00290143,
+      0.00818303,
+      0.00385601,
+      0.00460963,
+      0.00116183,
+      0.00388113,
+      0.00303331,
+      0.00140675,
+      0.00293283,
+      0.00571493,
+      0.00506808,
+      0.00130627,
+      0.03239299,
+      0.00102994,
+      0.003542,
+      0.00476035,
+      0.01308782,
+      0.00467871,
+      0.0026251,
+      0.00327196,
+      0.00581541,
+      0.00359852,
+      0.00029517,
+      0.00593474,
+      0.0069584,
+      0.00761782,
+      0.00798834,
+      0.00354828,
+      0.00039565,
+      0.0077183,
+      0.00370529,
+      0.02145925,
+      0.00758641,
+      0.00133767,
+      0.00069082,
+      0.00275698,
+      0.00178356,
+      0.00033913,
+      0.00028261,
+      0.00200337,
+      0.00047101,
+      0.00146327,
+      0.00086666,
+      0.00204105,
+      0.00081014,
+      0.00023865,
+      0.01203904,
+      0.00532556,
+      0.00668207,
+      0.0008541,
+      0.00064685,
+      0.00099854,
+      0.00651251,
+      0.00091062,
+      0.04311947,
+      0.00097342,
+      0.01734576,
+      0.00131883,
+      0.00054009,
+      0.00136279,
+      0.00026377,
+      0.00024493,
+      0.00020096,
+      0.0010739,
+      0.00080386,
+      0.00037681,
+      0.00070338,
+      0.00166424,
+      0.00021981,
+      0.00032029,
+      0.00033285,
+      0.00078502,
+      0.00018212,
+      0.00030773,
+      0.00027633,
+      0.00093574,
+      0.00039565,
+      0.00026377,
+      0.00024493,
+      0.00089178,
+      0.00033913,
+      0.00021352,
+      0.00017584,
+      0.00055265,
+      0.00021981,
+      0.00027633,
+      0.00021981,
+      0.00073478,
+      0.00027633,
+      0.00030145,
+      0.00025749,
+      0.00339128,
+      0.00276954,
+      0.01090233,
+      0.00080386,
+      0.00214153,
+      0.00046473,
+      0.00045845,
+      0.00077874,
+      0.00184636,
+      0.00151351,
+      0.0008227,
+      0.00057149,
+      0.00086666,
+      0.00035797,
+      0.00131255,
+      0.00035169,
+      0.01127286,
+      0.00337244,
+      0.00454682,
+      0.00369273,
+      0.00494247,
+      0.00055265,
+      0.00362364,
+      0.00300191,
+      0.00253718,
+      0.00287003,
+      0.00080386,
+      0.0008855,
+      0.02921523,
+      0.00109903,
+      0.00497387,
+      0.00252462,
+      0.00194056,
+      0.00048985,
+      0.00165168,
+      0.00099226,
+      0.00065314,
+      0.00081014,
+      0.00062173,
+      0.00089806,
+      0.00120579,
+      0.00033285,
+      0.00022609,
+      0.00081642,
+      0.00055893,
+      0.00037053,
+      0.00041449,
+      0.00033285,
+      0.00102994,
+      0.00045217,
+      0.00040193,
+      0.00035169,
+      0.0006657,
+      0.00057777,
+      0.00036425,
+      0.00033285,
+      0.00959606,
+      0.00202849,
+      0.00037681,
+      0.00258114,
+      0.00207245,
+      0.00054009,
+      0.00033913,
+      0.00043961,
+      0.00455939,
+      0.00189032,
+      0.00039565,
+      0.00065314,
+      0.0007599,
+      0.00052753,
+      0.00212269,
+      0.0006971,
+      0.00600382,
+      0.00108018,
+      0.00039565,
+      0.00072222,
+      0.00102994,
+      0.00065314,
+      0.00133139,
+      0.04639143
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.00460379,
+      6.024e-05,
+      6.024e-05,
+      0.00102095,
+      6.658e-05,
+      5.39e-05,
+      6.658e-05,
+      6.975e-05,
+      6.024e-05,
+      6.341e-05,
+      6.975e-05,
+      6.975e-05,
+      6.341e-05,
+      6.341e-05,
+      5.39e-05,
+      4.756e-05,
+      0.00838956,
+      8.878e-05,
+      0.00011731,
+      7.61e-05,
+      0.00024097,
+      0.00011731,
+      0.00164557,
+      9.512e-05,
+      9.512e-05,
+      0.00012683,
+      3.805e-05,
+      8.878e-05,
+      0.00013951,
+      0.00076096,
+      4.122e-05,
+      0.00092583,
+      0.00917905,
+      1.268e-05,
+      0.0002917,
+      0.00369699,
+      0.02340579,
+      0.01394772,
+      0.03232802,
+      0.01428064,
+      1.902e-05,
+      6.34e-06,
+      3.17e-06,
+      2.537e-05,
+      0.00013634,
+      0.0,
+      1.585e-05,
+      5.39e-05,
+      0.00950246,
+      0.00070706,
+      0.0007134,
+      0.00325944,
+      0.00954051,
+      0.00525378,
+      0.01219435,
+      0.00481306,
+      2.219e-05,
+      4.122e-05,
+      1.585e-05,
+      5.39e-05,
+      0.00015536,
+      0.00021243,
+      2.219e-05,
+      0.00544085,
+      0.02104999,
+      0.00200703,
+      0.00202288,
+      0.00330065,
+      0.01040293,
+      0.0068074,
+      0.01150949,
+      0.00644912,
+      0.00094486,
+      0.00073559,
+      0.00064364,
+      0.00106534,
+      0.00168996,
+      0.00078632,
+      0.00090047,
+      0.0011129,
+      0.01304408,
+      0.00219409,
+      0.00329114,
+      0.02487064,
+      0.00431844,
+      0.00300261,
+      0.00805981,
+      0.00438185,
+      0.00180093,
+      0.00181679,
+      0.0015346,
+      0.0017724,
+      0.00155679,
+      0.00162972,
+      0.00190239,
+      0.00274579,
+      0.01626864,
+      0.00201971,
+      0.00242872,
+      0.00476867,
+      0.00514915,
+      0.00419161,
+      0.0064618,
+      0.00381113,
+      0.00468306,
+      0.00080218,
+      0.00061194,
+      0.00149338,
+      0.00678204,
+      0.00093851,
+      0.00167728,
+      0.00284725,
+      0.03430968,
+      0.00992733,
+      0.00729251,
+      0.00347504,
+      0.008342,
+      0.01325969,
+      0.00658546,
+      0.00628424,
+      0.02636085,
+      0.00088144,
+      0.00064681,
+      0.00601791,
+      0.02623085,
+      0.00196898,
+      0.00370333,
+      0.01354505,
+      0.07682186,
+      0.02780032,
+      0.02598671,
+      0.01208338,
+      0.02631012,
+      0.03458553,
+      0.02689669,
+      0.01668717,
+      0.06732891,
+      0.00470843,
+      0.00271091,
+      0.01900175,
+      0.04392629,
+      0.00601791,
+      0.0140365,
+      0.04314948,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 102634,
+      "raw_size": 102912,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.368085,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 41604,
+      "raw_size": 41984,
+      "virtual_address": 110592,
+      "pointerto_raw_data": 103936,
+      "entropy": 5.784479,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 1888,
+      "raw_size": 1536,
+      "virtual_address": 155648,
+      "pointerto_raw_data": 145920,
+      "entropy": 3.621252,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 1312,
+      "raw_size": 1536,
+      "virtual_address": 159744,
+      "pointerto_raw_data": 147456,
+      "entropy": 4.183242,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 9758,
+      "raw_size": 10240,
+      "virtual_address": 163840,
+      "pointerto_raw_data": 148992,
+      "entropy": 6.274435,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 248,
+    "e_lfanew_raw": 248,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b800000000000000400000000000000000000000000000000000000000000000000000000000000000000000f8000000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 5,
+    "time_date_stamp": 1391295131,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8450,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "Qt5Core.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 110748,
+      "import_lookup_table_rva": 121432,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?previousNode@QHashData@@SAPAUNode@1@PAU21@@Z",
+          "hint": 4233,
+          "iat_address": 110748,
+          "iat_value": 123380,
+          "data": 123380
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?left@QString@@QBE?AV1@H@Z",
+          "hint": 3693,
+          "iat_address": 110752,
+          "iat_value": 123428,
+          "data": 123428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QString@@QAEAAV0@VQLatin1String@@@Z",
+          "hint": 897,
+          "iat_address": 110756,
+          "iat_value": 123458,
+          "data": 123458
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexOf@QString@@QBEHVQLatin1String@@HW4CaseSensitivity@Qt@@@Z",
+          "hint": 3168,
+          "iat_address": 110760,
+          "iat_value": 123500,
+          "data": 123500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isEmpty@QString@@QBE_NXZ",
+          "hint": 3379,
+          "iat_address": 110764,
+          "iat_value": 123566,
+          "data": 123566
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??8QString@@QBE_NVQLatin1String@@@Z",
+          "hint": 1145,
+          "iat_address": 110768,
+          "iat_value": 123594,
+          "data": 123594
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isNull@QString@@QBE_NXZ",
+          "hint": 3464,
+          "iat_address": 110772,
+          "iat_value": 123632,
+          "data": 123632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?warning@QMessageLogger@@QBAXPBDZZ",
+          "hint": 6433,
+          "iat_address": 110776,
+          "iat_value": 123660,
+          "data": 123660
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QMessageLogger@@QAE@PBDH0@Z",
+          "hint": 264,
+          "iat_address": 110780,
+          "iat_value": 123698,
+          "data": 123698
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?truncate@QString@@QAEXH@Z",
+          "hint": 6253,
+          "iat_address": 110784,
+          "iat_value": 123732,
+          "data": 123732
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QTextStream@@QAEAAV0@ABVQByteArray@@@Z",
+          "hint": 1090,
+          "iat_address": 110788,
+          "iat_value": 123762,
+          "data": 123762
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?codec@QTextStream@@QBEPAVQTextCodec@@XZ",
+          "hint": 2036,
+          "iat_address": 110792,
+          "iat_value": 123806,
+          "data": 123806
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setCodec@QTextStream@@QAEXPAVQTextCodec@@@Z",
+          "hint": 5113,
+          "iat_address": 110796,
+          "iat_value": 123850,
+          "data": 123850
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QRegExp@@QAE@XZ",
+          "hint": 687,
+          "iat_address": 110800,
+          "iat_value": 123898,
+          "data": 123898
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QByteArray@@QAE@XZ",
+          "hint": 604,
+          "iat_address": 110804,
+          "iat_value": 123920,
+          "data": 123920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?codecForName@QTextCodec@@SAPAV1@PBD@Z",
+          "hint": 2043,
+          "iat_address": 110808,
+          "iat_value": 123944,
+          "data": 123944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?data@QByteArray@@QAEPADXZ",
+          "hint": 2422,
+          "iat_address": 110812,
+          "iat_value": 123986,
+          "data": 123986
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLatin1@QString@@QBE?AVQByteArray@@XZ",
+          "hint": 5918,
+          "iat_address": 110816,
+          "iat_value": 124016,
+          "data": 124016
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?cap@QRegExp@@QAE?AVQString@@H@Z",
+          "hint": 1903,
+          "iat_address": 110820,
+          "iat_value": 124058,
+          "data": 124058
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexIn@QRegExp@@QBEHABVQString@@HW4CaretMode@1@@Z",
+          "hint": 3150,
+          "iat_address": 110824,
+          "iat_value": 124094,
+          "data": 124094
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QRegExp@@QAE@ABVQString@@W4CaseSensitivity@Qt@@W4PatternSyntax@0@@Z",
+          "hint": 340,
+          "iat_address": 110828,
+          "iat_value": 124148,
+          "data": 124148
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?fromLatin1@QString@@SA?AV1@PBDH@Z",
+          "hint": 2947,
+          "iat_address": 110832,
+          "iat_value": 124222,
+          "data": 124222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?firstNode@QHashData@@QAEPAUNode@1@XZ",
+          "hint": 2896,
+          "iat_address": 110836,
+          "iat_value": 124260,
+          "data": 124260
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?at@QListData@@QBEPAPAXH@Z",
+          "hint": 1758,
+          "iat_address": 110840,
+          "iat_value": 124300,
+          "data": 124300
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?data@QString@@QAEPAVQChar@@XZ",
+          "hint": 2432,
+          "iat_address": 110844,
+          "iat_value": 124330,
+          "data": 124330
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@HW4Initialization@Qt@@@Z",
+          "hint": 391,
+          "iat_address": 110848,
+          "iat_value": 124364,
+          "data": 124364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?dispose@QListData@@SAXPAUData@1@@Z",
+          "hint": 2576,
+          "iat_address": 110852,
+          "iat_value": 124408,
+          "data": 124408
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qHash@@YAIABVQString@@I@Z",
+          "hint": 4327,
+          "iat_address": 110856,
+          "iat_value": 124446,
+          "data": 124446
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QTextStream@@UAE@XZ",
+          "hint": 716,
+          "iat_address": 110860,
+          "iat_value": 124476,
+          "data": 124476
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QTextStream@@QAE@PAVQString@@V?$QFlags@W4OpenModeFlag@QIODevice@@@@@Z",
+          "hint": 433,
+          "iat_address": 110864,
+          "iat_value": 124502,
+          "data": 124502
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toUtf8@QString@@QBE?AVQByteArray@@XZ",
+          "hint": 6071,
+          "iat_address": 110868,
+          "iat_value": 124578,
+          "data": 124578
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resize@QString@@QAEXH@Z",
+          "hint": 4907,
+          "iat_address": 110872,
+          "iat_value": 124618,
+          "data": 124618
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?reserve@QString@@QAEXH@Z",
+          "hint": 4883,
+          "iat_address": 110876,
+          "iat_value": 124646,
+          "data": 124646
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?end@QListData@@QBEPAPAXXZ",
+          "hint": 2655,
+          "iat_address": 110880,
+          "iat_value": 124674,
+          "data": 124674
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?detach_grow@QListData@@QAEPAUData@1@PAHH@Z",
+          "hint": 2530,
+          "iat_address": 110884,
+          "iat_value": 124704,
+          "data": 124704
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?begin@QListData@@QBEPAPAXXZ",
+          "hint": 1820,
+          "iat_address": 110888,
+          "iat_value": 124750,
+          "data": 124750
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?allocateNode@QHashData@@QAEPAXH@Z",
+          "hint": 1678,
+          "iat_address": 110892,
+          "iat_value": 124782,
+          "data": 124782
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?detach@QListData@@QAEPAUData@1@H@Z",
+          "hint": 2522,
+          "iat_address": 110896,
+          "iat_value": 124820,
+          "data": 124820
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QListData@@QAEPAPAXXZ",
+          "hint": 1704,
+          "iat_address": 110900,
+          "iat_value": 124858,
+          "data": 124858
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?free_helper@QHashData@@QAEXP6AXPAUNode@1@@Z@Z",
+          "hint": 2931,
+          "iat_address": 110904,
+          "iat_value": 124890,
+          "data": 124890
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?detach_helper@QHashData@@QAEPAU1@P6AXPAUNode@1@PAX@ZP6AX0@ZHH@Z",
+          "hint": 2533,
+          "iat_address": 110908,
+          "iat_value": 124940,
+          "data": 124940
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?freeNode@QHashData@@QAEXPAX@Z",
+          "hint": 2928,
+          "iat_address": 110912,
+          "iat_value": 125008,
+          "data": 125008
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isNameChar@QXmlUtils@@SA_NVQChar@@@Z",
+          "hint": 3443,
+          "iat_address": 110916,
+          "iat_value": 125042,
+          "data": 125042
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isLetter@QXmlUtils@@SA_NVQChar@@@Z",
+          "hint": 3419,
+          "iat_address": 110920,
+          "iat_value": 125082,
+          "data": 125082
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?canEncode@QTextCodec@@QBE_NVQChar@@@Z",
+          "hint": 1882,
+          "iat_address": 110924,
+          "iat_value": 125120,
+          "data": 125120
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?number@QString@@SA?AV1@HH@Z",
+          "hint": 4061,
+          "iat_address": 110928,
+          "iat_value": 125162,
+          "data": 125162
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?unicode@QChar@@QBEGXZ",
+          "hint": 6286,
+          "iat_address": 110932,
+          "iat_value": 125194,
+          "data": 125194
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QChar@@QAE@H@Z",
+          "hint": 92,
+          "iat_address": 110936,
+          "iat_value": 125220,
+          "data": 125220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??BQCharRef@@QBE?AVQChar@@XZ",
+          "hint": 1241,
+          "iat_address": 110940,
+          "iat_value": 125240,
+          "data": 125240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??AQString@@QAE?AVQCharRef@@H@Z",
+          "hint": 1232,
+          "iat_address": 110944,
+          "iat_value": 125272,
+          "data": 125272
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?startsWith@QString@@QBE_NVQChar@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 5626,
+          "iat_address": 110948,
+          "iat_value": 125306,
+          "data": 125306
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?hasShrunk@QHashData@@QAEXXZ",
+          "hint": 3101,
+          "iat_address": 110952,
+          "iat_value": 125368,
+          "data": 125368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?willGrow@QHashData@@QAE_NXZ",
+          "hint": 6443,
+          "iat_address": 110956,
+          "iat_value": 125400,
+          "data": 125400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setNum@QString@@QAEAAV1@_JH@Z",
+          "hint": 5299,
+          "iat_address": 110960,
+          "iat_value": 125432,
+          "data": 125432
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setNum@QString@@QAEAAV1@_KH@Z",
+          "hint": 5300,
+          "iat_address": 110964,
+          "iat_value": 125466,
+          "data": 125466
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setNum@QString@@QAEAAV1@MDH@Z",
+          "hint": 5297,
+          "iat_address": 110968,
+          "iat_value": 125500,
+          "data": 125500
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?nextNode@QHashData@@SAPAUNode@1@PAU21@@Z",
+          "hint": 4019,
+          "iat_address": 110972,
+          "iat_value": 123336,
+          "data": 123336
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?qsnprintf@@YAHPADIPBDZZ",
+          "hint": 4402,
+          "iat_address": 110976,
+          "iat_value": 125568,
+          "data": 125568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QBuffer@@UAE@XZ",
+          "hint": 603,
+          "iat_address": 110980,
+          "iat_value": 125596,
+          "data": 125596
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setData@QBuffer@@QAEXABVQByteArray@@@Z",
+          "hint": 5133,
+          "iat_address": 110984,
+          "iat_value": 125618,
+          "data": 125618
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QBuffer@@QAE@PAVQObject@@@Z",
+          "hint": 74,
+          "iat_address": 110988,
+          "iat_value": 125660,
+          "data": 125660
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@XZ",
+          "hint": 81,
+          "iat_address": 110992,
+          "iat_value": 125694,
+          "data": 125694
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QTextDecoder@@QAE@XZ",
+          "hint": 714,
+          "iat_address": 110996,
+          "iat_value": 125718,
+          "data": 125718
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QChar@@QAE@G@Z",
+          "hint": 91,
+          "iat_address": 111000,
+          "iat_value": 125744,
+          "data": 125744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?unicode@QString@@QBEPBVQChar@@XZ",
+          "hint": 6289,
+          "iat_address": 111004,
+          "iat_value": 125764,
+          "data": 125764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?category@QChar@@QBE?AW4Category@1@XZ",
+          "hint": 1931,
+          "iat_address": 111008,
+          "iat_value": 125800,
+          "data": 125800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shared_null@QMapDataBase@@2U1@B",
+          "hint": 5484,
+          "iat_address": 111012,
+          "iat_value": 125840,
+          "data": 125840
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?nextNode@QMapNodeBase@@QBEPBU1@XZ",
+          "hint": 4021,
+          "iat_address": 111016,
+          "iat_value": 125876,
+          "data": 125876
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?sharedNull@QArrayData@@SAPAU1@XZ",
+          "hint": 5478,
+          "iat_address": 111020,
+          "iat_value": 125914,
+          "data": 125914
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?QStringList_contains@QtPrivate@@YA_NPBVQStringList@@ABVQString@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 1538,
+          "iat_address": 111024,
+          "iat_value": 125950,
+          "data": 125950
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?data@QArrayData@@QAEPAXXZ",
+          "hint": 2419,
+          "iat_address": 111028,
+          "iat_value": 126042,
+          "data": 126042
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?deallocate@QArrayData@@SAXPAU1@II@Z",
+          "hint": 2463,
+          "iat_address": 111032,
+          "iat_value": 126072,
+          "data": 126072
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?createData@QMapDataBase@@SAPAU1@XZ",
+          "hint": 2241,
+          "iat_address": 111036,
+          "iat_value": 126112,
+          "data": 126112
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?allocate@QArrayData@@SAPAU1@IIIV?$QFlags@W4AllocationOption@QArrayData@@@@@Z",
+          "hint": 1676,
+          "iat_address": 111040,
+          "iat_value": 126150,
+          "data": 126150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??M@YA_NABVQString@@0@Z",
+          "hint": 1269,
+          "iat_address": 111044,
+          "iat_value": 126230,
+          "data": 126230
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?replace@QString@@QAEAAV1@ABVQRegExp@@ABV1@@Z",
+          "hint": 4859,
+          "iat_address": 111048,
+          "iat_value": 126256,
+          "data": 126256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?startsWith@QString@@QBE_NABV1@W4CaseSensitivity@Qt@@@Z",
+          "hint": 5624,
+          "iat_address": 111052,
+          "iat_value": 126304,
+          "data": 126304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?read@QIODevice@@QAE_JPAD_J@Z",
+          "hint": 4642,
+          "iat_address": 111056,
+          "iat_value": 126362,
+          "data": 126362
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?resize@QByteArray@@QAEXH@Z",
+          "hint": 4903,
+          "iat_address": 111060,
+          "iat_value": 126394,
+          "data": 126394
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isOpen@QIODevice@@QBE_NXZ",
+          "hint": 3476,
+          "iat_address": 111064,
+          "iat_value": 126424,
+          "data": 126424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QByteArray@@QAEAAV0@$$QAV0@@Z",
+          "hint": 782,
+          "iat_address": 111068,
+          "iat_value": 126454,
+          "data": 126454
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@PBDH@Z",
+          "hint": 79,
+          "iat_address": 111072,
+          "iat_value": 126490,
+          "data": 126490
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?string@QTextStream@@QBEPAVQString@@XZ",
+          "hint": 5727,
+          "iat_address": 111076,
+          "iat_value": 126518,
+          "data": 126518
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?device@QTextStream@@QBEPAVQIODevice@@XZ",
+          "hint": 2536,
+          "iat_address": 111080,
+          "iat_value": 126560,
+          "data": 126560
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??YQByteArray@@QAEAAV0@ABV0@@Z",
+          "hint": 1338,
+          "iat_address": 111084,
+          "iat_value": 126604,
+          "data": 126604
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?codecForName@QTextCodec@@SAPAV1@ABVQByteArray@@@Z",
+          "hint": 2042,
+          "iat_address": 111088,
+          "iat_value": 126638,
+          "data": 126638
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toUnicode@QTextDecoder@@QAE?AVQString@@PBDH@Z",
+          "hint": 6062,
+          "iat_address": 111092,
+          "iat_value": 126692,
+          "data": 126692
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?makeDecoder@QTextCodec@@QBEPAVQTextDecoder@@V?$QFlags@W4ConversionFlag@QTextCodec@@@@@Z",
+          "hint": 3768,
+          "iat_address": 111096,
+          "iat_value": 126742,
+          "data": 126742
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?codecForMib@QTextCodec@@SAPAV1@H@Z",
+          "hint": 2041,
+          "iat_address": 111100,
+          "iat_value": 126834,
+          "data": 126834
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?at@QByteArray@@QBEDH@Z",
+          "hint": 1756,
+          "iat_address": 111104,
+          "iat_value": 126872,
+          "data": 126872
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@QByteArray@@QAEXXZ",
+          "hint": 1991,
+          "iat_address": 111108,
+          "iat_value": 126898,
+          "data": 126898
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?createNode@QMapDataBase@@QAEPAUQMapNodeBase@@HHPAU2@_N@Z",
+          "hint": 2255,
+          "iat_address": 111112,
+          "iat_value": 126926,
+          "data": 126926
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setParent@QMapNodeBase@@QAEXPAU1@@Z",
+          "hint": 5317,
+          "iat_address": 111116,
+          "iat_value": 126986,
+          "data": 126986
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setColor@QMapNodeBase@@QAEXW4Color@1@@Z",
+          "hint": 5118,
+          "iat_address": 111120,
+          "iat_value": 127026,
+          "data": 127026
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?color@QMapNodeBase@@QBE?AW4Color@1@XZ",
+          "hint": 2047,
+          "iat_address": 111124,
+          "iat_value": 127070,
+          "data": 127070
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setTextModeEnabled@QIODevice@@QAEX_N@Z",
+          "hint": 5431,
+          "iat_address": 111128,
+          "iat_value": 127112,
+          "data": 127112
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?freeData@QMapDataBase@@SAXPAU1@@Z",
+          "hint": 2927,
+          "iat_address": 111132,
+          "iat_value": 127154,
+          "data": 127154
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?freeTree@QMapDataBase@@QAEXPAUQMapNodeBase@@H@Z",
+          "hint": 2930,
+          "iat_address": 111136,
+          "iat_value": 127192,
+          "data": 127192
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?recalcMostLeftNode@QMapDataBase@@QAEXXZ",
+          "hint": 4690,
+          "iat_address": 111140,
+          "iat_value": 127244,
+          "data": 127244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?replace@QString@@QAEAAV1@VQChar@@VQLatin1String@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 4867,
+          "iat_address": 111144,
+          "iat_value": 127288,
+          "data": 127288
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?simplified@QString@@QBE?AV1@XZ",
+          "hint": 5508,
+          "iat_address": 111148,
+          "iat_value": 127366,
+          "data": 127366
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QChar@@QAE@I@Z",
+          "hint": 93,
+          "iat_address": 111152,
+          "iat_value": 127400,
+          "data": 127400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toUInt@QString@@QBEIPA_NH@Z",
+          "hint": 6037,
+          "iat_address": 111156,
+          "iat_value": 127420,
+          "data": 127420
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?cell@QChar@@QBEEXZ",
+          "hint": 1943,
+          "iat_address": 111160,
+          "iat_value": 127452,
+          "data": 127452
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?row@QChar@@QBEEXZ",
+          "hint": 4963,
+          "iat_address": 111164,
+          "iat_value": 127474,
+          "data": 127474
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QChar@@QAE@XZ",
+          "hint": 96,
+          "iat_address": 111168,
+          "iat_value": 127496,
+          "data": 127496
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??9QString@@QBE_NVQLatin1String@@@Z",
+          "hint": 1194,
+          "iat_address": 111172,
+          "iat_value": 127516,
+          "data": 127516
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?toLower@QString@@QBE?AV1@XZ",
+          "hint": 5947,
+          "iat_address": 111176,
+          "iat_value": 127554,
+          "data": 127554
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?arg@QString@@QBE?AV1@ABV1@HVQChar@@@Z",
+          "hint": 1733,
+          "iat_address": 111180,
+          "iat_value": 127586,
+          "data": 127586
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexOf@QString@@QBEHABV1@HW4CaseSensitivity@Qt@@@Z",
+          "hint": 3163,
+          "iat_address": 111184,
+          "iat_value": 127628,
+          "data": 127628
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?arg@QString@@QBE?AV1@HHHVQChar@@@Z",
+          "hint": 1737,
+          "iat_address": 111188,
+          "iat_value": 127684,
+          "data": 127684
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??YQString@@QAEAAV0@VQLatin1String@@@Z",
+          "hint": 1353,
+          "iat_address": 111192,
+          "iat_value": 127722,
+          "data": 127722
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??YQString@@QAEAAV0@VQChar@@@Z",
+          "hint": 1352,
+          "iat_address": 111196,
+          "iat_value": 127764,
+          "data": 127764
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shared_null@QHashData@@2U1@B",
+          "hint": 5481,
+          "iat_address": 111200,
+          "iat_value": 123304,
+          "data": 123304
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?size@QListData@@QBEHXZ",
+          "hint": 5526,
+          "iat_address": 111204,
+          "iat_value": 123278,
+          "data": 123278
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?shared_null@QListData@@2UData@1@B",
+          "hint": 5483,
+          "iat_address": 111208,
+          "iat_value": 123240,
+          "data": 123240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?clear@QString@@QAEXXZ",
+          "hint": 1999,
+          "iat_address": 111212,
+          "iat_value": 123214,
+          "data": 123214
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QString@@QAEAAV0@$$QAV0@@Z",
+          "hint": 890,
+          "iat_address": 111216,
+          "iat_value": 123182,
+          "data": 123182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?constData@QString@@QBEPBVQChar@@XZ",
+          "hint": 2132,
+          "iat_address": 111220,
+          "iat_value": 123144,
+          "data": 123144
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@VQLatin1String@@@Z",
+          "hint": 396,
+          "iat_address": 111224,
+          "iat_value": 123106,
+          "data": 123106
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QByteArray@@QAE@ABV0@@Z",
+          "hint": 76,
+          "iat_address": 111228,
+          "iat_value": 123076,
+          "data": 123076
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?size@QByteArray@@QBEHXZ",
+          "hint": 5519,
+          "iat_address": 111232,
+          "iat_value": 123048,
+          "data": 123048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?constData@QByteArray@@QBEPBDXZ",
+          "hint": 2130,
+          "iat_address": 111236,
+          "iat_value": 123014,
+          "data": 123014
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?replace@QByteArray@@QAEAAV1@HHPBD@Z",
+          "hint": 4851,
+          "iat_address": 111240,
+          "iat_value": 122974,
+          "data": 122974
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@HVQChar@@@Z",
+          "hint": 390,
+          "iat_address": 111244,
+          "iat_value": 122944,
+          "data": 122944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QTextStream@@QAEAAV0@ABVQString@@@Z",
+          "hint": 1091,
+          "iat_address": 111248,
+          "iat_value": 122902,
+          "data": 122902
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QTextStream@@QAEAAV0@PBD@Z",
+          "hint": 1101,
+          "iat_address": 111252,
+          "iat_value": 122870,
+          "data": 122870
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?endsWith@QString@@QBE_NVQChar@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 2686,
+          "iat_address": 111256,
+          "iat_value": 122810,
+          "data": 122810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??6QTextStream@@QAEAAV0@D@Z",
+          "hint": 1092,
+          "iat_address": 111260,
+          "iat_value": 122780,
+          "data": 122780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?endl@@YAAAVQTextStream@@AAV1@@Z",
+          "hint": 2676,
+          "iat_address": 111264,
+          "iat_value": 122744,
+          "data": 122744
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??YQString@@QAEAAV0@ABV0@@Z",
+          "hint": 1347,
+          "iat_address": 111268,
+          "iat_value": 122714,
+          "data": 122714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?replace@QString@@QAEAAV1@HHABV1@@Z",
+          "hint": 4861,
+          "iat_address": 111272,
+          "iat_value": 122676,
+          "data": 122676
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?remove@QString@@QAEAAV1@HH@Z",
+          "hint": 4767,
+          "iat_address": 111276,
+          "iat_value": 122644,
+          "data": 122644
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?mid@QString@@QBE?AV1@HH@Z",
+          "hint": 3908,
+          "iat_address": 111280,
+          "iat_value": 122578,
+          "data": 122578
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?insert@QString@@QAEAAV1@HABV1@@Z",
+          "hint": 3228,
+          "iat_address": 111284,
+          "iat_value": 122608,
+          "data": 122608
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?length@QString@@QBEHXZ",
+          "hint": 3705,
+          "iat_address": 111288,
+          "iat_value": 122552,
+          "data": 122552
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??8@YA_NABVQString@@0@Z",
+          "hint": 1113,
+          "iat_address": 111292,
+          "iat_value": 122526,
+          "data": 122526
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?unicode@QChar@@QAEAAGXZ",
+          "hint": 6285,
+          "iat_address": 111296,
+          "iat_value": 122498,
+          "data": 122498
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isPublicID@QXmlUtils@@SA_NABVQString@@@Z",
+          "hint": 3488,
+          "iat_address": 111300,
+          "iat_value": 122454,
+          "data": 122454
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??4QString@@QAEAAV0@ABV0@@Z",
+          "hint": 892,
+          "iat_address": 111304,
+          "iat_value": 122424,
+          "data": 122424
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QChar@@QAE@UQLatin1Char@@@Z",
+          "hint": 94,
+          "iat_address": 111308,
+          "iat_value": 122390,
+          "data": 122390
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?indexOf@QString@@QBEHVQChar@@HW4CaseSensitivity@Qt@@@Z",
+          "hint": 3167,
+          "iat_address": 111312,
+          "iat_value": 122332,
+          "data": 122332
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?remove@QString@@QAEAAV1@VQChar@@W4CaseSensitivity@Qt@@@Z",
+          "hint": 4768,
+          "iat_address": 111316,
+          "iat_value": 122272,
+          "data": 122272
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?size@QString@@QBEHXZ",
+          "hint": 5532,
+          "iat_address": 111320,
+          "iat_value": 122248,
+          "data": 122248
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?isChar@QXmlUtils@@SA_NVQChar@@@Z",
+          "hint": 3320,
+          "iat_address": 111324,
+          "iat_value": 122212,
+          "data": 122212
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?at@QString@@QBE?BVQChar@@H@Z",
+          "hint": 1760,
+          "iat_address": 111328,
+          "iat_value": 122180,
+          "data": 122180
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?append@QString@@QAEAAV1@VQChar@@@Z",
+          "hint": 1710,
+          "iat_address": 111332,
+          "iat_value": 122142,
+          "data": 122142
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@$$QAV0@@Z",
+          "hint": 386,
+          "iat_address": 111336,
+          "iat_value": 122114,
+          "data": 122114
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@ABV0@@Z",
+          "hint": 388,
+          "iat_address": 111340,
+          "iat_value": 122088,
+          "data": 122088
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??0QString@@QAE@XZ",
+          "hint": 397,
+          "iat_address": 111344,
+          "iat_value": 122066,
+          "data": 122066
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?setNum@QString@@QAEAAV1@NDH@Z",
+          "hint": 5298,
+          "iat_address": 111348,
+          "iat_value": 125534,
+          "data": 125534
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??1QString@@QAE@XZ",
+          "hint": 704,
+          "iat_address": 111352,
+          "iat_value": 122044,
+          "data": 122044
+        }
+      ],
+      "function_count": 152
+    },
+    {
+      "name": "MSVCR100.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 110660,
+      "import_lookup_table_rva": 121344,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_except_handler4_common",
+          "hint": 545,
+          "iat_address": 110660,
+          "iat_value": 128164,
+          "data": 128164
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_lock",
+          "hint": 803,
+          "iat_address": 110664,
+          "iat_value": 128146,
+          "data": 128146
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__dllonexit",
+          "hint": 347,
+          "iat_address": 110668,
+          "iat_value": 128132,
+          "data": 128132
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_unlock",
+          "hint": 1165,
+          "iat_address": 110672,
+          "iat_value": 128122,
+          "data": 128122
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__clean_type_info_names_internal",
+          "hint": 339,
+          "iat_address": 110676,
+          "iat_value": 128086,
+          "data": 128086
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_crt_debugger_hook",
+          "hint": 507,
+          "iat_address": 110680,
+          "iat_value": 128064,
+          "data": 128064
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_type_info_dtor_internal_method@type_info@@QAEXXZ",
+          "hint": 238,
+          "iat_address": 110684,
+          "iat_value": 128010,
+          "data": 128010
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?terminate@@YAXXZ",
+          "hint": 258,
+          "iat_address": 110688,
+          "iat_value": 127990,
+          "data": 127990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CppXcptFilter",
+          "hint": 305,
+          "iat_address": 110692,
+          "iat_value": 127972,
+          "data": 127972
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_amsg_exit",
+          "hint": 453,
+          "iat_address": 110696,
+          "iat_value": 127958,
+          "data": 127958
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm_e",
+          "hint": 689,
+          "iat_address": 110700,
+          "iat_value": 127944,
+          "data": 127944
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 688,
+          "iat_address": 110704,
+          "iat_value": 127932,
+          "data": 127932
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_encoded_null",
+          "hint": 537,
+          "iat_address": 110708,
+          "iat_value": 127916,
+          "data": 127916
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 1419,
+          "iat_address": 110712,
+          "iat_value": 127908,
+          "data": 127908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_malloc_crt",
+          "hint": 820,
+          "iat_address": 110716,
+          "iat_value": 127894,
+          "data": 127894
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??2@YAPAXI@Z",
+          "hint": 99,
+          "iat_address": 110720,
+          "iat_value": 127864,
+          "data": 127864
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 1487,
+          "iat_address": 110724,
+          "iat_value": 127854,
+          "data": 127854
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_purecall",
+          "hint": 984,
+          "iat_address": 110728,
+          "iat_value": 127842,
+          "data": 127842
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??_V@YAXPAX@Z",
+          "hint": 122,
+          "iat_address": 110732,
+          "iat_value": 127826,
+          "data": 127826
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "??3@YAXPAX@Z",
+          "hint": 101,
+          "iat_address": 110736,
+          "iat_value": 127810,
+          "data": 127810
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_onexit",
+          "hint": 969,
+          "iat_address": 110740,
+          "iat_value": 128154,
+          "data": 128154
+        }
+      ],
+      "function_count": 21
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 110592,
+      "import_lookup_table_rva": 121276,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 449,
+          "iat_address": 110592,
+          "iat_value": 128492,
+          "data": 128492
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 453,
+          "iat_address": 110596,
+          "iat_value": 128470,
+          "data": 128470
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetTickCount",
+          "hint": 659,
+          "iat_address": 110600,
+          "iat_value": 128454,
+          "data": 128454
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 935,
+          "iat_address": 110604,
+          "iat_value": 128428,
+          "data": 128428
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DisableThreadLibraryCalls",
+          "hint": 222,
+          "iat_address": 110608,
+          "iat_value": 128400,
+          "data": 128400
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 768,
+          "iat_address": 110612,
+          "iat_value": 128380,
+          "data": 128380
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1189,
+          "iat_address": 110616,
+          "iat_value": 128350,
+          "data": 128350
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1235,
+          "iat_address": 110620,
+          "iat_value": 128322,
+          "data": 128322
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 448,
+          "iat_address": 110624,
+          "iat_value": 128302,
+          "data": 128302
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1216,
+          "iat_address": 110628,
+          "iat_value": 128282,
+          "data": 128282
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedCompareExchange",
+          "hint": 745,
+          "iat_address": 110632,
+          "iat_value": 128252,
+          "data": 128252
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "Sleep",
+          "hint": 1202,
+          "iat_address": 110636,
+          "iat_value": 128244,
+          "data": 128244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InterlockedExchange",
+          "hint": 748,
+          "iat_address": 110640,
+          "iat_value": 128222,
+          "data": 128222
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DecodePointer",
+          "hint": 202,
+          "iat_address": 110644,
+          "iat_value": 128206,
+          "data": 128206
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EncodePointer",
+          "hint": 234,
+          "iat_address": 110648,
+          "iat_value": 128190,
+          "data": 128190
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 633,
+          "iat_address": 110652,
+          "iat_value": 128514,
+          "data": 128514
+        }
+      ],
+      "function_count": 16
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "Qt5Xml.dll",
+    "export_flags": 0,
+    "timestamp": 1391295131,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 442,
+    "entries": [
+      {
+        "name": "??0QDomAttr@@AAE@PAVQDomAttrPrivate@@@Z",
+        "ordinal": 1,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomAttr@@QAE@ABV0@@Z",
+        "ordinal": 2,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomAttr@@QAE@XZ",
+        "ordinal": 3,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomCDATASection@@AAE@PAVQDomCDATASectionPrivate@@@Z",
+        "ordinal": 4,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomCDATASection@@QAE@ABV0@@Z",
+        "ordinal": 5,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomCDATASection@@QAE@XZ",
+        "ordinal": 6,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomCharacterData@@AAE@PAVQDomCharacterDataPrivate@@@Z",
+        "ordinal": 7,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomCharacterData@@QAE@ABV0@@Z",
+        "ordinal": 8,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomCharacterData@@QAE@XZ",
+        "ordinal": 9,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomComment@@AAE@PAVQDomCommentPrivate@@@Z",
+        "ordinal": 10,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomComment@@QAE@ABV0@@Z",
+        "ordinal": 11,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomComment@@QAE@XZ",
+        "ordinal": 12,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocument@@AAE@PAVQDomDocumentPrivate@@@Z",
+        "ordinal": 13,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocument@@QAE@ABV0@@Z",
+        "ordinal": 14,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocument@@QAE@ABVQDomDocumentType@@@Z",
+        "ordinal": 15,
+        "address": 42272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocument@@QAE@ABVQString@@@Z",
+        "ordinal": 16,
+        "address": 42208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocument@@QAE@XZ",
+        "ordinal": 17,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocumentFragment@@AAE@PAVQDomDocumentFragmentPrivate@@@Z",
+        "ordinal": 18,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocumentFragment@@QAE@ABV0@@Z",
+        "ordinal": 19,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocumentFragment@@QAE@XZ",
+        "ordinal": 20,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocumentType@@AAE@PAVQDomDocumentTypePrivate@@@Z",
+        "ordinal": 21,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocumentType@@QAE@ABV0@@Z",
+        "ordinal": 22,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomDocumentType@@QAE@XZ",
+        "ordinal": 23,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomElement@@AAE@PAVQDomElementPrivate@@@Z",
+        "ordinal": 24,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomElement@@QAE@ABV0@@Z",
+        "ordinal": 25,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomElement@@QAE@XZ",
+        "ordinal": 26,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomEntity@@AAE@PAVQDomEntityPrivate@@@Z",
+        "ordinal": 27,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomEntity@@QAE@ABV0@@Z",
+        "ordinal": 28,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomEntity@@QAE@XZ",
+        "ordinal": 29,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomEntityReference@@AAE@PAVQDomEntityReferencePrivate@@@Z",
+        "ordinal": 30,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomEntityReference@@QAE@ABV0@@Z",
+        "ordinal": 31,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomEntityReference@@QAE@XZ",
+        "ordinal": 32,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomImplementation@@AAE@PAVQDomImplementationPrivate@@@Z",
+        "ordinal": 33,
+        "address": 10816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomImplementation@@QAE@ABV0@@Z",
+        "ordinal": 34,
+        "address": 10784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomImplementation@@QAE@XZ",
+        "ordinal": 35,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNamedNodeMap@@AAE@PAVQDomNamedNodeMapPrivate@@@Z",
+        "ordinal": 36,
+        "address": 10816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNamedNodeMap@@QAE@ABV0@@Z",
+        "ordinal": 37,
+        "address": 10784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNamedNodeMap@@QAE@XZ",
+        "ordinal": 38,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNode@@IAE@PAVQDomNodePrivate@@@Z",
+        "ordinal": 39,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNode@@QAE@ABV0@@Z",
+        "ordinal": 40,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNode@@QAE@XZ",
+        "ordinal": 41,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNodeList@@AAE@PAVQDomNodeListPrivate@@@Z",
+        "ordinal": 42,
+        "address": 6416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNodeList@@QAE@ABV0@@Z",
+        "ordinal": 43,
+        "address": 10784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNodeList@@QAE@XZ",
+        "ordinal": 44,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNotation@@AAE@PAVQDomNotationPrivate@@@Z",
+        "ordinal": 45,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNotation@@QAE@ABV0@@Z",
+        "ordinal": 46,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomNotation@@QAE@XZ",
+        "ordinal": 47,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomProcessingInstruction@@AAE@PAVQDomProcessingInstructionPrivate@@@Z",
+        "ordinal": 48,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomProcessingInstruction@@QAE@ABV0@@Z",
+        "ordinal": 49,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomProcessingInstruction@@QAE@XZ",
+        "ordinal": 50,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomText@@AAE@PAVQDomTextPrivate@@@Z",
+        "ordinal": 51,
+        "address": 13968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomText@@QAE@ABV0@@Z",
+        "ordinal": 52,
+        "address": 14000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QDomText@@QAE@XZ",
+        "ordinal": 53,
+        "address": 13856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlAttributes@@QAE@ABV0@@Z",
+        "ordinal": 54,
+        "address": 25296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlAttributes@@QAE@XZ",
+        "ordinal": 55,
+        "address": 57440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlContentHandler@@QAE@ABV0@@Z",
+        "ordinal": 56,
+        "address": 4736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlContentHandler@@QAE@XZ",
+        "ordinal": 57,
+        "address": 4720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlDTDHandler@@QAE@ABV0@@Z",
+        "ordinal": 58,
+        "address": 5024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlDTDHandler@@QAE@XZ",
+        "ordinal": 59,
+        "address": 5008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlDeclHandler@@QAE@ABV0@@Z",
+        "ordinal": 60,
+        "address": 5472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlDeclHandler@@QAE@XZ",
+        "ordinal": 61,
+        "address": 5456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlDefaultHandler@@QAE@XZ",
+        "ordinal": 62,
+        "address": 45984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlEntityResolver@@QAE@ABV0@@Z",
+        "ordinal": 63,
+        "address": 5184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlEntityResolver@@QAE@XZ",
+        "ordinal": 64,
+        "address": 5168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlErrorHandler@@QAE@ABV0@@Z",
+        "ordinal": 65,
+        "address": 4880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlErrorHandler@@QAE@XZ",
+        "ordinal": 66,
+        "address": 4864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlInputSource@@QAE@ABV0@@Z",
+        "ordinal": 67,
+        "address": 4208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlInputSource@@QAE@PAVQIODevice@@@Z",
+        "ordinal": 68,
+        "address": 53024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlInputSource@@QAE@XZ",
+        "ordinal": 69,
+        "address": 52992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlLexicalHandler@@QAE@ABV0@@Z",
+        "ordinal": 70,
+        "address": 5328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlLexicalHandler@@QAE@XZ",
+        "ordinal": 71,
+        "address": 5312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlLocator@@QAE@ABV0@@Z",
+        "ordinal": 72,
+        "address": 4592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlLocator@@QAE@XZ",
+        "ordinal": 73,
+        "address": 45504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlNamespaceSupport@@QAE@XZ",
+        "ordinal": 74,
+        "address": 70224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlParseException@@QAE@ABV0@@Z",
+        "ordinal": 75,
+        "address": 59376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlParseException@@QAE@ABVQString@@HH00@Z",
+        "ordinal": 76,
+        "address": 59248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlReader@@QAE@ABV0@@Z",
+        "ordinal": 77,
+        "address": 4480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlReader@@QAE@XZ",
+        "ordinal": 78,
+        "address": 4464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0QXmlSimpleReader@@QAE@XZ",
+        "ordinal": 79,
+        "address": 99856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomAttr@@QAE@XZ",
+        "ordinal": 80,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomCDATASection@@QAE@XZ",
+        "ordinal": 81,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomCharacterData@@QAE@XZ",
+        "ordinal": 82,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomComment@@QAE@XZ",
+        "ordinal": 83,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomDocument@@QAE@XZ",
+        "ordinal": 84,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomDocumentFragment@@QAE@XZ",
+        "ordinal": 85,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomDocumentType@@QAE@XZ",
+        "ordinal": 86,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomElement@@QAE@XZ",
+        "ordinal": 87,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomEntity@@QAE@XZ",
+        "ordinal": 88,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomEntityReference@@QAE@XZ",
+        "ordinal": 89,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomImplementation@@QAE@XZ",
+        "ordinal": 90,
+        "address": 10912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomNamedNodeMap@@QAE@XZ",
+        "ordinal": 91,
+        "address": 34160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomNode@@QAE@XZ",
+        "ordinal": 92,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomNodeList@@QAE@XZ",
+        "ordinal": 93,
+        "address": 22448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomNotation@@QAE@XZ",
+        "ordinal": 94,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomProcessingInstruction@@QAE@XZ",
+        "ordinal": 95,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QDomText@@QAE@XZ",
+        "ordinal": 96,
+        "address": 17408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlAttributes@@UAE@XZ",
+        "ordinal": 97,
+        "address": 57472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlContentHandler@@UAE@XZ",
+        "ordinal": 98,
+        "address": 4704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlDTDHandler@@UAE@XZ",
+        "ordinal": 99,
+        "address": 4992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlDeclHandler@@UAE@XZ",
+        "ordinal": 100,
+        "address": 5440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlDefaultHandler@@UAE@XZ",
+        "ordinal": 101,
+        "address": 46064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlEntityResolver@@UAE@XZ",
+        "ordinal": 102,
+        "address": 5152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlErrorHandler@@UAE@XZ",
+        "ordinal": 103,
+        "address": 4848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlInputSource@@UAE@XZ",
+        "ordinal": 104,
+        "address": 48688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlLexicalHandler@@UAE@XZ",
+        "ordinal": 105,
+        "address": 5296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlLocator@@UAE@XZ",
+        "ordinal": 106,
+        "address": 45520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlNamespaceSupport@@QAE@XZ",
+        "ordinal": 107,
+        "address": 73520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlParseException@@QAE@XZ",
+        "ordinal": 108,
+        "address": 59472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlReader@@UAE@XZ",
+        "ordinal": 109,
+        "address": 4448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??1QXmlSimpleReader@@UAE@XZ",
+        "ordinal": 110,
+        "address": 99920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomAttr@@QAEAAV0@ABV0@@Z",
+        "ordinal": 111,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomCDATASection@@QAEAAV0@ABV0@@Z",
+        "ordinal": 112,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomCharacterData@@QAEAAV0@ABV0@@Z",
+        "ordinal": 113,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomComment@@QAEAAV0@ABV0@@Z",
+        "ordinal": 114,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomDocument@@QAEAAV0@ABV0@@Z",
+        "ordinal": 115,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomDocumentFragment@@QAEAAV0@ABV0@@Z",
+        "ordinal": 116,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomDocumentType@@QAEAAV0@ABV0@@Z",
+        "ordinal": 117,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomElement@@QAEAAV0@ABV0@@Z",
+        "ordinal": 118,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomEntity@@QAEAAV0@ABV0@@Z",
+        "ordinal": 119,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomEntityReference@@QAEAAV0@ABV0@@Z",
+        "ordinal": 120,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomImplementation@@QAEAAV0@ABV0@@Z",
+        "ordinal": 121,
+        "address": 10848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomNamedNodeMap@@QAEAAV0@ABV0@@Z",
+        "ordinal": 122,
+        "address": 38336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomNode@@QAEAAV0@ABV0@@Z",
+        "ordinal": 123,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomNodeList@@QAEAAV0@ABV0@@Z",
+        "ordinal": 124,
+        "address": 25936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomNotation@@QAEAAV0@ABV0@@Z",
+        "ordinal": 125,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomProcessingInstruction@@QAEAAV0@ABV0@@Z",
+        "ordinal": 126,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QDomText@@QAEAAV0@ABV0@@Z",
+        "ordinal": 127,
+        "address": 15968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlAttributes@@QAEAAV0@ABV0@@Z",
+        "ordinal": 128,
+        "address": 31376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlContentHandler@@QAEAAV0@ABV0@@Z",
+        "ordinal": 129,
+        "address": 5040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlDTDHandler@@QAEAAV0@ABV0@@Z",
+        "ordinal": 130,
+        "address": 5040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlDeclHandler@@QAEAAV0@ABV0@@Z",
+        "ordinal": 131,
+        "address": 5040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlEntityResolver@@QAEAAV0@ABV0@@Z",
+        "ordinal": 132,
+        "address": 5040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlErrorHandler@@QAEAAV0@ABV0@@Z",
+        "ordinal": 133,
+        "address": 5040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlInputSource@@QAEAAV0@ABV0@@Z",
+        "ordinal": 134,
+        "address": 4240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlLexicalHandler@@QAEAAV0@ABV0@@Z",
+        "ordinal": 135,
+        "address": 5040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlLocator@@QAEAAV0@ABV0@@Z",
+        "ordinal": 136,
+        "address": 5040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??4QXmlReader@@QAEAAV0@ABV0@@Z",
+        "ordinal": 137,
+        "address": 5040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??6@YAAAVQTextStream@@AAV0@ABVQDomNode@@@Z",
+        "ordinal": 138,
+        "address": 18928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??8QDomImplementation@@QBE_NABV0@@Z",
+        "ordinal": 139,
+        "address": 6944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??8QDomNamedNodeMap@@QBE_NABV0@@Z",
+        "ordinal": 140,
+        "address": 6944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??8QDomNode@@QBE_NABV0@@Z",
+        "ordinal": 141,
+        "address": 6944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??8QDomNodeList@@QBE_NABV0@@Z",
+        "ordinal": 142,
+        "address": 6432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??9QDomImplementation@@QBE_NABV0@@Z",
+        "ordinal": 143,
+        "address": 6320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??9QDomNamedNodeMap@@QBE_NABV0@@Z",
+        "ordinal": 144,
+        "address": 6320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??9QDomNode@@QBE_NABV0@@Z",
+        "ordinal": 145,
+        "address": 6320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??9QDomNodeList@@QBE_NABV0@@Z",
+        "ordinal": 146,
+        "address": 6512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlAttributes@@6B@",
+        "ordinal": 147,
+        "address": 113348,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlContentHandler@@6B@",
+        "ordinal": 148,
+        "address": 111532,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDTDHandler@@6B@",
+        "ordinal": 149,
+        "address": 111612,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDeclHandler@@6B@",
+        "ordinal": 150,
+        "address": 111688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlContentHandler@@@",
+        "ordinal": 151,
+        "address": 114184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlDTDHandler@@@",
+        "ordinal": 152,
+        "address": 114140,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlDeclHandler@@@",
+        "ordinal": 153,
+        "address": 114060,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlEntityResolver@@@",
+        "ordinal": 154,
+        "address": 114124,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlErrorHandler@@@",
+        "ordinal": 155,
+        "address": 114160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlDefaultHandler@@6BQXmlLexicalHandler@@@",
+        "ordinal": 156,
+        "address": 114084,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlEntityResolver@@6B@",
+        "ordinal": 157,
+        "address": 111632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlErrorHandler@@6B@",
+        "ordinal": 158,
+        "address": 111588,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlInputSource@@6B@",
+        "ordinal": 159,
+        "address": 111388,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlLexicalHandler@@6B@",
+        "ordinal": 160,
+        "address": 111648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlLocator@@6B@",
+        "ordinal": 161,
+        "address": 111516,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlReader@@6B@",
+        "ordinal": 162,
+        "address": 111428,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_7QXmlSimpleReader@@6B@",
+        "ordinal": 163,
+        "address": 117868,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??_FQXmlParseException@@QAEXXZ",
+        "ordinal": 164,
+        "address": 4352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?DTDHandler@QXmlSimpleReader@@UBEPAVQXmlDTDHandler@@XZ",
+        "ordinal": 165,
+        "address": 53776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EndOfData@QXmlInputSource@@2GB",
+        "ordinal": 166,
+        "address": 113904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EndOfDocument@QXmlInputSource@@2GB",
+        "ordinal": 167,
+        "address": 113908,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?append@QXmlAttributes@@QAEXABVQString@@000@Z",
+        "ordinal": 168,
+        "address": 60016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?appendChild@QDomNode@@QAE?AV1@ABV1@@Z",
+        "ordinal": 169,
+        "address": 13632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?appendData@QDomCharacterData@@QAEXABVQString@@@Z",
+        "ordinal": 170,
+        "address": 7984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?at@QDomNodeList@@QBE?AVQDomNode@@H@Z",
+        "ordinal": 171,
+        "address": 33504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?attribute@QDomElement@@QBE?AVQString@@ABV2@0@Z",
+        "ordinal": 172,
+        "address": 24576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?attributeDecl@QXmlDefaultHandler@@UAE_NABVQString@@0000@Z",
+        "ordinal": 173,
+        "address": 46256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?attributeNS@QDomElement@@QBE?AVQString@@V2@ABV2@1@Z",
+        "ordinal": 174,
+        "address": 19504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?attributeNode@QDomElement@@QAE?AVQDomAttr@@ABVQString@@@Z",
+        "ordinal": 175,
+        "address": 24640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?attributeNodeNS@QDomElement@@QAE?AVQDomAttr@@ABVQString@@0@Z",
+        "ordinal": 176,
+        "address": 19584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?attributes@QDomElement@@QBE?AVQDomNamedNodeMap@@XZ",
+        "ordinal": 177,
+        "address": 35616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?attributes@QDomNode@@QBE?AVQDomNamedNodeMap@@XZ",
+        "ordinal": 178,
+        "address": 38272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?characters@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 179,
+        "address": 46240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?childNodes@QDomNode@@QBE?AVQDomNodeList@@XZ",
+        "ordinal": 180,
+        "address": 22496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?clear@QDomNode@@QAEXXZ",
+        "ordinal": 181,
+        "address": 13744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?clear@QXmlAttributes@@QAEXXZ",
+        "ordinal": 182,
+        "address": 62272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?cloneNode@QDomNode@@QBE?AV1@_N@Z",
+        "ordinal": 183,
+        "address": 13200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?columnNumber@QDomNode@@QBEHXZ",
+        "ordinal": 184,
+        "address": 7680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?columnNumber@QXmlParseException@@QBEHXZ",
+        "ordinal": 185,
+        "address": 48304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?comment@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 186,
+        "address": 46240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?contains@QDomNamedNodeMap@@QBE_NABVQString@@@Z",
+        "ordinal": 187,
+        "address": 24400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?contentHandler@QXmlSimpleReader@@UBEPAVQXmlContentHandler@@XZ",
+        "ordinal": 188,
+        "address": 53808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?count@QDomNamedNodeMap@@QBEHXZ",
+        "ordinal": 189,
+        "address": 18656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?count@QDomNodeList@@QBEHXZ",
+        "ordinal": 190,
+        "address": 33568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?count@QXmlAttributes@@QBEHXZ",
+        "ordinal": 191,
+        "address": 5584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createAttribute@QDomDocument@@QAE?AVQDomAttr@@ABVQString@@@Z",
+        "ordinal": 192,
+        "address": 43008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createAttributeNS@QDomDocument@@QAE?AVQDomAttr@@ABVQString@@0@Z",
+        "ordinal": 193,
+        "address": 43248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createCDATASection@QDomDocument@@QAE?AVQDomCDATASection@@ABVQString@@@Z",
+        "ordinal": 194,
+        "address": 42848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createComment@QDomDocument@@QAE?AVQDomComment@@ABVQString@@@Z",
+        "ordinal": 195,
+        "address": 42768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createDocument@QDomImplementation@@QAE?AVQDomDocument@@ABVQString@@0ABVQDomDocumentType@@@Z",
+        "ordinal": 196,
+        "address": 43712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createDocumentFragment@QDomDocument@@QAE?AVQDomDocumentFragment@@XZ",
+        "ordinal": 197,
+        "address": 42608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createDocumentType@QDomImplementation@@QAE?AVQDomDocumentType@@ABVQString@@00@Z",
+        "ordinal": 198,
+        "address": 43328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createElement@QDomDocument@@QAE?AVQDomElement@@ABVQString@@@Z",
+        "ordinal": 199,
+        "address": 42528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createElementNS@QDomDocument@@QAE?AVQDomElement@@ABVQString@@0@Z",
+        "ordinal": 200,
+        "address": 43168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createEntityReference@QDomDocument@@QAE?AVQDomEntityReference@@ABVQString@@@Z",
+        "ordinal": 201,
+        "address": 43088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createProcessingInstruction@QDomDocument@@QAE?AVQDomProcessingInstruction@@ABVQString@@0@Z",
+        "ordinal": 202,
+        "address": 42928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?createTextNode@QDomDocument@@QAE?AVQDomText@@ABVQString@@@Z",
+        "ordinal": 203,
+        "address": 42688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?d_func@QXmlSimpleReader@@AAEPAVQXmlSimpleReaderPrivate@@XZ",
+        "ordinal": 204,
+        "address": 18704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?d_func@QXmlSimpleReader@@ABEPBVQXmlSimpleReaderPrivate@@XZ",
+        "ordinal": 205,
+        "address": 18704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?data@QDomCharacterData@@QBE?AVQString@@XZ",
+        "ordinal": 206,
+        "address": 8960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?data@QDomProcessingInstruction@@QBE?AVQString@@XZ",
+        "ordinal": 207,
+        "address": 8960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?data@QXmlInputSource@@UBE?AVQString@@XZ",
+        "ordinal": 208,
+        "address": 45808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?declHandler@QXmlSimpleReader@@UBEPAVQXmlDeclHandler@@XZ",
+        "ordinal": 209,
+        "address": 53904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?deleteData@QDomCharacterData@@QAEXKK@Z",
+        "ordinal": 210,
+        "address": 8048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?doctype@QDomDocument@@QBE?AVQDomDocumentType@@XZ",
+        "ordinal": 211,
+        "address": 20432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?documentElement@QDomDocument@@QBE?AVQDomElement@@XZ",
+        "ordinal": 212,
+        "address": 20480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?elementById@QDomDocument@@QAE?AVQDomElement@@ABVQString@@@Z",
+        "ordinal": 213,
+        "address": 20560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?elementsByTagName@QDomDocument@@QBE?AVQDomNodeList@@ABVQString@@@Z",
+        "ordinal": 214,
+        "address": 24928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?elementsByTagName@QDomElement@@QBE?AVQDomNodeList@@ABVQString@@@Z",
+        "ordinal": 215,
+        "address": 24928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?elementsByTagNameNS@QDomDocument@@QAE?AVQDomNodeList@@ABVQString@@0@Z",
+        "ordinal": 216,
+        "address": 24992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?elementsByTagNameNS@QDomElement@@QBE?AVQDomNodeList@@ABVQString@@0@Z",
+        "ordinal": 217,
+        "address": 24992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endCDATA@QXmlDefaultHandler@@UAE_NXZ",
+        "ordinal": 218,
+        "address": 46224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endDTD@QXmlDefaultHandler@@UAE_NXZ",
+        "ordinal": 219,
+        "address": 46224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endDocument@QXmlDefaultHandler@@UAE_NXZ",
+        "ordinal": 220,
+        "address": 46224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endElement@QXmlDefaultHandler@@UAE_NABVQString@@00@Z",
+        "ordinal": 221,
+        "address": 46144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endEntity@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 222,
+        "address": 46240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?endPrefixMapping@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 223,
+        "address": 46240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?entities@QDomDocumentType@@QBE?AVQDomNamedNodeMap@@XZ",
+        "ordinal": 224,
+        "address": 35616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?entityResolver@QXmlSimpleReader@@UBEPAVQXmlEntityResolver@@XZ",
+        "ordinal": 225,
+        "address": 53744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?error@QXmlDefaultHandler@@UAE_NABVQXmlParseException@@@Z",
+        "ordinal": 226,
+        "address": 46240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?errorHandler@QXmlSimpleReader@@UBEPAVQXmlErrorHandler@@XZ",
+        "ordinal": 227,
+        "address": 53840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?errorString@QXmlDefaultHandler@@UBE?AVQString@@XZ",
+        "ordinal": 228,
+        "address": 46192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?externalEntityDecl@QXmlDefaultHandler@@UAE_NABVQString@@00@Z",
+        "ordinal": 229,
+        "address": 46144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fatalError@QXmlDefaultHandler@@UAE_NABVQXmlParseException@@@Z",
+        "ordinal": 230,
+        "address": 46240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?feature@QXmlSimpleReader@@UBE_NABVQString@@PA_N@Z",
+        "ordinal": 231,
+        "address": 53088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fetchData@QXmlInputSource@@UAEXXZ",
+        "ordinal": 232,
+        "address": 48784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?firstChild@QDomNode@@QBE?AV1@XZ",
+        "ordinal": 233,
+        "address": 13008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?firstChildElement@QDomNode@@QBE?AVQDomElement@@ABVQString@@@Z",
+        "ordinal": 234,
+        "address": 22576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?fromRawData@QXmlInputSource@@MAE?AVQString@@ABVQByteArray@@_N@Z",
+        "ordinal": 235,
+        "address": 49632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasAttribute@QDomElement@@QBE_NABVQString@@@Z",
+        "ordinal": 236,
+        "address": 24736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasAttributeNS@QDomElement@@QBE_NABVQString@@0@Z",
+        "ordinal": 237,
+        "address": 19648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasAttributes@QDomNode@@QBE_NXZ",
+        "ordinal": 238,
+        "address": 18800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasChildNodes@QDomNode@@QBE_NXZ",
+        "ordinal": 239,
+        "address": 7168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasFeature@QDomImplementation@@QBE_NABVQString@@0@Z",
+        "ordinal": 240,
+        "address": 10944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasFeature@QXmlSimpleReader@@UBE_NABVQString@@@Z",
+        "ordinal": 241,
+        "address": 50496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?hasProperty@QXmlSimpleReader@@UBE_NABVQString@@@Z",
+        "ordinal": 242,
+        "address": 46304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ignorableWhitespace@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 243,
+        "address": 46240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?implementation@QDomDocument@@QBE?AVQDomImplementation@@XZ",
+        "ordinal": 244,
+        "address": 35616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?importNode@QDomDocument@@QAE?AVQDomNode@@ABV2@_N@Z",
+        "ordinal": 245,
+        "address": 45360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?index@QXmlAttributes@@QBEHABVQString@@0@Z",
+        "ordinal": 246,
+        "address": 52288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?index@QXmlAttributes@@QBEHABVQString@@@Z",
+        "ordinal": 247,
+        "address": 52096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?index@QXmlAttributes@@QBEHVQLatin1String@@@Z",
+        "ordinal": 248,
+        "address": 52192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?init@QXmlInputSource@@AAEXXZ",
+        "ordinal": 249,
+        "address": 52832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?insertAfter@QDomNode@@QAE?AV1@ABV1@0@Z",
+        "ordinal": 250,
+        "address": 13424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?insertBefore@QDomNode@@QAE?AV1@ABV1@0@Z",
+        "ordinal": 251,
+        "address": 13360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?insertData@QDomCharacterData@@QAEXKABVQString@@@Z",
+        "ordinal": 252,
+        "address": 8016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?internalEntityDecl@QXmlDefaultHandler@@UAE_NABVQString@@0@Z",
+        "ordinal": 253,
+        "address": 46128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?internalSubset@QDomDocumentType@@QBE?AVQString@@XZ",
+        "ordinal": 254,
+        "address": 7824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?invalidDataPolicy@QDomImplementation@@SA?AW4InvalidDataPolicy@1@XZ",
+        "ordinal": 255,
+        "address": 6384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isAttr@QDomNode@@QBE_NXZ",
+        "ordinal": 256,
+        "address": 7216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isCDATASection@QDomNode@@QBE_NXZ",
+        "ordinal": 257,
+        "address": 7248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isCharacterData@QDomNode@@QBE_NXZ",
+        "ordinal": 258,
+        "address": 7584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isComment@QDomNode@@QBE_NXZ",
+        "ordinal": 259,
+        "address": 7632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isDocument@QDomNode@@QBE_NXZ",
+        "ordinal": 260,
+        "address": 7312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isDocumentFragment@QDomNode@@QBE_NXZ",
+        "ordinal": 261,
+        "address": 7280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isDocumentType@QDomNode@@QBE_NXZ",
+        "ordinal": 262,
+        "address": 7344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isElement@QDomNode@@QBE_NXZ",
+        "ordinal": 263,
+        "address": 7376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isEmpty@QDomNamedNodeMap@@QBE_NXZ",
+        "ordinal": 264,
+        "address": 18672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isEmpty@QDomNodeList@@QBE_NXZ",
+        "ordinal": 265,
+        "address": 33584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isEntity@QDomNode@@QBE_NXZ",
+        "ordinal": 266,
+        "address": 7488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isEntityReference@QDomNode@@QBE_NXZ",
+        "ordinal": 267,
+        "address": 7408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isNotation@QDomNode@@QBE_NXZ",
+        "ordinal": 268,
+        "address": 7520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isNull@QDomImplementation@@QAE_NXZ",
+        "ordinal": 269,
+        "address": 7200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isNull@QDomNode@@QBE_NXZ",
+        "ordinal": 270,
+        "address": 7200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isProcessingInstruction@QDomNode@@QBE_NXZ",
+        "ordinal": 271,
+        "address": 7552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isSupported@QDomNode@@QBE_NABVQString@@0@Z",
+        "ordinal": 272,
+        "address": 10944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?isText@QDomNode@@QBE_NXZ",
+        "ordinal": 273,
+        "address": 7440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?item@QDomNamedNodeMap@@QBE?AVQDomNode@@H@Z",
+        "ordinal": 274,
+        "address": 19136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?item@QDomNodeList@@QBE?AVQDomNode@@H@Z",
+        "ordinal": 275,
+        "address": 32304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lastChild@QDomNode@@QBE?AV1@XZ",
+        "ordinal": 276,
+        "address": 13056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lastChildElement@QDomNode@@QBE?AVQDomElement@@ABVQString@@@Z",
+        "ordinal": 277,
+        "address": 23008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?length@QDomCharacterData@@QBEHXZ",
+        "ordinal": 278,
+        "address": 7888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?length@QDomNamedNodeMap@@QBEHXZ",
+        "ordinal": 279,
+        "address": 18656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?length@QDomNodeList@@QBEHXZ",
+        "ordinal": 280,
+        "address": 33568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?length@QXmlAttributes@@QBEHXZ",
+        "ordinal": 281,
+        "address": 48608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lexicalHandler@QXmlSimpleReader@@UBEPAVQXmlLexicalHandler@@XZ",
+        "ordinal": 282,
+        "address": 53872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lineNumber@QDomNode@@QBEHXZ",
+        "ordinal": 283,
+        "address": 7664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?lineNumber@QXmlParseException@@QBEHXZ",
+        "ordinal": 284,
+        "address": 48320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?localName@QDomNode@@QBE?AVQString@@XZ",
+        "ordinal": 285,
+        "address": 7104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?localName@QXmlAttributes@@QBE?AVQString@@H@Z",
+        "ordinal": 286,
+        "address": 52400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?message@QXmlParseException@@QBE?AVQString@@XZ",
+        "ordinal": 287,
+        "address": 48272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?name@QDomAttr@@QBE?AVQString@@XZ",
+        "ordinal": 288,
+        "address": 8144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?name@QDomDocumentType@@QBE?AVQString@@XZ",
+        "ordinal": 289,
+        "address": 8144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?namedItem@QDomNamedNodeMap@@QBE?AVQDomNode@@ABVQString@@@Z",
+        "ordinal": 290,
+        "address": 24304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?namedItem@QDomNode@@QBE?AV1@ABVQString@@@Z",
+        "ordinal": 291,
+        "address": 13792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?namedItemNS@QDomNamedNodeMap@@QBE?AVQDomNode@@ABVQString@@0@Z",
+        "ordinal": 292,
+        "address": 19232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?namespaceURI@QDomNode@@QBE?AVQString@@XZ",
+        "ordinal": 293,
+        "address": 7008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?next@QXmlInputSource@@UAE?AVQChar@@XZ",
+        "ordinal": 294,
+        "address": 45568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nextSibling@QDomNode@@QBE?AV1@XZ",
+        "ordinal": 295,
+        "address": 13152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nextSiblingElement@QDomNode@@QBE?AVQDomElement@@ABVQString@@@Z",
+        "ordinal": 296,
+        "address": 23440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeName@QDomNode@@QBE?AVQString@@XZ",
+        "ordinal": 297,
+        "address": 26016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomAttr@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 298,
+        "address": 4112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomCDATASection@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 299,
+        "address": 4160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomCharacterData@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 300,
+        "address": 8112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomComment@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 301,
+        "address": 14992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomDocument@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 302,
+        "address": 20080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomDocumentFragment@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 303,
+        "address": 4096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomDocumentType@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 304,
+        "address": 34752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomElement@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 305,
+        "address": 4128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomEntity@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 306,
+        "address": 15648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomEntityReference@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 307,
+        "address": 4176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomNode@@QBE?AW4NodeType@1@XZ",
+        "ordinal": 308,
+        "address": 6960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomNotation@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 309,
+        "address": 15328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomProcessingInstruction@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 310,
+        "address": 4192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeType@QDomText@@QBE?AW4NodeType@QDomNode@@XZ",
+        "ordinal": 311,
+        "address": 4144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?nodeValue@QDomNode@@QBE?AVQString@@XZ",
+        "ordinal": 312,
+        "address": 8960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?normalize@QDomNode@@QAEXXZ",
+        "ordinal": 313,
+        "address": 6992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?notationDecl@QXmlDefaultHandler@@UAE_NABVQString@@00@Z",
+        "ordinal": 314,
+        "address": 46144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?notationName@QDomEntity@@QBE?AVQString@@XZ",
+        "ordinal": 315,
+        "address": 7728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?notations@QDomDocumentType@@QBE?AVQDomNamedNodeMap@@XZ",
+        "ordinal": 316,
+        "address": 35664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ownerDocument@QDomNode@@QBE?AVQDomDocument@@XZ",
+        "ordinal": 317,
+        "address": 18720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ownerElement@QDomAttr@@QBE?AVQDomElement@@XZ",
+        "ordinal": 318,
+        "address": 19408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?parentNode@QDomNode@@QBE?AV1@XZ",
+        "ordinal": 319,
+        "address": 12944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?parse@QXmlSimpleReader@@UAE_NABVQXmlInputSource@@@Z",
+        "ordinal": 320,
+        "address": 46320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?parse@QXmlSimpleReader@@UAE_NPBVQXmlInputSource@@@Z",
+        "ordinal": 321,
+        "address": 46320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?parse@QXmlSimpleReader@@UAE_NPBVQXmlInputSource@@_N@Z",
+        "ordinal": 322,
+        "address": 103696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?parseContinue@QXmlSimpleReader@@UAE_NXZ",
+        "ordinal": 323,
+        "address": 104128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?popContext@QXmlNamespaceSupport@@QAEXXZ",
+        "ordinal": 324,
+        "address": 73552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?prefix@QDomNode@@QBE?AVQString@@XZ",
+        "ordinal": 325,
+        "address": 7056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?prefix@QXmlNamespaceSupport@@QBE?AVQString@@ABV2@@Z",
+        "ordinal": 326,
+        "address": 57280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?prefixes@QXmlNamespaceSupport@@QBE?AVQStringList@@ABVQString@@@Z",
+        "ordinal": 327,
+        "address": 59808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?prefixes@QXmlNamespaceSupport@@QBE?AVQStringList@@XZ",
+        "ordinal": 328,
+        "address": 59632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?previousSibling@QDomNode@@QBE?AV1@XZ",
+        "ordinal": 329,
+        "address": 13104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?previousSiblingElement@QDomNode@@QBE?AVQDomElement@@ABVQString@@@Z",
+        "ordinal": 330,
+        "address": 23872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?processName@QXmlNamespaceSupport@@QBEXABVQString@@_NAAV2@2@Z",
+        "ordinal": 331,
+        "address": 61776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?processingInstruction@QXmlDefaultHandler@@UAE_NABVQString@@0@Z",
+        "ordinal": 332,
+        "address": 46128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?property@QXmlSimpleReader@@UBEPAXABVQString@@PA_N@Z",
+        "ordinal": 333,
+        "address": 46272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?publicId@QDomDocumentType@@QBE?AVQString@@XZ",
+        "ordinal": 334,
+        "address": 7728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?publicId@QDomEntity@@QBE?AVQString@@XZ",
+        "ordinal": 335,
+        "address": 8592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?publicId@QDomNotation@@QBE?AVQString@@XZ",
+        "ordinal": 336,
+        "address": 8592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?publicId@QXmlParseException@@QBE?AVQString@@XZ",
+        "ordinal": 337,
+        "address": 48336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?pushContext@QXmlNamespaceSupport@@QAEXXZ",
+        "ordinal": 338,
+        "address": 70272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?qName@QXmlAttributes@@QBE?AVQString@@H@Z",
+        "ordinal": 339,
+        "address": 52448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?removeAttribute@QDomElement@@QAEXABVQString@@@Z",
+        "ordinal": 340,
+        "address": 36816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?removeAttributeNS@QDomElement@@QAEXABVQString@@0@Z",
+        "ordinal": 341,
+        "address": 37360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?removeAttributeNode@QDomElement@@QAE?AVQDomAttr@@ABV2@@Z",
+        "ordinal": 342,
+        "address": 36928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?removeChild@QDomNode@@QAE?AV1@ABV1@@Z",
+        "ordinal": 343,
+        "address": 13568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?removeNamedItem@QDomNamedNodeMap@@QAE?AVQDomNode@@ABVQString@@@Z",
+        "ordinal": 344,
+        "address": 34320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?removeNamedItemNS@QDomNamedNodeMap@@QAE?AVQDomNode@@ABVQString@@0@Z",
+        "ordinal": 345,
+        "address": 34448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?replaceChild@QDomNode@@QAE?AV1@ABV1@0@Z",
+        "ordinal": 346,
+        "address": 13488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?replaceData@QDomCharacterData@@QAEXKKABVQString@@@Z",
+        "ordinal": 347,
+        "address": 8080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?reset@QXmlInputSource@@UAEXXZ",
+        "ordinal": 348,
+        "address": 45792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?reset@QXmlNamespaceSupport@@QAEXXZ",
+        "ordinal": 349,
+        "address": 70288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?resolveEntity@QXmlDefaultHandler@@UAE_NABVQString@@0AAPAVQXmlInputSource@@@Z",
+        "ordinal": 350,
+        "address": 46176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?save@QDomNode@@QBEXAAVQTextStream@@HW4EncodingPolicy@1@@Z",
+        "ordinal": 351,
+        "address": 18848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttribute@QDomElement@@QAEXABVQString@@0@Z",
+        "ordinal": 352,
+        "address": 36336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttribute@QDomElement@@QAEXABVQString@@H@Z",
+        "ordinal": 353,
+        "address": 37856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttribute@QDomElement@@QAEXABVQString@@I@Z",
+        "ordinal": 354,
+        "address": 37936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttribute@QDomElement@@QAEXABVQString@@M@Z",
+        "ordinal": 355,
+        "address": 36512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttribute@QDomElement@@QAEXABVQString@@N@Z",
+        "ordinal": 356,
+        "address": 36592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttribute@QDomElement@@QAEXABVQString@@_J@Z",
+        "ordinal": 357,
+        "address": 36352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttribute@QDomElement@@QAEXABVQString@@_K@Z",
+        "ordinal": 358,
+        "address": 36432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttributeNS@QDomElement@@QAEXVQString@@ABV2@1@Z",
+        "ordinal": 359,
+        "address": 37024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttributeNS@QDomElement@@QAEXVQString@@ABV2@H@Z",
+        "ordinal": 360,
+        "address": 38016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttributeNS@QDomElement@@QAEXVQString@@ABV2@I@Z",
+        "ordinal": 361,
+        "address": 38144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttributeNS@QDomElement@@QAEXVQString@@ABV2@N@Z",
+        "ordinal": 362,
+        "address": 37264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttributeNS@QDomElement@@QAEXVQString@@ABV2@_J@Z",
+        "ordinal": 363,
+        "address": 37072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttributeNS@QDomElement@@QAEXVQString@@ABV2@_K@Z",
+        "ordinal": 364,
+        "address": 37168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttributeNode@QDomElement@@QAE?AVQDomAttr@@ABV2@@Z",
+        "ordinal": 365,
+        "address": 36864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setAttributeNodeNS@QDomElement@@QAE?AVQDomAttr@@ABV2@@Z",
+        "ordinal": 366,
+        "address": 37456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContent@QDomDocument@@QAE_NABVQByteArray@@PAVQString@@PAH2@Z",
+        "ordinal": 367,
+        "address": 45296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContent@QDomDocument@@QAE_NABVQByteArray@@_NPAVQString@@PAH3@Z",
+        "ordinal": 368,
+        "address": 44944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContent@QDomDocument@@QAE_NABVQString@@PAV2@PAH2@Z",
+        "ordinal": 369,
+        "address": 45264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContent@QDomDocument@@QAE_NABVQString@@_NPAV2@PAH3@Z",
+        "ordinal": 370,
+        "address": 44784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContent@QDomDocument@@QAE_NPAVQIODevice@@PAVQString@@PAH2@Z",
+        "ordinal": 371,
+        "address": 45328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContent@QDomDocument@@QAE_NPAVQIODevice@@_NPAVQString@@PAH3@Z",
+        "ordinal": 372,
+        "address": 45120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContent@QDomDocument@@QAE_NPAVQXmlInputSource@@PAVQXmlReader@@PAVQString@@PAH3@Z",
+        "ordinal": 373,
+        "address": 42448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContent@QDomDocument@@QAE_NPAVQXmlInputSource@@_NPAVQString@@PAH3@Z",
+        "ordinal": 374,
+        "address": 42336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setContentHandler@QXmlSimpleReader@@UAEXPAVQXmlContentHandler@@@Z",
+        "ordinal": 375,
+        "address": 53792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setDTDHandler@QXmlSimpleReader@@UAEXPAVQXmlDTDHandler@@@Z",
+        "ordinal": 376,
+        "address": 53760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setData@QDomCharacterData@@QAEXABVQString@@@Z",
+        "ordinal": 377,
+        "address": 7872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setData@QDomProcessingInstruction@@QAEXABVQString@@@Z",
+        "ordinal": 378,
+        "address": 7872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setData@QXmlInputSource@@UAEXABVQByteArray@@@Z",
+        "ordinal": 379,
+        "address": 45936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setData@QXmlInputSource@@UAEXABVQString@@@Z",
+        "ordinal": 380,
+        "address": 45856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setDeclHandler@QXmlSimpleReader@@UAEXPAVQXmlDeclHandler@@@Z",
+        "ordinal": 381,
+        "address": 53888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setDocumentLocator@QXmlDefaultHandler@@UAEXPAVQXmlLocator@@@Z",
+        "ordinal": 382,
+        "address": 46112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setEntityResolver@QXmlSimpleReader@@UAEXPAVQXmlEntityResolver@@@Z",
+        "ordinal": 383,
+        "address": 53728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setErrorHandler@QXmlSimpleReader@@UAEXPAVQXmlErrorHandler@@@Z",
+        "ordinal": 384,
+        "address": 53824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setFeature@QXmlSimpleReader@@UAEXABVQString@@_N@Z",
+        "ordinal": 385,
+        "address": 53408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setInvalidDataPolicy@QDomImplementation@@SAXW4InvalidDataPolicy@1@@Z",
+        "ordinal": 386,
+        "address": 6400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setLexicalHandler@QXmlSimpleReader@@UAEXPAVQXmlLexicalHandler@@@Z",
+        "ordinal": 387,
+        "address": 53856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setNamedItem@QDomNamedNodeMap@@QAE?AVQDomNode@@ABV2@@Z",
+        "ordinal": 388,
+        "address": 34256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setNamedItemNS@QDomNamedNodeMap@@QAE?AVQDomNode@@ABV2@@Z",
+        "ordinal": 389,
+        "address": 34384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setNodeValue@QDomNode@@QAEXABVQString@@@Z",
+        "ordinal": 390,
+        "address": 7872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setPrefix@QDomNode@@QAEXABVQString@@@Z",
+        "ordinal": 391,
+        "address": 13264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setPrefix@QXmlNamespaceSupport@@QAEXABVQString@@0@Z",
+        "ordinal": 392,
+        "address": 59520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setProperty@QXmlSimpleReader@@UAEXABVQString@@PAX@Z",
+        "ordinal": 393,
+        "address": 46288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setTagName@QDomElement@@QAEXABVQString@@@Z",
+        "ordinal": 394,
+        "address": 8240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?setValue@QDomAttr@@QAEXABVQString@@@Z",
+        "ordinal": 395,
+        "address": 8208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?size@QDomNamedNodeMap@@QBEHXZ",
+        "ordinal": 396,
+        "address": 18656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?size@QDomNodeList@@QBEHXZ",
+        "ordinal": 397,
+        "address": 33568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?skippedEntity@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 398,
+        "address": 46240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?specified@QDomAttr@@QBE_NXZ",
+        "ordinal": 399,
+        "address": 8192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?splitName@QXmlNamespaceSupport@@QBEXABVQString@@AAV2@1@Z",
+        "ordinal": 400,
+        "address": 48464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?splitText@QDomText@@QAE?AV1@H@Z",
+        "ordinal": 401,
+        "address": 19696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startCDATA@QXmlDefaultHandler@@UAE_NXZ",
+        "ordinal": 402,
+        "address": 46224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startDTD@QXmlDefaultHandler@@UAE_NABVQString@@00@Z",
+        "ordinal": 403,
+        "address": 46144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startDocument@QXmlDefaultHandler@@UAE_NXZ",
+        "ordinal": 404,
+        "address": 46224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startElement@QXmlDefaultHandler@@UAE_NABVQString@@00ABVQXmlAttributes@@@Z",
+        "ordinal": 405,
+        "address": 46160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startEntity@QXmlDefaultHandler@@UAE_NABVQString@@@Z",
+        "ordinal": 406,
+        "address": 46240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?startPrefixMapping@QXmlDefaultHandler@@UAE_NABVQString@@0@Z",
+        "ordinal": 407,
+        "address": 46128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?substringData@QDomCharacterData@@QAE?AVQString@@KK@Z",
+        "ordinal": 408,
+        "address": 7920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?systemId@QDomDocumentType@@QBE?AVQString@@XZ",
+        "ordinal": 409,
+        "address": 7776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?systemId@QDomEntity@@QBE?AVQString@@XZ",
+        "ordinal": 410,
+        "address": 8640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?systemId@QDomNotation@@QBE?AVQString@@XZ",
+        "ordinal": 411,
+        "address": 8640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?systemId@QXmlParseException@@QBE?AVQString@@XZ",
+        "ordinal": 412,
+        "address": 48368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?tagName@QDomElement@@QBE?AVQString@@XZ",
+        "ordinal": 413,
+        "address": 8144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?target@QDomProcessingInstruction@@QBE?AVQString@@XZ",
+        "ordinal": 414,
+        "address": 8144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?text@QDomElement@@QBE?AVQString@@XZ",
+        "ordinal": 415,
+        "address": 14448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toAttr@QDomNode@@QBE?AVQDomAttr@@XZ",
+        "ordinal": 416,
+        "address": 20624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toByteArray@QDomDocument@@QBE?AVQByteArray@@H@Z",
+        "ordinal": 417,
+        "address": 20384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toCDATASection@QDomNode@@QBE?AVQDomCDATASection@@XZ",
+        "ordinal": 418,
+        "address": 20688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toCharacterData@QDomNode@@QBE?AVQDomCharacterData@@XZ",
+        "ordinal": 419,
+        "address": 21280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toComment@QDomNode@@QBE?AVQDomComment@@XZ",
+        "ordinal": 420,
+        "address": 21360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toDocument@QDomNode@@QBE?AVQDomDocument@@XZ",
+        "ordinal": 421,
+        "address": 17456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toDocumentFragment@QDomNode@@QBE?AVQDomDocumentFragment@@XZ",
+        "ordinal": 422,
+        "address": 20752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toDocumentType@QDomNode@@QBE?AVQDomDocumentType@@XZ",
+        "ordinal": 423,
+        "address": 20816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toElement@QDomNode@@QBE?AVQDomElement@@XZ",
+        "ordinal": 424,
+        "address": 20880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toEntity@QDomNode@@QBE?AVQDomEntity@@XZ",
+        "ordinal": 425,
+        "address": 21088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toEntityReference@QDomNode@@QBE?AVQDomEntityReference@@XZ",
+        "ordinal": 426,
+        "address": 20944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toNotation@QDomNode@@QBE?AVQDomNotation@@XZ",
+        "ordinal": 427,
+        "address": 21152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toProcessingInstruction@QDomNode@@QBE?AVQDomProcessingInstruction@@XZ",
+        "ordinal": 428,
+        "address": 21216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toString@QDomDocument@@QBE?AVQString@@H@Z",
+        "ordinal": 429,
+        "address": 20240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?toText@QDomNode@@QBE?AVQDomText@@XZ",
+        "ordinal": 430,
+        "address": 21008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?type@QXmlAttributes@@QBE?AVQString@@ABV2@0@Z",
+        "ordinal": 431,
+        "address": 48656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?type@QXmlAttributes@@QBE?AVQString@@ABV2@@Z",
+        "ordinal": 432,
+        "address": 48624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?type@QXmlAttributes@@QBE?AVQString@@H@Z",
+        "ordinal": 433,
+        "address": 48624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?unparsedEntityDecl@QXmlDefaultHandler@@UAE_NABVQString@@000@Z",
+        "ordinal": 434,
+        "address": 46160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?uri@QXmlAttributes@@QBE?AVQString@@H@Z",
+        "ordinal": 435,
+        "address": 52496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?uri@QXmlNamespaceSupport@@QBE?AVQString@@ABV2@@Z",
+        "ordinal": 436,
+        "address": 61728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?value@QDomAttr@@QBE?AVQString@@XZ",
+        "ordinal": 437,
+        "address": 8960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?value@QXmlAttributes@@QBE?AVQString@@ABV2@0@Z",
+        "ordinal": 438,
+        "address": 52752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?value@QXmlAttributes@@QBE?AVQString@@ABV2@@Z",
+        "ordinal": 439,
+        "address": 52592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?value@QXmlAttributes@@QBE?AVQString@@H@Z",
+        "ordinal": 440,
+        "address": 52544,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?value@QXmlAttributes@@QBE?AVQString@@VQLatin1String@@@Z",
+        "ordinal": 441,
+        "address": 52672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?warning@QXmlDefaultHandler@@UAE_NABVQXmlParseException@@@Z",
+        "ordinal": 442,
+        "address": 46240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 2,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 147616,
+        "size": 804,
+        "entropy": 3.469943,
+        "sha256": "2fdf81c0299701f2727aa2c4a1c9988ebf3c97eb2495b0a3612f546df13abf5a",
+        "magic_head": "2403340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 148420,
+        "size": 346,
+        "entropy": 4.795974,
+        "sha256": "49a60be4b95b6d30da355a0c124af82b35000bce8f24f957d1c09ead47544a1e",
+        "magic_head": "3c617373656d626c"
+      }
+    ],
+    "total_size": 1150,
+    "max_entropy": 4.795974
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 2770589027,
+    "entries": [
+      {
+        "id": 157,
+        "build_id": 40219,
+        "count": 1
+      },
+      {
+        "id": 154,
+        "build_id": 40219,
+        "count": 1
+      },
+      {
+        "id": 155,
+        "build_id": 40219,
+        "count": 1
+      },
+      {
+        "id": 171,
+        "build_id": 40219,
+        "count": 7
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 189
+      },
+      {
+        "id": 156,
+        "build_id": 40219,
+        "count": 5
+      },
+      {
+        "id": 170,
+        "build_id": 40219,
+        "count": 12
+      },
+      {
+        "id": 158,
+        "build_id": 40219,
+        "count": 2
+      },
+      {
+        "id": 152,
+        "build_id": 20115,
+        "count": 1
+      },
+      {
+        "id": 147,
+        "build_id": 30729,
+        "count": 2
+      }
+    ],
+    "raw_hex": "27b44df663d523a563d523a563d523a56aadb0a561d523a5f09bbba562d523a57848bda561d523a5784889a56fd523a57848bfa566d523a563d522a5ded523a5784888a564d523a57848b8a562d523a57848b9a562d523a57848bea562d523a55269636863d523a5",
+    "raw_offset": 128,
+    "raw_size": 104,
+    "entry_count": 10
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 128560,
+      "size": 23636,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 121196,
+      "size": 80,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 159744,
+      "size": 1312,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 163840,
+      "size": 8320,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 118368,
+      "size": 64,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 110592,
+      "size": 768,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": "asInvoker",
+    "ui_access": "false",
+    "size": 346
+  },
+  "entrypoint_bytes": {
+    "offset": 102157,
+    "hex": "8bff558bec837d0c017505e801050000ff75088b4d108b550ce8ccfeffff595dc20c006a1468f0d80161e8640400008365fc00ff4d10783a8b4d082b4d0c894d",
+    "entropy": 4.752368
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 1627546624,
+    "se_handler_count": 1,
+    "guard_cf_function_count": null,
+    "guard_flags": null
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 4,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 4,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 1364
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 10,
+    "minor_linker_version": 0,
+    "sizeof_code": 102912,
+    "sizeof_initialized_data": 55296,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 105229,
+    "baseof_code": 4096,
+    "baseof_data": 110592,
+    "imagebase": 1627389952,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 5,
+    "minor_operating_system_version": 1,
+    "major_image_version": 5,
+    "minor_image_version": 21,
+    "major_subsystem_version": 5,
+    "minor_subsystem_version": 1,
+    "win32_version_value": 0,
+    "sizeof_image": 176128,
+    "sizeof_headers": 1024,
+    "checksum": 192087,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 320,
+    "dll_characteristics": [
+      "DYNAMIC_BASE",
+      "NX_COMPAT"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 184,
+    "entropy": 4.938182,
+    "is_standard_ms": 1,
+    "sha256": "80c882518a9827b07c9e738de0bdb820a84ce39bfe48fa8aa2951b5c58f8b991",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a240000000000000027b44df663d523a563d523a563d523a56aadb0a561d523a5f09bbba562d523a57848bda561d523a5784889a56fd523a57848bfa566d523a563d522a5ded523a5784888a564d523a57848b8a562d523a57848b9a562d523a57848bea562d523a55269636863d523a500000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ ' M c # c # c # j a # b # xH a # xH o # xH f # c \" # xH d # xH b # xH b # xH b # Richc #",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 192087,
+    "checksum_computed": 192087,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 105229,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.368085
+  },
+  "overlay": {
+    "size": 0,
+    "offset": 0,
+    "entropy": null,
+    "magic_head": null,
+    "sha256": null
+  },
+  "debug": {
+    "has_debug": 0,
+    "count": 0,
+    "types": [],
+    "pdb_path": null
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 30,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "Digia Plc and/or its subsidiary(-ies)",
+    "file_description": "C++ application development framework.",
+    "original_filename": "Qt5Xml.dll",
+    "product_name": "Qt5",
+    "file_version": "5.2.1.0",
+    "legal_copyright": "Copyright (C) 2013 Digia Plc and/or its subsidiary(-ies).",
+    "internal_name": null
+  },
+  "strings": {
+    "count_ascii": 2089,
+    "count_utf16": 19,
+    "count_total": 2108,
+    "chars_total": 36350,
+    "printable_ratio": 0.228283,
+    "len_mean": 17.24,
+    "len_max": 237,
+    "urls": [
+      "http://qt-project.org/xml/features/report-start-end-entity",
+      "http://qt-project.org/xml/features/report-whitespace-only-CharData",
+      "http://trolltech.com/xml/features/report-start-end-entity",
+      "http://trolltech.com/xml/features/report-whitespace-only-CharData",
+      "http://www.w3.org/2000/xmlns/",
+      "http://www.w3.org/XML/1998/namespace",
+      "http://xml.org/sax/features/namespace-prefixes",
+      "http://xml.org/sax/features/namespaces"
+    ],
+    "n_urls": 8,
+    "ipv4": [
+      "5.2.1.0"
+    ],
+    "n_ipv4": 1,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "kernel32.dll",
+      "msvcr100.dll",
+      "qt5core.dll",
+      "qt5xml.dll"
+    ],
+    "n_dll_names": 4,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [],
+    "n_file_paths": 0
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "qt5xml.dll"
+    ],
+    "n_orphans": 1,
+    "n_imported": 3
+  }
+}

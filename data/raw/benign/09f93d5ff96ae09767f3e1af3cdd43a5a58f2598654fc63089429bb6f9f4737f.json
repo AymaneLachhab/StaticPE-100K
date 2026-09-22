@@ -1,0 +1,4506 @@
+{
+  "sha256": "09f93d5ff96ae09767f3e1af3cdd43a5a58f2598654fc63089429bb6f9f4737f",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 350648,
+    "md5": "95513ddc9980568940387d16af447ef7",
+    "sha1": "fc827331baac99d775470022fac2b111de24db0d",
+    "imphash": "b26d153c9c3aee29d1929f37af1d4e97",
+    "tlsh": "T1C874D5277B9C4CC3C935A0794A878309E372789107A1E2CB1194570E9F7B7E8AD3B679",
+    "ssdeep": "6144:iXKqjR1OmXkRLO1UPTMXhPEbUbeUG1bPQ0D:ipOmXkxHw0D",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.052738,
+    "byte_histogram_256": [
+      0.24674602,
+      0.03240001,
+      0.0156995,
+      0.01650373,
+      0.00793673,
+      0.00618854,
+      0.00304579,
+      0.00247827,
+      0.00662488,
+      0.00147441,
+      0.00172823,
+      0.00136034,
+      0.00300872,
+      0.00225297,
+      0.00130615,
+      0.00852422,
+      0.00704125,
+      0.00284046,
+      0.00092971,
+      0.00134038,
+      0.00135178,
+      0.00616002,
+      0.00092686,
+      0.00120063,
+      0.00324257,
+      0.00105234,
+      0.00069015,
+      0.001001,
+      0.0007643,
+      0.00108941,
+      0.00076715,
+      0.00073008,
+      0.00744051,
+      0.00087837,
+      0.00052759,
+      0.00081848,
+      0.00880085,
+      0.00132612,
+      0.00080423,
+      0.00104093,
+      0.0038329,
+      0.00087552,
+      0.00093826,
+      0.00106945,
+      0.00132326,
+      0.00102952,
+      0.00204479,
+      0.00105234,
+      0.00840159,
+      0.00191645,
+      0.00213034,
+      0.0026779,
+      0.00146015,
+      0.00060745,
+      0.00102667,
+      0.00088693,
+      0.00380724,
+      0.0036019,
+      0.0015343,
+      0.00132326,
+      0.00093256,
+      0.0006873,
+      0.00076145,
+      0.00323972,
+      0.01765018,
+      0.00832174,
+      0.00337375,
+      0.00253816,
+      0.0039755,
+      0.00595754,
+      0.00131471,
+      0.00268645,
+      0.04790844,
+      0.00361901,
+      0.00087837,
+      0.00072437,
+      0.00526169,
+      0.00263512,
+      0.0010723,
+      0.00179667,
+      0.0065108,
+      0.00198204,
+      0.00213319,
+      0.0024526,
+      0.00200486,
+      0.0031456,
+      0.00238416,
+      0.00265223,
+      0.00321975,
+      0.00158564,
+      0.00157138,
+      0.00125482,
+      0.00271783,
+      0.00146586,
+      0.00100956,
+      0.00255527,
+      0.00367605,
+      0.00550124,
+      0.00125767,
+      0.00286327,
+      0.00288894,
+      0.00640243,
+      0.00308001,
+      0.00140312,
+      0.00253245,
+      0.00511909,
+      0.00089263,
+      0.00074719,
+      0.00456013,
+      0.00298875,
+      0.00446887,
+      0.00599176,
+      0.00447172,
+      0.00059034,
+      0.00591762,
+      0.00355912,
+      0.01228012,
+      0.00664484,
+      0.00085556,
+      0.00136889,
+      0.00374164,
+      0.00163127,
+      0.00079567,
+      0.00064737,
+      0.00096108,
+      0.00063026,
+      0.00061885,
+      0.00077,
+      0.01350072,
+      0.00173393,
+      0.00124912,
+      0.0090347,
+      0.00202767,
+      0.00752607,
+      0.00089263,
+      0.00062741,
+      0.00298875,
+      0.00761733,
+      0.00080423,
+      0.02981908,
+      0.00057608,
+      0.00728651,
+      0.00120349,
+      0.00075289,
+      0.00395268,
+      0.00049052,
+      0.00065308,
+      0.00049622,
+      0.00103237,
+      0.00119493,
+      0.00080993,
+      0.00070726,
+      0.00113504,
+      0.00043634,
+      0.00053045,
+      0.00066448,
+      0.00050763,
+      0.00049052,
+      0.00059889,
+      0.00040782,
+      0.00307146,
+      0.00113504,
+      0.00115215,
+      0.00106374,
+      0.00148012,
+      0.00108371,
+      0.00112934,
+      0.00112363,
+      0.00196779,
+      0.00117212,
+      0.00108371,
+      0.00182804,
+      0.00126338,
+      0.001232,
+      0.00127763,
+      0.00116071,
+      0.00242123,
+      0.00050193,
+      0.00046485,
+      0.00056467,
+      0.00056752,
+      0.00057893,
+      0.00094397,
+      0.00092115,
+      0.00177956,
+      0.00096393,
+      0.00128334,
+      0.00051334,
+      0.00099245,
+      0.00081848,
+      0.00071297,
+      0.00117782,
+      0.00683306,
+      0.00185371,
+      0.00111793,
+      0.00372738,
+      0.00257523,
+      0.00069585,
+      0.00122915,
+      0.00450024,
+      0.00395553,
+      0.00258664,
+      0.00096963,
+      0.00207616,
+      0.03315576,
+      0.00062456,
+      0.000847,
+      0.00163127,
+      0.00312564,
+      0.00052189,
+      0.00117782,
+      0.00066163,
+      0.00062741,
+      0.00094967,
+      0.00080708,
+      0.000924,
+      0.00271212,
+      0.00118923,
+      0.00039926,
+      0.00141452,
+      0.00056752,
+      0.00039926,
+      0.00049622,
+      0.00053615,
+      0.00278342,
+      0.00049622,
+      0.00056182,
+      0.00044204,
+      0.00096108,
+      0.00045915,
+      0.00039641,
+      0.00054185,
+      0.00621706,
+      0.00765725,
+      0.00083845,
+      0.00193356,
+      0.00284331,
+      0.00050193,
+      0.00049908,
+      0.00059319,
+      0.00300586,
+      0.00049622,
+      0.00228719,
+      0.00086982,
+      0.00067874,
+      0.00047056,
+      0.00076145,
+      0.00139741,
+      0.00199345,
+      0.00128334,
+      0.0008413,
+      0.00078426,
+      0.00082134,
+      0.00194212,
+      0.00101812,
+      0.02413246
+    ],
+    "byte_entropy_histogram_256": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.01465846,
+      0.0001661,
+      0.00010023,
+      0.0001976,
+      0.00015894,
+      0.00015465,
+      0.0002019,
+      0.00044389,
+      0.00020047,
+      0.00012314,
+      8.591e-05,
+      9.737e-05,
+      0.00024915,
+      0.00026061,
+      4.868e-05,
+      0.00044819,
+      0.09840657,
+      0.00166102,
+      0.00146628,
+      0.00129015,
+      0.002082,
+      0.0014405,
+      0.00153787,
+      0.00083194,
+      0.00105961,
+      0.00118705,
+      0.00124433,
+      0.00112405,
+      0.00064006,
+      0.00071452,
+      0.0010725,
+      0.00447615,
+      0.00665695,
+      0.00015608,
+      9.164e-05,
+      6.73e-05,
+      8.878e-05,
+      0.00011742,
+      0.00032075,
+      0.00014605,
+      0.00020763,
+      0.00021622,
+      6.3e-05,
+      7.303e-05,
+      5.155e-05,
+      0.00015894,
+      9.88e-05,
+      0.00028352,
+      0.003554,
+      4.868e-05,
+      0.00012171,
+      0.00011026,
+      0.00019617,
+      0.00022195,
+      0.00078182,
+      0.00036943,
+      0.00028209,
+      1.575e-05,
+      3.15e-05,
+      1.432e-05,
+      2.148e-05,
+      2.291e-05,
+      3.15e-05,
+      4.153e-05,
+      0.05563256,
+      0.00109255,
+      0.00152069,
+      0.00156221,
+      0.00594386,
+      0.00650517,
+      0.00890505,
+      0.00459213,
+      0.00966969,
+      0.00076464,
+      0.00098945,
+      0.00177986,
+      0.00107536,
+      0.00096511,
+      0.00085485,
+      0.00078612,
+      0.02057082,
+      0.00065581,
+      0.00128013,
+      0.00202042,
+      0.00644216,
+      0.00383036,
+      0.0102983,
+      0.00567609,
+      0.00079185,
+      0.00079185,
+      0.00065725,
+      0.00069448,
+      0.00059138,
+      0.00057849,
+      0.00034795,
+      0.00049115,
+      0.03831647,
+      0.00294544,
+      0.00429716,
+      0.00424561,
+      0.01130063,
+      0.00508328,
+      0.01559207,
+      0.00985297,
+      0.00429716,
+      0.00131163,
+      0.00199179,
+      0.00282945,
+      0.01350148,
+      0.00088062,
+      0.00443319,
+      0.00522074,
+      0.01532287,
+      0.00198463,
+      0.00203474,
+      0.00197604,
+      0.00364135,
+      0.00159515,
+      0.00279366,
+      0.0021135,
+      0.0025803,
+      0.00112262,
+      0.0086874,
+      0.00127583,
+      0.00168249,
+      0.00096224,
+      0.00110543,
+      0.00097513,
+      0.02668507,
+      0.00390052,
+      0.00354684,
+      0.00251014,
+      0.01355303,
+      0.0031545,
+      0.00239845,
+      0.00283518,
+      0.01536726,
+      0.00198176,
+      0.00325044,
+      0.00145625,
+      0.01114599,
+      0.00185146,
+      0.00516347,
+      0.00970405,
+      0.06866294,
+      0.01514674,
+      0.0158899,
+      0.01538587,
+      0.06382308,
+      0.01327667,
+      0.00515917,
+      0.01439213,
+      0.05074832,
+      0.00486563,
+      0.00317168,
+      0.00394491,
+      0.03789549,
+      0.00816905,
+      0.01278695,
+      0.01858762,
+      0.00342226,
+      0.00109971,
+      0.00110687,
+      0.00192878,
+      0.00092645,
+      0.00107536,
+      0.0022166,
+      0.0012787,
+      0.00091785,
+      0.00048542,
+      0.00059281,
+      0.00053267,
+      0.00044103,
+      0.00054413,
+      0.00047969,
+      0.00054699,
+      0.00537109,
+      0.00222805,
+      0.00229678,
+      0.00356402,
+      0.00182712,
+      0.00217937,
+      0.00411245,
+      0.00291823,
+      0.00169825,
+      0.00116557,
+      0.00137893,
+      0.00130733,
+      0.00126008,
+      0.00133884,
+      0.00124863,
+      0.00129588
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 167238,
+      "raw_size": 167424,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.248071,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 102054,
+      "raw_size": 102400,
+      "virtual_address": 172032,
+      "pointerto_raw_data": 168448,
+      "entropy": 4.411347,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 42392,
+      "raw_size": 42496,
+      "virtual_address": 274432,
+      "pointerto_raw_data": 270848,
+      "entropy": 4.441546,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".pdata",
+      "virtual_size": 8016,
+      "raw_size": 8192,
+      "virtual_address": 319488,
+      "pointerto_raw_data": 313344,
+      "entropy": 5.348571,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 1424,
+      "raw_size": 1536,
+      "virtual_address": 327680,
+      "pointerto_raw_data": 321536,
+      "entropy": 4.191945,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 6872,
+      "raw_size": 7168,
+      "virtual_address": 331776,
+      "pointerto_raw_data": 323072,
+      "entropy": 5.439781,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 256,
+    "e_lfanew_raw": 256,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000000010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "AMD64",
+    "numberof_sections": 6,
+    "time_date_stamp": 3117205262,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 240,
+    "characteristics_raw": 8226,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "LARGE_ADDRESS_AWARE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172032,
+      "import_lookup_table_rva": 270496,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RaiseException",
+          "hint": 1176,
+          "iat_address": 172032,
+          "iat_value": 271448,
+          "data": 271448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseSRWLockExclusive",
+          "hint": 1258,
+          "iat_address": 172040,
+          "iat_value": 271466,
+          "data": 271466
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AcquireSRWLockExclusive",
+          "hint": 0,
+          "iat_address": 172048,
+          "iat_value": 271492,
+          "data": 271492
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ReleaseSRWLockShared",
+          "hint": 1259,
+          "iat_address": 172056,
+          "iat_value": 271518,
+          "data": 271518
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "AcquireSRWLockShared",
+          "hint": 1,
+          "iat_address": 172064,
+          "iat_value": 271542,
+          "data": 271542
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "FormatMessageW",
+          "hint": 464,
+          "iat_address": 172072,
+          "iat_value": 271566,
+          "data": 271566
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcAddress",
+          "hint": 733,
+          "iat_address": 172080,
+          "iat_value": 271584,
+          "data": 271584
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LoadLibraryExW",
+          "hint": 1014,
+          "iat_address": 172088,
+          "iat_value": 271602,
+          "data": 271602
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapFree",
+          "hint": 896,
+          "iat_address": 172096,
+          "iat_value": 271620,
+          "data": 271620
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "EnterCriticalSection",
+          "hint": 343,
+          "iat_address": 172104,
+          "iat_value": 271632,
+          "data": 271632
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "LeaveCriticalSection",
+          "hint": 1008,
+          "iat_address": 172112,
+          "iat_value": 271656,
+          "data": 271656
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeCriticalSectionEx",
+          "hint": 919,
+          "iat_address": 172120,
+          "iat_value": 271680,
+          "data": 271680
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetLastError",
+          "hint": 653,
+          "iat_address": 172128,
+          "iat_value": 271710,
+          "data": 271710
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OutputDebugStringW",
+          "hint": 1099,
+          "iat_address": 172136,
+          "iat_value": 271726,
+          "data": 271726
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "HeapAlloc",
+          "hint": 892,
+          "iat_address": 172144,
+          "iat_value": 271748,
+          "data": 271748
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DeleteCriticalSection",
+          "hint": 303,
+          "iat_address": 172152,
+          "iat_value": 271760,
+          "data": 271760
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetProcessHeap",
+          "hint": 740,
+          "iat_address": 172160,
+          "iat_value": 271784,
+          "data": 271784
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CreateEventExW",
+          "hint": 216,
+          "iat_address": 172168,
+          "iat_value": 271802,
+          "data": 271802
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WaitForMultipleObjectsEx",
+          "hint": 1572,
+          "iat_address": 172176,
+          "iat_value": 271820,
+          "data": 271820
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetEvent",
+          "hint": 1372,
+          "iat_address": 172184,
+          "iat_value": 271848,
+          "data": 271848
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CloseHandle",
+          "hint": 157,
+          "iat_address": 172192,
+          "iat_value": 271860,
+          "data": 271860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DecodePointer",
+          "hint": 296,
+          "iat_address": 172200,
+          "iat_value": 271874,
+          "data": 271874
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeSRWLock",
+          "hint": 923,
+          "iat_address": 172208,
+          "iat_value": 271890,
+          "data": 271890
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TryAcquireSRWLockShared",
+          "hint": 1523,
+          "iat_address": 172216,
+          "iat_value": 271910,
+          "data": 271910
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 578,
+          "iat_address": 172224,
+          "iat_value": 273886,
+          "data": 273886
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 582,
+          "iat_address": 172232,
+          "iat_value": 273908,
+          "data": 273908
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1153,
+          "iat_address": 172240,
+          "iat_value": 273860,
+          "data": 273860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 794,
+          "iat_address": 172248,
+          "iat_value": 273930,
+          "data": 273930
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DisableThreadLibraryCalls",
+          "hint": 322,
+          "iat_address": 172256,
+          "iat_value": 273956,
+          "data": 273956
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeSListHead",
+          "hint": 922,
+          "iat_address": 172264,
+          "iat_value": 273984,
+          "data": 273984
+        }
+      ],
+      "function_count": 30
+    },
+    {
+      "name": "VCRUNTIME140_1.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172448,
+      "import_lookup_table_rva": 270912,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__CxxFrameHandler4",
+          "hint": 0,
+          "iat_address": 172448,
+          "iat_value": 271950,
+          "data": 271950
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "VCRUNTIME140.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172320,
+      "import_lookup_table_rva": 270784,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_type_info_destroy_list",
+          "hint": 37,
+          "iat_address": 172320,
+          "iat_value": 272220,
+          "data": 272220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 62,
+          "iat_address": 172328,
+          "iat_value": 274036,
+          "data": 274036
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memmove",
+          "hint": 61,
+          "iat_address": 172336,
+          "iat_value": 274026,
+          "data": 274026
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__C_specific_handler",
+          "hint": 8,
+          "iat_address": 172344,
+          "iat_value": 272174,
+          "data": 272174
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__current_exception",
+          "hint": 27,
+          "iat_address": 172352,
+          "iat_value": 272122,
+          "data": 272122
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 60,
+          "iat_address": 172360,
+          "iat_value": 274016,
+          "data": 274016
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcmp",
+          "hint": 59,
+          "iat_address": 172368,
+          "iat_value": 274006,
+          "data": 274006
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_SetWinRTOutOfMemoryExceptionCallback",
+          "hint": 4,
+          "iat_address": 172376,
+          "iat_value": 272082,
+          "data": 272082
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__GetPlatformExceptionInfo",
+          "hint": 20,
+          "iat_address": 172384,
+          "iat_value": 272052,
+          "data": 272052
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_exception_copy",
+          "hint": 33,
+          "iat_address": 172392,
+          "iat_value": 272028,
+          "data": 272028
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_exception_destroy",
+          "hint": 34,
+          "iat_address": 172400,
+          "iat_value": 272002,
+          "data": 272002
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_terminate",
+          "hint": 35,
+          "iat_address": 172408,
+          "iat_value": 271984,
+          "data": 271984
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_CxxThrowException",
+          "hint": 1,
+          "iat_address": 172416,
+          "iat_value": 272198,
+          "data": 272198
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__current_exception_context",
+          "hint": 28,
+          "iat_address": 172424,
+          "iat_value": 272144,
+          "data": 272144
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_purecall",
+          "hint": 54,
+          "iat_address": 172432,
+          "iat_value": 271972,
+          "data": 271972
+        }
+      ],
+      "function_count": 15
+    },
+    {
+      "name": "api-ms-win-crt-stdio-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172848,
+      "import_lookup_table_rva": 271312,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__acrt_iob_func",
+          "hint": 0,
+          "iat_address": 172848,
+          "iat_value": 272320,
+          "data": 272320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__stdio_common_vfprintf",
+          "hint": 3,
+          "iat_address": 172856,
+          "iat_value": 272338,
+          "data": 272338
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__stdio_common_vswprintf_s",
+          "hint": 19,
+          "iat_address": 172864,
+          "iat_value": 272290,
+          "data": 272290
+        }
+      ],
+      "function_count": 3
+    },
+    {
+      "name": "api-ms-win-crt-heap-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172656,
+      "import_lookup_table_rva": 271120,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_callnewh",
+          "hint": 8,
+          "iat_address": 172656,
+          "iat_value": 272488,
+          "data": 272488
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_aligned_offset_malloc",
+          "hint": 3,
+          "iat_address": 172664,
+          "iat_value": 272380,
+          "data": 272380
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_aligned_free",
+          "hint": 0,
+          "iat_address": 172672,
+          "iat_value": 272364,
+          "data": 272364
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 24,
+          "iat_address": 172680,
+          "iat_value": 272730,
+          "data": 272730
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 25,
+          "iat_address": 172688,
+          "iat_value": 272500,
+          "data": 272500
+        }
+      ],
+      "function_count": 5
+    },
+    {
+      "name": "api-ms-win-crt-string-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172880,
+      "import_lookup_table_rva": 271344,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "wcscpy_s",
+          "hint": 161,
+          "iat_address": 172880,
+          "iat_value": 272406,
+          "data": 272406
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "api-ms-win-crt-runtime-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172720,
+      "import_lookup_table_rva": 271184,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_crt_atexit",
+          "hint": 30,
+          "iat_address": 172720,
+          "iat_value": 272680,
+          "data": 272680
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_invoke_watson",
+          "hint": 58,
+          "iat_address": 172728,
+          "iat_value": 272418,
+          "data": 272418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__p___wargv",
+          "hint": 6,
+          "iat_address": 172736,
+          "iat_value": 272436,
+          "data": 272436
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__p___argc",
+          "hint": 4,
+          "iat_address": 172744,
+          "iat_value": 272450,
+          "data": 272450
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_configure_wide_argv",
+          "hint": 25,
+          "iat_address": 172752,
+          "iat_value": 272464,
+          "data": 272464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "terminate",
+          "hint": 103,
+          "iat_address": 172760,
+          "iat_value": 272510,
+          "data": 272510
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_seh_filter_dll",
+          "hint": 63,
+          "iat_address": 172768,
+          "iat_value": 272522,
+          "data": 272522
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_configure_narrow_argv",
+          "hint": 24,
+          "iat_address": 172776,
+          "iat_value": 272540,
+          "data": 272540
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_narrow_environment",
+          "hint": 51,
+          "iat_address": 172784,
+          "iat_value": 272566,
+          "data": 272566
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_onexit_table",
+          "hint": 52,
+          "iat_address": 172792,
+          "iat_value": 272600,
+          "data": 272600
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_register_onexit_function",
+          "hint": 60,
+          "iat_address": 172800,
+          "iat_value": 272628,
+          "data": 272628
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_execute_onexit_table",
+          "hint": 34,
+          "iat_address": 172808,
+          "iat_value": 272656,
+          "data": 272656
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 54,
+          "iat_address": 172816,
+          "iat_value": 272704,
+          "data": 272704
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm_e",
+          "hint": 55,
+          "iat_address": 172824,
+          "iat_value": 272716,
+          "data": 272716
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_cexit",
+          "hint": 22,
+          "iat_address": 172832,
+          "iat_value": 272694,
+          "data": 272694
+        }
+      ],
+      "function_count": 15
+    },
+    {
+      "name": "MSVCP140.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172280,
+      "import_lookup_table_rva": 270744,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "?_Xlength_error@std@@YAXPEBD@Z",
+          "hint": 654,
+          "iat_address": 172280,
+          "iat_value": 272870,
+          "data": 272870
+        }
+      ],
+      "function_count": 1
+    },
+    {
+      "name": "ole32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172896,
+      "import_lookup_table_rva": 271360,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoTaskMemAlloc",
+          "hint": 139,
+          "iat_address": 172896,
+          "iat_value": 272950,
+          "data": 272950
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoGetContextToken",
+          "hint": 71,
+          "iat_address": 172904,
+          "iat_value": 272984,
+          "data": 272984
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoMarshalInterThreadInterfaceInStream",
+          "hint": 107,
+          "iat_address": 172912,
+          "iat_value": 273076,
+          "data": 273076
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoGetInterfaceAndReleaseStream",
+          "hint": 80,
+          "iat_address": 172920,
+          "iat_value": 273116,
+          "data": 273116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoGetObjectContext",
+          "hint": 85,
+          "iat_address": 172928,
+          "iat_value": 273150,
+          "data": 273150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoGetApartmentType",
+          "hint": 63,
+          "iat_address": 172936,
+          "iat_value": 273054,
+          "data": 273054
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoAddRefServerProcess",
+          "hint": 33,
+          "iat_address": 172944,
+          "iat_value": 273004,
+          "data": 273004
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoCreateFreeThreadedMarshaler",
+          "hint": 41,
+          "iat_address": 172952,
+          "iat_value": 272918,
+          "data": 272918
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoTaskMemFree",
+          "hint": 140,
+          "iat_address": 172960,
+          "iat_value": 272968,
+          "data": 272968
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "CoReleaseServerProcess",
+          "hint": 126,
+          "iat_address": 172968,
+          "iat_value": 273028,
+          "data": 273028
+        }
+      ],
+      "function_count": 10
+    },
+    {
+      "name": "OLEAUT32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172296,
+      "import_lookup_table_rva": 270760,
+      "functions": [
+        {
+          "is_ordinal": 1,
+          "ordinal": 6,
+          "name": null,
+          "hint": 0,
+          "iat_address": 172296,
+          "iat_value": 9223372036854775814,
+          "data": 9223372036854775814
+        },
+        {
+          "is_ordinal": 1,
+          "ordinal": 4,
+          "name": null,
+          "hint": 0,
+          "iat_address": 172304,
+          "iat_value": 9223372036854775812,
+          "data": 9223372036854775812
+        }
+      ],
+      "function_count": 2
+    },
+    {
+      "name": "api-ms-win-core-winrt-string-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172576,
+      "import_lookup_table_rva": 271040,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WindowsCreateString",
+          "hint": 10,
+          "iat_address": 172576,
+          "iat_value": 273196,
+          "data": 273196
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WindowsStringHasEmbeddedNull",
+          "hint": 22,
+          "iat_address": 172584,
+          "iat_value": 273334,
+          "data": 273334
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WindowsIsStringEmpty",
+          "hint": 18,
+          "iat_address": 172592,
+          "iat_value": 273502,
+          "data": 273502
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WindowsCompareStringOrdinal",
+          "hint": 8,
+          "iat_address": 172600,
+          "iat_value": 273472,
+          "data": 273472
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WindowsGetStringLen",
+          "hint": 15,
+          "iat_address": 172608,
+          "iat_value": 273450,
+          "data": 273450
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WindowsGetStringRawBuffer",
+          "hint": 16,
+          "iat_address": 172616,
+          "iat_value": 273306,
+          "data": 273306
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WindowsCreateStringReference",
+          "hint": 11,
+          "iat_address": 172624,
+          "iat_value": 273392,
+          "data": 273392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WindowsDeleteString",
+          "hint": 12,
+          "iat_address": 172632,
+          "iat_value": 273244,
+          "data": 273244
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "WindowsDuplicateString",
+          "hint": 14,
+          "iat_address": 172640,
+          "iat_value": 273218,
+          "data": 273218
+        }
+      ],
+      "function_count": 9
+    },
+    {
+      "name": "api-ms-win-core-winrt-error-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172464,
+      "import_lookup_table_rva": 270928,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoTransformError",
+          "hint": 8,
+          "iat_address": 172464,
+          "iat_value": 273266,
+          "data": 273266
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetRestrictedErrorInfo",
+          "hint": 10,
+          "iat_address": 172472,
+          "iat_value": 273366,
+          "data": 273366
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoOriginateError",
+          "hint": 4,
+          "iat_address": 172480,
+          "iat_value": 273286,
+          "data": 273286
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetRestrictedErrorInfo",
+          "hint": 0,
+          "iat_address": 172488,
+          "iat_value": 273424,
+          "data": 273424
+        }
+      ],
+      "function_count": 4
+    },
+    {
+      "name": "api-ms-win-core-winrt-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172504,
+      "import_lookup_table_rva": 270968,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoGetActivationFactory",
+          "hint": 1,
+          "iat_address": 172504,
+          "iat_value": 273684,
+          "data": 273684
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoUnregisterForApartmentShutdown",
+          "hint": 8,
+          "iat_address": 172512,
+          "iat_value": 273710,
+          "data": 273710
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoRegisterForApartmentShutdown",
+          "hint": 5,
+          "iat_address": 172520,
+          "iat_value": 273650,
+          "data": 273650
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoRegisterActivationFactories",
+          "hint": 4,
+          "iat_address": 172528,
+          "iat_value": 273526,
+          "data": 273526
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoGetApartmentIdentifier",
+          "hint": 2,
+          "iat_address": 172536,
+          "iat_value": 273622,
+          "data": 273622
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoInitialize",
+          "hint": 3,
+          "iat_address": 172544,
+          "iat_value": 273606,
+          "data": 273606
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoRevokeActivationFactories",
+          "hint": 6,
+          "iat_address": 172552,
+          "iat_value": 273558,
+          "data": 273558
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "RoUninitialize",
+          "hint": 7,
+          "iat_address": 172560,
+          "iat_value": 273588,
+          "data": 273588
+        }
+      ],
+      "function_count": 8
+    },
+    {
+      "name": "api-ms-win-crt-math-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 172704,
+      "import_lookup_table_rva": 271168,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ceilf",
+          "hint": 125,
+          "iat_address": 172704,
+          "iat_value": 274046,
+          "data": 274046
+        }
+      ],
+      "function_count": 1
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "vccorlib140.DLL",
+    "export_flags": 0,
+    "timestamp": 3117205262,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 256,
+    "entries": [
+      {
+        "name": "?<Dispose>@Exception@Platform@@UE$AAAXXZ",
+        "ordinal": 1,
+        "address": 104912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?<Dispose>@String@Platform@@UE$AAAXXZ",
+        "ordinal": 2,
+        "address": 4400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?<Dispose>@Type@Platform@@UE$AAAXXZ",
+        "ordinal": 3,
+        "address": 150992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0AccessDeniedException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 4,
+        "address": 107056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0AccessDeniedException@Platform@@QE$AAA@XZ",
+        "ordinal": 5,
+        "address": 106960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Attribute@Metadata@Platform@@QE$AAA@XZ",
+        "ordinal": 6,
+        "address": 5248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Boolean@Platform@@QEAA@_N@Z",
+        "ordinal": 7,
+        "address": 8576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0COMException@Platform@@QE$AAA@H@Z",
+        "ordinal": 8,
+        "address": 105792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0COMException@Platform@@QE$AAA@HPE$AAVString@1@@Z",
+        "ordinal": 9,
+        "address": 105888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ChangedStateException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 10,
+        "address": 107632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ChangedStateException@Platform@@QE$AAA@XZ",
+        "ordinal": 11,
+        "address": 107536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ClassNotRegisteredException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 12,
+        "address": 108016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ClassNotRegisteredException@Platform@@QE$AAA@XZ",
+        "ordinal": 13,
+        "address": 107920,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Delegate@Platform@@QE$AAA@XZ",
+        "ordinal": 14,
+        "address": 97072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0DisconnectedException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 15,
+        "address": 108208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0DisconnectedException@Platform@@QE$AAA@XZ",
+        "ordinal": 16,
+        "address": 108112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Enum@Platform@@QE$AAA@XZ",
+        "ordinal": 17,
+        "address": 138624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Exception@Platform@@QE$AAA@H@Z",
+        "ordinal": 18,
+        "address": 104208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Exception@Platform@@QE$AAA@HPE$AAVString@1@@Z",
+        "ordinal": 19,
+        "address": 104480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0FailureException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 20,
+        "address": 107248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0FailureException@Platform@@QE$AAA@XZ",
+        "ordinal": 21,
+        "address": 107152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0GridLength@Xaml@UI@Windows@@QEAA@NW4GridUnitType@123@@Z",
+        "ordinal": 22,
+        "address": 17024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IntPtr@Platform@@QEAA@H@Z",
+        "ordinal": 23,
+        "address": 17104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0IntPtr@Platform@@QEAA@PEAX@Z",
+        "ordinal": 24,
+        "address": 10032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0InvalidArgumentException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 25,
+        "address": 106288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0InvalidArgumentException@Platform@@QE$AAA@XZ",
+        "ordinal": 26,
+        "address": 106192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0InvalidCastException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 27,
+        "address": 106480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0InvalidCastException@Platform@@QE$AAA@XZ",
+        "ordinal": 28,
+        "address": 106384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0MTAThreadAttribute@Platform@@QE$AAA@XZ",
+        "ordinal": 29,
+        "address": 5664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0NotImplementedException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 30,
+        "address": 106864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0NotImplementedException@Platform@@QE$AAA@XZ",
+        "ordinal": 31,
+        "address": 106768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0NullReferenceException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 32,
+        "address": 106672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0NullReferenceException@Platform@@QE$AAA@XZ",
+        "ordinal": 33,
+        "address": 106576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Object@Platform@@QE$AAA@XZ",
+        "ordinal": 34,
+        "address": 118048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ObjectDisposedException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 35,
+        "address": 108592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ObjectDisposedException@Platform@@QE$AAA@XZ",
+        "ordinal": 36,
+        "address": 108496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0OnePhaseConstructedAttribute@CompilerServices@Runtime@Platform@@QE$AAA@XZ",
+        "ordinal": 37,
+        "address": 5904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0OperationCanceledException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 38,
+        "address": 107824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0OperationCanceledException@Platform@@QE$AAA@XZ",
+        "ordinal": 39,
+        "address": 107728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0OutOfBoundsException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 40,
+        "address": 107440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0OutOfBoundsException@Platform@@QE$AAA@XZ",
+        "ordinal": 41,
+        "address": 107344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0OutOfMemoryException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 42,
+        "address": 106096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0OutOfMemoryException@Platform@@QE$AAA@XZ",
+        "ordinal": 43,
+        "address": 105984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Rect@Foundation@Windows@@QEAA@VPoint@12@0@Z",
+        "ordinal": 44,
+        "address": 11856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Rect@Foundation@Windows@@QEAA@VPoint@12@VSize@12@@Z",
+        "ordinal": 45,
+        "address": 11984,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0RepeatBehavior@Animation@Media@Xaml@UI@Windows@@QEAA@N@Z",
+        "ordinal": 46,
+        "address": 16960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0STAThreadAttribute@Platform@@QE$AAA@XZ",
+        "ordinal": 47,
+        "address": 5440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0SizeT@Platform@@QEAA@H@Z",
+        "ordinal": 48,
+        "address": 17104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0SizeT@Platform@@QEAA@PEAX@Z",
+        "ordinal": 49,
+        "address": 10032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Type@Platform@@QE$AAA@PE$AAVObject@1@@Z",
+        "ordinal": 50,
+        "address": 151552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Type@Platform@@QE$AAA@VIntPtr@1@@Z",
+        "ordinal": 51,
+        "address": 151024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0Type@Platform@@QE$AAA@VTypeName@Interop@Xaml@UI@Windows@@@Z",
+        "ordinal": 52,
+        "address": 151152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0ValueType@Platform@@QE$AAA@XZ",
+        "ordinal": 53,
+        "address": 138640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0WrongThreadException@Platform@@QE$AAA@PE$AAVString@1@@Z",
+        "ordinal": 54,
+        "address": 108400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0WrongThreadException@Platform@@QE$AAA@XZ",
+        "ordinal": 55,
+        "address": 108304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0char16@default@@QEAA@_W@Z",
+        "ordinal": 56,
+        "address": 8288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0float32@default@@QEAA@M@Z",
+        "ordinal": 57,
+        "address": 10592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0float64@default@@QEAA@N@Z",
+        "ordinal": 58,
+        "address": 10880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0int16@default@@QEAA@F@Z",
+        "ordinal": 59,
+        "address": 8288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0int32@default@@QEAA@H@Z",
+        "ordinal": 60,
+        "address": 9472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0int64@default@@QEAA@_J@Z",
+        "ordinal": 61,
+        "address": 10032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0int8@default@@QEAA@C@Z",
+        "ordinal": 62,
+        "address": 8576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0uint16@default@@QEAA@G@Z",
+        "ordinal": 63,
+        "address": 8288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0uint32@default@@QEAA@I@Z",
+        "ordinal": 64,
+        "address": 9472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0uint64@default@@QEAA@_K@Z",
+        "ordinal": 65,
+        "address": 10032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??0uint8@default@@QEAA@E@Z",
+        "ordinal": 66,
+        "address": 8576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BIntPtr@Platform@@SA?AV01@H@Z",
+        "ordinal": 67,
+        "address": 17104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BIntPtr@Platform@@SA?AV01@PEAX@Z",
+        "ordinal": 68,
+        "address": 10032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BIntPtr@Platform@@SAPEAXV01@@Z",
+        "ordinal": 69,
+        "address": 17120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BType@Platform@@SA?AVTypeName@Interop@Xaml@UI@Windows@@PE$AAV01@@Z",
+        "ordinal": 70,
+        "address": 152240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??BType@Platform@@SAPE$AAV01@VTypeName@Interop@Xaml@UI@Windows@@@Z",
+        "ordinal": 71,
+        "address": 152720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??DMatrix3D@Media3D@Media@Xaml@UI@Windows@@SA?AV012345@V012345@0@Z",
+        "ordinal": 72,
+        "address": 16032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??GDuration@Xaml@UI@Windows@@SA?AV0123@V0123@0@Z",
+        "ordinal": 73,
+        "address": 12848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??HDuration@Xaml@UI@Windows@@SA?AV0123@V0123@0@Z",
+        "ordinal": 74,
+        "address": 12784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??MDuration@Xaml@UI@Windows@@SA_NV0123@0@Z",
+        "ordinal": 75,
+        "address": 13024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??NDuration@Xaml@UI@Windows@@SA_NV0123@0@Z",
+        "ordinal": 76,
+        "address": 13072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??ODuration@Xaml@UI@Windows@@SA_NV0123@0@Z",
+        "ordinal": 77,
+        "address": 12912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "??PDuration@Xaml@UI@Windows@@SA_NV0123@0@Z",
+        "ordinal": 78,
+        "address": 12960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AlignedAllocate@Heap@Details@Platform@@SAPEAX_K00@Z",
+        "ordinal": 79,
+        "address": 116272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AlignedAllocate@Heap@Details@Platform@@SAPEAX_K0@Z",
+        "ordinal": 80,
+        "address": 116752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AlignedAllocateException@Heap@Details@Platform@@SAPEAX_K00@Z",
+        "ordinal": 81,
+        "address": 116624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AlignedAllocateException@Heap@Details@Platform@@SAPEAX_K0@Z",
+        "ordinal": 82,
+        "address": 116848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AlignedFree@Heap@Details@Platform@@SAXPEAX@Z",
+        "ordinal": 83,
+        "address": 116784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AlignedFreeException@Heap@Details@Platform@@SAXPEAX@Z",
+        "ordinal": 84,
+        "address": 116896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Allocate@Heap@Details@Platform@@SAPEAX_K0@Z",
+        "ordinal": 85,
+        "address": 116080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Allocate@Heap@Details@Platform@@SAPEAX_K@Z",
+        "ordinal": 86,
+        "address": 116032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AllocateException@Heap@Details@Platform@@SAPEAX_K0@Z",
+        "ordinal": 87,
+        "address": 116496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?AllocateException@Heap@Details@Platform@@SAPEAX_K@Z",
+        "ordinal": 88,
+        "address": 116800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Compare@Duration@Xaml@UI@Windows@@SAHV1234@0@Z",
+        "ordinal": 89,
+        "address": 13152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Contains@Rect@Foundation@Windows@@QEAA_NVPoint@23@@Z",
+        "ordinal": 90,
+        "address": 12144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateException@Exception@Platform@@SAPE$AAV12@H@Z",
+        "ordinal": 91,
+        "address": 109776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateException@Exception@Platform@@SAPE$AAV12@HPE$AAVString@2@@Z",
+        "ordinal": 92,
+        "address": 110688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?CreateValue@Details@Platform@@YAPE$AAVObject@2@W4TypeCode@2@PEBX@Z",
+        "ordinal": 93,
+        "address": 27728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EnableFactoryCache@@YAXXZ",
+        "ordinal": 94,
+        "address": 157664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EnumerateAllocatedObjects@Heap@Details@Platform@@SAXPE$AAVHeapEntryHandler@23@@Z",
+        "ordinal": 95,
+        "address": 117120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@Attribute@Metadata@Platform@@QE$AAA_NPE$AAVObject@3@@Z",
+        "ordinal": 96,
+        "address": 5344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@Boolean@Platform@@QEAA_NPE$AAVObject@2@@Z",
+        "ordinal": 97,
+        "address": 11232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@Delegate@Platform@@QE$AAA_NPE$AAVObject@2@@Z",
+        "ordinal": 98,
+        "address": 97104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@Enum@Platform@@QE$AAA_NPE$AAVObject@2@@Z",
+        "ordinal": 99,
+        "address": 138816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@Exception@Platform@@UE$AAA_NPE$AAVObject@2@@Z",
+        "ordinal": 100,
+        "address": 105056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@MTAThreadAttribute@Platform@@QE$AAA_NPE$AAVObject@2@@Z",
+        "ordinal": 101,
+        "address": 5808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@Object@Platform@@QE$AAA_NPE$AAV12@@Z",
+        "ordinal": 102,
+        "address": 119712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@OnePhaseConstructedAttribute@CompilerServices@Runtime@Platform@@QE$AAA_NPE$AAVObject@4@@Z",
+        "ordinal": 103,
+        "address": 6032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@STAThreadAttribute@Platform@@QE$AAA_NPE$AAVObject@2@@Z",
+        "ordinal": 104,
+        "address": 5568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@Type@Platform@@UE$AAA_NPE$AAVObject@2@@Z",
+        "ordinal": 105,
+        "address": 152064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@ValueType@Platform@@QE$AAA_NPE$AAVObject@2@@Z",
+        "ordinal": 106,
+        "address": 138816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@char16@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 107,
+        "address": 8352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@float32@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 108,
+        "address": 10656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@float64@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 109,
+        "address": 10944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@int16@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 110,
+        "address": 8976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@int32@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 111,
+        "address": 9536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@int64@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 112,
+        "address": 10096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@int8@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 113,
+        "address": 8640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@uint16@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 114,
+        "address": 9248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@uint32@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 115,
+        "address": 9808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@uint64@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 116,
+        "address": 10368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Equals@uint8@default@@QEAA_NPE$AAVObject@Platform@@@Z",
+        "ordinal": 117,
+        "address": 8704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EventSourceAdd@Details@Platform@@YA?AVEventRegistrationToken@Foundation@Windows@@PEAPEAXPEAUEventLock@12@PE$AAVDelegate@2@@Z",
+        "ordinal": 118,
+        "address": 99488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EventSourceGetTargetArray@Details@Platform@@YAPEAXPEAXPEAUEventLock@12@@Z",
+        "ordinal": 119,
+        "address": 98848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EventSourceGetTargetArrayEvent@Details@Platform@@YAPEAXPEAXIPEBXPEA_J@Z",
+        "ordinal": 120,
+        "address": 98944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EventSourceGetTargetArraySize@Details@Platform@@YAIPEAX@Z",
+        "ordinal": 121,
+        "address": 98928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EventSourceInitialize@Details@Platform@@YAXPEAPEAX@Z",
+        "ordinal": 122,
+        "address": 98784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EventSourceRemove@Details@Platform@@YAXPEAPEAXPEAUEventLock@12@VEventRegistrationToken@Foundation@Windows@@@Z",
+        "ordinal": 123,
+        "address": 100528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?EventSourceUninitialize@Details@Platform@@YAXPEAPEAX@Z",
+        "ordinal": 124,
+        "address": 98800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?FlushFactoryCache@@YAXXZ",
+        "ordinal": 125,
+        "address": 157680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Free@Heap@Details@Platform@@SAXPEAX@Z",
+        "ordinal": 126,
+        "address": 116736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?FreeException@Heap@Details@Platform@@SAXPEAX@Z",
+        "ordinal": 127,
+        "address": 116832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetActivationFactory@Details@Platform@@YAJPEAVModuleBase@1WRL@Microsoft@@PEAUHSTRING__@@PEAPEAUIActivationFactory@@@Z",
+        "ordinal": 128,
+        "address": 154496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetActivationFactoryByPCWSTR@@YAJPEAXAEAVGuid@Platform@@PEAPEAX@Z",
+        "ordinal": 129,
+        "address": 157712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetCmdArguments@Details@Platform@@YAPEAPEA_WPEAH@Z",
+        "ordinal": 130,
+        "address": 154784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@Attribute@Metadata@Platform@@QE$AAAHXZ",
+        "ordinal": 131,
+        "address": 5264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@Boolean@Platform@@QEAAHXZ",
+        "ordinal": 132,
+        "address": 11536,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@Delegate@Platform@@QE$AAAHXZ",
+        "ordinal": 133,
+        "address": 97088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@Enum@Platform@@QE$AAAHXZ",
+        "ordinal": 134,
+        "address": 138656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@Exception@Platform@@UE$AAAHXZ",
+        "ordinal": 135,
+        "address": 105296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@Guid@Platform@@QEAAHXZ",
+        "ordinal": 136,
+        "address": 8176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@MTAThreadAttribute@Platform@@QE$AAAHXZ",
+        "ordinal": 137,
+        "address": 5728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@Object@Platform@@QE$AAAHXZ",
+        "ordinal": 138,
+        "address": 118064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@OnePhaseConstructedAttribute@CompilerServices@Runtime@Platform@@QE$AAAHXZ",
+        "ordinal": 139,
+        "address": 5728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@STAThreadAttribute@Platform@@QE$AAAHXZ",
+        "ordinal": 140,
+        "address": 5264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@Type@Platform@@UE$AAAHXZ",
+        "ordinal": 141,
+        "address": 138656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@ValueType@Platform@@QE$AAAHXZ",
+        "ordinal": 142,
+        "address": 138656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@char16@default@@QEAAHXZ",
+        "ordinal": 143,
+        "address": 8096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@float32@default@@QEAAHXZ",
+        "ordinal": 144,
+        "address": 8224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@float64@default@@QEAAHXZ",
+        "ordinal": 145,
+        "address": 8256,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@int16@default@@QEAAHXZ",
+        "ordinal": 146,
+        "address": 8144,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@int32@default@@QEAAHXZ",
+        "ordinal": 147,
+        "address": 8176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@int64@default@@QEAAHXZ",
+        "ordinal": 148,
+        "address": 8192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@int8@default@@QEAAHXZ",
+        "ordinal": 149,
+        "address": 8112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@uint16@default@@QEAAHXZ",
+        "ordinal": 150,
+        "address": 8160,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@uint32@default@@QEAAHXZ",
+        "ordinal": 151,
+        "address": 8176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@uint64@default@@QEAAHXZ",
+        "ordinal": 152,
+        "address": 8208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetHashCode@uint8@default@@QEAAHXZ",
+        "ordinal": 153,
+        "address": 8128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetIBoxArrayVtable@Details@Platform@@YAPEAXPEAX@Z",
+        "ordinal": 154,
+        "address": 27712,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetIBoxVtable@Details@Platform@@YAPEAXPEAX@Z",
+        "ordinal": 155,
+        "address": 17648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetIidsFn@@YAJHPEAKPEBU__s_GUID@@PEAPEAVGuid@Platform@@@Z",
+        "ordinal": 156,
+        "address": 159744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetObjectContext@Details@Platform@@YAPEAUIUnknown@@XZ",
+        "ordinal": 157,
+        "address": 163232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetProxyImpl@Details@Platform@@YAJPEAUIUnknown@@AEBU_GUID@@0PEAPEAU3@@Z",
+        "ordinal": 158,
+        "address": 163376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@Boolean@Platform@@QEAAPE$AAVType@2@XZ",
+        "ordinal": 159,
+        "address": 11184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@Guid@Platform@@QEAAPE$AAVType@2@XZ",
+        "ordinal": 160,
+        "address": 11792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@Object@Platform@@QE$AAAPE$AAVType@2@XZ",
+        "ordinal": 161,
+        "address": 119648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@char16@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 162,
+        "address": 8304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@float32@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 163,
+        "address": 10608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@float64@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 164,
+        "address": 10896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@int16@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 165,
+        "address": 8928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@int32@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 166,
+        "address": 9488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@int64@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 167,
+        "address": 10048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@int8@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 168,
+        "address": 8592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@uint16@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 169,
+        "address": 9200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@uint32@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 170,
+        "address": 9760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@uint64@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 171,
+        "address": 10320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetType@uint8@default@@QEAAPE$AAVType@Platform@@XZ",
+        "ordinal": 172,
+        "address": 8656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetTypeCode@Type@Platform@@SA?AW4TypeCode@2@PE$AAV12@@Z",
+        "ordinal": 173,
+        "address": 152000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?GetWeakReference@Details@Platform@@YAPEAU__abi_IUnknown@@QE$ADVObject@2@@Z",
+        "ordinal": 174,
+        "address": 162736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?InitControlBlock@ControlBlock@Details@Platform@@AEAAXPEAX_N11@Z",
+        "ordinal": 175,
+        "address": 162688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?InitializeData@Details@Platform@@YAJH@Z",
+        "ordinal": 176,
+        "address": 154400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Intersect@Rect@Foundation@Windows@@QEAAXV123@@Z",
+        "ordinal": 177,
+        "address": 12352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?IntersectsWith@Rect@Foundation@Windows@@QEAA_NV123@@Z",
+        "ordinal": 178,
+        "address": 12272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Invert@Matrix3D@Media3D@Media@Xaml@UI@Windows@@QEAAXXZ",
+        "ordinal": 179,
+        "address": 13824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ReCreateException@Exception@Platform@@SAPE$AAV12@H@Z",
+        "ordinal": 180,
+        "address": 109744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ReferenceEquals@Object@Platform@@SA_NPE$AAV12@0@Z",
+        "ordinal": 181,
+        "address": 97104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ReferenceEquals@Object@Platform@@SA_NPE$AAVString@2@0@Z",
+        "ordinal": 182,
+        "address": 138576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?RegisterFactories@Details@Platform@@YAPE$AAVObject@2@PEAPEAVModuleBase@1WRL@Microsoft@@PEAPEAU__abi_Module@@P6AXXZ@Z",
+        "ordinal": 183,
+        "address": 148080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ReleaseInContextImpl@Details@Platform@@YAJPEAUIUnknown@@0@Z",
+        "ordinal": 184,
+        "address": 163600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ReleaseTarget@ControlBlock@Details@Platform@@AEAAXXZ",
+        "ordinal": 185,
+        "address": 162496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ResolveWeakReference@Details@Platform@@YAPE$AAVObject@2@AEBU_GUID@@PEAPEAU__abi_IUnknown@@@Z",
+        "ordinal": 186,
+        "address": 163152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?RunApplicationServer@Details@Platform@@YAXPEAPEAVModuleBase@1WRL@Microsoft@@PEAPEAU__abi_Module@@PEB_W@Z",
+        "ordinal": 187,
+        "address": 148976,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?RunServer@Details@Platform@@YAXPEAPEAVModuleBase@1WRL@Microsoft@@PEAPEAU__abi_Module@@PEB_W@Z",
+        "ordinal": 188,
+        "address": 148416,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?TerminateModule@Details@Platform@@YA_NPEAVModuleBase@1WRL@Microsoft@@@Z",
+        "ordinal": 189,
+        "address": 154768,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToInt32@IntPtr@Platform@@QEAAHXZ",
+        "ordinal": 190,
+        "address": 8176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@Attribute@Metadata@Platform@@QE$AAAPE$AAVString@3@XZ",
+        "ordinal": 191,
+        "address": 5280,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@Boolean@Platform@@QEAAPE$AAVString@2@XZ",
+        "ordinal": 192,
+        "address": 11456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@Delegate@Platform@@QE$AAAPE$AAVString@2@XZ",
+        "ordinal": 193,
+        "address": 97008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@Enum@Platform@@QE$AAAPE$AAVString@2@XZ",
+        "ordinal": 194,
+        "address": 138672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@Exception@Platform@@UE$AAAPE$AAVString@2@XZ",
+        "ordinal": 195,
+        "address": 105008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@Guid@Platform@@QEAAPE$AAVString@2@XZ",
+        "ordinal": 196,
+        "address": 11552,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@MTAThreadAttribute@Platform@@QE$AAAPE$AAVString@2@XZ",
+        "ordinal": 197,
+        "address": 5744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@OnePhaseConstructedAttribute@CompilerServices@Runtime@Platform@@QE$AAAPE$AAVString@4@XZ",
+        "ordinal": 198,
+        "address": 5968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@STAThreadAttribute@Platform@@QE$AAAPE$AAVString@2@XZ",
+        "ordinal": 199,
+        "address": 5504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@Type@Platform@@UE$AAAPE$AAVString@2@XZ",
+        "ordinal": 200,
+        "address": 152016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@ValueType@Platform@@QE$AAAPE$AAVString@2@XZ",
+        "ordinal": 201,
+        "address": 138672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@char16@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 202,
+        "address": 8016,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@float32@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 203,
+        "address": 7760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@float64@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 204,
+        "address": 7888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@int16@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 205,
+        "address": 6992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@int32@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 206,
+        "address": 7248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@int64@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 207,
+        "address": 7504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@int8@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 208,
+        "address": 6736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@uint16@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 209,
+        "address": 7120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@uint32@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 210,
+        "address": 7376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@uint64@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 211,
+        "address": 7632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?ToString@uint8@default@@QEAAPE$AAVString@Platform@@XZ",
+        "ordinal": 212,
+        "address": 6864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?UninitializeData@Details@Platform@@YAXH@Z",
+        "ordinal": 213,
+        "address": 154464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Union@Rect@Foundation@Windows@@QEAAXV123@@Z",
+        "ordinal": 214,
+        "address": 12528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?Union@Rect@Foundation@Windows@@QEAAXVPoint@23@@Z",
+        "ordinal": 215,
+        "address": 12208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?WriteLine@Console@Details@Platform@@SAXPE$AAVObject@3@@Z",
+        "ordinal": 216,
+        "address": 96816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?WriteLine@Console@Details@Platform@@SAXPE$AAVString@3@@Z",
+        "ordinal": 217,
+        "address": 96784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?WriteLine@Console@Details@Platform@@SAXXZ",
+        "ordinal": 218,
+        "address": 96992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_FailFast@@YAXXZ",
+        "ordinal": 219,
+        "address": 154304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_ObjectToString@__abi_details@@YAPE$AAVString@Platform@@PE$AAVObject@3@_N@Z",
+        "ordinal": 220,
+        "address": 138832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_Resolve@ControlBlock@Details@Platform@@UEAAJAEAVGuid@3@PEAPEAU__abi_IInspectable@@@Z",
+        "ordinal": 221,
+        "address": 162592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseAccessDeniedException@@YAXXZ",
+        "ordinal": 222,
+        "address": 109008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseCOMException@@YAXJ@Z",
+        "ordinal": 223,
+        "address": 109584,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseChangedStateException@@YAXXZ",
+        "ordinal": 224,
+        "address": 109264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseClassNotRegisteredException@@YAXXZ",
+        "ordinal": 225,
+        "address": 109328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseDisconnectedException@@YAXXZ",
+        "ordinal": 226,
+        "address": 109456,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseFailureException@@YAXXZ",
+        "ordinal": 227,
+        "address": 108944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseInvalidArgumentException@@YAXXZ",
+        "ordinal": 228,
+        "address": 109136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseInvalidCastException@@YAXXZ",
+        "ordinal": 229,
+        "address": 108752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseNotImplementedException@@YAXXZ",
+        "ordinal": 230,
+        "address": 108688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseNullReferenceException@@YAXXZ",
+        "ordinal": 231,
+        "address": 108816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseObjectDisposedException@@YAXXZ",
+        "ordinal": 232,
+        "address": 109520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseOperationCanceledException@@YAXXZ",
+        "ordinal": 233,
+        "address": 108880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseOutOfBoundsException@@YAXXZ",
+        "ordinal": 234,
+        "address": 109200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseOutOfMemoryException@@YAXXZ",
+        "ordinal": 235,
+        "address": 109072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_WinRTraiseWrongThreadException@@YAXXZ",
+        "ordinal": 236,
+        "address": 109392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_cast_Object_to_String@__abi_details@@YAPE$AAVString@Platform@@_NPE$AAVObject@3@@Z",
+        "ordinal": 237,
+        "address": 150352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_cast_String_to_Object@__abi_details@@YAPE$AAVObject@Platform@@PE$AAVString@3@@Z",
+        "ordinal": 238,
+        "address": 150320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_make_type_id@@YAPE$AAVType@Platform@@AEBU__abi_type_descriptor@@@Z",
+        "ordinal": 239,
+        "address": 152896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__abi_translateCurrentException@@YAJ_N@Z",
+        "ordinal": 240,
+        "address": 109632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?__getActivationFactoryByHSTRING@@YAJPEAUHSTRING__@@AEAVGuid@Platform@@PEAPEAX@Z",
+        "ordinal": 241,
+        "address": 154896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@Bottom@Rect@Foundation@Windows@@QEAAMXZ",
+        "ordinal": 242,
+        "address": 12112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@BreakOnAllocationId@Heap@Details@Platform@@SAHXZ",
+        "ordinal": 243,
+        "address": 117040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@BreakOnFreeId@Heap@Details@Platform@@SAHXZ",
+        "ordinal": 244,
+        "address": 117072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@CurrentAllocationId@Heap@Details@Platform@@SAHXZ",
+        "ordinal": 245,
+        "address": 117024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@Empty@Rect@Foundation@Windows@@SA?AV234@XZ",
+        "ordinal": 246,
+        "address": 11952,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@Empty@Size@Foundation@Windows@@SA?AV234@XZ",
+        "ordinal": 247,
+        "address": 11840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@FullName@Type@Platform@@QE$AAAPE$AAVString@3@XZ",
+        "ordinal": 248,
+        "address": 151936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@HasInverse@Matrix3D@Media3D@Media@Xaml@UI@Windows@@QEAA_NXZ",
+        "ordinal": 249,
+        "address": 13248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@Message@Exception@Platform@@QE$AAAPE$AAVString@3@XZ",
+        "ordinal": 250,
+        "address": 105312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@ObjectCount@Heap@Details@Platform@@SAHXZ",
+        "ordinal": 251,
+        "address": 117104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@Right@Rect@Foundation@Windows@@QEAAMXZ",
+        "ordinal": 252,
+        "address": 12080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?get@TrackingLevel@Heap@Details@Platform@@SA?AW4HeapAllocationTrackingLevel@34@XZ",
+        "ordinal": 253,
+        "address": 116912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set@BreakOnAllocationId@Heap@Details@Platform@@SAXH@Z",
+        "ordinal": 254,
+        "address": 117056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set@BreakOnFreeId@Heap@Details@Platform@@SAXH@Z",
+        "ordinal": 255,
+        "address": 117088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "?set@TrackingLevel@Heap@Details@Platform@@SAXW4HeapAllocationTrackingLevel@34@@Z",
+        "ordinal": 256,
+        "address": 116928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 2,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 321696,
+        "size": 876,
+        "entropy": 3.507573,
+        "sha256": "4716ed053b00d37e426730f9d3b9422ddadf7d18c840ea949f51e60bf64610f6",
+        "magic_head": "6c03340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 322576,
+        "size": 381,
+        "entropy": 4.911615,
+        "sha256": "4bb79dcea0a901f7d9eac5aa05728ae92acb42e0cb22e5dd14134f4421a3d8df",
+        "magic_head": "3c3f786d6c207665"
+      }
+    ],
+    "total_size": 1257,
+    "max_entropy": 4.911615
+  },
+  "digital_signature": {
+    "signature_present": 1,
+    "verification_flag": "OK",
+    "signature_count": 1,
+    "certificates": [
+      {
+        "version": 3,
+        "subject": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Software Compatibility Publisher",
+        "issuer": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Third Party Component CA 2013",
+        "serial_number": "330000012a9ab109de647902ec00000000012a",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2026-3-5",
+        "valid_to": "2027-3-3",
+        "is_ca": 0,
+        "key_usage": []
+      },
+      {
+        "version": 3,
+        "subject": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Windows Third Party Component CA 2013",
+        "issuer": "C=US, ST=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Root Certificate Authority 2011",
+        "serial_number": "33000000149dfbc31f1f63c310000000000014",
+        "signature_algorithm": "1.2.840.113549.1.1.11",
+        "valid_from": "2013-5-1",
+        "valid_to": "2028-5-1",
+        "is_ca": 1,
+        "key_usage": [
+          "KEY_USAGE.CRL_SIGN",
+          "KEY_USAGE.KEY_CERT_SIGN",
+          "KEY_USAGE.DIGITAL_SIGNATURE"
+        ]
+      }
+    ]
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 2089650346,
+    "entries": [
+      {
+        "id": 258,
+        "build_id": 35721,
+        "count": 1
+      },
+      {
+        "id": 151,
+        "build_id": 0,
+        "count": 1
+      },
+      {
+        "id": 255,
+        "build_id": 35721,
+        "count": 1
+      },
+      {
+        "id": 256,
+        "build_id": 35721,
+        "count": 1
+      },
+      {
+        "id": 265,
+        "build_id": 35721,
+        "count": 17
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 110
+      },
+      {
+        "id": 257,
+        "build_id": 33145,
+        "count": 7
+      },
+      {
+        "id": 261,
+        "build_id": 35721,
+        "count": 27
+      },
+      {
+        "id": 260,
+        "build_id": 35721,
+        "count": 8
+      },
+      {
+        "id": 259,
+        "build_id": 35721,
+        "count": 4
+      },
+      {
+        "id": 257,
+        "build_id": 35721,
+        "count": 6
+      },
+      {
+        "id": 147,
+        "build_id": 30729,
+        "count": 16
+      }
+    ],
+    "raw_hex": "eee9e32faa888d7caa888d7caa888d7ca3f01e7cba888d7c23038c7dac888d7c23038e7dae888d7c2303897da2888d7c2303887db1888d7cd3098c7dad888d7caa888c7cc4888d7c2303847dbb888d7c23038d7dab888d7c2303727cab888d7caa881a7cab888d7c23038f7dab888d7c52696368aa888d7c",
+    "raw_offset": 128,
+    "raw_size": 120,
+    "entry_count": 12
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 254192,
+      "size": 16004,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 270196,
+      "size": 300,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 327680,
+      "size": 1424,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 319488,
+      "size": 8016,
+      "section": ".pdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 330240,
+      "size": 20408,
+      "section": null,
+      "outside_sections": 1
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 331776,
+      "size": 6872,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 188960,
+      "size": 112,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 188640,
+      "size": 320,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 172032,
+      "size": 952,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": null,
+    "ui_access": null,
+    "size": 381
+  },
+  "entrypoint_bytes": {
+    "offset": 163136,
+    "hex": "48895c24084889742410574883ec20498bf88bda488bf183fa017505e85f0300004c8bc78bd3488bce488b5c2430488b7424384883c4205fe983feffffcccccc",
+    "entropy": 4.706955
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 6442725440,
+    "se_handler_count": 0,
+    "guard_cf_function_count": 1331,
+    "guard_flags": 272725248
+  },
+  "tls": {
+    "has_tls": 0,
+    "callback_count": 0,
+    "callbacks": null,
+    "addressof_callbacks": null,
+    "addressof_index": null,
+    "addressof_raw_data_start": null,
+    "addressof_raw_data_end": null,
+    "raw_data_size": null,
+    "sizeof_zero_fill": null,
+    "characteristics": null,
+    "section": null,
+    "data_template_hex": null,
+    "data_template_entropy": null
+  },
+  "exception_dir": {
+    "rva": 319488,
+    "size": 8016,
+    "runtime_function_count": 668
+  },
+  "section_layout_qc": {
+    "gaps": 3,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 6,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 1220
+  },
+  "optional_header": {
+    "magic": "PE32_PLUS",
+    "major_linker_version": 14,
+    "minor_linker_version": 50,
+    "sizeof_code": 167424,
+    "sizeof_initialized_data": 161792,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 166208,
+    "baseof_code": 4096,
+    "baseof_data": null,
+    "imagebase": 6442450944,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 6,
+    "minor_operating_system_version": 0,
+    "major_image_version": 10,
+    "minor_image_version": 0,
+    "major_subsystem_version": 6,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 339968,
+    "sizeof_headers": 1024,
+    "checksum": 366299,
+    "subsystem": "WINDOWS_CUI",
+    "dll_characteristics_raw": 16736,
+    "dll_characteristics": [
+      "HIGH_ENTROPY_VA",
+      "DYNAMIC_BASE",
+      "NX_COMPAT",
+      "GUARD_CF"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 192,
+    "entropy": 5.14714,
+    "is_standard_ms": 1,
+    "sha256": "84bb96077d3cb2f29a8ab5311e034884c5d6684bc751c5689d5d4d5a16674fe1",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a2400000000000000eee9e32faa888d7caa888d7caa888d7ca3f01e7cba888d7c23038c7dac888d7c23038e7dae888d7c2303897da2888d7c2303887db1888d7cd3098c7dad888d7caa888c7cc4888d7c2303847dbb888d7c23038d7dab888d7c2303727cab888d7caa881a7cab888d7c23038f7dab888d7c52696368aa888d7c0000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ / | | | | |# } |# } |# } |# } | } | | |# } |# } |# r| | | |# } |Rich |",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 366299,
+    "checksum_computed": 366299,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 166208,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.248071
+  },
+  "overlay": {
+    "size": 20408,
+    "offset": 330240,
+    "entropy": 7.508439,
+    "magic_head": "b84f00000002020030824faa06092a86",
+    "sha256": "0538344df2c89566aeb07a833489b0ebd5134af43a4978c7448cbbbab032ec43"
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 4,
+    "types": [
+      "CODEVIEW",
+      "POGO",
+      "REPRO",
+      "EX_DLLCHARACTERISTICS"
+    ],
+    "pdb_path": "D:\\a\\_work\\1\\s\\binaries\\amd64ret\\bin\\amd64\\vccorlib140.amd64.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 16,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "Microsoft Corporation",
+    "file_description": "Microsoft \u00ae VC WinRT core library",
+    "original_filename": "vccorlib140.DLL",
+    "product_name": "Microsoft\u00ae Visual Studio\u00ae",
+    "file_version": "14.51.36247.0",
+    "legal_copyright": "\u00a9 Microsoft Corporation. All rights reserved.",
+    "internal_name": "vccorlib140.DLL"
+  },
+  "strings": {
+    "count_ascii": 2754,
+    "count_utf16": 133,
+    "count_total": 2887,
+    "chars_total": 44770,
+    "printable_ratio": 0.127678,
+    "len_mean": 15.51,
+    "len_max": 253,
+    "urls": [
+      "http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0",
+      "http://www.microsoft.com0"
+    ],
+    "n_urls": 2,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "api-ms-win-core-winrt-error-l1-1-0.dll",
+      "api-ms-win-core-winrt-l1-1-0.dll",
+      "api-ms-win-core-winrt-string-l1-1-0.dll",
+      "api-ms-win-crt-heap-l1-1-0.dll",
+      "api-ms-win-crt-math-l1-1-0.dll",
+      "api-ms-win-crt-runtime-l1-1-0.dll",
+      "api-ms-win-crt-stdio-l1-1-0.dll",
+      "api-ms-win-crt-string-l1-1-0.dll",
+      "gcombase.dll",
+      "kernel32.dll",
+      "msvcp140.dll",
+      "ole32.dll",
+      "oleaut32.dll",
+      "vccorlib140.dll",
+      "vcruntime140.dll",
+      "vcruntime140_1.dll"
+    ],
+    "n_dll_names": 16,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [
+      "D:\\a\\_work\\1\\s\\binaries\\amd64ret\\bin\\amd64\\vccorlib140.amd64.pdb"
+    ],
+    "n_file_paths": 1
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "gcombase.dll",
+      "vccorlib140.dll"
+    ],
+    "n_orphans": 2,
+    "n_imported": 14
+  }
+}

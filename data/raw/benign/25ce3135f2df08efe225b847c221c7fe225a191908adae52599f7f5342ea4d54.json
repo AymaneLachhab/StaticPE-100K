@@ -1,0 +1,4961 @@
+{
+  "sha256": "25ce3135f2df08efe225b847c221c7fe225a191908adae52599f7f5342ea4d54",
+  "label": "benign",
+  "pe_parsed": true,
+  "general_info": {
+    "size_bytes": 1553920,
+    "md5": "3a29941c1db9f1d3662d7354cc56c9af",
+    "sha1": "9224b76723b69c0f864ffcb1bb19b8d31fd70fef",
+    "imphash": "68f9c5f51765a98c7cda0580074313da",
+    "tlsh": "T1D0757B42FE82DB52E1AF4574C8A5D7F5422ACC011B018AC77B10BE53FC762E25EF925A",
+    "ssdeep": "24576:4kpbrjudhlxpuLZH63U1xt0IFTANN7TcUN4NCWPFJuhzPDpfk5hbRF:P4IFH+TcUN4EXVPRk7bv",
+    "file_type": "dll"
+  },
+  "byte_features": {
+    "file_entropy": 6.272903,
+    "byte_histogram_256": [
+      0.29203048,
+      0.03205828,
+      0.01075924,
+      0.00514183,
+      0.00831446,
+      0.00484967,
+      0.00216678,
+      0.00212109,
+      0.00489086,
+      0.00223435,
+      0.00372091,
+      0.00226653,
+      0.00449894,
+      0.00223435,
+      0.0050408,
+      0.00698942,
+      0.01115437,
+      0.00134499,
+      0.00149429,
+      0.00221054,
+      0.00300209,
+      0.00199689,
+      0.00201619,
+      0.00180769,
+      0.00365012,
+      0.00147112,
+      0.00145632,
+      0.00128964,
+      0.00293966,
+      0.00127741,
+      0.00320287,
+      0.00295832,
+      0.00360636,
+      0.00248597,
+      0.0016172,
+      0.0014029,
+      0.01091176,
+      0.00226266,
+      0.00159403,
+      0.00172467,
+      0.00221762,
+      0.00146147,
+      0.00122529,
+      0.00222019,
+      0.00320094,
+      0.00182313,
+      0.00128449,
+      0.0012594,
+      0.00446999,
+      0.001966,
+      0.00193704,
+      0.00318807,
+      0.00248018,
+      0.00165131,
+      0.00167447,
+      0.00161849,
+      0.00243642,
+      0.0019113,
+      0.00161527,
+      0.00359928,
+      0.0023135,
+      0.00190679,
+      0.0016127,
+      0.00180061,
+      0.00337984,
+      0.00242162,
+      0.00187783,
+      0.00193189,
+      0.00494813,
+      0.00262948,
+      0.00245637,
+      0.00247632,
+      0.0018907,
+      0.00165066,
+      0.001558,
+      0.00161205,
+      0.00290491,
+      0.00201748,
+      0.00234439,
+      0.00239202,
+      0.00404332,
+      0.00249884,
+      0.00215005,
+      0.00295511,
+      0.00302654,
+      0.00299114,
+      0.00320351,
+      0.0030259,
+      0.00230514,
+      0.00335281,
+      0.00200396,
+      0.00275497,
+      0.00255805,
+      0.00282769,
+      0.0031501,
+      0.00405105,
+      0.00253102,
+      0.00357676,
+      0.00238365,
+      0.0027273,
+      0.0028264,
+      0.00365398,
+      0.0026475,
+      0.00257027,
+      0.0029506,
+      0.00346672,
+      0.00347637,
+      0.00235405,
+      0.00323054,
+      0.00278521,
+      0.00401372,
+      0.00335217,
+      0.00348409,
+      0.00206317,
+      0.00337212,
+      0.00362631,
+      0.00675904,
+      0.00475765,
+      0.00233796,
+      0.00303877,
+      0.00247503,
+      0.00205995,
+      0.00187011,
+      0.00178709,
+      0.00299822,
+      0.00215906,
+      0.00202777,
+      0.00174333,
+      0.00313208,
+      0.00320094,
+      0.00201233,
+      0.00775458,
+      0.00295511,
+      0.00500219,
+      0.00188298,
+      0.0020252,
+      0.0025973,
+      0.00589927,
+      0.00242548,
+      0.01367895,
+      0.00199817,
+      0.00458325,
+      0.00187461,
+      0.00182892,
+      0.00234053,
+      0.00183021,
+      0.00183471,
+      0.00176006,
+      0.00162878,
+      0.00152582,
+      0.00175749,
+      0.00175427,
+      0.00175878,
+      0.00176006,
+      0.00157408,
+      0.00162235,
+      0.00165131,
+      0.00170086,
+      0.00153805,
+      0.00153483,
+      0.00238751,
+      0.00182892,
+      0.00263205,
+      0.00107084,
+      0.00127677,
+      0.00117895,
+      0.00201169,
+      0.00284442,
+      0.00180383,
+      0.00167705,
+      0.00174655,
+      0.00190229,
+      0.00142478,
+      0.00128835,
+      0.00180769,
+      0.00142285,
+      0.0021597,
+      0.0017266,
+      0.00160369,
+      0.00157859,
+      0.00161977,
+      0.00156765,
+      0.00209277,
+      0.00213267,
+      0.00213331,
+      0.00173239,
+      0.00166547,
+      0.00172017,
+      0.00187397,
+      0.00164809,
+      0.00175041,
+      0.00179996,
+      0.00441207,
+      0.00279551,
+      0.0022247,
+      0.00349439,
+      0.00373121,
+      0.00194605,
+      0.00226588,
+      0.00345642,
+      0.00231286,
+      0.00202777,
+      0.00157666,
+      0.00160948,
+      0.00669597,
+      0.00164616,
+      0.00209985,
+      0.00183986,
+      0.00248018,
+      0.00198788,
+      0.00185338,
+      0.00165517,
+      0.00189456,
+      0.00188427,
+      0.00232316,
+      0.00186947,
+      0.00211916,
+      0.00141835,
+      0.0014782,
+      0.00161977,
+      0.00143379,
+      0.00136172,
+      0.00132053,
+      0.00157794,
+      0.00227875,
+      0.00164938,
+      0.00217643,
+      0.00143315,
+      0.00147884,
+      0.00142543,
+      0.00141256,
+      0.00164873,
+      0.00456587,
+      0.00288689,
+      0.0014235,
+      0.00306837,
+      0.00167898,
+      0.00151874,
+      0.0026623,
+      0.00146919,
+      0.0023238,
+      0.00163522,
+      0.0016423,
+      0.00214104,
+      0.00219831,
+      0.00171566,
+      0.00230578,
+      0.00175299,
+      0.00233088,
+      0.00240167,
+      0.00188748,
+      0.0019853,
+      0.00156507,
+      0.00158824,
+      0.00262111,
+      0.02761661
+    ],
+    "byte_entropy_histogram_256": [
+      0.0085198,
+      0.0,
+      1.997e-05,
+      4.19e-06,
+      1.93e-06,
+      3.87e-06,
+      8.7e-06,
+      1.224e-05,
+      2.25e-06,
+      6.4e-07,
+      6.4e-07,
+      3.2e-07,
+      0.0,
+      3.2e-07,
+      0.0,
+      3.2e-07,
+      0.00750845,
+      3.87e-06,
+      0.00017908,
+      4.67e-05,
+      4.252e-05,
+      2.77e-05,
+      2.416e-05,
+      1.031e-05,
+      0.0,
+      3.2e-07,
+      3.994e-05,
+      7.09e-06,
+      6.12e-06,
+      3.54e-06,
+      7.73e-06,
+      8.05e-06,
+      0.00302245,
+      2.9e-06,
+      4.026e-05,
+      2.544e-05,
+      2.963e-05,
+      1.353e-05,
+      7.41e-06,
+      1.288e-05,
+      1.61e-06,
+      9.7e-07,
+      5.669e-05,
+      1.578e-05,
+      2.448e-05,
+      4.026e-05,
+      3.64e-05,
+      0.0006271,
+      0.00648551,
+      1.031e-05,
+      4.767e-05,
+      1.739e-05,
+      3.672e-05,
+      3.221e-05,
+      3.382e-05,
+      2.738e-05,
+      5.48e-06,
+      4.83e-06,
+      0.00014655,
+      7.537e-05,
+      0.00013785,
+      0.00011402,
+      0.00010983,
+      0.00063064,
+      0.0155638,
+      5.121e-05,
+      0.00022192,
+      0.00010822,
+      0.00010339,
+      9.244e-05,
+      0.00364407,
+      0.00137563,
+      4.831e-05,
+      4.09e-05,
+      0.00025541,
+      0.0001984,
+      0.00025638,
+      0.00036847,
+      0.00037072,
+      0.00434557,
+      0.01927745,
+      0.00011048,
+      0.00017715,
+      0.00015782,
+      0.00020774,
+      0.00021676,
+      0.00059747,
+      0.00030405,
+      5.314e-05,
+      4.026e-05,
+      0.0004696,
+      0.00045253,
+      0.00067928,
+      0.0008255,
+      0.00088219,
+      0.0019338,
+      0.024034,
+      0.00073983,
+      0.00046509,
+      0.00045865,
+      0.00046863,
+      0.0006606,
+      0.00184877,
+      0.00097495,
+      0.00017876,
+      0.00017199,
+      0.00082711,
+      0.00065834,
+      0.00077816,
+      0.00098558,
+      0.00100297,
+      0.00400513,
+      0.03706138,
+      0.00205523,
+      0.00171671,
+      0.00115274,
+      0.00136274,
+      0.00132667,
+      0.00248134,
+      0.00167098,
+      0.0005746,
+      0.00058974,
+      0.00130251,
+      0.00113213,
+      0.00104323,
+      0.00086093,
+      0.00093308,
+      0.00278346,
+      0.06667165,
+      0.00358964,
+      0.00474528,
+      0.00514563,
+      0.005345,
+      0.00535306,
+      0.00616536,
+      0.00435105,
+      0.00131604,
+      0.00107512,
+      0.00160334,
+      0.00106997,
+      0.00108188,
+      0.00126451,
+      0.00147902,
+      0.00319992,
+      0.07727759,
+      0.00858712,
+      0.00533373,
+      0.00427955,
+      0.00368788,
+      0.00334679,
+      0.0052851,
+      0.00379706,
+      0.00241467,
+      0.00173636,
+      0.00458424,
+      0.00219501,
+      0.00222046,
+      0.00255156,
+      0.00264657,
+      0.00462096,
+      0.02946533,
+      0.0038982,
+      0.00231901,
+      0.00183782,
+      0.00154086,
+      0.00132603,
+      0.00234736,
+      0.00160237,
+      0.00086093,
+      0.00072598,
+      0.00275898,
+      0.0014526,
+      0.00137337,
+      0.00183363,
+      0.00245365,
+      0.00357064,
+      0.02420535,
+      0.00197438,
+      0.00273934,
+      0.00821962,
+      0.00424798,
+      0.00539139,
+      0.00628904,
+      0.00408662,
+      0.0050416,
+      0.00483643,
+      0.00484223,
+      0.00843477,
+      0.00654993,
+      0.00576887,
+      0.00566548,
+      0.00460936,
+      0.01370634,
+      0.00175118,
+      0.00255993,
+      0.00223463,
+      0.00348303,
+      0.004553,
+      0.00526545,
+      0.0048622,
+      0.00686396,
+      0.00655959,
+      0.00399482,
+      0.00553922,
+      0.00600399,
+      0.00453013,
+      0.0045691,
+      0.00399837,
+      0.0262142,
+      0.00719506,
+      0.00808917,
+      0.00531988,
+      0.00779479,
+      0.00895687,
+      0.00465413,
+      0.00916172,
+      0.01867483,
+      0.005097,
+      0.00279828,
+      0.00352265,
+      0.01064073,
+      0.00376904,
+      0.0048651,
+      0.0097901,
+      0.02996456,
+      0.01328537,
+      0.0114701,
+      0.00694609,
+      0.01010156,
+      0.01556574,
+      0.0098426,
+      0.01428609,
+      0.02679073,
+      0.00661821,
+      0.00459133,
+      0.00400803,
+      0.01327925,
+      0.00529959,
+      0.00770106,
+      0.01352146,
+      0.00018874,
+      3.768e-05,
+      0.00019422,
+      6.893e-05,
+      5.765e-05,
+      6.474e-05,
+      6.925e-05,
+      5.057e-05,
+      7.183e-05,
+      8.567e-05,
+      4.702e-05,
+      5.572e-05,
+      8.857e-05,
+      6.699e-05,
+      6.957e-05,
+      0.0001021
+    ]
+  },
+  "sections": [
+    {
+      "name": ".text",
+      "virtual_size": 362950,
+      "raw_size": 363008,
+      "virtual_address": 4096,
+      "pointerto_raw_data": 1024,
+      "entropy": 6.64786,
+      "characteristics": 1610612768,
+      "readable": 1,
+      "writable": 0,
+      "executable": 1
+    },
+    {
+      "name": ".rdata",
+      "virtual_size": 1112454,
+      "raw_size": 1112576,
+      "virtual_address": 368640,
+      "pointerto_raw_data": 364032,
+      "entropy": 5.948422,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".data",
+      "virtual_size": 56408,
+      "raw_size": 55296,
+      "virtual_address": 1482752,
+      "pointerto_raw_data": 1476608,
+      "entropy": 4.132544,
+      "characteristics": 3221225536,
+      "readable": 1,
+      "writable": 1,
+      "executable": 0
+    },
+    {
+      "name": ".rsrc",
+      "virtual_size": 2308,
+      "raw_size": 2560,
+      "virtual_address": 1540096,
+      "pointerto_raw_data": 1531904,
+      "entropy": 4.820427,
+      "characteristics": 1073741888,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    },
+    {
+      "name": ".reloc",
+      "virtual_size": 19012,
+      "raw_size": 19456,
+      "virtual_address": 1544192,
+      "pointerto_raw_data": 1534464,
+      "entropy": 6.620709,
+      "characteristics": 1107296320,
+      "readable": 1,
+      "writable": 0,
+      "executable": 0
+    }
+  ],
+  "dos_header": {
+    "magic": 23117,
+    "used_bytes_in_last_page": 144,
+    "file_size_in_pages": 3,
+    "numberof_relocation": 0,
+    "header_size_in_paragraphs": 4,
+    "minimum_extra_paragraphs": 0,
+    "maximum_extra_paragraphs": 65535,
+    "initial_relative_ss": 0,
+    "initial_sp": 184,
+    "checksum": 0,
+    "initial_ip": 0,
+    "initial_relative_cs": 0,
+    "addressof_relocation_table": 64,
+    "overlay_number": 0,
+    "oem_id": 0,
+    "oem_info": 0,
+    "addressof_new_exeheader": 280,
+    "e_lfanew_raw": 280,
+    "reserved1_hex": "0000000000000000",
+    "reserved2_hex": "0000000000000000000000000000000000000000",
+    "reserved_nonzero": 0,
+    "raw_hex": "4d5a90000300000004000000ffff0000b80000000000000040000000000000000000000000000000000000000000000000000000000000000000000018010000",
+    "raw_size": 64
+  },
+  "file_header": {
+    "machine": "I386",
+    "numberof_sections": 5,
+    "time_date_stamp": 1782878638,
+    "pointerto_symbol_table": 0,
+    "numberof_symbols": 0,
+    "sizeof_optional_header": 224,
+    "characteristics_raw": 8450,
+    "characteristics": [
+      "EXECUTABLE_IMAGE",
+      "NEED_32BIT_MACHINE",
+      "DLL"
+    ]
+  },
+  "dotnet": {
+    "is_dotnet": 0,
+    "runtime_major": null,
+    "runtime_minor": null,
+    "flags": null,
+    "entrypoint_token": null,
+    "has_strong_name": null,
+    "il_only": null,
+    "native_entrypoint": null
+  },
+  "imports": [
+    {
+      "name": "php8ts.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 368852,
+      "import_lookup_table_rva": 1476392,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "tsrm_get_ls_cache",
+          "hint": 3613,
+          "iat_address": 368852,
+          "iat_value": 1478392,
+          "data": 1478392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_empty_array",
+          "hint": 5286,
+          "iat_address": 368856,
+          "iat_value": 1478412,
+          "data": 1478412
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_argument_value_error",
+          "hint": 5080,
+          "iat_address": 368860,
+          "iat_value": 1478432,
+          "data": 1478432
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_safe_emalloc@@12",
+          "hint": 266,
+          "iat_address": 368864,
+          "iat_value": 1478460,
+          "data": 1478460
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_hash_update@@12",
+          "hint": 5526,
+          "iat_address": 368868,
+          "iat_value": 1478480,
+          "data": 1478480
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_hash_next_index_insert@@8",
+          "hint": 5503,
+          "iat_address": 368872,
+          "iat_value": 1478504,
+          "data": 1478504
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_array_dup@@4",
+          "hint": 5083,
+          "iat_address": 368876,
+          "iat_value": 1478538,
+          "data": 1478538
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_next_index_stringl",
+          "hint": 324,
+          "iat_address": 368880,
+          "iat_value": 1478558,
+          "data": 1478558
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_ref_del_type_source@@8",
+          "hint": 5813,
+          "iat_address": 368884,
+          "iat_value": 1478584,
+          "data": 1478584
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_alter_ini_entry",
+          "hint": 5068,
+          "iat_address": 368888,
+          "iat_value": 1478614,
+          "data": 1478614
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_memnstr_ex@@16",
+          "hint": 5658,
+          "iat_address": 368892,
+          "iat_value": 1478638,
+          "data": 1478638
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zval_ptr_safe_dtor",
+          "hint": 6107,
+          "iat_address": 368896,
+          "iat_value": 1478660,
+          "data": 1478660
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_multibyte_set_functions",
+          "hint": 5694,
+          "iat_address": 368900,
+          "iat_value": 1478682,
+          "data": 1478682
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_internal_encoding_changed",
+          "hint": 2870,
+          "iat_address": 368904,
+          "iat_value": 1478714,
+          "data": 1478714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_call_stack_size_error@@0",
+          "hint": 5164,
+          "iat_address": 368908,
+          "iat_value": 1478746,
+          "data": 1478746
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_pcre_create_match_data",
+          "hint": 3069,
+          "iat_address": 368912,
+          "iat_value": 1478778,
+          "data": 1478778
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_value_error",
+          "hint": 6036,
+          "iat_address": 368916,
+          "iat_value": 1478808,
+          "data": 1478808
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_ini_str",
+          "hint": 5562,
+          "iat_address": 368920,
+          "iat_value": 1478828,
+          "data": 1478828
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_pcre_cctx",
+          "hint": 3068,
+          "iat_address": 368924,
+          "iat_value": 1478844,
+          "data": 1478844
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_hash_str_find@@12",
+          "hint": 5521,
+          "iat_address": 368928,
+          "iat_value": 1478860,
+          "data": 1478860
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sapi_read_standard_form_data",
+          "hint": 3501,
+          "iat_address": 368932,
+          "iat_value": 1478886,
+          "data": 1478886
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_std_post_handler",
+          "hint": 3207,
+          "iat_address": 368936,
+          "iat_value": 1478918,
+          "data": 1478918
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_pcre2_code_free",
+          "hint": 3003,
+          "iat_address": 368940,
+          "iat_value": 1478942,
+          "data": 1478942
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_parse_arg_bool_slow@@12",
+          "hint": 5761,
+          "iat_address": 368944,
+          "iat_value": 1478964,
+          "data": 1478964
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_register_string_constant",
+          "hint": 5840,
+          "iat_address": 368948,
+          "iat_value": 1478996,
+          "data": 1478996
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_assoc_long_ex",
+          "hint": 293,
+          "iat_address": 368952,
+          "iat_value": 1479028,
+          "data": 1479028
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_one_char_string",
+          "hint": 5753,
+          "iat_address": 368956,
+          "iat_value": 1479048,
+          "data": 1479048
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_trim",
+          "hint": 3292,
+          "iat_address": 368960,
+          "iat_value": 1479072,
+          "data": 1479072
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_get_internal_encoding",
+          "hint": 2804,
+          "iat_address": 368964,
+          "iat_value": 1479084,
+          "data": 1479084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_unregister_ini_entries_ex",
+          "hint": 5996,
+          "iat_address": 368968,
+          "iat_value": 1479112,
+          "data": 1479112
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "display_ini_entries",
+          "hint": 427,
+          "iat_address": 368972,
+          "iat_value": 1479146,
+          "data": 1479146
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_wrong_parameter_error@@20",
+          "hint": 6074,
+          "iat_address": 368976,
+          "iat_value": 1479168,
+          "data": 1479168
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_info_print_table_row",
+          "hint": 2854,
+          "iat_address": 368980,
+          "iat_value": 1477688,
+          "data": 1477688
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sapi_add_header_ex",
+          "hint": 3476,
+          "iat_address": 368984,
+          "iat_value": 1479240,
+          "data": 1479240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_get_property_info_for_slot_slow",
+          "hint": 5440,
+          "iat_address": 368988,
+          "iat_value": 1479262,
+          "data": 1479262
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zval_try_get_long@@8",
+          "hint": 6109,
+          "iat_address": 368992,
+          "iat_value": 1479302,
+          "data": 1479302
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_wrong_parameters_count_error@@8",
+          "hint": 6076,
+          "iat_address": 368996,
+          "iat_value": 1479326,
+          "data": 1479326
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_zend_hash_init@@16",
+          "hint": 277,
+          "iat_address": 369000,
+          "iat_value": 1479366,
+          "data": 1479366
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sapi_unregister_post_entry",
+          "hint": 3511,
+          "iat_address": 369004,
+          "iat_value": 1479388,
+          "data": 1479388
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_get_input_encoding",
+          "hint": 2803,
+          "iat_address": 369008,
+          "iat_value": 1479418,
+          "data": 1479418
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "executor_globals_offset",
+          "hint": 490,
+          "iat_address": 369012,
+          "iat_value": 1478182,
+          "data": 1478182
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_next_index_str",
+          "hint": 322,
+          "iat_address": 369016,
+          "iat_value": 1478370,
+          "data": 1478370
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_pcre2_get_error_message",
+          "hint": 3016,
+          "iat_address": 369020,
+          "iat_value": 1479486,
+          "data": 1479486
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_info_print_table_header",
+          "hint": 2853,
+          "iat_address": 369024,
+          "iat_value": 1479516,
+          "data": 1479516
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_pcre2_compile",
+          "hint": 3004,
+          "iat_address": 369028,
+          "iat_value": 1479546,
+          "data": 1479546
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_string_concat2",
+          "hint": 5931,
+          "iat_address": 369032,
+          "iat_value": 1479566,
+          "data": 1479566
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_rfc1867_set_multibyte_callbacks",
+          "hint": 3160,
+          "iat_address": 369036,
+          "iat_value": 1479588,
+          "data": 1479588
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_throw_error",
+          "hint": 5948,
+          "iat_address": 369040,
+          "iat_value": 1479626,
+          "data": 1479626
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_array_destroy@@4",
+          "hint": 5082,
+          "iat_address": 369044,
+          "iat_value": 1479646,
+          "data": 1479646
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sapi_register_post_entries",
+          "hint": 3504,
+          "iat_address": 369048,
+          "iat_value": 1479670,
+          "data": 1479670
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_emalloc@@4",
+          "hint": 182,
+          "iat_address": 369052,
+          "iat_value": 1479700,
+          "data": 1479700
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_spprintf",
+          "hint": 5869,
+          "iat_address": 369056,
+          "iat_value": 1479714,
+          "data": 1479714
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_info_print_table_start",
+          "hint": 2856,
+          "iat_address": 369060,
+          "iat_value": 1479730,
+          "data": 1479730
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "ap_php_snprintf",
+          "hint": 342,
+          "iat_address": 369064,
+          "iat_value": 1479760,
+          "data": 1479760
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_cpu_supports",
+          "hint": 5232,
+          "iat_address": 369068,
+          "iat_value": 1479778,
+          "data": 1479778
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_error_noreturn",
+          "hint": 5299,
+          "iat_address": 369072,
+          "iat_value": 1479798,
+          "data": 1479798
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_assoc_bool_ex",
+          "hint": 291,
+          "iat_address": 369076,
+          "iat_value": 1479820,
+          "data": 1479820
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_next_index_long",
+          "hint": 317,
+          "iat_address": 369080,
+          "iat_value": 1479840,
+          "data": 1479840
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_make_compiled_string_description",
+          "hint": 5645,
+          "iat_address": 369084,
+          "iat_value": 1479862,
+          "data": 1479862
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_parse_parameters",
+          "hint": 5778,
+          "iat_address": 369088,
+          "iat_value": 1479902,
+          "data": 1479902
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_index_stringl",
+          "hint": 313,
+          "iat_address": 369092,
+          "iat_value": 1479926,
+          "data": 1479926
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_convert_to_string@@4",
+          "hint": 179,
+          "iat_address": 369096,
+          "iat_value": 1479946,
+          "data": 1479946
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_call_function",
+          "hint": 5157,
+          "iat_address": 369100,
+          "iat_value": 1479970,
+          "data": 1479970
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_assoc_stringl_ex",
+          "hint": 300,
+          "iat_address": 369104,
+          "iat_value": 1479992,
+          "data": 1479992
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_hash_str_update@@16",
+          "hint": 5523,
+          "iat_address": 369108,
+          "iat_value": 1480016,
+          "data": 1480016
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_index_bool",
+          "hint": 304,
+          "iat_address": 369112,
+          "iat_value": 1480044,
+          "data": 1480044
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_next_index_string",
+          "hint": 323,
+          "iat_address": 369116,
+          "iat_value": 1477664,
+          "data": 1477664
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_get_output_encoding",
+          "hint": 2807,
+          "iat_address": 369120,
+          "iat_value": 1477638,
+          "data": 1477638
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_register_ini_entries_ex",
+          "hint": 5824,
+          "iat_address": 369124,
+          "iat_value": 1477606,
+          "data": 1477606
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sapi_register_treat_data",
+          "hint": 3506,
+          "iat_address": 369128,
+          "iat_value": 1477578,
+          "data": 1477578
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_assoc_string_ex",
+          "hint": 299,
+          "iat_address": 369132,
+          "iat_value": 1477556,
+          "data": 1477556
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_parse_arg_str_slow@@12",
+          "hint": 5771,
+          "iat_address": 369136,
+          "iat_value": 1477526,
+          "data": 1477526
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_argument_must_not_be_empty_error",
+          "hint": 5078,
+          "iat_address": 369140,
+          "iat_value": 1477486,
+          "data": 1477486
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_parse_arg_str_or_long_slow@@16",
+          "hint": 5770,
+          "iat_address": 369144,
+          "iat_value": 1477448,
+          "data": 1477448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_hash_index_find@@8",
+          "hint": 5486,
+          "iat_address": 369148,
+          "iat_value": 1477422,
+          "data": 1477422
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_hash_index_add_new@@12",
+          "hint": 5483,
+          "iat_address": 369152,
+          "iat_value": 1477392,
+          "data": 1477392
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "rfc1867_post_handler",
+          "hint": 3472,
+          "iat_address": 369156,
+          "iat_value": 1477368,
+          "data": 1477368
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_register_long_constant",
+          "hint": 5834,
+          "iat_address": 369160,
+          "iat_value": 1478340,
+          "data": 1478340
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_memnrstr_ex@@16",
+          "hint": 5657,
+          "iat_address": 369164,
+          "iat_value": 1478316,
+          "data": 1478316
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_pcre_free_match_data",
+          "hint": 3070,
+          "iat_address": 369168,
+          "iat_value": 1477340,
+          "data": 1477340
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_pcre2_match",
+          "hint": 3028,
+          "iat_address": 369172,
+          "iat_value": 1478298,
+          "data": 1478298
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_output_handler_hook",
+          "hint": 2977,
+          "iat_address": 369176,
+          "iat_value": 1478272,
+          "data": 1478272
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__zend_malloc",
+          "hint": 175,
+          "iat_address": 369180,
+          "iat_value": 1478256,
+          "data": 1478256
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_mail_build_headers",
+          "hint": 2919,
+          "iat_address": 369184,
+          "iat_value": 1477314,
+          "data": 1477314
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_erealloc@@8",
+          "hint": 184,
+          "iat_address": 369188,
+          "iat_value": 1478240,
+          "data": 1478240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_empty_string",
+          "hint": 5287,
+          "iat_address": 369192,
+          "iat_value": 1477294,
+          "data": 1477294
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OnUpdateBool",
+          "hint": 2,
+          "iat_address": 369196,
+          "iat_value": 1477278,
+          "data": 1477278
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_try_assign_typed_ref_arr",
+          "hint": 5966,
+          "iat_address": 369200,
+          "iat_value": 1478150,
+          "data": 1478150
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_ini_str_ex",
+          "hint": 5563,
+          "iat_address": 369204,
+          "iat_value": 1478132,
+          "data": 1478132
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OnUpdateLong",
+          "hint": 3,
+          "iat_address": 369208,
+          "iat_value": 1478116,
+          "data": 1478116
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_hash_destroy@@4",
+          "hint": 5466,
+          "iat_address": 369212,
+          "iat_value": 1478092,
+          "data": 1478092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_str_tolower@@8",
+          "hint": 5916,
+          "iat_address": 369216,
+          "iat_value": 1479464,
+          "data": 1479464
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "smart_str_erealloc@@8",
+          "hint": 3528,
+          "iat_address": 369220,
+          "iat_value": 1478068,
+          "data": 1478068
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_mail",
+          "hint": 2918,
+          "iat_address": 369224,
+          "iat_value": 1477266,
+          "data": 1477266
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zval_ptr_dtor",
+          "hint": 6106,
+          "iat_address": 369228,
+          "iat_value": 1478052,
+          "data": 1478052
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_multibyte_restore_functions",
+          "hint": 5692,
+          "iat_address": 369232,
+          "iat_value": 1478016,
+          "data": 1478016
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_parse_arg_long_slow@@12",
+          "hint": 5766,
+          "iat_address": 369236,
+          "iat_value": 1477984,
+          "data": 1477984
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_hash_index_add@@12",
+          "hint": 5481,
+          "iat_address": 369240,
+          "iat_value": 1477958,
+          "data": 1477958
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_assoc_str_ex",
+          "hint": 298,
+          "iat_address": 369244,
+          "iat_value": 1477938,
+          "data": 1477938
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__zend_calloc",
+          "hint": 173,
+          "iat_address": 369248,
+          "iat_value": 1477922,
+          "data": 1477922
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_multibyte_set_internal_encoding",
+          "hint": 5695,
+          "iat_address": 369252,
+          "iat_value": 1477882,
+          "data": 1477882
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_info_print_table_end",
+          "hint": 2852,
+          "iat_address": 369256,
+          "iat_value": 1477854,
+          "data": 1477854
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_escape_shell_cmd",
+          "hint": 2780,
+          "iat_address": 369260,
+          "iat_value": 1477830,
+          "data": 1477830
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_binary_strcasecmp@@16",
+          "hint": 5143,
+          "iat_address": 369264,
+          "iat_value": 1477800,
+          "data": 1477800
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "add_assoc_zval_ex",
+          "hint": 301,
+          "iat_address": 369268,
+          "iat_value": 1477780,
+          "data": 1477780
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_lazy_object_get_property_info_for_slot",
+          "hint": 5613,
+          "iat_address": 369272,
+          "iat_value": 1477734,
+          "data": 1477734
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_pcre_mctx",
+          "hint": 3074,
+          "iat_address": 369276,
+          "iat_value": 1477250,
+          "data": 1477250
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_ini_boolean_displayer_cb",
+          "hint": 5544,
+          "iat_address": 369280,
+          "iat_value": 1478208,
+          "data": 1478208
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_hash_add@@12",
+          "hint": 5450,
+          "iat_address": 369284,
+          "iat_value": 1479444,
+          "data": 1479444
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "OnUpdateString",
+          "hint": 8,
+          "iat_address": 369288,
+          "iat_value": 1477716,
+          "data": 1477716
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zval_try_get_string_func@@4",
+          "hint": 6110,
+          "iat_address": 369292,
+          "iat_value": 1477220,
+          "data": 1477220
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_efree@@4",
+          "hint": 181,
+          "iat_address": 369296,
+          "iat_value": 1477208,
+          "data": 1477208
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sapi_handle_post",
+          "hint": 3495,
+          "iat_address": 369300,
+          "iat_value": 1477188,
+          "data": 1477188
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_php_stream_copy_to_mem",
+          "hint": 210,
+          "iat_address": 369304,
+          "iat_value": 1477162,
+          "data": 1477162
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_url_decode",
+          "hint": 3320,
+          "iat_address": 369308,
+          "iat_value": 1477144,
+          "data": 1477144
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_error_docref",
+          "hint": 2773,
+          "iat_address": 369312,
+          "iat_value": 1477124,
+          "data": 1477124
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_estrndup@@8",
+          "hint": 186,
+          "iat_address": 369316,
+          "iat_value": 1477108,
+          "data": 1477108
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_strtok_r",
+          "hint": 3284,
+          "iat_address": 369320,
+          "iat_value": 1477092,
+          "data": 1477092
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_php_stream_seek",
+          "hint": 252,
+          "iat_address": 369324,
+          "iat_value": 1477072,
+          "data": 1477072
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_estrdup@@4",
+          "hint": 185,
+          "iat_address": 369328,
+          "iat_value": 1477058,
+          "data": 1477058
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sapi_globals_offset",
+          "hint": 3494,
+          "iat_address": 369332,
+          "iat_value": 1477036,
+          "data": 1477036
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_zend_new_array@@4",
+          "hint": 285,
+          "iat_address": 369336,
+          "iat_value": 1477014,
+          "data": 1477014
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_register_variable_safe",
+          "hint": 3153,
+          "iat_address": 369340,
+          "iat_value": 1476984,
+          "data": 1476984
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "php_default_treat_data",
+          "hint": 2731,
+          "iat_address": 369344,
+          "iat_value": 1476958,
+          "data": 1476958
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "core_globals_offset",
+          "hint": 410,
+          "iat_address": 369348,
+          "iat_value": 1476936,
+          "data": 1476936
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_ecalloc@@8",
+          "hint": 180,
+          "iat_address": 369352,
+          "iat_value": 1476922,
+          "data": 1476922
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "zend_wrong_parameters_none_error@@0",
+          "hint": 6077,
+          "iat_address": 369356,
+          "iat_value": 1479202,
+          "data": 1479202
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "sapi_module",
+          "hint": 3498,
+          "iat_address": 369360,
+          "iat_value": 1476908,
+          "data": 1476908
+        }
+      ],
+      "function_count": 128
+    },
+    {
+      "name": "VCRUNTIME140.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 368692,
+      "import_lookup_table_rva": 1476232,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memchr",
+          "hint": 68,
+          "iat_address": 368692,
+          "iat_value": 1481074,
+          "data": 1481074
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcmp",
+          "hint": 69,
+          "iat_address": 368696,
+          "iat_value": 1481084,
+          "data": 1481084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strchr",
+          "hint": 74,
+          "iat_address": 368700,
+          "iat_value": 1480074,
+          "data": 1480074
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memcpy",
+          "hint": 70,
+          "iat_address": 368704,
+          "iat_value": 1480084,
+          "data": 1480084
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memset",
+          "hint": 72,
+          "iat_address": 368708,
+          "iat_value": 1480094,
+          "data": 1480094
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "memmove",
+          "hint": 71,
+          "iat_address": 368712,
+          "iat_value": 1480104,
+          "data": 1480104
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_except_handler4_common",
+          "hint": 53,
+          "iat_address": 368716,
+          "iat_value": 1480146,
+          "data": 1480146
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__std_type_info_destroy_list",
+          "hint": 37,
+          "iat_address": 368720,
+          "iat_value": 1480114,
+          "data": 1480114
+        }
+      ],
+      "function_count": 8
+    },
+    {
+      "name": "api-ms-win-crt-heap-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 368740,
+      "import_lookup_table_rva": 1476280,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "malloc",
+          "hint": 25,
+          "iat_address": 368740,
+          "iat_value": 1480282,
+          "data": 1480282
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "realloc",
+          "hint": 26,
+          "iat_address": 368744,
+          "iat_value": 1480292,
+          "data": 1480292
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "calloc",
+          "hint": 23,
+          "iat_address": 368748,
+          "iat_value": 1480426,
+          "data": 1480426
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "free",
+          "hint": 24,
+          "iat_address": 368752,
+          "iat_value": 1480190,
+          "data": 1480190
+        }
+      ],
+      "function_count": 4
+    },
+    {
+      "name": "api-ms-win-crt-string-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 368820,
+      "import_lookup_table_rva": 1476360,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "isdigit",
+          "hint": 104,
+          "iat_address": 368820,
+          "iat_value": 1480272,
+          "data": 1480272
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "isspace",
+          "hint": 110,
+          "iat_address": 368824,
+          "iat_value": 1480252,
+          "data": 1480252
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_stricmp",
+          "hint": 42,
+          "iat_address": 368828,
+          "iat_value": 1480240,
+          "data": 1480240
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "iscntrl",
+          "hint": 103,
+          "iat_address": 368832,
+          "iat_value": 1480230,
+          "data": 1480230
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strncmp",
+          "hint": 142,
+          "iat_address": 368836,
+          "iat_value": 1480210,
+          "data": 1480210
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_strnicmp",
+          "hint": 52,
+          "iat_address": 368840,
+          "iat_value": 1480198,
+          "data": 1480198
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strcat_s",
+          "hint": 133,
+          "iat_address": 368844,
+          "iat_value": 1480384,
+          "data": 1480384
+        }
+      ],
+      "function_count": 7
+    },
+    {
+      "name": "api-ms-win-crt-convert-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 368728,
+      "import_lookup_table_rva": 1476268,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strtoul",
+          "hint": 100,
+          "iat_address": 368728,
+          "iat_value": 1480262,
+          "data": 1480262
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "strtol",
+          "hint": 97,
+          "iat_address": 368732,
+          "iat_value": 1480220,
+          "data": 1480220
+        }
+      ],
+      "function_count": 2
+    },
+    {
+      "name": "api-ms-win-crt-stdio-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 368796,
+      "import_lookup_table_rva": 1476336,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__stdio_common_vsprintf_s",
+          "hint": 15,
+          "iat_address": 368796,
+          "iat_value": 1480356,
+          "data": 1480356
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__stdio_common_vfprintf",
+          "hint": 3,
+          "iat_address": 368800,
+          "iat_value": 1480330,
+          "data": 1480330
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "fflush",
+          "hint": 119,
+          "iat_address": 368804,
+          "iat_value": 1480320,
+          "data": 1480320
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__acrt_iob_func",
+          "hint": 0,
+          "iat_address": 368808,
+          "iat_value": 1480302,
+          "data": 1480302
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "__stdio_common_vsnprintf_s",
+          "hint": 11,
+          "iat_address": 368812,
+          "iat_value": 1480396,
+          "data": 1480396
+        }
+      ],
+      "function_count": 5
+    },
+    {
+      "name": "api-ms-win-crt-runtime-l1-1-0.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 368760,
+      "import_lookup_table_rva": 1476300,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_configure_narrow_argv",
+          "hint": 25,
+          "iat_address": 368760,
+          "iat_value": 1480480,
+          "data": 1480480
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_cexit",
+          "hint": 23,
+          "iat_address": 368764,
+          "iat_value": 1480592,
+          "data": 1480592
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_execute_onexit_table",
+          "hint": 36,
+          "iat_address": 368768,
+          "iat_value": 1480568,
+          "data": 1480568
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_onexit_table",
+          "hint": 54,
+          "iat_address": 368772,
+          "iat_value": 1480540,
+          "data": 1480540
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initialize_narrow_environment",
+          "hint": 53,
+          "iat_address": 368776,
+          "iat_value": 1480506,
+          "data": 1480506
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm_e",
+          "hint": 57,
+          "iat_address": 368780,
+          "iat_value": 1480448,
+          "data": 1480448
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_seh_filter_dll",
+          "hint": 65,
+          "iat_address": 368784,
+          "iat_value": 1480462,
+          "data": 1480462
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "_initterm",
+          "hint": 56,
+          "iat_address": 368788,
+          "iat_value": 1480436,
+          "data": 1480436
+        }
+      ],
+      "function_count": 8
+    },
+    {
+      "name": "KERNEL32.dll",
+      "forwarder_chain": 0,
+      "timedatestamp": 0,
+      "import_address_table_rva": 368640,
+      "import_lookup_table_rva": 1476180,
+      "functions": [
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcess",
+          "hint": 571,
+          "iat_address": 368640,
+          "iat_value": 1480826,
+          "data": 1480826
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "SetUnhandledExceptionFilter",
+          "hint": 1448,
+          "iat_address": 368644,
+          "iat_value": 1480796,
+          "data": 1480796
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "TerminateProcess",
+          "hint": 1480,
+          "iat_address": 368648,
+          "iat_value": 1480846,
+          "data": 1480846
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsDebuggerPresent",
+          "hint": 941,
+          "iat_address": 368652,
+          "iat_value": 1481040,
+          "data": 1481040
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "InitializeSListHead",
+          "hint": 913,
+          "iat_address": 368656,
+          "iat_value": 1481018,
+          "data": 1481018
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "DisableThreadLibraryCalls",
+          "hint": 318,
+          "iat_address": 368660,
+          "iat_value": 1480990,
+          "data": 1480990
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetSystemTimeAsFileTime",
+          "hint": 787,
+          "iat_address": 368664,
+          "iat_value": 1480964,
+          "data": 1480964
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentThreadId",
+          "hint": 576,
+          "iat_address": 368668,
+          "iat_value": 1480942,
+          "data": 1480942
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "GetCurrentProcessId",
+          "hint": 572,
+          "iat_address": 368672,
+          "iat_value": 1480920,
+          "data": 1480920
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "QueryPerformanceCounter",
+          "hint": 1150,
+          "iat_address": 368676,
+          "iat_value": 1480894,
+          "data": 1480894
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "IsProcessorFeaturePresent",
+          "hint": 949,
+          "iat_address": 368680,
+          "iat_value": 1480866,
+          "data": 1480866
+        },
+        {
+          "is_ordinal": 0,
+          "ordinal": null,
+          "name": "UnhandledExceptionFilter",
+          "hint": 1514,
+          "iat_address": 368684,
+          "iat_value": 1480768,
+          "data": 1480768
+        }
+      ],
+      "function_count": 12
+    }
+  ],
+  "exports": {
+    "present": 1,
+    "name": "php_mbstring.dll",
+    "export_flags": 0,
+    "timestamp": 4294967295,
+    "major_version": 0,
+    "minor_version": 0,
+    "ordinal_base": 1,
+    "entry_count": 249,
+    "entries": [
+      {
+        "name": "OnigDefaultCaseFoldFlag",
+        "ordinal": 1,
+        "address": 1483696,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigDefaultSyntax",
+        "ordinal": 2,
+        "address": 1483896,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingASCII",
+        "ordinal": 3,
+        "address": 1483520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingBIG5",
+        "ordinal": 4,
+        "address": 1484664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingEUC_CN",
+        "ordinal": 5,
+        "address": 1482840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingEUC_JP",
+        "ordinal": 6,
+        "address": 1484848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingEUC_KR",
+        "ordinal": 7,
+        "address": 1482752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingEUC_TW",
+        "ordinal": 8,
+        "address": 1485736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_1",
+        "ordinal": 9,
+        "address": 1483720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_10",
+        "ordinal": 10,
+        "address": 1484400,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_11",
+        "ordinal": 11,
+        "address": 1484944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_13",
+        "ordinal": 12,
+        "address": 1485472,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_14",
+        "ordinal": 13,
+        "address": 1484576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_15",
+        "ordinal": 14,
+        "address": 1485648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_16",
+        "ordinal": 15,
+        "address": 1484488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_2",
+        "ordinal": 16,
+        "address": 1485560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_3",
+        "ordinal": 17,
+        "address": 1485120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_4",
+        "ordinal": 18,
+        "address": 1484312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_5",
+        "ordinal": 19,
+        "address": 1483344,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_6",
+        "ordinal": 20,
+        "address": 1485384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_7",
+        "ordinal": 21,
+        "address": 1485032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_8",
+        "ordinal": 22,
+        "address": 1485296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingISO_8859_9",
+        "ordinal": 23,
+        "address": 1485912,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingKOI8_R",
+        "ordinal": 24,
+        "address": 1485824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingSJIS",
+        "ordinal": 25,
+        "address": 1484752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingUTF16_BE",
+        "ordinal": 26,
+        "address": 1486000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingUTF16_LE",
+        "ordinal": 27,
+        "address": 1485208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingUTF32_BE",
+        "ordinal": 28,
+        "address": 1483432,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingUTF32_LE",
+        "ordinal": 29,
+        "address": 1486088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigEncodingUTF8",
+        "ordinal": 30,
+        "address": 1483608,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxASIS",
+        "ordinal": 31,
+        "address": 1482928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxEmacs",
+        "ordinal": 32,
+        "address": 1483048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxGnuRegex",
+        "ordinal": 33,
+        "address": 1483128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxGrep",
+        "ordinal": 34,
+        "address": 1483088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxJava",
+        "ordinal": 35,
+        "address": 1483168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxOniguruma",
+        "ordinal": 36,
+        "address": 1483856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxPerl",
+        "ordinal": 37,
+        "address": 1483208,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxPerl_NG",
+        "ordinal": 38,
+        "address": 1483248,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxPosixBasic",
+        "ordinal": 39,
+        "address": 1482968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxPosixExtended",
+        "ordinal": 40,
+        "address": 1483008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxPython",
+        "ordinal": 41,
+        "address": 1483288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "OnigSyntaxRuby",
+        "ordinal": 42,
+        "address": 1483816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "get_module",
+        "ordinal": 43,
+        "address": 169664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mb_fast_convert",
+        "ordinal": 44,
+        "address": 354528,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mb_guess_encoding_for_strings",
+        "ordinal": 45,
+        "address": 175776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mb_illegal_output",
+        "ordinal": 46,
+        "address": 354960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_copy",
+        "ordinal": 47,
+        "address": 355168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_delete",
+        "ordinal": 48,
+        "address": 355216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_devcat",
+        "ordinal": 49,
+        "address": 355264,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_feed",
+        "ordinal": 50,
+        "address": 355296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_feed_string",
+        "ordinal": 51,
+        "address": 355328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_flush",
+        "ordinal": 52,
+        "address": 355392,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_get_vtbl",
+        "ordinal": 53,
+        "address": 355424,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_new",
+        "ordinal": 54,
+        "address": 355664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_new2",
+        "ordinal": 55,
+        "address": 355744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_reset",
+        "ordinal": 56,
+        "address": 355824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_convert_filter_strcat",
+        "ordinal": 57,
+        "address": 355904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_encoding_pass",
+        "ordinal": 58,
+        "address": 679732,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_encoding_preferred_mime_name",
+        "ordinal": 59,
+        "address": 356320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_filt_conv_common_ctor",
+        "ordinal": 60,
+        "address": 355968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_filt_conv_common_flush",
+        "ordinal": 61,
+        "address": 356000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_filt_conv_illegal_output",
+        "ordinal": 62,
+        "address": 356032,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_filt_conv_pass",
+        "ordinal": 63,
+        "address": 317504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_filter_output_null",
+        "ordinal": 64,
+        "address": 143632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_filter_output_pipe",
+        "ordinal": 65,
+        "address": 355296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_get_supported_encodings",
+        "ordinal": 66,
+        "address": 159232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_memory_device_clear",
+        "ordinal": 67,
+        "address": 356672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_memory_device_devcat",
+        "ordinal": 68,
+        "address": 356704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_memory_device_init",
+        "ordinal": 69,
+        "address": 356736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_memory_device_output",
+        "ordinal": 70,
+        "address": 356800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_memory_device_realloc",
+        "ordinal": 71,
+        "address": 356880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_memory_device_reset",
+        "ordinal": 72,
+        "address": 356944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_memory_device_result",
+        "ordinal": 73,
+        "address": 356960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_memory_device_strcat",
+        "ordinal": 74,
+        "address": 357008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_memory_device_strncat",
+        "ordinal": 75,
+        "address": 357056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_memory_device_unput",
+        "ordinal": 76,
+        "address": 357152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_name2encoding",
+        "ordinal": 77,
+        "address": 6464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_name2encoding_ex",
+        "ordinal": 78,
+        "address": 6496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_name2language",
+        "ordinal": 79,
+        "address": 356384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_name2no_language",
+        "ordinal": 80,
+        "address": 356560,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_no2encoding",
+        "ordinal": 81,
+        "address": 7168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_no2language",
+        "ordinal": 82,
+        "address": 356592,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_no_encoding2name",
+        "ordinal": 83,
+        "address": 356352,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_no_language2name",
+        "ordinal": 84,
+        "address": 356640,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_strcut",
+        "ordinal": 85,
+        "address": 352656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_string_clear",
+        "ordinal": 86,
+        "address": 357296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_string_init",
+        "ordinal": 87,
+        "address": 357328,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_string_init_set",
+        "ordinal": 88,
+        "address": 357360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_wchar_device_clear",
+        "ordinal": 89,
+        "address": 356672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_wchar_device_init",
+        "ordinal": 90,
+        "address": 357168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbfl_wchar_device_output",
+        "ordinal": 91,
+        "address": 357200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "mbstr_treat_data",
+        "ordinal": 92,
+        "address": 6704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_builtin_cmp",
+        "ordinal": 93,
+        "address": 24000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_builtin_count",
+        "ordinal": 94,
+        "address": 24864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_builtin_error",
+        "ordinal": 95,
+        "address": 24944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_builtin_fail",
+        "ordinal": 96,
+        "address": 25040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_builtin_max",
+        "ordinal": 97,
+        "address": 25056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_builtin_mismatch",
+        "ordinal": 98,
+        "address": 25440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_builtin_skip",
+        "ordinal": 99,
+        "address": 25904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_builtin_total_count",
+        "ordinal": 100,
+        "address": 25936,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_callout_tag_is_exist_at_callout_num",
+        "ordinal": 101,
+        "address": 108832,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_copy_encoding",
+        "ordinal": 102,
+        "address": 26224,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_copy_syntax",
+        "ordinal": 103,
+        "address": 8000,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_end",
+        "ordinal": 104,
+        "address": 60480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_error_code_to_str",
+        "ordinal": 105,
+        "address": 137376,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_foreach_name",
+        "ordinal": 106,
+        "address": 108928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_free",
+        "ordinal": 107,
+        "address": 60688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_free_body",
+        "ordinal": 108,
+        "address": 60720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_free_match_param",
+        "ordinal": 109,
+        "address": 26288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_free_match_param_content",
+        "ordinal": 110,
+        "address": 26336,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_arg_by_callout_args",
+        "ordinal": 111,
+        "address": 26368,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_args_num_by_callout_args",
+        "ordinal": 112,
+        "address": 26448,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callback_each_match",
+        "ordinal": 113,
+        "address": 26496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_data",
+        "ordinal": 114,
+        "address": 26512,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_data_by_callout_args",
+        "ordinal": 115,
+        "address": 26624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_data_by_callout_args_self",
+        "ordinal": 116,
+        "address": 26736,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_data_by_callout_args_self_dont_clear_old",
+        "ordinal": 117,
+        "address": 26864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_data_by_tag",
+        "ordinal": 118,
+        "address": 26960,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_data_by_tag_dont_clear_old",
+        "ordinal": 119,
+        "address": 27104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_data_dont_clear_old",
+        "ordinal": 120,
+        "address": 27216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_in_by_callout_args",
+        "ordinal": 121,
+        "address": 8064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_name_by_name_id",
+        "ordinal": 122,
+        "address": 109152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_num_by_callout_args",
+        "ordinal": 123,
+        "address": 8048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_num_by_tag",
+        "ordinal": 124,
+        "address": 109184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_tag_end",
+        "ordinal": 125,
+        "address": 109312,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_callout_tag_start",
+        "ordinal": 126,
+        "address": 109360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_capture_range_in_callout",
+        "ordinal": 127,
+        "address": 27296,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_capture_tree",
+        "ordinal": 128,
+        "address": 27488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_case_fold_flag",
+        "ordinal": 129,
+        "address": 27504,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_contents_by_callout_args",
+        "ordinal": 130,
+        "address": 27520,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_contents_end_by_callout_args",
+        "ordinal": 131,
+        "address": 27568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_current_by_callout_args",
+        "ordinal": 132,
+        "address": 27616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_default_case_fold_flag",
+        "ordinal": 133,
+        "address": 61104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_encoding",
+        "ordinal": 134,
+        "address": 27632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_match_stack_limit_size",
+        "ordinal": 135,
+        "address": 27648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_name_id_by_callout_args",
+        "ordinal": 136,
+        "address": 7408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_options",
+        "ordinal": 137,
+        "address": 27664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_parse_depth_limit",
+        "ordinal": 138,
+        "address": 109408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_passed_args_num_by_callout_args",
+        "ordinal": 139,
+        "address": 27680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_progress_callout",
+        "ordinal": 140,
+        "address": 27728,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_regex_by_callout_args",
+        "ordinal": 141,
+        "address": 8080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_retraction_callout",
+        "ordinal": 142,
+        "address": 27744,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_retry_counter_by_callout_args",
+        "ordinal": 143,
+        "address": 27760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_retry_limit_in_match",
+        "ordinal": 144,
+        "address": 27776,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_retry_limit_in_search",
+        "ordinal": 145,
+        "address": 27792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_right_range_by_callout_args",
+        "ordinal": 146,
+        "address": 27808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_start_by_callout_args",
+        "ordinal": 147,
+        "address": 27824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_string_by_callout_args",
+        "ordinal": 148,
+        "address": 27488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_string_end_by_callout_args",
+        "ordinal": 149,
+        "address": 27840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_subexp_call_limit_in_search",
+        "ordinal": 150,
+        "address": 27856,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_subexp_call_max_nest_level",
+        "ordinal": 151,
+        "address": 27872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_syntax",
+        "ordinal": 152,
+        "address": 27888,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_syntax_behavior",
+        "ordinal": 153,
+        "address": 8048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_syntax_op",
+        "ordinal": 154,
+        "address": 8064,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_syntax_op2",
+        "ordinal": 155,
+        "address": 7408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_syntax_options",
+        "ordinal": 156,
+        "address": 8080,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_get_used_stack_size_in_callout",
+        "ordinal": 157,
+        "address": 27904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_init",
+        "ordinal": 158,
+        "address": 140944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_initialize",
+        "ordinal": 159,
+        "address": 61200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_initialize_encoding",
+        "ordinal": 160,
+        "address": 143488,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_initialize_match_param",
+        "ordinal": 161,
+        "address": 27968,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_is_error_code_needs_param",
+        "ordinal": 162,
+        "address": 137664,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_match",
+        "ordinal": 163,
+        "address": 28048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_match_with_param",
+        "ordinal": 164,
+        "address": 28192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_name_to_backref_number",
+        "ordinal": 165,
+        "address": 109680,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_name_to_group_numbers",
+        "ordinal": 166,
+        "address": 109792,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_new",
+        "ordinal": 167,
+        "address": 61616,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_new_match_param",
+        "ordinal": 168,
+        "address": 28480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_noname_group_capture_is_active",
+        "ordinal": 169,
+        "address": 111056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_number_of_capture_histories",
+        "ordinal": 170,
+        "address": 28576,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_number_of_captures",
+        "ordinal": 171,
+        "address": 27824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_number_of_names",
+        "ordinal": 172,
+        "address": 111120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_reg_init",
+        "ordinal": 173,
+        "address": 62192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_region_clear",
+        "ordinal": 174,
+        "address": 28624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_region_copy",
+        "ordinal": 175,
+        "address": 28720,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_region_free",
+        "ordinal": 176,
+        "address": 28992,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_region_init",
+        "ordinal": 177,
+        "address": 29120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_region_new",
+        "ordinal": 178,
+        "address": 29168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_region_resize",
+        "ordinal": 179,
+        "address": 29232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_region_set",
+        "ordinal": 180,
+        "address": 29360,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_regset_add",
+        "ordinal": 181,
+        "address": 29440,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_regset_free",
+        "ordinal": 182,
+        "address": 29632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_regset_get_regex",
+        "ordinal": 183,
+        "address": 29808,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_regset_get_region",
+        "ordinal": 184,
+        "address": 29840,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_regset_new",
+        "ordinal": 185,
+        "address": 29872,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_regset_number_of_regex",
+        "ordinal": 186,
+        "address": 7408,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_regset_replace",
+        "ordinal": 187,
+        "address": 30176,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_regset_search",
+        "ordinal": 188,
+        "address": 30480,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_regset_search_with_param",
+        "ordinal": 189,
+        "address": 30752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_scan",
+        "ordinal": 190,
+        "address": 32128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_search",
+        "ordinal": 191,
+        "address": 32464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_search_with_param",
+        "ordinal": 192,
+        "address": 32624,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_callback_each_match",
+        "ordinal": 193,
+        "address": 32688,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_callout_data",
+        "ordinal": 194,
+        "address": 32704,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_callout_data_by_callout_args",
+        "ordinal": 195,
+        "address": 32784,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_callout_data_by_callout_args_self",
+        "ordinal": 196,
+        "address": 32864,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_callout_data_by_tag",
+        "ordinal": 197,
+        "address": 32944,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_callout_of_name",
+        "ordinal": 198,
+        "address": 112656,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_callout_user_data_of_match_param",
+        "ordinal": 199,
+        "address": 33008,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_capture_num_limit",
+        "ordinal": 200,
+        "address": 113568,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_default_case_fold_flag",
+        "ordinal": 201,
+        "address": 62464,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_default_syntax",
+        "ordinal": 202,
+        "address": 8096,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_match_stack_limit_size",
+        "ordinal": 203,
+        "address": 33024,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_match_stack_limit_size_of_match_param",
+        "ordinal": 204,
+        "address": 33040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_meta_char",
+        "ordinal": 205,
+        "address": 8128,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_parse_depth_limit",
+        "ordinal": 206,
+        "address": 113600,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_progress_callout",
+        "ordinal": 207,
+        "address": 33056,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_progress_callout_of_match_param",
+        "ordinal": 208,
+        "address": 33072,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_retraction_callout",
+        "ordinal": 209,
+        "address": 33088,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_retraction_callout_of_match_param",
+        "ordinal": 210,
+        "address": 33104,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_retry_limit_in_match",
+        "ordinal": 211,
+        "address": 33120,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_retry_limit_in_match_of_match_param",
+        "ordinal": 212,
+        "address": 33136,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_retry_limit_in_search",
+        "ordinal": 213,
+        "address": 33152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_retry_limit_in_search_of_match_param",
+        "ordinal": 214,
+        "address": 33168,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_subexp_call_limit_in_search",
+        "ordinal": 215,
+        "address": 33184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_subexp_call_max_nest_level",
+        "ordinal": 216,
+        "address": 33200,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_syntax_behavior",
+        "ordinal": 217,
+        "address": 8272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_syntax_op",
+        "ordinal": 218,
+        "address": 8288,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_syntax_op2",
+        "ordinal": 219,
+        "address": 8304,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_syntax_options",
+        "ordinal": 220,
+        "address": 8320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_verb_warn_func",
+        "ordinal": 221,
+        "address": 113632,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_set_warn_func",
+        "ordinal": 222,
+        "address": 113648,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_setup_builtin_monitors_by_ascii_encoded_name",
+        "ordinal": 223,
+        "address": 33216,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onig_unicode_define_user_property",
+        "ordinal": 224,
+        "address": 147184,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_get_default_encoding",
+        "ordinal": 225,
+        "address": 144800,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_get_left_adjust_char_head",
+        "ordinal": 226,
+        "address": 144816,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_get_prev_char_head",
+        "ordinal": 227,
+        "address": 144848,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_get_right_adjust_char_head",
+        "ordinal": 228,
+        "address": 144880,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_get_right_adjust_char_head_with_prev",
+        "ordinal": 229,
+        "address": 144928,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_init",
+        "ordinal": 230,
+        "address": 145040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_is_valid_mbc_string",
+        "ordinal": 231,
+        "address": 145152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_set_default_caseconv_table",
+        "ordinal": 232,
+        "address": 76672,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_set_default_encoding",
+        "ordinal": 233,
+        "address": 145904,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_step_back",
+        "ordinal": 234,
+        "address": 146048,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_str_bytelen_null",
+        "ordinal": 235,
+        "address": 146112,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_strdup",
+        "ordinal": 236,
+        "address": 146192,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_strlen",
+        "ordinal": 237,
+        "address": 146272,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "onigenc_strlen_null",
+        "ordinal": 238,
+        "address": 146320,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "php_mb_check_encoding",
+        "ordinal": 239,
+        "address": 183232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "php_mb_convert_encoding",
+        "ordinal": 240,
+        "address": 184240,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "php_mb_convert_encoding_ex",
+        "ordinal": 241,
+        "address": 184384,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "php_mb_convert_encoding_recursive",
+        "ordinal": 242,
+        "address": 184496,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "php_mb_mbchar_bytes",
+        "ordinal": 243,
+        "address": 185232,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "php_mb_safe_strrchr",
+        "ordinal": 244,
+        "address": 187040,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "php_mb_stripos",
+        "ordinal": 245,
+        "address": 187152,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "php_unicode_convert_case",
+        "ordinal": 246,
+        "address": 4752,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "php_unicode_is_prop",
+        "ordinal": 247,
+        "address": 215760,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "php_unicode_is_prop1",
+        "ordinal": 248,
+        "address": 215824,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      },
+      {
+        "name": "vtbl_pass",
+        "ordinal": 249,
+        "address": 699156,
+        "is_extern": 0,
+        "is_forwarded": 0,
+        "forward_library": null,
+        "forward_function": null
+      }
+    ]
+  },
+  "delay_imports": [],
+  "resources": {
+    "has_resources": 1,
+    "node_count": 2,
+    "nodes": [
+      {
+        "type_name": null,
+        "type_id": 16,
+        "id_name": null,
+        "id": 1,
+        "lang": 1033,
+        "offset": 1532064,
+        "size": 952,
+        "entropy": 3.497588,
+        "sha256": "e7781bc276b8c6e65100d1024af43561c12847da12a46753c70ba63410fb1643",
+        "magic_head": "b803340000005600"
+      },
+      {
+        "type_name": null,
+        "type_id": 24,
+        "id_name": null,
+        "id": 2,
+        "lang": 1033,
+        "offset": 1533016,
+        "size": 1196,
+        "entropy": 5.011102,
+        "sha256": "46ce95c07747806ccc7e0bb9826d606bda7f75fc7510b0e0faa97e999ba0f3d8",
+        "magic_head": "3c617373656d626c"
+      }
+    ],
+    "total_size": 2148,
+    "max_entropy": 5.011102
+  },
+  "digital_signature": {
+    "signature_present": 0,
+    "verification_flag": "NONE",
+    "signature_count": 0,
+    "certificates": []
+  },
+  "rich_header": {
+    "has_rich_header": 1,
+    "key": 4191611035,
+    "entries": [
+      {
+        "id": 258,
+        "build_id": 35228,
+        "count": 1
+      },
+      {
+        "id": 255,
+        "build_id": 35228,
+        "count": 1
+      },
+      {
+        "id": 256,
+        "build_id": 35228,
+        "count": 1
+      },
+      {
+        "id": 269,
+        "build_id": 35228,
+        "count": 40
+      },
+      {
+        "id": 1,
+        "build_id": 0,
+        "count": 188
+      },
+      {
+        "id": 257,
+        "build_id": 35228,
+        "count": 3
+      },
+      {
+        "id": 260,
+        "build_id": 35226,
+        "count": 42
+      },
+      {
+        "id": 257,
+        "build_id": 33145,
+        "count": 2
+      },
+      {
+        "id": 261,
+        "build_id": 35207,
+        "count": 13
+      },
+      {
+        "id": 260,
+        "build_id": 35207,
+        "count": 10
+      },
+      {
+        "id": 259,
+        "build_id": 35207,
+        "count": 6
+      },
+      {
+        "id": 257,
+        "build_id": 35207,
+        "count": 2
+      },
+      {
+        "id": 147,
+        "build_id": 30729,
+        "count": 12
+      }
+    ],
+    "raw_hex": "df89b8aa9be8d6f99be8d6f99be8d6f9929045f997e8d6f91c61d7f899e8d6f91c61d5f89de8d6f91c61d2f891e8d6f91c61d3f896e8d6f9e269d7f899e8d6f90161d2f8b1e8d6f90761d7f898e8d6f99be8d7f927e8d6f90761dbf8b3e8d6f90761d6f89ae8d6f9076129f99ae8d6f90761d4f89ae8d6f9526963689be8d6f9",
+    "raw_offset": 128,
+    "raw_size": 128,
+    "entry_count": 13
+  },
+  "data_directories": [
+    {
+      "name": "EXPORT_TABLE",
+      "rva": 1467264,
+      "size": 8736,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "IMPORT_TABLE",
+      "rva": 1476000,
+      "size": 180,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "RESOURCE_TABLE",
+      "rva": 1540096,
+      "size": 2308,
+      "section": ".rsrc",
+      "outside_sections": 0
+    },
+    {
+      "name": "EXCEPTION_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CERTIFICATE_TABLE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "BASE_RELOCATION_TABLE",
+      "rva": 1544192,
+      "size": 19012,
+      "section": ".reloc",
+      "outside_sections": 0
+    },
+    {
+      "name": "DEBUG_DIR",
+      "rva": 680032,
+      "size": 84,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "ARCHITECTURE",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "GLOBAL_PTR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "TLS_TABLE",
+      "rva": 696320,
+      "size": 24,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "LOAD_CONFIG_TABLE",
+      "rva": 679840,
+      "size": 64,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "BOUND_IMPORT",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "IAT",
+      "rva": 368640,
+      "size": 728,
+      "section": ".rdata",
+      "outside_sections": 0
+    },
+    {
+      "name": "DELAY_IMPORT_DESCRIPTOR",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "CLR_RUNTIME_HEADER",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    },
+    {
+      "name": "RESERVED",
+      "rva": 0,
+      "size": 0,
+      "section": null,
+      "outside_sections": 0
+    }
+  ],
+  "manifest": {
+    "has_manifest": 1,
+    "requested_execution_level": "asInvoker",
+    "ui_access": "false",
+    "size": 1196
+  },
+  "entrypoint_bytes": {
+    "offset": 152944,
+    "hex": "558bec837d0c017505e8b5050000ff7510ff750cff7508e8a8feffff83c40c5dc20c00558bec6a00ff1504a00510ff7508ff152ca0051068090400c0ff1500a0",
+    "entropy": 4.438853
+  },
+  "load_config": {
+    "present": 1,
+    "security_cookie": 269971648,
+    "se_handler_count": 1,
+    "guard_cf_function_count": 811,
+    "guard_flags": 268530944
+  },
+  "tls": {
+    "has_tls": 1,
+    "callback_count": 0,
+    "callbacks": [],
+    "addressof_callbacks": 268804852,
+    "addressof_index": 269974304,
+    "addressof_raw_data_start": 269902560,
+    "addressof_raw_data_end": 269902568,
+    "raw_data_size": 8,
+    "sizeof_zero_fill": 0,
+    "characteristics": 3145728,
+    "section": ".rdata",
+    "data_template_hex": "0000000000000000",
+    "data_template_entropy": -0.0
+  },
+  "exception_dir": {
+    "rva": 0,
+    "size": 0,
+    "runtime_function_count": 0
+  },
+  "section_layout_qc": {
+    "gaps": 4,
+    "overlaps": 0,
+    "zero_raw_size": 0,
+    "raw_exceeds_virtual": 4,
+    "unaligned_offset": 0,
+    "total_slack_bytes": 876
+  },
+  "optional_header": {
+    "magic": "PE32",
+    "major_linker_version": 14,
+    "minor_linker_version": 44,
+    "sizeof_code": 363008,
+    "sizeof_initialized_data": 1189888,
+    "sizeof_uninitialized_data": 0,
+    "addressof_entrypoint": 156016,
+    "baseof_code": 4096,
+    "baseof_data": 368640,
+    "imagebase": 268435456,
+    "section_alignment": 4096,
+    "file_alignment": 512,
+    "major_operating_system_version": 6,
+    "minor_operating_system_version": 0,
+    "major_image_version": 0,
+    "minor_image_version": 0,
+    "major_subsystem_version": 6,
+    "minor_subsystem_version": 0,
+    "win32_version_value": 0,
+    "sizeof_image": 1564672,
+    "sizeof_headers": 1024,
+    "checksum": 1589296,
+    "subsystem": "WINDOWS_GUI",
+    "dll_characteristics_raw": 16704,
+    "dll_characteristics": [
+      "DYNAMIC_BASE",
+      "NX_COMPAT",
+      "GUARD_CF"
+    ],
+    "sizeof_stack_reserve": 1048576,
+    "sizeof_stack_commit": 4096,
+    "sizeof_heap_reserve": 1048576,
+    "sizeof_heap_commit": 4096,
+    "loader_flags": 0,
+    "numberof_rva_and_size": 16
+  },
+  "dos_stub": {
+    "size": 216,
+    "entropy": 5.042248,
+    "is_standard_ms": 1,
+    "sha256": "7c695141388f44496fc53cdb43e3d64655e590cff621f0f48e6da3cdf2dbf67b",
+    "head_hex": "0e1fba0e00b409cd21b8014ccd215468",
+    "raw_hex": "0e1fba0e00b409cd21b8014ccd21546869732070726f6772616d2063616e6e6f742062652072756e20696e20444f53206d6f64652e0d0d0a2400000000000000df89b8aa9be8d6f99be8d6f99be8d6f9929045f997e8d6f91c61d7f899e8d6f91c61d5f89de8d6f91c61d2f891e8d6f91c61d3f896e8d6f9e269d7f899e8d6f90161d2f8b1e8d6f90761d7f898e8d6f99be8d7f927e8d6f90761dbf8b3e8d6f90761d6f89ae8d6f9076129f99ae8d6f90761d4f89ae8d6f9526963689be8d6f9000000000000000000000000000000000000000000000000",
+    "raw_truncated": 0,
+    "tail_hex": null,
+    "message": "! L !This program cannot be run in DOS mode. $ E a a a a i a a ' a a a) a Rich",
+    "message_is_standard": 1
+  },
+  "checksum_check": {
+    "checksum_declared": 1589296,
+    "checksum_computed": 1589296,
+    "checksum_valid": 1,
+    "checksum_zero": 0
+  },
+  "entrypoint_section": {
+    "ep_rva": 156016,
+    "section_name": ".text",
+    "section_index": 0,
+    "in_last_section": 0,
+    "in_executable_section": 1,
+    "outside_sections": 0,
+    "section_entropy": 6.64786
+  },
+  "overlay": {
+    "size": 0,
+    "offset": 0,
+    "entropy": null,
+    "magic_head": null,
+    "sha256": null
+  },
+  "debug": {
+    "has_debug": 1,
+    "count": 3,
+    "types": [
+      "CODEVIEW",
+      "VC_FEATURE",
+      "POGO"
+    ],
+    "pdb_path": "C:\\Users\\runneradmin\\AppData\\Local\\Temp\\php-5e970150-9935-4bba-a546-08fee1124314\\config\\vs17\\x86\\obj\\Release_TS\\php_mbstring.pdb"
+  },
+  "misc_structures": {
+    "has_relocations": 1,
+    "relocation_count": 109,
+    "delay_import_count": 0,
+    "delay_import_dlls": [],
+    "has_load_configuration": 1
+  },
+  "version_info": {
+    "present": 1,
+    "company_name": "The PHP Group",
+    "file_description": "Multibyte String Functions",
+    "original_filename": "php_mbstring.dll",
+    "product_name": "PHP",
+    "file_version": "8.5.8",
+    "legal_copyright": "Copyright \u00a9 The PHP Group",
+    "internal_name": "MBSTRING extension"
+  },
+  "strings": {
+    "count_ascii": 12158,
+    "count_utf16": 65,
+    "count_total": 12223,
+    "chars_total": 116601,
+    "printable_ratio": 0.075037,
+    "len_mean": 9.54,
+    "len_max": 461,
+    "urls": [
+      "http://schemas.microsoft.com/SMI/2016/WindowsSettings",
+      "https://www.php.net"
+    ],
+    "n_urls": 2,
+    "ipv4": [],
+    "n_ipv4": 0,
+    "ipv4_plausible": [],
+    "n_ipv4_plausible": 0,
+    "dll_names": [
+      "api-ms-win-crt-convert-l1-1-0.dll",
+      "api-ms-win-crt-heap-l1-1-0.dll",
+      "api-ms-win-crt-runtime-l1-1-0.dll",
+      "api-ms-win-crt-stdio-l1-1-0.dll",
+      "api-ms-win-crt-string-l1-1-0.dll",
+      "kernel32.dll",
+      "php8ts.dll",
+      "php_mbstring.dll",
+      "vcruntime140.dll"
+    ],
+    "n_dll_names": 9,
+    "registry_paths": [],
+    "n_registry_paths": 0,
+    "file_paths": [
+      "C:\\Users\\runneradmin\\AppData\\Local\\Temp\\php-5e970150-9935-4bba-a546-08fee1124314\\config\\vs17\\x86\\obj\\Release_TS\\php_mbstring.pdb",
+      "\\\\b\\c\\g\\h\\i\\m\\p\\t\\u\\z"
+    ],
+    "n_file_paths": 2
+  },
+  "orphan_dlls": {
+    "orphans": [
+      "php_mbstring.dll"
+    ],
+    "n_orphans": 1,
+    "n_imported": 8
+  }
+}
