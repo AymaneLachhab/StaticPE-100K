@@ -1,0 +1,442 @@
+{
+ "colonnes": [
+  {
+   "colonne": "cap_d:anti-analysis/anti-debugging",
+   "capacite": "anti-analysis/anti-debugging",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:collection/keylog",
+   "capacite": "collection/keylog",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:communication/dns",
+   "capacite": "communication/dns",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:communication/http",
+   "capacite": "communication/http",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:communication/named-pipe",
+   "capacite": "communication/named-pipe",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:communication/socket",
+   "capacite": "communication/socket",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/bootloader",
+   "capacite": "host-interaction/bootloader",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/cli",
+   "capacite": "host-interaction/cli",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/driver",
+   "capacite": "host-interaction/driver",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/environment-variable",
+   "capacite": "host-interaction/environment-variable",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/file-system",
+   "capacite": "host-interaction/file-system",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/filter",
+   "capacite": "host-interaction/filter",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/gui",
+   "capacite": "host-interaction/gui",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/hardware",
+   "capacite": "host-interaction/hardware",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/log",
+   "capacite": "host-interaction/log",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/network",
+   "capacite": "host-interaction/network",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/os",
+   "capacite": "host-interaction/os",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/process",
+   "capacite": "host-interaction/process",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/registry",
+   "capacite": "host-interaction/registry",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/service",
+   "capacite": "host-interaction/service",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/session",
+   "capacite": "host-interaction/session",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_d:host-interaction/thread",
+   "capacite": "host-interaction/thread",
+   "qualite": "directe"
+  },
+  {
+   "colonne": "cap_p:anti-analysis/anti-av",
+   "capacite": "anti-analysis/anti-av",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:anti-analysis/anti-debugging",
+   "capacite": "anti-analysis/anti-debugging",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:anti-analysis/anti-emulation",
+   "capacite": "anti-analysis/anti-emulation",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:anti-analysis/anti-forensic",
+   "capacite": "anti-analysis/anti-forensic",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:anti-analysis/anti-vm",
+   "capacite": "anti-analysis/anti-vm",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:collection",
+   "capacite": "collection",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:collection/keylog",
+   "capacite": "collection/keylog",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:collection/microphone",
+   "capacite": "collection/microphone",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:collection/network",
+   "capacite": "collection/network",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:collection/screenshot",
+   "capacite": "collection/screenshot",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:collection/webcam",
+   "capacite": "collection/webcam",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:communication/c2",
+   "capacite": "communication/c2",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:communication/ftp",
+   "capacite": "communication/ftp",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:communication/http",
+   "capacite": "communication/http",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:communication/icmp",
+   "capacite": "communication/icmp",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:communication/ip",
+   "capacite": "communication/ip",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:communication/mailslot",
+   "capacite": "communication/mailslot",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:communication/named-pipe",
+   "capacite": "communication/named-pipe",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:communication/socket",
+   "capacite": "communication/socket",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:communication/tcp",
+   "capacite": "communication/tcp",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:compiler/perl2exe",
+   "capacite": "compiler/perl2exe",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:compiler/py2exe",
+   "capacite": "compiler/py2exe",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:data-manipulation/checksum",
+   "capacite": "data-manipulation/checksum",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:data-manipulation/compression",
+   "capacite": "data-manipulation/compression",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:data-manipulation/encoding",
+   "capacite": "data-manipulation/encoding",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:data-manipulation/encryption",
+   "capacite": "data-manipulation/encryption",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:data-manipulation/hashing",
+   "capacite": "data-manipulation/hashing",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:data-manipulation/prng",
+   "capacite": "data-manipulation/prng",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:executable/resource",
+   "capacite": "executable/resource",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:exploitation/enumeration",
+   "capacite": "exploitation/enumeration",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:exploitation/gadgets",
+   "capacite": "exploitation/gadgets",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/bootloader",
+   "capacite": "host-interaction/bootloader",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/clipboard",
+   "capacite": "host-interaction/clipboard",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/console",
+   "capacite": "host-interaction/console",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/driver",
+   "capacite": "host-interaction/driver",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/file-system",
+   "capacite": "host-interaction/file-system",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/filter",
+   "capacite": "host-interaction/filter",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/firewall",
+   "capacite": "host-interaction/firewall",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/gui",
+   "capacite": "host-interaction/gui",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/hardware",
+   "capacite": "host-interaction/hardware",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/log",
+   "capacite": "host-interaction/log",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/mutex",
+   "capacite": "host-interaction/mutex",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/network",
+   "capacite": "host-interaction/network",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/os",
+   "capacite": "host-interaction/os",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/process",
+   "capacite": "host-interaction/process",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/recycle-bin",
+   "capacite": "host-interaction/recycle-bin",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/registry",
+   "capacite": "host-interaction/registry",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/service",
+   "capacite": "host-interaction/service",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/session",
+   "capacite": "host-interaction/session",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/thread",
+   "capacite": "host-interaction/thread",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/uac",
+   "capacite": "host-interaction/uac",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/user",
+   "capacite": "host-interaction/user",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:host-interaction/wmi",
+   "capacite": "host-interaction/wmi",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:impact/wipe-disk",
+   "capacite": "impact/wipe-disk",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:linking/runtime-linking",
+   "capacite": "linking/runtime-linking",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:load-code",
+   "capacite": "load-code",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:load-code/dotnet",
+   "capacite": "load-code/dotnet",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:load-code/pe",
+   "capacite": "load-code/pe",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:load-code/shellcode",
+   "capacite": "load-code/shellcode",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:persistence",
+   "capacite": "persistence",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:persistence/scheduled-tasks",
+   "capacite": "persistence/scheduled-tasks",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:persistence/service",
+   "capacite": "persistence/service",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:persistence/startup-folder",
+   "capacite": "persistence/startup-folder",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:targeting/automated-teller-machine",
+   "capacite": "targeting/automated-teller-machine",
+   "qualite": "partielle"
+  },
+  {
+   "colonne": "cap_p:targeting/language",
+   "capacite": "targeting/language",
+   "qualite": "partielle"
+  }
+ ],
+ "regles_directes": 61,
+ "regles_partielles": 253,
+ "fonctions": 886
+}
